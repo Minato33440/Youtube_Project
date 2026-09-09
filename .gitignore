@@ -65,6 +65,11 @@ media/
 exports/
 filmora/
 downloads/
+
+# Filmora の書き出し先へのジャンクション
+# (-> %APPDATA%\Wondershare\Wondershare Filmora\Output)
+filmore_output/
+
 tmp/
 temp/
 cache/

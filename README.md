@@ -19,6 +19,7 @@ Youtube_Project/
 ├── .venv/                       # Python 仮想環境（Git 管理外）
 ├── .gitignore
 ├── README.md
+├── filmore_output/              # Filmora 書き出し先へのジャンクション（Git 管理外）
 └── Politics_Economics/          # 分野ごとの作業場所
     ├── VIDEO_PRODUCTION_WORKFLOW.md   # 制作ワークフロー（工程・評価・整理案）
     └── YYYY-MM-DD_テーマ名/            # 動画 1 本ごとの作業フォルダー
@@ -44,6 +45,7 @@ Youtube_Project/
 | 字幕ファイル（`*.srt`, `*.vtt`） | `media/` `exports/` `filmora/` |
 | スクリプト（`*.py`） | Filmora プロジェクト（`*.wfp`） |
 | 設定の雛形（`.env.example`） | `.venv/`、API キー・認証情報（`.env` ほか） |
+| | `filmore_output/`（Filmora 書き出し先へのジャンクション） |
 
 ドキュメント用の図版を追跡したい場合は `docs/images/` に置く。
 
@@ -68,6 +70,24 @@ source .venv/Scripts/activate
 
 - **FFmpeg / FFprobe** — 素材の尺・コーデック確認、切り出し、音声抽出に使用（ローカルに存在を確認済み）。
 - **Filmora 15** — 本編の編集・字幕・音声合成・書き出し。
+
+### filmore_output/（Filmora 書き出し先のミラー）
+
+`filmore_output/` は Filmora の既定の書き出し先へのディレクトリジャンクション。
+実体は `%APPDATA%\Wondershare\Wondershare Filmora\Output\` で、双方どちらから
+読み書きしても同じファイルを指す（コピーではない）。書き出した動画をエクスプローラーで
+探しに行かず、プロジェクト内から直接扱うためのもの。
+
+clone 直後は存在しないため、必要なら次のコマンドで再作成する（管理者権限は不要）。
+
+```powershell
+New-Item -ItemType Junction `
+  -Path   "C:\Python\REX_AI\Youtube_Project\filmore_output" `
+  -Target "$env:APPDATA\Wondershare\Wondershare Filmora\Output"
+```
+
+削除するときは `Remove-Item .\filmore_output -Force`（リンクだけが消え、実体は残る）。
+`-Recurse` は付けないこと。
 
 ## 運用ルール
 
