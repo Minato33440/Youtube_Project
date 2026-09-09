@@ -1,0 +1,156 @@
+# ---------------------------------------------
+# Python
+# ---------------------------------------------
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# テスト・型チェック・カバレッジ
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ---------------------------------------------
+# 秘密情報・認証（絶対にコミットしない）
+# ---------------------------------------------
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets.json
+credentials.json
+client_secret*.json
+token.json
+token.pickle
+*_credentials.json
+oauth*.json
+
+# ---------------------------------------------
+# 動画素材・生成物（サイズが大きいため Git 管理外）
+# ---------------------------------------------
+# 作業フォルダー（VIDEO_PRODUCTION_WORKFLOW.md の整理案に対応）
+media/
+exports/
+filmora/
+downloads/
+tmp/
+temp/
+cache/
+
+# 動画
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.flv
+*.wmv
+*.m4v
+*.mpg
+*.mpeg
+*.ts
+
+# 音声
+*.mp3
+*.wav
+*.aac
+*.m4a
+*.flac
+*.ogg
+*.opus
+*.wma
+
+# 画像（大きな素材・書き出し）
+*.psd
+*.ai
+*.tif
+*.tiff
+*.raw
+*.bmp
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+# ドキュメント用の図版は docs/images/ に置けば追跡する
+!docs/images/**
+
+# Filmora / 編集ソフトのプロジェクト・キャッシュ
+*.wfp
+*.wfp.bak
+*.prproj
+*.aep
+*.veg
+*.drp
+*.kdenlive
+*.blend
+*.blend[0-9]*
+*Proxy*/
+*.pek
+*.cfa
+
+# 大容量アーカイブ
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.iso
+
+# ---------------------------------------------
+# OS / エディタ
+# ---------------------------------------------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+desktop.ini
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+.vscode/
+!.vscode/settings.json.example
+.idea/
+*.swp
+*.swo
+*~
+
+# ---------------------------------------------
+# ログ・作業メモ
+# ---------------------------------------------
+logs/
+*.log
