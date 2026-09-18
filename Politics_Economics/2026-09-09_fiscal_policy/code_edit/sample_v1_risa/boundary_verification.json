@@ -1,0 +1,221 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "id": "N01",
+      "frame": 642,
+      "time": 21.398999999999997,
+      "expected_model": false,
+      "measured_model": false,
+      "changed_pixels": 0,
+      "passed": true
+    },
+    {
+      "id": "N01",
+      "frame": 643,
+      "time": 21.432333333333332,
+      "expected_model": true,
+      "measured_model": true,
+      "changed_pixels": 83433,
+      "passed": true
+    },
+    {
+      "id": "N01",
+      "frame": 644,
+      "time": 21.465666666666664,
+      "expected_model": true,
+      "measured_model": true,
+      "changed_pixels": 83512,
+      "passed": true
+    },
+    {
+      "id": "N01",
+      "frame": 1121,
+      "time": 37.36566666666667,
+      "expected_model": true,
+      "measured_model": true,
+      "changed_pixels": 83596,
+      "passed": true
+    },
+    {
+      "id": "N01",
+      "frame": 1122,
+      "time": 37.399,
+      "expected_model": false,
+      "measured_model": false,
+      "changed_pixels": 0,
+      "passed": true
+    },
+    {
+      "id": "N02",
+      "frame": 5324,
+      "time": 177.46566666666666,
+      "expected_model": false,
+      "measured_model": false,
+      "changed_pixels": 0,
+      "passed": true
+    },
+    {
+      "id": "N02",
+      "frame": 5325,
+      "time": 177.499,
+      "expected_model": true,
+      "measured_model": true,
+      "changed_pixels": 83449,
+      "passed": true
+    },
+    {
+      "id": "N02",
+      "frame": 5326,
+      "time": 177.53233333333333,
+      "expected_model": true,
+      "measured_model": true,
+      "changed_pixels": 83532,
+      "passed": true
+    },
+    {
+      "id": "N02",
+      "frame": 5864,
+      "time": 195.46566666666666,
+      "expected_model": true,
+      "measured_model": true,
+      "changed_pixels": 83698,
+      "passed": true
+    },
+    {
+      "id": "N02",
+      "frame": 5865,
+      "time": 195.499,
+      "expected_model": false,
+      "measured_model": false,
+      "changed_pixels": 0,
+      "passed": true
+    },
+    {
+      "id": "N03",
+      "frame": 12914,
+      "time": 430.46566666666666,
+      "expected_model": false,
+      "measured_model": false,
+      "changed_pixels": 0,
+      "passed": true
+    },
+    {
+      "id": "N03",
+      "frame": 12915,
+      "time": 430.499,
+      "expected_model": true,
+      "measured_model": true,
+      "changed_pixels": 83442,
+      "passed": true
+    },
+    {
+      "id": "N03",
+      "frame": 12916,
+      "time": 430.5323333333334,
+      "expected_model": true,
+      "measured_model": true,
+      "changed_pixels": 83513,
+      "passed": true
+    },
+    {
+      "id": "N03",
+      "frame": 13444,
+      "time": 448.13233333333335,
+      "expected_model": true,
+      "measured_model": true,
+      "changed_pixels": 83648,
+      "passed": true
+    },
+    {
+      "id": "N03",
+      "frame": 13445,
+      "time": 448.1656666666667,
+      "expected_model": false,
+      "measured_model": false,
+      "changed_pixels": 0,
+      "passed": true
+    },
+    {
+      "id": "N04",
+      "frame": 22411,
+      "time": 747.0323333333333,
+      "expected_model": false,
+      "measured_model": false,
+      "changed_pixels": 0,
+      "passed": true
+    },
+    {
+      "id": "N04",
+      "frame": 22412,
+      "time": 747.0656666666667,
+      "expected_model": true,
+      "measured_model": true,
+      "changed_pixels": 83450,
+      "passed": true
+    },
+    {
+      "id": "N04",
+      "frame": 22413,
+      "time": 747.099,
+      "expected_model": true,
+      "measured_model": true,
+      "changed_pixels": 83543,
+      "passed": true
+    },
+    {
+      "id": "N04",
+      "frame": 22754,
+      "time": 758.4656666666667,
+      "expected_model": true,
+      "measured_model": true,
+      "changed_pixels": 83659,
+      "passed": true
+    },
+    {
+      "id": "N04",
+      "frame": 22755,
+      "time": 758.499,
+      "expected_model": false,
+      "measured_model": false,
+      "changed_pixels": 0,
+      "passed": true
+    },
+    {
+      "id": "N05",
+      "frame": 28447,
+      "time": 948.2323333333334,
+      "expected_model": false,
+      "measured_model": false,
+      "changed_pixels": 1,
+      "passed": true
+    },
+    {
+      "id": "N05",
+      "frame": 28448,
+      "time": 948.2656666666667,
+      "expected_model": true,
+      "measured_model": true,
+      "changed_pixels": 83440,
+      "passed": true
+    },
+    {
+      "id": "N05",
+      "frame": 28449,
+      "time": 948.299,
+      "expected_model": true,
+      "measured_model": true,
+      "changed_pixels": 83519,
+      "passed": true
+    },
+    {
+      "id": "N05",
+      "frame": 29732,
+      "time": 991.0656666666667,
+      "expected_model": true,
+      "measured_model": true,
+      "changed_pixels": 83639,
+      "passed": true
+    }
+  ]
+}

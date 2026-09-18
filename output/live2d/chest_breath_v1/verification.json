@@ -1,0 +1,85 @@
+{
+  "passed": true,
+  "previous_speech_head_blink_breath_curves_identical": true,
+  "same_parameter_face_max_pixel_differences": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "outputs": {
+    "speaking": {
+      "frames": 479,
+      "fps": 30,
+      "duration_s": 15.966667,
+      "full_decode_passed": true,
+      "reference_frame_mean_pixel_error": [
+        1.111953589391861,
+        1.0852400548696846,
+        1.0965540695016003,
+        1.0867924096936443,
+        1.0874994284407864,
+        1.0778606538637403,
+        1.2246842135345222
+      ],
+      "chest_region_temporal_mean_pixel_difference": [
+        2.739208089668616,
+        0.791030701754386,
+        0.9799537037037037,
+        0.9075414230019493,
+        0.9881042884990253,
+        2.596464424951267
+      ],
+      "checked_frame_indices": [
+        0,
+        80,
+        166,
+        280,
+        296,
+        411,
+        478
+      ],
+      "audio": {
+        "source_identical": true,
+        "correlation": 0.9999816066577017,
+        "peak_offset_ms": 0.0
+      }
+    },
+    "breath_only": {
+      "frames": 241,
+      "fps": 30,
+      "duration_s": 8.033333,
+      "full_decode_passed": true,
+      "reference_frame_mean_pixel_error": [
+        1.0889083219021491,
+        1.1164411865569273,
+        1.1064469021490626,
+        1.1094041495198903,
+        1.1009322130772747,
+        1.1034487882944672,
+        1.1815609282121629
+      ],
+      "chest_region_temporal_mean_pixel_difference": [
+        2.2359234892787523,
+        2.33916910331384,
+        2.031074561403509,
+        2.3606481481481483,
+        3.8444980506822612,
+        3.718893762183236
+      ],
+      "checked_frame_indices": [
+        0,
+        30,
+        60,
+        90,
+        120,
+        180,
+        240
+      ],
+      "loop_endpoint_mean_pixel_difference": 0.6674285550983082
+    }
+  },
+  "appearance_scope": "Selected frames visually reviewed; full audiovisual human acceptance pending."
+}

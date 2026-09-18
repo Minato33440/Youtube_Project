@@ -1,0 +1,53 @@
+{
+  "source_video": "C:\\Users\\Setona\\Desktop\\Voicd-Sample.mp4",
+  "fps": 30,
+  "frame_count": 478,
+  "duration_seconds": 15.933333333333334,
+  "source_audio_offset_seconds": 0,
+  "model": "model/Risa_mouth_shapes.model3.json",
+  "editor_model": "Risa_mouth_shapes.cmo3",
+  "audio": "audio_stereo_44100_pcm16.wav",
+  "curve": "mouth_curve.csv",
+  "motion_reference": "voice_sync.motion3.json",
+  "rgba_frames": "frames/%05d.png",
+  "alpha_mode": "straight",
+  "overlay": {
+    "source_crop_xywh": [
+      128,
+      0,
+      512,
+      560
+    ],
+    "size": [
+      256,
+      280
+    ],
+    "xy": [
+      850,
+      66
+    ]
+  },
+  "mouth_driver": "ParamMouthOpenY locked to approved v2; ParamMouthForm from Japanese vowel design and coarticulation",
+  "alignment": "../voice_sync_v2/alignment/phonemes.json",
+  "fixed_parameters": {
+    "ParamEyeLOpen": 1,
+    "ParamEyeROpen": 1,
+    "ParamAngleZ": 0,
+    "ParamBreath": 0
+  },
+  "outputs": [
+    "Risa_narration_composite.mp4",
+    "Risa_lipsync_closeup.mp4",
+    "Risa_lipsync_comparison.mp4"
+  ],
+  "stage": "1: mouth width and roundness; coordinated eye/breath/head motion pending",
+  "file_sha256": {
+    "Risa_mouth_shapes.cmo3": "f12500410deed7f9c58523c60634ac8e11c113ccb8f6698f5fd26091862f73f8",
+    "model/Risa_mouth_shapes.moc3": "43f017a2d47c51dbeb7275b219929a016eb43cbeaa65b95e392a6ad789fd138e",
+    "model/Risa_mouth_shapes.model3.json": "d65c1943d2b0100f53d9584e6e996f240003b64b4ed972522512f4bb279e773f",
+    "model/Risa_mouth_shapes.2048/texture_00.png": "4ed9b44b7bceef663fc66e01377bbae015716d887397f13c9c374362ed90d2f4",
+    "mouth_curve.csv": "81ab923d58647cffc2c1382122a34acad8cc046fe87e964f8f9a37a562146fb7",
+    "voice_sync.motion3.json": "1e7f1275b652f205154c8eeb15cd00ba4d179daf6bf3a0e0ae686c27ea8ebeb0"
+  },
+  "review_report": "test_report.md"
+}

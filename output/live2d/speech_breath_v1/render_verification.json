@@ -1,0 +1,12 @@
+{
+  "sdk_max_errors": {
+    "ParamMouthOpenY": 0.001060920883178662,
+    "ParamMouthForm": 0.0012469296531677498,
+    "ParamEyeLOpen": 0.0011487007141113281,
+    "ParamEyeROpen": 0.0011487007141113281,
+    "ParamBreath": 6.365734481811325e-05,
+    "ParamAngleZ": 0.0011691724090576727
+  },
+  "frames": 479,
+  "passed": true
+}

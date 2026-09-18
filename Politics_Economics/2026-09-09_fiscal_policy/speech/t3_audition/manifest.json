@@ -1,0 +1,27 @@
+{
+  "source_project": "../default.aisp",
+  "speaker": "楽町音穏_T3モデル",
+  "speaker_uuid": "395156b7-f67a-400c-a2d7-887ff0f04881",
+  "style_id": 135718976,
+  "text": "減税の話になると、必ず問われる財源。では、経済が成長した場合は、どうでしょうか。今回注目するのは、企業の投資と、政府の支出です。この二つが、私たちの暮らしにどうつながるのか。会田卓司さんの説明を、順に見ていきましょう。",
+  "listened": false,
+  "note": "Original sample and app settings unchanged. volumeScale 0.8 in both audition variants for headroom.",
+  "items": [
+    {
+      "file": "01_boss_settings.wav",
+      "speed": 1.11,
+      "tempo": 1.36,
+      "duration": 18.972448979591835,
+      "peak_dbfs": -1.9386641491007355,
+      "full_scale_samples": 0
+    },
+    {
+      "file": "02_calm_settings.wav",
+      "speed": 1.03,
+      "tempo": 1.15,
+      "duration": 20.744671201814057,
+      "peak_dbfs": -1.9386641491007355,
+      "full_scale_samples": 0
+    }
+  ]
+}

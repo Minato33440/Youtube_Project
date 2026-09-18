@@ -1,0 +1,72 @@
+{
+  "stage": "2: coordinated eye, breath, and neck performance",
+  "source": {
+    "mouth_curve": "../voice_sync_v3/mouth_curve.csv",
+    "phoneme_alignment": "../voice_sync_v2/alignment/phonemes.json",
+    "alignment_method": "Julius 4.3.1 forced Viterbi alignment"
+  },
+  "frame_count": 478,
+  "fps": 30,
+  "duration_seconds": 15.933333333333334,
+  "mouth_contract": "mouth_open_y and mouth_form are copied verbatim from v3; this stage does not redesign lips.",
+  "performance_profile": "performance_profile.json",
+  "eye": {
+    "parameters": [
+      "ParamEyeLOpen",
+      "ParamEyeROpen"
+    ],
+    "minimum_blink_spacing_seconds": 2.2,
+    "blink_duration_seconds": 0.23333333333333334,
+    "profile_samples": [
+      1.0,
+      0.45,
+      0.0,
+      0.0,
+      0.25,
+      0.6,
+      0.84,
+      1.0
+    ],
+    "left_right_timing": "same frames; both eyes close fully together"
+  },
+  "breath": {
+    "parameter": "ParamBreath",
+    "baseline": {
+      "baseline_center": 0.38,
+      "baseline_amplitude": 0.1,
+      "period_seconds": 4.0,
+      "phase_seconds": -0.67,
+      "long_pause_threshold_seconds": 0.3,
+      "long_pause_extra_amplitude": 0.12,
+      "pause_half_width_seconds": 0.7,
+      "start_fade_seconds": 0.5,
+      "end_fade_seconds": 0.6
+    },
+    "range": [
+      0.0,
+      1.0
+    ],
+    "long_pause_threshold_seconds": 0.3,
+    "long_pause_extra_amplitude": 0.12,
+    "pause_half_width_seconds": 0.7,
+    "clip_fades_to_zero": {
+      "start_seconds": 0.5,
+      "end_seconds": 0.6
+    }
+  },
+  "neck": {
+    "parameter": "ParamAngleZ",
+    "used_range": [
+      -6.0,
+      6.0
+    ],
+    "observed_rig_context": "ParamAngleZ +/-30 corresponds to roughly +/-6 degrees in the current rig; values here are intentionally restrained parameter units.",
+    "pulse_half_width_seconds": 0.34
+  },
+  "end_state": {
+    "eyes": 1.0,
+    "angle_z": 0.0,
+    "breath": "fades to zero; transition into any idle motion requires visual review"
+  },
+  "editorial_status": "Timing and emphasis are editorial performance design, not physiologically measured motion or face tracking."
+}

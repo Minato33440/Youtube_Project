@@ -1,0 +1,25 @@
+{
+  "blink_starts_s": [1.12, 4.08, 9.76, 12.29],
+  "blink_profile": [1.0, 0.45, 0.0, 0.0, 0.25, 0.6, 0.84, 1.0],
+  "minimum_blink_spacing_seconds": 2.2,
+  "breath": {
+    "baseline_center": 0.38,
+    "baseline_amplitude": 0.1,
+    "period_seconds": 4.0,
+    "phase_seconds": -0.67,
+    "long_pause_threshold_seconds": 0.3,
+    "long_pause_extra_amplitude": 0.12,
+    "pause_half_width_seconds": 0.7,
+    "start_fade_seconds": 0.5,
+    "end_fade_seconds": 0.6
+  },
+  "neck": {
+    "pulse_half_width_seconds": 0.34,
+    "emphasis": [
+      {"time_s": 1.86, "angle_z": 3.2, "text": "財源", "reason": "question focus"},
+      {"time_s": 6.18, "angle_z": -4.2, "text": "経済成長", "reason": "named explanatory viewpoint"},
+      {"time_s": 9.12, "angle_z": 3.8, "text": "国債への不安", "reason": "topic shift"},
+      {"time_s": 11.36, "angle_z": -3.1, "text": "暮らしを支える政策", "reason": "human-impact contrast"}
+    ]
+  }
+}

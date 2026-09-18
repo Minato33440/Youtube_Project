@@ -1,0 +1,141 @@
+{
+  "passed": true,
+  "cases": [
+    {
+      "case": {
+        "mouth_open_y": 0,
+        "mouth_form": 0,
+        "eye_l_open": 1,
+        "eye_r_open": 1,
+        "breath": 0,
+        "angle_z": 0
+      },
+      "changed_bbox_xyxy": null,
+      "head_max_pixel_difference": 0,
+      "new_interior_transparency_pixels": 0,
+      "mean_chest_pixel_difference": 0.0
+    },
+    {
+      "case": {
+        "mouth_open_y": 0,
+        "mouth_form": 0,
+        "eye_l_open": 1,
+        "eye_r_open": 1,
+        "breath": 0.3,
+        "angle_z": 0
+      },
+      "changed_bbox_xyxy": [
+        235,
+        410,
+        499,
+        828
+      ],
+      "head_max_pixel_difference": 0,
+      "new_interior_transparency_pixels": 0,
+      "mean_chest_pixel_difference": 0.5109009009009009
+    },
+    {
+      "case": {
+        "mouth_open_y": 0,
+        "mouth_form": 0,
+        "eye_l_open": 1,
+        "eye_r_open": 1,
+        "breath": 0.6,
+        "angle_z": 0
+      },
+      "changed_bbox_xyxy": [
+        233,
+        408,
+        501,
+        829
+      ],
+      "head_max_pixel_difference": 0,
+      "new_interior_transparency_pixels": 0,
+      "mean_chest_pixel_difference": 0.9178951678951679
+    },
+    {
+      "case": {
+        "mouth_open_y": 0,
+        "mouth_form": 0,
+        "eye_l_open": 1,
+        "eye_r_open": 1,
+        "breath": 1,
+        "angle_z": 0
+      },
+      "changed_bbox_xyxy": [
+        231,
+        407,
+        503,
+        830
+      ],
+      "head_max_pixel_difference": 0,
+      "new_interior_transparency_pixels": 0,
+      "mean_chest_pixel_difference": 1.375184275184275
+    },
+    {
+      "case": {
+        "mouth_open_y": 0.958,
+        "mouth_form": -0.55,
+        "eye_l_open": 1,
+        "eye_r_open": 1,
+        "breath": 1,
+        "angle_z": -8.4
+      },
+      "changed_bbox_xyxy": [
+        231,
+        407,
+        503,
+        830
+      ],
+      "head_max_pixel_difference": 0,
+      "new_interior_transparency_pixels": 0,
+      "mean_chest_pixel_difference": 1.3752497952497953
+    },
+    {
+      "case": {
+        "mouth_open_y": 0.958,
+        "mouth_form": -0.55,
+        "eye_l_open": 1,
+        "eye_r_open": 1,
+        "breath": 1,
+        "angle_z": 8.4
+      },
+      "changed_bbox_xyxy": [
+        231,
+        407,
+        503,
+        830
+      ],
+      "head_max_pixel_difference": 0,
+      "new_interior_transparency_pixels": 0,
+      "mean_chest_pixel_difference": 1.3752170352170352
+    }
+  ],
+  "fixed_neck_checks": [
+    {
+      "breath": 0,
+      "head_max_difference": 0,
+      "top_collar_mean_difference": 0.0,
+      "top_collar_max_difference": 0
+    },
+    {
+      "breath": 0.3,
+      "head_max_difference": 0,
+      "top_collar_mean_difference": 0.003928571428571429,
+      "top_collar_max_difference": 1
+    },
+    {
+      "breath": 0.6,
+      "head_max_difference": 0,
+      "top_collar_mean_difference": 0.003928571428571429,
+      "top_collar_max_difference": 1
+    },
+    {
+      "breath": 1,
+      "head_max_difference": 0,
+      "top_collar_mean_difference": 0.003928571428571429,
+      "top_collar_max_difference": 1
+    }
+  ],
+  "scope": "v3/v6 same-input comparison isolates added knit folds. Fixed checks cover the face and top collar only; internal collar folds intentionally move. Belt comparison y850:1000 must match v3."
+}

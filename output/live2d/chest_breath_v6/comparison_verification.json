@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "output": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\exports\\Risa_Throat_Folds_Compare_v5_v6.mp4",
+  "sha256": "17b08b960a03f286956666588b53c467cabc284e16f8cebbd993730776e1caa4",
+  "layout": "Left A=v5 vertical throat motion; right B=v6 inward folds. Same crop (270,310,810,850), enlarged to 960x960; same frames.",
+  "breath_curve_identical": true,
+  "frames": 241,
+  "fps": 30,
+  "full_decode_passed": true,
+  "reference_frame_mae": {
+    "0": [
+      2.7257099971064815,
+      2.7193858506944446
+    ],
+    "60": [
+      2.666476417824074,
+      2.658589771412037
+    ],
+    "120": [
+      2.646976634837963,
+      2.646029730902778
+    ],
+    "240": [
+      2.6795992476851853,
+      2.689351490162037
+    ]
+  }
+}

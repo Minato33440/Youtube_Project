@@ -1,0 +1,32 @@
+[
+  {
+    "id": "M01",
+    "waveform_correlation": 0.9998980885991273,
+    "lag_seconds": 0.0,
+    "passed": true
+  },
+  {
+    "id": "M02",
+    "waveform_correlation": 0.9937490112181592,
+    "lag_seconds": -0.000125,
+    "passed": true
+  },
+  {
+    "id": "M03",
+    "waveform_correlation": 0.999942309020312,
+    "lag_seconds": 0.0005,
+    "passed": true
+  },
+  {
+    "id": "M04",
+    "waveform_correlation": 0.999986571180553,
+    "lag_seconds": 0.0005,
+    "passed": true
+  },
+  {
+    "id": "M05",
+    "waveform_correlation": 0.9896792756471128,
+    "lag_seconds": 0.000875,
+    "passed": true
+  }
+]

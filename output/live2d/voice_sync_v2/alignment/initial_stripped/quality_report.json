@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "source_concat_duration_s": 15.6008844,
+  "target_clip_duration_s": 15.939047619047619,
+  "clip_offset_s": 0.000726,
+  "phoneme_count": 206,
+  "unaligned_target_region_start_s": 15.6016104,
+  "first_rms_active_tail_bin_s": 15.86,
+  "anomalies": {
+    "phoneme_shorter_than_15ms": [],
+    "vowel_longer_than_300ms": [
+      {
+        "sentence": "N01_02",
+        "start_s": 4.9949494,
+        "end_s": 5.3949494,
+        "phoneme": "a",
+        "mora": "サ",
+        "duration_s": 0.4
+      }
+    ]
+  },
+  "caveats": [
+    "Julius feature frames are 10 ms; boundaries are not sub-frame precision.",
+    "silB/silE are omitted from phonemes outputs.",
+    "The target clip has non-source material after the source-concatenation region; no phoneme is asserted for it."
+  ]
+}

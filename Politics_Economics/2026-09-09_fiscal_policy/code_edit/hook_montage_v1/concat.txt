@@ -1,0 +1,5 @@
+file 'C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/hook_montage_v1/M01.mkv'
+file 'C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/hook_montage_v1/M02.mkv'
+file 'C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/hook_montage_v1/M03.mkv'
+file 'C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/hook_montage_v1/M04.mkv'
+file 'C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/hook_montage_v1/M05.mkv'

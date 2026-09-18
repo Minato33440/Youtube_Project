@@ -1,0 +1,217 @@
+{
+  "audio_placement": [
+    {
+      "id": "HOOK",
+      "normalized_correlation": 0.9990951783452391,
+      "lag_seconds": 0.0,
+      "passed": true
+    },
+    {
+      "id": "N01",
+      "normalized_correlation": 0.9867672915191422,
+      "lag_seconds": -0.000125,
+      "passed": true
+    },
+    {
+      "id": "C01a",
+      "normalized_correlation": 0.984586914425645,
+      "lag_seconds": 0.000125,
+      "passed": true
+    },
+    {
+      "id": "C01b",
+      "normalized_correlation": 0.9950387959449862,
+      "lag_seconds": -0.000125,
+      "passed": true
+    },
+    {
+      "id": "C02a",
+      "normalized_correlation": 0.9996632489338768,
+      "lag_seconds": -0.0005,
+      "passed": true
+    },
+    {
+      "id": "C02b",
+      "normalized_correlation": 0.9901447033872519,
+      "lag_seconds": -0.000875,
+      "passed": true
+    },
+    {
+      "id": "C02c",
+      "normalized_correlation": 0.9918894300610325,
+      "lag_seconds": -0.001125,
+      "passed": true
+    },
+    {
+      "id": "N02",
+      "normalized_correlation": 0.9988438421569807,
+      "lag_seconds": -0.0015,
+      "passed": true
+    },
+    {
+      "id": "ND01",
+      "normalized_correlation": 0.9947163079836302,
+      "lag_seconds": -0.001125,
+      "passed": true
+    },
+    {
+      "id": "ND02",
+      "normalized_correlation": 0.9957242263580065,
+      "lag_seconds": -0.001125,
+      "passed": true
+    },
+    {
+      "id": "ND03",
+      "normalized_correlation": 0.9938753695531133,
+      "lag_seconds": -0.001125,
+      "passed": true
+    },
+    {
+      "id": "ND04",
+      "normalized_correlation": 0.9927255983479869,
+      "lag_seconds": -0.000875,
+      "passed": true
+    },
+    {
+      "id": "N03",
+      "normalized_correlation": 0.9854056339839055,
+      "lag_seconds": -0.000875,
+      "passed": true
+    },
+    {
+      "id": "C03",
+      "normalized_correlation": 0.984327540594817,
+      "lag_seconds": -0.001125,
+      "passed": true
+    },
+    {
+      "id": "C04",
+      "normalized_correlation": 0.9873389773689752,
+      "lag_seconds": -0.001625,
+      "passed": true
+    },
+    {
+      "id": "C05a",
+      "normalized_correlation": 0.9926965118705795,
+      "lag_seconds": -0.001625,
+      "passed": true
+    },
+    {
+      "id": "C05b",
+      "normalized_correlation": 0.9989842077339827,
+      "lag_seconds": -0.0015,
+      "passed": true
+    },
+    {
+      "id": "N04",
+      "normalized_correlation": 0.9893485206568094,
+      "lag_seconds": -0.001125,
+      "passed": true
+    },
+    {
+      "id": "C06",
+      "normalized_correlation": 0.999915029977644,
+      "lag_seconds": -0.0015,
+      "passed": true
+    },
+    {
+      "id": "C07",
+      "normalized_correlation": 0.984867757798815,
+      "lag_seconds": -0.001125,
+      "passed": true
+    },
+    {
+      "id": "N05",
+      "normalized_correlation": 0.9891731908467554,
+      "lag_seconds": -0.001125,
+      "passed": true
+    }
+  ],
+  "all_audio_placement_passed": true,
+  "header_presence": [
+    {
+      "id": "HOOK",
+      "bright_pixels": 1964,
+      "passed": true
+    },
+    {
+      "id": "C01a",
+      "bright_pixels": 1386,
+      "passed": true
+    },
+    {
+      "id": "C01b",
+      "bright_pixels": 1386,
+      "passed": true
+    },
+    {
+      "id": "C02a",
+      "bright_pixels": 1561,
+      "passed": true
+    },
+    {
+      "id": "C02b",
+      "bright_pixels": 1561,
+      "passed": true
+    },
+    {
+      "id": "C02c",
+      "bright_pixels": 1561,
+      "passed": true
+    },
+    {
+      "id": "ND01",
+      "bright_pixels": 2449,
+      "passed": true
+    },
+    {
+      "id": "ND02",
+      "bright_pixels": 2449,
+      "passed": true
+    },
+    {
+      "id": "ND03",
+      "bright_pixels": 2449,
+      "passed": true
+    },
+    {
+      "id": "ND04",
+      "bright_pixels": 2449,
+      "passed": true
+    },
+    {
+      "id": "C03",
+      "bright_pixels": 1458,
+      "passed": true
+    },
+    {
+      "id": "C04",
+      "bright_pixels": 1453,
+      "passed": true
+    },
+    {
+      "id": "C05a",
+      "bright_pixels": 1610,
+      "passed": true
+    },
+    {
+      "id": "C05b",
+      "bright_pixels": 1610,
+      "passed": true
+    },
+    {
+      "id": "C06",
+      "bright_pixels": 1750,
+      "passed": true
+    },
+    {
+      "id": "C07",
+      "bright_pixels": 1920,
+      "passed": true
+    }
+  ],
+  "all_headers_present": true,
+  "method": "3 second waveform FFT cross-correlation at +2s in every segment against its source; checks placement, not intelligibility or lip sync.",
+  "listening": "not available in this session",
+  "contact_sheet": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\code_edit\\sample_v1\\qa\\contact_sheet.jpg"
+}

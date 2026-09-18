@@ -1,0 +1,63 @@
+{
+  "passed": true,
+  "preserved_pcm_seconds": 12.829041666666667,
+  "speech_pcm_bit_identical": true,
+  "measured_gaps": [
+    {
+      "kind": "comma",
+      "start_s": 0.959562,
+      "duration_s": 0.11999999999999988,
+      "target_s": 0.12
+    },
+    {
+      "kind": "question",
+      "start_s": 2.253333,
+      "duration_s": 0.7000000000000002,
+      "target_s": 0.7
+    },
+    {
+      "kind": "comma",
+      "start_s": 4.0135,
+      "duration_s": 0.1200000000000001,
+      "target_s": 0.12
+    },
+    {
+      "kind": "implicit_clause",
+      "start_s": 5.093729,
+      "duration_s": 0.1200000000000001,
+      "target_s": 0.12
+    },
+    {
+      "kind": "period",
+      "start_s": 7.658854,
+      "duration_s": 0.5,
+      "target_s": 0.5
+    },
+    {
+      "kind": "comma",
+      "start_s": 9.262187,
+      "duration_s": 0.12000099999999847,
+      "target_s": 0.12
+    },
+    {
+      "kind": "comma",
+      "start_s": 11.383208,
+      "duration_s": 0.120000000000001,
+      "target_s": 0.12
+    },
+    {
+      "kind": "question",
+      "start_s": 12.777437,
+      "duration_s": 0.6999999999999993,
+      "target_s": 0.7
+    }
+  ],
+  "inhales_only_in_sentence_pauses": true,
+  "unchanged_model_hashes": true,
+  "frames": 460,
+  "video_duration_s": 15.333333,
+  "audio_duration_s": 15.333,
+  "encoded_audio_zero_lag_correlation": 0.9999794951885322,
+  "full_decode_passed": true,
+  "human_listening": "pending"
+}

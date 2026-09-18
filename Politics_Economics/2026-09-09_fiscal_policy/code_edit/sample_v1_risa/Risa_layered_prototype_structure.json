@@ -1,0 +1,64 @@
+{
+  "project": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\filmora\\Risa_layered_prototype.wfp",
+  "duration_ticks": 1581666667,
+  "track_clip_counts": [
+    1,
+    5,
+    5,
+    0,
+    1,
+    0,
+    1
+  ],
+  "references": [
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\sample_v1_risa\\video\\HOOK.mp4",
+      "begin_frame": 0,
+      "frames": 643,
+      "media_id": "{7644ACF6-17D3-4896-8633-5CB54AD684D1}"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\sample_v1_risa\\backgrounds\\N01.mp4",
+      "begin_frame": 643,
+      "frames": 479,
+      "media_id": "{F36EE625-27AD-4b51-8D1F-284A3BE92B10}"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\sample_v1_risa\\audio\\N01.wav",
+      "begin_frame": 643,
+      "frames": 479,
+      "media_id": "{866BC0EB-92A7-4daa-B9A1-E4605FAA20AC}"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\sample_v1_risa\\live2d\\N01.mov",
+      "begin_frame": 643,
+      "frames": 479,
+      "media_id": "{C23832FC-2193-440b-9FC1-1DEFF9DFB723}"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\sample_v1_risa\\video\\C01a.mp4",
+      "begin_frame": 1122,
+      "frames": 1121,
+      "media_id": "{1D7CC18A-E0BC-4d50-934E-0203E28676CB}"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\sample_v1_risa\\video\\C01b.mp4",
+      "begin_frame": 2243,
+      "frames": 473,
+      "media_id": "{D3EEE6C5-92B0-4b4a-A760-26CC9F2F2BB8}"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\sample_v1_risa\\video\\C02a.mp4",
+      "begin_frame": 2716,
+      "frames": 1184,
+      "media_id": "{014D069A-0EF2-4fe9-9007-F790F7113602}"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\sample_v1_risa\\video\\C02b.mp4",
+      "begin_frame": 3900,
+      "frames": 845,
+      "media_id": "{1E9DC459-0BBA-478e-8F7C-E784F1001B9E}"
+    }
+  ],
+  "gui_validation": "pending"
+}

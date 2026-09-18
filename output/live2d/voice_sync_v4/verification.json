@@ -1,0 +1,108 @@
+{
+  "mouth_channels_verbatim_v3": true,
+  "motion6_channels_match_csv": true,
+  "ranges": {
+    "mouth_open_y": [
+      0.0,
+      0.798274
+    ],
+    "mouth_form": [
+      -0.999957,
+      0.899567
+    ],
+    "eye_l_open": [
+      0.0,
+      1.0
+    ],
+    "eye_r_open": [
+      0.0,
+      1.0
+    ],
+    "breath": [
+      0.0,
+      0.599957
+    ],
+    "angle_z": [
+      -4.184083,
+      3.785599
+    ]
+  },
+  "simultaneously_closed_blink_frames": [
+    [
+      36,
+      37
+    ],
+    [
+      124,
+      125
+    ],
+    [
+      295,
+      296
+    ],
+    [
+      371,
+      372
+    ]
+  ],
+  "videos": {
+    "Risa_stage_blink.mp4": {
+      "frames": 478,
+      "fps": 30,
+      "duration_s": 15.933333,
+      "decode_pass": true,
+      "zero_offset_audio_correlation": 0.9999829988945851,
+      "sha256": "bdaff82323cf969b2a45cd0aade12c2a3761e8209cbccb5453d26300d44e6c88"
+    },
+    "Risa_stage_breath.mp4": {
+      "frames": 478,
+      "fps": 30,
+      "duration_s": 15.933333,
+      "decode_pass": true,
+      "zero_offset_audio_correlation": 0.9999829988945851,
+      "sha256": "26cd6a3ebef47a1b94deb957695320bf4bfc5a59cddd9f8341d9179675399042"
+    },
+    "Risa_performance_closeup.mp4": {
+      "frames": 478,
+      "fps": 30,
+      "duration_s": 15.933333,
+      "decode_pass": true,
+      "zero_offset_audio_correlation": 0.9999829988945851,
+      "sha256": "bdae0824b6f99c5b28aa9a210d32685ad1c6ab695c53c6d471bc4e093b24c2fe"
+    },
+    "Risa_performance_comparison.mp4": {
+      "frames": 478,
+      "fps": 30,
+      "duration_s": 15.933333,
+      "decode_pass": true,
+      "zero_offset_audio_correlation": 0.9999829988945851,
+      "sha256": "f3fb8831ca67961fa25e4cd9f27c0098b9705315451a5e4e662d63ed914b4973"
+    },
+    "Risa_narration_composite.mp4": {
+      "frames": 478,
+      "fps": 30,
+      "duration_s": 15.933333,
+      "decode_pass": true,
+      "zero_offset_audio_correlation": 0.999986168325472,
+      "sha256": "28e73bd2de3d5dc262aeb50faa0c41580db77390b0d06cfa8a1bac72bb857a48"
+    }
+  },
+  "render": {
+    "three_stages_478_each": true,
+    "blink_changes_only_eye_roi": true,
+    "eye_roi_xyxy": [
+      315,
+      125,
+      450,
+      180
+    ],
+    "max_new_interior_transparency_pixels": 0,
+    "max_changed_pixels_vs_v3": {
+      "blink": 1616,
+      "breath": 277009,
+      "all": 277009
+    },
+    "endpoints_pixel_identical_to_v3": true,
+    "scope": "Hole heuristic supplements visual calibration; it is not proof for every parameter combination."
+  }
+}

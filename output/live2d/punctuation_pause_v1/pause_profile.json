@@ -1,0 +1,10 @@
+{
+  "comma_s": 0.12,
+  "period_s": 0.5,
+  "question_s": 0.7,
+  "implicit_clause_pause_s": 0.12,
+  "inhale_s": 0.36,
+  "breath_floor": 0.18,
+  "breath_peak": 0.593756,
+  "note": "Total measured gap, not added silence. Local narration editing preset; not an Aivis engine default."
+}

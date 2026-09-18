@@ -1,0 +1,18 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Meiryo,44,&H00FFFFFF,&H00FFFFFF,&H002A1C10,&H002A1C10,0,0,0,0,100,100,0,0,1,1,0,2,110,110,130,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.26,Default,,0,0,0,,今回のポイントは、三つです。
+Dialogue: 0,0:00:02.26,0:00:08.79,Default,,0,0,0,,一つ目は、国債の残高だけでなく、何に使い、\N将来の所得につながるかを見ること。
+Dialogue: 0,0:00:08.79,0:00:14.97,Default,,0,0,0,,二つ目は、経済成長と税収、\Nそして家計の負担を、つなげて考えること。
+Dialogue: 0,0:00:14.97,0:00:19.35,Default,,0,0,0,,三つ目は、投資の成果が届くまで、暮らしを支えることです。
+Dialogue: 0,0:00:19.35,0:00:26.45,Default,,0,0,0,,会田さんは、企業と政府の支出に注目して、\N成長と家計支援を進める道筋を示しています。
+Dialogue: 0,0:00:26.45,0:00:33.71,Default,,0,0,0,,ただし、物価や金利への影響、投資の成果、\N予算が実行されるかも確かめる必要があります。
+Dialogue: 0,0:00:33.71,0:00:38.53,Default,,0,0,0,,財源があるかという問いから、成長の力をどう暮らしへ届けるかへ。
+Dialogue: 0,0:00:38.53,0:00:42.49,Default,,0,0,0,,今回の発言を、その視点から考えてみてください。

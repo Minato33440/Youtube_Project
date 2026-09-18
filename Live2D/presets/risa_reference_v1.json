@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "recorded_date": "2026-09-17",
+  "status": "provisional",
+  "reference_character": "Risa",
+  "evaluation": "Boss accepted more natural speech gaps and breathing in PunctuationPause v1; other voices/characters untested",
+  "auto_loaded_by_existing_builders": false,
+  "id": "risa_reference_v1",
+  "paths_relative_to": "Youtube_Project repository root",
+  "shared_ref": "japanese_speech_breath_v1.json",
+  "human_ref": "human_motion_v1.json",
+  "accepted_trial": "output/live2d/punctuation_pause_v1",
+  "rig_version": "chest_breath_v8",
+  "measured_trial_ranges": {
+    "mouth_open_y": {
+      "min": 0.0,
+      "max": 0.916812
+    },
+    "mouth_form": {
+      "min": -0.5496,
+      "max": 0.898893
+    },
+    "eye_l_open": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "eye_r_open": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "breath": {
+      "min": 0.233756,
+      "max": 0.593756
+    },
+    "angle_z": {
+      "min": -8.3134,
+      "max": 7.545872
+    }
+  },
+  "range_note": "Observed range of this clip, not rig safety limits or universal defaults",
+  "risa_adjustment_snapshot": {
+    "source_curve": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\full_sample_v1\\N01\\performance_curve.csv",
+    "fps": 30,
+    "frames": 479,
+    "mouth_open_multiplier": 1.2,
+    "negative_mouth_form_multiplier": 0.55,
+    "positive_mouth_form_multiplier": 1.0,
+    "neck_multiplier": 2.0,
+    "timing_blink_breath": "preserved exactly from N01",
+    "layout": {
+      "scale_relative_to_previous": 1.5,
+      "overlay_xy": [
+        1180,
+        70
+      ],
+      "overlay_wh": [
+        576,
+        450
+      ],
+      "render_canvas": [
+        1152,
+        1536
+      ],
+      "render_crop_xywh": [
+        192,
+        0,
+        768,
+        600
+      ],
+      "note": "Bust crop; bottom at y=520, above cards beginning at y=545."
+    },
+    "rig_geometry": "unchanged; calibrated animation values remain within existing parameter limits",
+    "editor_model": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\voice_sync_v4\\Risa_coordinated.cmo3",
+    "model_scope": "model3 references existing rig assets; this folder alone is not a standalone model package"
+  },
+  "multiplier_warning": "Relative to full_sample_v1/N01 base curve. Apply once only; not gains to apply to an arbitrary new rig or the already adjusted curve.",
+  "layout_note": "1920x1080 narration layout is Risa/video-specific, not a human archetype default",
+  "tts_reference": {
+    "model": "楽町音穏_T3",
+    "style_id": 135718976,
+    "speedScale": 1.17,
+    "tempoDynamicsScale": 1.15,
+    "prePhonemeLength": 0.12,
+    "postPhonemeLength": 0.15,
+    "note": "Risa reference voice settings, not shared TTS defaults; punctuation gaps subsequently edited"
+  },
+  "provenance": [
+    {
+      "path": "output/live2d/punctuation_pause_v1/build_sample.py",
+      "sha256": "0b0af2eb8f34a21973d415395323c237d48e91764c46134505c1ed54b0636748"
+    },
+    {
+      "path": "output/live2d/punctuation_pause_v1/pause_profile.json",
+      "sha256": "18627833d5434b256703b92a35f3db40a71cff1200dfc07b2226c20f395c9113"
+    },
+    {
+      "path": "output/live2d/punctuation_pause_v1/time_map.json",
+      "sha256": "2ccb5ae8c98de4ab4ec98c2ecea20915029a4dbcb8b0d6a55eacef83b8f5cf76"
+    },
+    {
+      "path": "output/live2d/punctuation_pause_v1/breath_events.json",
+      "sha256": "6812eeeb75249589812716bb27a8f6e547c8733539efbb56180ed9702182b26a"
+    },
+    {
+      "path": "output/live2d/punctuation_pause_v1/performance_curve.csv",
+      "sha256": "a35915052002e7a6ddde4269c2a822d3ae9414c3bb0724f8891a2e3995c7a627"
+    },
+    {
+      "path": "output/live2d/punctuation_pause_v1/performance.motion3.json",
+      "sha256": "70cc8c9225037c5d9b0bdb8149a31bb0337304faaad3cdcbcc6330043486278c"
+    },
+    {
+      "path": "output/live2d/punctuation_pause_v1/N01.wav",
+      "sha256": "3d2402d1562be60eb9594ecd00bc9502039a5260b91bd348c6bca78fa4979324"
+    },
+    {
+      "path": "output/live2d/punctuation_pause_v1/verification.json",
+      "sha256": "429b222427e1b463a76a7dc446b4fb2409a1ccfeb60b9c944a6cf73cba735dd5"
+    },
+    {
+      "path": "output/live2d/punctuation_pause_v1/model/Risa_chest_breath.cmo3",
+      "sha256": "72f46222e52f494ee8575a6d6140cf94a2956bff7c44e5f5ed7ed5140f739682"
+    },
+    {
+      "path": "output/live2d/punctuation_pause_v1/model/Risa_chest_breath.moc3",
+      "sha256": "2b211a4630e302687c1ae86b48ebd9b9a5bad23de8247cfe3222c617564b59ba"
+    },
+    {
+      "path": "output/live2d/punctuation_pause_v1/model/Risa_chest_breath.2048/texture_00.png",
+      "sha256": "4ed9b44b7bceef663fc66e01377bbae015716d887397f13c9c374362ed90d2f4"
+    },
+    {
+      "path": "output/live2d/voice_sync_v2/refine_mouth_curve.py",
+      "sha256": "8b876230b8718573612f7f4ce70b33ef04f3b4127c2e57d33e6f5435bc244206"
+    },
+    {
+      "path": "output/live2d/voice_sync_v3/mouth_form_profile.json",
+      "sha256": "0118009845bf9c3bd8452c2d7c281ac4437713d2aa004b90d8bb109cd6ae3c2b"
+    },
+    {
+      "path": "output/live2d/full_sample_v1/N01/performance_profile.json",
+      "sha256": "9df0ba6f70cad76ed79f192bedeb281c790ce0fe1bea31088f12fecdefe01c12"
+    },
+    {
+      "path": "output/live2d/narration_adjustment_v1/adjustment_profile.json",
+      "sha256": "9f64dadf82dd47016d7a4208add345d4af2c2216b056b089739ce81a3b7f6852"
+    },
+    {
+      "path": "Politics_Economics/2026-09-09_fiscal_policy/speech/sample_v1/N01_01.json",
+      "sha256": "c7bb374391bf32fa5722d49a53e231f23cfa631502227f82351657c6d4d5eccd"
+    },
+    {
+      "path": "Politics_Economics/2026-09-09_fiscal_policy/exports/Risa_ModelOnly_PunctuationPause_v1.mp4",
+      "sha256": "12aae49083c57659f57172cf823d3ee40f50a546fbde2b8113dd60a8b769e188"
+    }
+  ]
+}

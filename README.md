@@ -20,6 +20,7 @@ Youtube_Project/
 ├── .gitignore
 ├── README.md
 ├── filmore_output/              # Filmora 書き出し先へのジャンクション（Git 管理外）
+├── movie_works/                 # Desktop 作業フォルダへのジャンクション（Git 管理外）
 └── Politics_Economics/          # 分野ごとの作業場所
     ├── VIDEO_PRODUCTION_WORKFLOW.md   # 制作ワークフロー（工程・評価・整理案）
     └── YYYY-MM-DD_テーマ名/            # 動画 1 本ごとの作業フォルダー
@@ -46,6 +47,7 @@ Youtube_Project/
 | スクリプト（`*.py`） | Filmora プロジェクト（`*.wfp`） |
 | 設定の雛形（`.env.example`） | `.venv/`、API キー・認証情報（`.env` ほか） |
 | | `filmore_output/`（Filmora 書き出し先へのジャンクション） |
+| | `movie_works/`（Desktop 作業フォルダへのジャンクション） |
 
 ドキュメント用の図版を追跡したい場合は `docs/images/` に置く。
 
@@ -87,6 +89,23 @@ New-Item -ItemType Junction `
 ```
 
 削除するときは `Remove-Item .\filmore_output -Force`（リンクだけが消え、実体は残る）。
+`-Recurse` は付けないこと。
+
+### movie_works/（Desktop 作業フォルダのミラー）
+
+`movie_works/` はデスクトップの動画作業フォルダへのディレクトリジャンクション。
+実体は `C:\Users\Setona\Desktop\movie_works\` で、双方どちらから読み書きしても
+同じファイルを指す（コピーではない）。プロジェクト内から既存の制作素材を直接扱うためのもの。
+
+clone 直後は存在しないため、必要なら次のコマンドで再作成する（管理者権限は不要）。
+
+```powershell
+New-Item -ItemType Junction `
+  -Path   "C:\Python\REX_AI\Youtube_Project\movie_works" `
+  -Target "$env:USERPROFILE\Desktop\movie_works"
+```
+
+削除するときは `Remove-Item .\movie_works -Force`（リンクだけが消え、実体は残る）。
 `-Recurse` は付けないこと。
 
 ## 運用ルール

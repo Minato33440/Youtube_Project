@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "recorded_date": "2026-09-17",
+  "status": "provisional",
+  "reference_character": "Risa",
+  "evaluation": "Boss accepted more natural speech gaps and breathing in PunctuationPause v1; other voices/characters untested",
+  "auto_loaded_by_existing_builders": false,
+  "id": "human_motion_v1",
+  "scope": "Risa-derived initial calibration for human-shaped models; not universal safe limits",
+  "speech_preset_ref": "japanese_speech_breath_v1.json",
+  "parameters": {
+    "mouth_open": "ParamMouthOpenY",
+    "mouth_form": "ParamMouthForm",
+    "left_eye": "ParamEyeLOpen",
+    "right_eye": "ParamEyeROpen",
+    "breathing": "ParamBreath",
+    "neck_tilt": "ParamAngleZ"
+  },
+  "mouth": {
+    "open_semantics": "0=closed; increasing opens; calibration required",
+    "mouth_form_semantics": {
+      "-1": "narrower, rounder",
+      "0": "current neutral shape",
+      "+1": "wider shape"
+    },
+    "provisional_vowel_form_targets": {
+      "a": 0,
+      "e": 0.35,
+      "i": 0.9,
+      "u": -0.396,
+      "o": -0.55
+    },
+    "target_basis": "v3 vowel targets, negative targets multiplied once by 0.55; actual curve is smoothed",
+    "neutralization": {
+      "sigma_seconds": 0.04,
+      "boundary_ease_seconds": 0.09
+    },
+    "closed_lips": "m/b/p and silence ease toward neutral; reference opening algorithm in risa_reference_v1.json"
+  },
+  "blink": {
+    "parameter_open": 1,
+    "parameter_closed": 0,
+    "profile_at_30fps": [
+      1,
+      0.45,
+      0,
+      0,
+      0.25,
+      0.6,
+      0.84,
+      1
+    ],
+    "duration_seconds": 0.23333333333333334,
+    "candidate": "sentence boundaries",
+    "minimum_center_spacing_seconds": 2.2,
+    "retiming": "move center, preserve duration; recheck spacing for new audio"
+  },
+  "neck": {
+    "reference_pulse_half_width_seconds": 0.34,
+    "reference_emphasis_peak_magnitudes": [
+      6.4,
+      8.4,
+      7.6,
+      6.2
+    ],
+    "units": "ParamAngleZ values, not measured geometric degrees",
+    "placement": "select emphasis from meaning, not fixed timestamps",
+    "safe_range": "calibrate per model"
+  },
+  "breath_values": {
+    "parameter": "ParamBreath",
+    "increasing": "inhalation",
+    "decreasing": "exhalation",
+    "floor": 0.18,
+    "peak": 0.593756,
+    "exhale_drop_rate_coefficient_per_second": 0.11,
+    "maximum_drop_per_exhale_segment": 0.36,
+    "valley_formula": "max(floor, level-min(maximum_drop, coefficient*segment_seconds))",
+    "interpolation": "smoothstep; coefficient controls total drop, not constant instantaneous velocity"
+  },
+  "rig_intent": {
+    "stable": [
+      "face",
+      "upper collar edge",
+      "outer collar silhouette",
+      "belt"
+    ],
+    "moving": [
+      "localized chest expansion",
+      "shoulders",
+      "abdominal knit folds",
+      "internal throat and upper collar folds"
+    ],
+    "avoid": "whole upper torso and neck vertical bobbing"
+  },
+  "risa_reference_ref": "risa_reference_v1.json",
+  "per_character_required": [
+    "parameter range and sign calibration",
+    "mouth closure and shapes",
+    "neck and collar gap test",
+    "breathing visibility and silhouette",
+    "audio visual listening review"
+  ]
+}

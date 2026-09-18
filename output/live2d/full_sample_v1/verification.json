@@ -1,0 +1,195 @@
+{
+  "pass": true,
+  "items": {
+    "N01": {
+      "frames": 479,
+      "motion_duration_s": 15.966666666666667,
+      "png_canvas": "768x1024 RGBA straight-alpha",
+      "mov": {
+        "name": "N01_alpha_512x560.mov",
+        "size": "512x560",
+        "pix_fmt": "yuva444p12le",
+        "fps": "30/1",
+        "decode_pass": true
+      },
+      "ranges": {
+        "mouth_open_y": [
+          0.0,
+          0.798693
+        ],
+        "mouth_form": [
+          -0.999962,
+          0.899586
+        ],
+        "eye_l_open": [
+          0.0,
+          1.0
+        ],
+        "eye_r_open": [
+          0.0,
+          1.0
+        ],
+        "breath": [
+          0.0,
+          0.593756
+        ],
+        "angle_z": [
+          -4.191024,
+          3.794148
+        ]
+      }
+    },
+    "N02": {
+      "frames": 540,
+      "motion_duration_s": 18.0,
+      "png_canvas": "768x1024 RGBA straight-alpha",
+      "mov": {
+        "name": "N02_alpha_512x560.mov",
+        "size": "512x560",
+        "pix_fmt": "yuva444p12le",
+        "fps": "30/1",
+        "decode_pass": true
+      },
+      "ranges": {
+        "mouth_open_y": [
+          0.0,
+          0.798434
+        ],
+        "mouth_form": [
+          -0.988117,
+          0.897206
+        ],
+        "eye_l_open": [
+          0.0,
+          1.0
+        ],
+        "eye_r_open": [
+          0.0,
+          1.0
+        ],
+        "breath": [
+          0.0,
+          0.587687
+        ],
+        "angle_z": [
+          -4.197014,
+          3.780801
+        ]
+      }
+    },
+    "N03": {
+      "frames": 530,
+      "motion_duration_s": 17.666666666666668,
+      "png_canvas": "768x1024 RGBA straight-alpha",
+      "mov": {
+        "name": "N03_alpha_512x560.mov",
+        "size": "512x560",
+        "pix_fmt": "yuva444p12le",
+        "fps": "30/1",
+        "decode_pass": true
+      },
+      "ranges": {
+        "mouth_open_y": [
+          0.0,
+          0.8
+        ],
+        "mouth_form": [
+          -1.0,
+          0.712817
+        ],
+        "eye_l_open": [
+          0.0,
+          1.0
+        ],
+        "eye_r_open": [
+          0.0,
+          1.0
+        ],
+        "breath": [
+          0.0,
+          0.557493
+        ],
+        "angle_z": [
+          -4.191374,
+          3.787332
+        ]
+      }
+    },
+    "N04": {
+      "frames": 343,
+      "motion_duration_s": 11.433333333333334,
+      "png_canvas": "768x1024 RGBA straight-alpha",
+      "mov": {
+        "name": "N04_alpha_512x560.mov",
+        "size": "512x560",
+        "pix_fmt": "yuva444p12le",
+        "fps": "30/1",
+        "decode_pass": true
+      },
+      "ranges": {
+        "mouth_open_y": [
+          0.0,
+          0.770778
+        ],
+        "mouth_form": [
+          -1.0,
+          0.803794
+        ],
+        "eye_l_open": [
+          0.0,
+          1.0
+        ],
+        "eye_r_open": [
+          0.0,
+          1.0
+        ],
+        "breath": [
+          0.0,
+          0.589782
+        ],
+        "angle_z": [
+          -4.19998,
+          3.792633
+        ]
+      }
+    },
+    "N05": {
+      "frames": 1285,
+      "motion_duration_s": 42.833333333333336,
+      "png_canvas": "768x1024 RGBA straight-alpha",
+      "mov": {
+        "name": "N05_alpha_512x560.mov",
+        "size": "512x560",
+        "pix_fmt": "yuva444p12le",
+        "fps": "30/1",
+        "decode_pass": true
+      },
+      "ranges": {
+        "mouth_open_y": [
+          0.0,
+          0.798814
+        ],
+        "mouth_form": [
+          -1.0,
+          0.895713
+        ],
+        "eye_l_open": [
+          0.0,
+          1.0
+        ],
+        "eye_r_open": [
+          0.0,
+          1.0
+        ],
+        "breath": [
+          0.0,
+          0.598843
+        ],
+        "angle_z": [
+          -4.18344,
+          3.793716
+        ]
+      }
+    }
+  }
+}

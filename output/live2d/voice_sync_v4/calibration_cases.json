@@ -1,0 +1,82 @@
+[
+  {
+    "mouth_open_y": 0.4,
+    "mouth_form": 0,
+    "eye_open_l": 1,
+    "eye_open_r": 1,
+    "breath": 0,
+    "angle_z": 0
+  },
+  {
+    "mouth_open_y": 0.4,
+    "mouth_form": 0,
+    "eye_open_l": 0.75,
+    "eye_open_r": 0.75,
+    "breath": 0,
+    "angle_z": 0
+  },
+  {
+    "mouth_open_y": 0.4,
+    "mouth_form": 0,
+    "eye_open_l": 0.5,
+    "eye_open_r": 0.5,
+    "breath": 0,
+    "angle_z": 0
+  },
+  {
+    "mouth_open_y": 0.4,
+    "mouth_form": 0,
+    "eye_open_l": 0.25,
+    "eye_open_r": 0.25,
+    "breath": 0,
+    "angle_z": 0
+  },
+  {
+    "mouth_open_y": 0.4,
+    "mouth_form": 0,
+    "eye_open_l": 0,
+    "eye_open_r": 0,
+    "breath": 0,
+    "angle_z": 0
+  },
+  {
+    "mouth_open_y": 0.8,
+    "mouth_form": -1,
+    "eye_open_l": 0,
+    "eye_open_r": 0,
+    "breath": 1,
+    "angle_z": -30
+  },
+  {
+    "mouth_open_y": 0.8,
+    "mouth_form": -1,
+    "eye_open_l": 0,
+    "eye_open_r": 0,
+    "breath": 1,
+    "angle_z": -6
+  },
+  {
+    "mouth_open_y": 0.8,
+    "mouth_form": -1,
+    "eye_open_l": 0,
+    "eye_open_r": 0,
+    "breath": 1,
+    "angle_z": 0
+  },
+  {
+    "mouth_open_y": 0.8,
+    "mouth_form": -1,
+    "eye_open_l": 0,
+    "eye_open_r": 0,
+    "breath": 1,
+    "angle_z": 6
+  },
+  {
+    "mouth_open_y": 0.8,
+    "mouth_form": -1,
+    "eye_open_l": 0,
+    "eye_open_r": 0,
+    "breath": 1,
+    "angle_z": 30
+  }
+]

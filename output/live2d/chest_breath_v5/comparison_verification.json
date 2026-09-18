@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "output": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\exports\\Risa_Breath_Direction_Compare_v4_v5.mp4",
+  "sha256": "a315174b165742d23497af03f9b1d38b16a6e6d6b4fdc3cde547e04012ba3dc0",
+  "layout": "Left A=v4 original; right B=v5 vertical reversal. Same 960x960 scale and same frames.",
+  "breath_curve_identical": true,
+  "frames": 241,
+  "fps": 30,
+  "full_decode_passed": true,
+  "reference_frame_mae": {
+    "0": [
+      2.1905674913194444,
+      2.187132523148148
+    ],
+    "60": [
+      2.174390552662037,
+      2.1755674913194443
+    ],
+    "120": [
+      2.170343967013889,
+      2.170919777199074
+    ],
+    "240": [
+      2.1832685908564815,
+      2.1807432725694444
+    ]
+  }
+}

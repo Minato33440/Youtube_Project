@@ -1,0 +1,159 @@
+{
+  "project": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\filmora\\Risa_Layered_Trial_20260915.wfp",
+  "export": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\exports\\Risa_Layered_Trial_20260915.mp4",
+  "native_save_and_reopen": true,
+  "video_frames": "4745",
+  "duration": "158.166000",
+  "decode_passed": true,
+  "decode_errors": "",
+  "media_references_exist": true,
+  "tracks": [
+    {
+      "type": 2,
+      "clips": [
+        {
+          "file": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/sample_v1_risa/audio/N01.wav",
+          "begin": 214333333,
+          "end": 374000000
+        }
+      ]
+    },
+    {
+      "type": 2,
+      "clips": [
+        {
+          "file": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/sample_v1_risa/video/HOOK.mp4",
+          "begin": 0,
+          "end": 214333333
+        },
+        {
+          "file": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/sample_v1_risa/video/C01a.mp4",
+          "begin": 374000000,
+          "end": 747666667
+        },
+        {
+          "file": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/sample_v1_risa/video/C01b.mp4",
+          "begin": 747666667,
+          "end": 905333333
+        },
+        {
+          "file": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/sample_v1_risa/video/C02a.mp4",
+          "begin": 905333333,
+          "end": 1300000000
+        },
+        {
+          "file": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/sample_v1_risa/video/C02b.mp4",
+          "begin": 1300000000,
+          "end": 1581666667
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "clips": [
+        {
+          "file": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/sample_v1_risa/video/HOOK.mp4",
+          "begin": 0,
+          "end": 214333333
+        },
+        {
+          "file": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/sample_v1_risa/video/C01a.mp4",
+          "begin": 374000000,
+          "end": 747666667
+        },
+        {
+          "file": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/sample_v1_risa/video/C01b.mp4",
+          "begin": 747666667,
+          "end": 905333333
+        },
+        {
+          "file": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/sample_v1_risa/video/C02a.mp4",
+          "begin": 905333333,
+          "end": 1300000000
+        },
+        {
+          "file": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/sample_v1_risa/video/C02b.mp4",
+          "begin": 1300000000,
+          "end": 1581666667
+        }
+      ]
+    },
+    {
+      "type": 2,
+      "clips": []
+    },
+    {
+      "type": 1,
+      "clips": [
+        {
+          "file": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/sample_v1_risa/backgrounds/N01.mp4",
+          "begin": 214333333,
+          "end": 374000000
+        }
+      ]
+    },
+    {
+      "type": 2,
+      "clips": []
+    },
+    {
+      "type": 1,
+      "clips": [
+        {
+          "file": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/sample_v1_risa/live2d/N01.mov",
+          "begin": 214333333,
+          "end": 374000000
+        }
+      ]
+    }
+  ],
+  "audio_checks": [
+    {
+      "segment": "HOOK",
+      "offset_ms": 0.0,
+      "correlation": 0.99992835521698,
+      "rms": 0.11165192723274231,
+      "passed": true
+    },
+    {
+      "segment": "N01",
+      "offset_ms": 0.0,
+      "correlation": 0.9939249753952026,
+      "rms": 0.11046858876943588,
+      "passed": true
+    },
+    {
+      "segment": "C01a",
+      "offset_ms": 0.0,
+      "correlation": 0.9992722868919373,
+      "rms": 0.1204453781247139,
+      "passed": true
+    },
+    {
+      "segment": "C01b",
+      "offset_ms": 0.0,
+      "correlation": 0.9924274682998657,
+      "rms": 0.11000216007232666,
+      "passed": true
+    },
+    {
+      "segment": "C02a",
+      "offset_ms": 0.0,
+      "correlation": 0.9962443113327026,
+      "rms": 0.09627658873796463,
+      "passed": true
+    },
+    {
+      "segment": "C02b",
+      "offset_ms": 0.0,
+      "correlation": 0.9993813633918762,
+      "rms": 0.09934518486261368,
+      "passed": true
+    }
+  ],
+  "human_full_playback_review": "pending",
+  "technical_passed": false,
+  "previous_technical_passed_without_motion_check": true,
+  "superseded_reason": "2026-09-15 user report and frame comparison confirmed all six video segments frozen; earlier container/audio checks were insufficient.",
+  "superseded_by": "Risa_Layered_Trial_20260915_MotionFixed_verification.json"
+}

@@ -1,0 +1,543 @@
+{
+  "status": "pass",
+  "library": "ag-psd",
+  "psd": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\Risa_Live2D_Parts_v1.psd",
+  "flattenedPng": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\Risa_Live2D_Parts_v1.png",
+  "previewPng": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\Risa_Live2D_Parts_v1_preview.png",
+  "canvas": {
+    "width": 1106,
+    "height": 1422
+  },
+  "layerCount": 23,
+  "inputOrder": "bottom-to-top",
+  "psdRecordOrder": "bottom-to-top (Cubism-compatible)",
+  "layers": [
+    {
+      "name": "Hair_Back",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\Hair_Back.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 350,
+        "top": 12,
+        "right": 716,
+        "bottom": 430
+      },
+      "alpha": {
+        "nonTransparentPixels": 105030,
+        "contentBounds": {
+          "left": 350,
+          "top": 13,
+          "right": 711,
+          "bottom": 419
+        }
+      }
+    },
+    {
+      "name": "Neck",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\Neck.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 467,
+        "top": 295,
+        "right": 635,
+        "bottom": 439
+      },
+      "alpha": {
+        "nonTransparentPixels": 15615,
+        "contentBounds": {
+          "left": 467,
+          "top": 295,
+          "right": 635,
+          "bottom": 439
+        }
+      }
+    },
+    {
+      "name": "Head_Skin_Nose",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\Head_Skin_Nose.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 426,
+        "top": 56,
+        "right": 677,
+        "bottom": 336
+      },
+      "alpha": {
+        "nonTransparentPixels": 43190,
+        "contentBounds": {
+          "left": 444,
+          "top": 56,
+          "right": 657,
+          "bottom": 336
+        }
+      }
+    },
+    {
+      "name": "Arm_ViewerLeft",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\Arm_ViewerLeft.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 192,
+        "top": 433,
+        "right": 387,
+        "bottom": 1302
+      },
+      "alpha": {
+        "nonTransparentPixels": 62043,
+        "contentBounds": {
+          "left": 193,
+          "top": 433,
+          "right": 385,
+          "bottom": 1299
+        }
+      }
+    },
+    {
+      "name": "Arm_ViewerRight",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\Arm_ViewerRight.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 723,
+        "top": 433,
+        "right": 918,
+        "bottom": 1302
+      },
+      "alpha": {
+        "nonTransparentPixels": 60145,
+        "contentBounds": {
+          "left": 723,
+          "top": 433,
+          "right": 917,
+          "bottom": 1300
+        }
+      }
+    },
+    {
+      "name": "Body_Clothes",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\Body_Clothes.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 269,
+        "top": 348,
+        "right": 833,
+        "bottom": 1422
+      },
+      "alpha": {
+        "nonTransparentPixels": 451082,
+        "contentBounds": {
+          "left": 270,
+          "top": 350,
+          "right": 833,
+          "bottom": 1422
+        }
+      }
+    },
+    {
+      "name": "EyeWhite_ViewerLeft",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\EyeWhite_ViewerLeft.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 474,
+        "top": 205,
+        "right": 528,
+        "bottom": 223
+      },
+      "alpha": {
+        "nonTransparentPixels": 702,
+        "contentBounds": {
+          "left": 474,
+          "top": 205,
+          "right": 528,
+          "bottom": 223
+        }
+      }
+    },
+    {
+      "name": "Iris_ViewerLeft",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\Iris_ViewerLeft.png",
+      "visible": true,
+      "clipTo": "EyeWhite_ViewerLeft",
+      "clipping": true,
+      "bounds": {
+        "left": 489,
+        "top": 202,
+        "right": 514,
+        "bottom": 227
+      },
+      "alpha": {
+        "nonTransparentPixels": 517,
+        "contentBounds": {
+          "left": 489,
+          "top": 202,
+          "right": 514,
+          "bottom": 227
+        }
+      }
+    },
+    {
+      "name": "LidUpper_ViewerLeft",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\LidUpper_ViewerLeft.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 469,
+        "top": 197,
+        "right": 532,
+        "bottom": 218
+      },
+      "alpha": {
+        "nonTransparentPixels": 612,
+        "contentBounds": {
+          "left": 469,
+          "top": 197,
+          "right": 530,
+          "bottom": 218
+        }
+      }
+    },
+    {
+      "name": "LidLower_ViewerLeft",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\LidLower_ViewerLeft.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 474,
+        "top": 216,
+        "right": 528,
+        "bottom": 224
+      },
+      "alpha": {
+        "nonTransparentPixels": 207,
+        "contentBounds": {
+          "left": 475,
+          "top": 216,
+          "right": 527,
+          "bottom": 224
+        }
+      }
+    },
+    {
+      "name": "Brow_ViewerLeft",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\Brow_ViewerLeft.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 473,
+        "top": 177,
+        "right": 534,
+        "bottom": 186
+      },
+      "alpha": {
+        "nonTransparentPixels": 275,
+        "contentBounds": {
+          "left": 473,
+          "top": 177,
+          "right": 534,
+          "bottom": 186
+        }
+      }
+    },
+    {
+      "name": "EyeWhite_ViewerRight",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\EyeWhite_ViewerRight.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 570,
+        "top": 205,
+        "right": 624,
+        "bottom": 223
+      },
+      "alpha": {
+        "nonTransparentPixels": 724,
+        "contentBounds": {
+          "left": 570,
+          "top": 205,
+          "right": 624,
+          "bottom": 223
+        }
+      }
+    },
+    {
+      "name": "Iris_ViewerRight",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\Iris_ViewerRight.png",
+      "visible": true,
+      "clipTo": "EyeWhite_ViewerRight",
+      "clipping": true,
+      "bounds": {
+        "left": 585,
+        "top": 202,
+        "right": 610,
+        "bottom": 227
+      },
+      "alpha": {
+        "nonTransparentPixels": 515,
+        "contentBounds": {
+          "left": 585,
+          "top": 202,
+          "right": 610,
+          "bottom": 227
+        }
+      }
+    },
+    {
+      "name": "LidUpper_ViewerRight",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\LidUpper_ViewerRight.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 564,
+        "top": 197,
+        "right": 627,
+        "bottom": 218
+      },
+      "alpha": {
+        "nonTransparentPixels": 600,
+        "contentBounds": {
+          "left": 565,
+          "top": 197,
+          "right": 627,
+          "bottom": 218
+        }
+      }
+    },
+    {
+      "name": "LidLower_ViewerRight",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\LidLower_ViewerRight.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 570,
+        "top": 216,
+        "right": 624,
+        "bottom": 224
+      },
+      "alpha": {
+        "nonTransparentPixels": 201,
+        "contentBounds": {
+          "left": 571,
+          "top": 216,
+          "right": 622,
+          "bottom": 224
+        }
+      }
+    },
+    {
+      "name": "Brow_ViewerRight",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\Brow_ViewerRight.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 568,
+        "top": 177,
+        "right": 629,
+        "bottom": 186
+      },
+      "alpha": {
+        "nonTransparentPixels": 276,
+        "contentBounds": {
+          "left": 568,
+          "top": 177,
+          "right": 628,
+          "bottom": 186
+        }
+      }
+    },
+    {
+      "name": "Mouth_Closed",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\Mouth_Closed.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 524,
+        "top": 283,
+        "right": 580,
+        "bottom": 295
+      },
+      "alpha": {
+        "nonTransparentPixels": 413,
+        "contentBounds": {
+          "left": 524,
+          "top": 283,
+          "right": 580,
+          "bottom": 295
+        }
+      }
+    },
+    {
+      "name": "Mouth_Interior",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\Mouth_Interior.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 526,
+        "top": 284,
+        "right": 578,
+        "bottom": 305
+      },
+      "alpha": {
+        "nonTransparentPixels": 769,
+        "contentBounds": {
+          "left": 526,
+          "top": 284,
+          "right": 578,
+          "bottom": 305
+        }
+      }
+    },
+    {
+      "name": "Mouth_LipUpper",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\Mouth_LipUpper.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 524,
+        "top": 282,
+        "right": 580,
+        "bottom": 292
+      },
+      "alpha": {
+        "nonTransparentPixels": 278,
+        "contentBounds": {
+          "left": 524,
+          "top": 282,
+          "right": 580,
+          "bottom": 292
+        }
+      }
+    },
+    {
+      "name": "Mouth_LipLower",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\Mouth_LipLower.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 525,
+        "top": 300,
+        "right": 579,
+        "bottom": 312
+      },
+      "alpha": {
+        "nonTransparentPixels": 319,
+        "contentBounds": {
+          "left": 526,
+          "top": 300,
+          "right": 578,
+          "bottom": 312
+        }
+      }
+    },
+    {
+      "name": "Hair_Front_Sides_Pin",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\Hair_Front_Sides_Pin.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 346,
+        "top": 10,
+        "right": 719,
+        "bottom": 436
+      },
+      "alpha": {
+        "nonTransparentPixels": 87737,
+        "contentBounds": {
+          "left": 346,
+          "top": 10,
+          "right": 719,
+          "bottom": 436
+        }
+      }
+    },
+    {
+      "name": "Ear_ViewerLeft",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\Ear_ViewerLeft.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 428,
+        "top": 195,
+        "right": 463,
+        "bottom": 240
+      },
+      "alpha": {
+        "nonTransparentPixels": 813,
+        "contentBounds": {
+          "left": 428,
+          "top": 195,
+          "right": 463,
+          "bottom": 240
+        }
+      }
+    },
+    {
+      "name": "Ear_ViewerRight",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\parts\\Ear_ViewerRight.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 637,
+        "top": 195,
+        "right": 672,
+        "bottom": 240
+      },
+      "alpha": {
+        "nonTransparentPixels": 808,
+        "contentBounds": {
+          "left": 637,
+          "top": 195,
+          "right": 672,
+          "bottom": 240
+        }
+      }
+    }
+  ],
+  "roundTrip": {
+    "verifiedWith": "ag-psd readPsd(useImageData)",
+    "colorMode": "RGB (3)",
+    "bitsPerChannel": 8,
+    "dimensions": true,
+    "names": true,
+    "positions": true,
+    "visibility": true,
+    "clipping": true,
+    "rgba": true,
+    "renderedLayerCompositeRgba": true,
+    "embeddedCompositeReadback": {
+      "exact": false,
+      "pixels": 155412,
+      "visiblePixels": 155412,
+      "transparentPixels": 0,
+      "alphaPixels": 0,
+      "maxChannelDelta": 127
+    },
+    "embeddedCompositeNote": "ag-psd applies its white-matte conversion to the separate merged preview. Layer RGBA is exact and recomposites exactly to the emitted flattened PNG; the diagnostic above is retained rather than treated as a transparent-pixel-only difference."
+  }
+}

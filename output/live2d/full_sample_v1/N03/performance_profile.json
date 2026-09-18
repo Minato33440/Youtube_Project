@@ -1,0 +1,53 @@
+{
+  "revision": "v2_sentence_boundaries_and_keyword_beats",
+  "source_audio": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\sample_v1_risa\\audio\\N03.wav",
+  "source_audio_duration_s": 17.585833333333333,
+  "timeline_planned_frames": 530,
+  "timeline_duration_s": 17.666666666666668,
+  "alignment": "Julius 4.3.1 forced Viterbi, separately per VoiceVox source utterance; measured part offsets are recorded in audio_alignment_report.json.",
+  "mouth": "Approved v2 aperture and v3 form rules adapted to the separately aligned source utterances; editorial approximation, not face tracking.",
+  "performance": {
+    "blink_profile_samples": [
+      1,
+      0.45,
+      0,
+      0,
+      0.25,
+      0.6,
+      0.84,
+      1
+    ],
+    "blink_times_s": [
+      5.152,
+      9.49,
+      13.6
+    ],
+    "blink_basis": "real source-sentence joins with >=2.2s spacing",
+    "breath": "v4 baseline and long-pause rule",
+    "neck_events": [
+      {
+        "text": "マイナス五パーセント",
+        "part": "N03_01",
+        "time_s": 1.9433,
+        "angle_z": 3.2,
+        "basis": "manual editorial phrase placement within measured sentence bounds"
+      },
+      {
+        "text": "経済成長",
+        "part": "N03_03",
+        "time_s": 11.290187,
+        "angle_z": -4.2,
+        "basis": "manual editorial phrase placement within measured sentence bounds"
+      },
+      {
+        "text": "減税の財源",
+        "part": "N03_04",
+        "time_s": 15.512505,
+        "angle_z": 3.8,
+        "basis": "manual editorial phrase placement within measured sentence bounds"
+      }
+    ],
+    "neck_rule": "v4 pulse width 0.34 seconds, restrained parameter amplitudes"
+  },
+  "n01_v4_copy_status": "not copied: audio_alignment_report.json finds v4 audio correlation 0.0028 with the current N01 intermediate; copy condition is not met."
+}

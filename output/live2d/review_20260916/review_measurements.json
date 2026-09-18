@@ -1,0 +1,20 @@
+{
+  "mouth_open_y": {
+    "min": 0.0,
+    "max": 0.798693
+  },
+  "mouth_form": {
+    "min": -0.999962,
+    "max": 0.899586
+  },
+  "angle_z": {
+    "min": -4.191024,
+    "max": 3.794148
+  },
+  "source": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\exports\\Risa_Layered_Trial_20260915_MotionFixed.mp4",
+  "source_untouched": true,
+  "frames": 479,
+  "narration_start_s": 21.433333333333334,
+  "narration_end_s": 37.4,
+  "review": "Actual export frame sequence and parameter data; no real-time audiovisual playback in this review."
+}

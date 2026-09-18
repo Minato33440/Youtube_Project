@@ -1,0 +1,21 @@
+{
+  "export": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\exports\\Risa_Narration_N01_SizeMotion_Adjusted_v1.mp4",
+  "frames": 479,
+  "fps": 30,
+  "duration_s": 15.966666666666667,
+  "input_hashes": {
+    "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\full_sample_v1\\N01\\performance_curve.csv": "3cfd5f7ba8340102a03db75b0890a8be70e32b70afa4315ac48c4e3bee0ed9da",
+    "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\full_sample_v1\\N01\\performance.motion3.json": "877677a878c8b6976786cb15189ef3a36b2a01f7a8642d8081680edccb7a1ddd",
+    "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\voice_sync_v4\\model\\Risa_mouth_shapes.moc3": "43f017a2d47c51dbeb7275b219929a016eb43cbeaa65b95e392a6ad789fd138e",
+    "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\voice_sync_v4\\model\\Risa_mouth_shapes.2048\\texture_00.png": "4ed9b44b7bceef663fc66e01377bbae015716d887397f13c9c374362ed90d2f4",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\sample_v1_risa\\audio\\N01.wav": "4e97414b9be7690f11a89f644c110dad15915175eb7f8b851cfb069aa1e18aa0",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\sample_v1_risa\\backgrounds\\N01.mp4": "43c763e418e344af7dd965917dc70924c2fc9715f341e7338a19feaa4035da30"
+  },
+  "output_hashes": {
+    "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\narration_adjustment_v1\\performance_curve.csv": "0b21fba066f44a48341cc4970b8e396e2643f47dd40642c15d37e9293e288597",
+    "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\narration_adjustment_v1\\performance.motion3.json": "6226e257b4a2b72c153a6323ff917a0b391b84e0e396019a6d85179b57661821",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\exports\\Risa_Narration_N01_SizeMotion_Adjusted_v1.mp4": "3b37541def5f6b8ea46f5794a6f32d766e1ed5bfec6d7eaf2a59399ea6463838"
+  },
+  "elapsed_seconds": 42.95,
+  "original_assets_modified": false
+}

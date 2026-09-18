@@ -1,0 +1,118 @@
+[
+  {
+    "archive": "movie_works\\日本覚醒チャンネル\\ゆっくり解説\\Live2D\\ゆっくり霊夢.zip",
+    "parameters": [
+      {
+        "Id": "ParamAngleX",
+        "GroupId": "ParamGroup",
+        "Name": "角度 X"
+      },
+      {
+        "Id": "ParamAngleY",
+        "GroupId": "ParamGroup",
+        "Name": "角度 Y"
+      },
+      {
+        "Id": "ParamAngleZ",
+        "GroupId": "ParamGroup",
+        "Name": "角度 Z"
+      },
+      {
+        "Id": "ParamEyeLOpen",
+        "GroupId": "ParamGroup2",
+        "Name": "左目　開閉"
+      },
+      {
+        "Id": "ParamEyeROpen",
+        "GroupId": "ParamGroup2",
+        "Name": "右目　開閉"
+      },
+      {
+        "Id": "ParamMouthForm",
+        "GroupId": "ParamGroup3",
+        "Name": "口　変形"
+      },
+      {
+        "Id": "ParamMouthOpenY",
+        "GroupId": "ParamGroup3",
+        "Name": "口　開閉"
+      },
+      {
+        "Id": "ParamBreath",
+        "GroupId": "ParamGroup5",
+        "Name": "呼吸"
+      }
+    ],
+    "groups": [
+      {
+        "Target": "Parameter",
+        "Name": "LipSync",
+        "Ids": []
+      },
+      {
+        "Target": "Parameter",
+        "Name": "EyeBlink",
+        "Ids": []
+      }
+    ],
+    "expression_files": 14
+  },
+  {
+    "archive": "movie_works\\日本覚醒チャンネル\\ゆっくり解説\\Live2D\\ゆっくり魔理沙.zip",
+    "parameters": [
+      {
+        "Id": "ParamAngleX",
+        "GroupId": "ParamGroup",
+        "Name": "角度 X"
+      },
+      {
+        "Id": "ParamAngleY",
+        "GroupId": "ParamGroup",
+        "Name": "角度 Y"
+      },
+      {
+        "Id": "ParamAngleZ",
+        "GroupId": "ParamGroup",
+        "Name": "角度 Z"
+      },
+      {
+        "Id": "ParamEyeLOpen",
+        "GroupId": "ParamGroup2",
+        "Name": "左目　開閉"
+      },
+      {
+        "Id": "ParamEyeROpen",
+        "GroupId": "ParamGroup2",
+        "Name": "右目　開閉"
+      },
+      {
+        "Id": "ParamMouthForm",
+        "GroupId": "ParamGroup3",
+        "Name": "口　変形"
+      },
+      {
+        "Id": "ParamMouthOpenY",
+        "GroupId": "ParamGroup3",
+        "Name": "口　開閉"
+      },
+      {
+        "Id": "ParamBreath",
+        "GroupId": "ParamGroup5",
+        "Name": "呼吸"
+      }
+    ],
+    "groups": [
+      {
+        "Target": "Parameter",
+        "Name": "EyeBlink",
+        "Ids": []
+      },
+      {
+        "Target": "Parameter",
+        "Name": "LipSync",
+        "Ids": []
+      }
+    ],
+    "expression_files": 14
+  }
+]

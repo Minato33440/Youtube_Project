@@ -1,0 +1,288 @@
+{
+  "inhales": [
+    {
+      "silence_start_s": 0.959562,
+      "silence_end_s": 1.395729,
+      "start_frame": 30,
+      "end_frame": 40,
+      "start_s": 1.0,
+      "end_s": 1.3333333333333333,
+      "inhale_duration_s": 0.3333333333333333,
+      "pause_evidence": [
+        {
+          "start_s": 1.103226,
+          "end_s": 1.433226,
+          "mora": ",",
+          "sentence": "N01_01"
+        }
+      ],
+      "from": 0.41308709,
+      "to": 0.5243333333333333,
+      "next_phrase_span_s": 1.2666666666666666
+    },
+    {
+      "silence_start_s": 2.5695,
+      "silence_end_s": 2.864479,
+      "start_frame": 78,
+      "end_frame": 84,
+      "start_s": 2.6,
+      "end_s": 2.8,
+      "inhale_duration_s": 0.2,
+      "pause_evidence": [
+        {
+          "start_s": 2.713226,
+          "end_s": 2.773226,
+          "mora": ".",
+          "sentence": "N01_01"
+        }
+      ],
+      "from": 0.385,
+      "to": 0.505,
+      "next_phrase_span_s": 1.1666666666666667
+    },
+    {
+      "silence_start_s": 3.924646,
+      "silence_end_s": 4.384854,
+      "start_frame": 119,
+      "end_frame": 130,
+      "start_s": 3.966666666666667,
+      "end_s": 4.333333333333333,
+      "inhale_duration_s": 0.36666666666666664,
+      "pause_evidence": [
+        {
+          "start_s": 4.0649494,
+          "end_s": 4.4249494,
+          "mora": ",",
+          "sentence": "N01_02"
+        }
+      ],
+      "from": 0.37666666666666665,
+      "to": 0.5173333333333333,
+      "next_phrase_span_s": 1.0666666666666667
+    },
+    {
+      "silence_start_s": 5.345083,
+      "silence_end_s": 5.827937,
+      "start_frame": 162,
+      "end_frame": 173,
+      "start_s": 5.4,
+      "end_s": 5.766666666666667,
+      "inhale_duration_s": 0.36666666666666664,
+      "pause_evidence": [
+        {
+          "start_s": 5.4949494,
+          "end_s": 5.8549494,
+          "mora": "[observed_pause: N01_02 san-wa]",
+          "sentence": "N01_02"
+        }
+      ],
+      "from": 0.39999999999999997,
+      "to": 0.5698333333333333,
+      "next_phrase_span_s": 2.566666666666667
+    },
+    {
+      "silence_start_s": 8.273062,
+      "silence_end_s": 8.541604,
+      "start_frame": 250,
+      "end_frame": 255,
+      "start_s": 8.333333333333334,
+      "end_s": 8.5,
+      "inhale_duration_s": 0.16666666666666666,
+      "pause_evidence": [
+        {
+          "start_s": 8.4049494,
+          "end_s": 8.4549494,
+          "mora": ".",
+          "sentence": "N01_02"
+        }
+      ],
+      "from": 0.2874999999999999,
+      "to": 0.4074999999999999,
+      "next_phrase_span_s": 1.2
+    },
+    {
+      "silence_start_s": 9.644937,
+      "silence_end_s": 10.100146,
+      "start_frame": 291,
+      "end_frame": 301,
+      "start_s": 9.7,
+      "end_s": 10.033333333333333,
+      "inhale_duration_s": 0.3333333333333333,
+      "pause_evidence": [
+        {
+          "start_s": 9.697489,
+          "end_s": 10.137489,
+          "mora": ",",
+          "sentence": "N01_03"
+        }
+      ],
+      "from": 0.2754999999999999,
+      "to": 0.5535,
+      "next_phrase_span_s": 2.1
+    },
+    {
+      "silence_start_s": 12.101167,
+      "silence_end_s": 12.553417,
+      "start_frame": 364,
+      "end_frame": 375,
+      "start_s": 12.133333333333333,
+      "end_s": 12.5,
+      "inhale_duration_s": 0.36666666666666664,
+      "pause_evidence": [
+        {
+          "start_s": 12.247489,
+          "end_s": 12.607489,
+          "mora": ",",
+          "sentence": "N01_03"
+        }
+      ],
+      "from": 0.3225,
+      "to": 0.5278333333333334,
+      "next_phrase_span_s": 1.3666666666666667
+    },
+    {
+      "silence_start_s": 13.827646,
+      "silence_end_s": 14.115062,
+      "start_frame": 416,
+      "end_frame": 422,
+      "start_s": 13.866666666666667,
+      "end_s": 14.066666666666666,
+      "inhale_duration_s": 0.2,
+      "pause_evidence": [
+        {
+          "start_s": 13.807489,
+          "end_s": 13.857489,
+          "mora": ".",
+          "sentence": "N01_03"
+        }
+      ],
+      "from": 0.37750000000000006,
+      "to": 0.49750000000000005,
+      "next_phrase_span_s": 1.4666666666666666
+    }
+  ],
+  "exhalations": [
+    {
+      "start_frame": 3,
+      "end_frame": 30,
+      "from": 0.51208709,
+      "to": 0.41308709
+    },
+    {
+      "start_frame": 40,
+      "end_frame": 78,
+      "from": 0.5243333333333333,
+      "to": 0.385
+    },
+    {
+      "start_frame": 84,
+      "end_frame": 119,
+      "from": 0.505,
+      "to": 0.37666666666666665
+    },
+    {
+      "start_frame": 130,
+      "end_frame": 162,
+      "from": 0.5173333333333333,
+      "to": 0.39999999999999997
+    },
+    {
+      "start_frame": 173,
+      "end_frame": 250,
+      "from": 0.5698333333333333,
+      "to": 0.2874999999999999
+    },
+    {
+      "start_frame": 255,
+      "end_frame": 291,
+      "from": 0.4074999999999999,
+      "to": 0.2754999999999999
+    },
+    {
+      "start_frame": 301,
+      "end_frame": 364,
+      "from": 0.5535,
+      "to": 0.3225
+    },
+    {
+      "start_frame": 375,
+      "end_frame": 416,
+      "from": 0.5278333333333334,
+      "to": 0.37750000000000006
+    },
+    {
+      "start_frame": 422,
+      "end_frame": 466,
+      "from": 0.49750000000000005,
+      "to": 0.3361666666666667
+    }
+  ],
+  "skipped_silences": [
+    {
+      "start_s": 7.309521,
+      "end_s": 7.609271,
+      "reason": "no aligned phrase-pause evidence; possible voiceless speech"
+    },
+    {
+      "start_s": 12.657333,
+      "end_s": 12.816437,
+      "reason": "too short"
+    },
+    {
+      "start_s": 15.544375,
+      "end_s": 15.966667,
+      "reason": "trailing silence; no next phrase"
+    }
+  ],
+  "source_silences": [
+    [
+      0.959562,
+      1.395729
+    ],
+    [
+      2.5695,
+      2.864479
+    ],
+    [
+      3.924646,
+      4.384854
+    ],
+    [
+      5.345083,
+      5.827937
+    ],
+    [
+      7.309521,
+      7.609271
+    ],
+    [
+      8.273062,
+      8.541604
+    ],
+    [
+      9.644937,
+      10.100146
+    ],
+    [
+      12.101167,
+      12.553417
+    ],
+    [
+      12.657333,
+      12.816437
+    ],
+    [
+      13.827646,
+      14.115062
+    ],
+    [
+      15.544375,
+      15.966667
+    ]
+  ],
+  "first_phone_s": 0.083226,
+  "last_phone_s": 15.5105276,
+  "v8_peak_ceiling": 0.593756,
+  "initial_value": 0.51208709,
+  "final_value": 0.3361666666666667
+}

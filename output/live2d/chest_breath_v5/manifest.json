@@ -1,0 +1,16 @@
+{
+  "primary": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\exports\\Risa_ModelOnly_ChestBreath_v5.mp4",
+  "breath_only": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\exports\\Risa_ModelOnly_BreathOnly_v5.mp4",
+  "rig": "Chest_Local_Breath (Warp4), 8x9 grid under Breath_Base; only Body_Clothes; ParamBreath keys 0 and 1; Breath_Base scale neutralized to 100 percent.",
+  "breathing_geometry": "v3 chest/shoulder warp retained. Body_Clothes adds ParamBreath 0/1 keys: three upper-knit vertices spread/tug up; three lower-knit vertices spread/tug down. Top collar, belt and head stay anchored; original texture unchanged.",
+  "speaking_curves_unchanged": true,
+  "audio_unchanged": true,
+  "hashes": {
+    "Risa_chest_breath.cmo3": "d093eb040013c5301c000a299a62124be3d05538e8ed7a7935e71e94b4663912",
+    "Risa_chest_breath.moc3": "05629037c62e66d26d9806d3e48e31e68d5a6d860be64b2eb7921f317a5d8700",
+    "texture_00.png": "4ed9b44b7bceef663fc66e01377bbae015716d887397f13c9c374362ed90d2f4",
+    "performance.motion3.json": "6226e257b4a2b72c153a6323ff917a0b391b84e0e396019a6d85179b57661821",
+    "Risa_ModelOnly_ChestBreath_v5.mp4": "0f83920fb3b269b5fd2aa655dcaf10469adbc7420102cea1d87fd1fcc8de43e4",
+    "Risa_ModelOnly_BreathOnly_v5.mp4": "fae2727f67911ce3211d37022b6b88ff8ea66bb94fe86d326cc011f0673ce221"
+  }
+}

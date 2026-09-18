@@ -1,0 +1,90 @@
+{
+  "passed": true,
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "frames": 479,
+    "fps": 30,
+    "duration_s": 15.966667,
+    "full_decode_passed": true
+  },
+  "audio": {
+    "source_wav_identical": true,
+    "zero_offset_correlation": 0.9999816066577017,
+    "peak_lag_ms": 0.0,
+    "video_audio_start": 0
+  },
+  "requested_multipliers_verified": true,
+  "blink_breath_phoneme_timing_unchanged": true,
+  "ranges": {
+    "mouth_open_y": [
+      0.0,
+      0.958432
+    ],
+    "mouth_form": [
+      -0.549979,
+      0.899586
+    ],
+    "eye_l_open": [
+      0.0,
+      1.0
+    ],
+    "eye_r_open": [
+      0.0,
+      1.0
+    ],
+    "breath": [
+      0.0,
+      0.593756
+    ],
+    "angle_z": [
+      -8.382048,
+      7.588296
+    ]
+  },
+  "export_model_mean_pixel_error_by_sample": [
+    2.0189099925063143,
+    1.9576043563846424,
+    1.97653922923384,
+    2.146761053063273,
+    1.998318621269441,
+    2.06208940040202,
+    2.0902967764047764,
+    1.970305211738348,
+    2.451132225007941
+  ],
+  "model_only_temporal_mean_pixel_difference": [
+    7.812954984862331,
+    3.1269290087827044,
+    12.823987041144992,
+    12.744551857175514,
+    12.269396234797926,
+    8.330529293530857,
+    9.57193724233845,
+    7.365748778742338
+  ],
+  "cards_subtitles_mean_pixel_error_by_sample": [
+    1.2590803478712358,
+    1.2590595794392523,
+    1.261289914330218,
+    1.2613093847352026,
+    1.2613372923156803,
+    1.2629020638629282,
+    1.2628907061266874,
+    1.2629108255451713,
+    1.2527391614745587
+  ],
+  "sampled_frame_indices": [
+    0,
+    80,
+    108,
+    166,
+    249,
+    275,
+    280,
+    411,
+    478
+  ],
+  "human_audiovisual_acceptance": "pending",
+  "scope": "All frames decoded, all curves checked; appearance comparisons use selected frames and do not replace listening/viewing."
+}

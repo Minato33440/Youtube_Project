@@ -70,6 +70,10 @@ downloads/
 # (-> %APPDATA%\Wondershare\Wondershare Filmora\Output)
 filmore_output/
 
+# Desktop の動画作業フォルダへのジャンクション
+# (-> %USERPROFILE%\Desktop\movie_works)
+movie_works/
+
 tmp/
 temp/
 cache/

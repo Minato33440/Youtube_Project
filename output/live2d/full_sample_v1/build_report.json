@@ -1,0 +1,193 @@
+{
+  "items": [
+    {
+      "id": "N01",
+      "revision": "v2_sentence_boundaries_and_keyword_beats",
+      "frames": 479,
+      "motion_duration_s": 15.966666666666667,
+      "audio_duration_s": 15.867395833333333,
+      "aligned_phone_count": 206,
+      "blink_count": 3,
+      "beats": [
+        {
+          "text": "財源",
+          "part": "N01_01",
+          "time_s": 1.8579,
+          "angle_z": 3.2,
+          "basis": "manual editorial phrase placement within measured sentence bounds"
+        },
+        {
+          "text": "経済成長",
+          "part": "N01_02",
+          "time_s": 5.523323,
+          "angle_z": -4.2,
+          "basis": "manual editorial phrase placement within measured sentence bounds"
+        },
+        {
+          "text": "国債への不安",
+          "part": "N01_03",
+          "time_s": 9.175163,
+          "angle_z": 3.8,
+          "basis": "manual editorial phrase placement within measured sentence bounds"
+        },
+        {
+          "text": "暮らしを支える政策",
+          "part": "N01_03",
+          "time_s": 11.409563,
+          "angle_z": -3.1,
+          "basis": "manual editorial phrase placement within measured sentence bounds"
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "revision": "v2_sentence_boundaries_and_keyword_beats",
+      "frames": 540,
+      "motion_duration_s": 18.0,
+      "audio_duration_s": 17.954729166666667,
+      "aligned_phone_count": 242,
+      "blink_count": 2,
+      "beats": [
+        {
+          "text": "借換え",
+          "part": "N02_01",
+          "time_s": 0.9281,
+          "angle_z": 3.2,
+          "basis": "manual editorial phrase placement within measured sentence bounds"
+        },
+        {
+          "text": "企業と政府",
+          "part": "N02_02",
+          "time_s": 8.772438,
+          "angle_z": -4.2,
+          "basis": "manual editorial phrase placement within measured sentence bounds"
+        },
+        {
+          "text": "お金の流れ",
+          "part": "N02_03",
+          "time_s": 15.448732,
+          "angle_z": 3.8,
+          "basis": "manual editorial phrase placement within measured sentence bounds"
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "revision": "v2_sentence_boundaries_and_keyword_beats",
+      "frames": 530,
+      "motion_duration_s": 17.666666666666668,
+      "audio_duration_s": 17.585833333333333,
+      "aligned_phone_count": 218,
+      "blink_count": 3,
+      "beats": [
+        {
+          "text": "マイナス五パーセント",
+          "part": "N03_01",
+          "time_s": 1.9433,
+          "angle_z": 3.2,
+          "basis": "manual editorial phrase placement within measured sentence bounds"
+        },
+        {
+          "text": "経済成長",
+          "part": "N03_03",
+          "time_s": 11.290187,
+          "angle_z": -4.2,
+          "basis": "manual editorial phrase placement within measured sentence bounds"
+        },
+        {
+          "text": "減税の財源",
+          "part": "N03_04",
+          "time_s": 15.512505,
+          "angle_z": 3.8,
+          "basis": "manual editorial phrase placement within measured sentence bounds"
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "revision": "v2_sentence_boundaries_and_keyword_beats",
+      "frames": 343,
+      "motion_duration_s": 11.433333333333334,
+      "audio_duration_s": 11.4115,
+      "aligned_phone_count": 155,
+      "blink_count": 2,
+      "beats": [
+        {
+          "text": "投資",
+          "part": "N04_01",
+          "time_s": 0.5001,
+          "angle_z": 3.2,
+          "basis": "manual editorial phrase placement within measured sentence bounds"
+        },
+        {
+          "text": "暮らし",
+          "part": "N04_02",
+          "time_s": 4.732866,
+          "angle_z": -4.2,
+          "basis": "manual editorial phrase placement within measured sentence bounds"
+        },
+        {
+          "text": "減税の具体的な方法",
+          "part": "N04_03",
+          "time_s": 7.842867,
+          "angle_z": 3.8,
+          "basis": "manual editorial phrase placement within measured sentence bounds"
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "revision": "v2_sentence_boundaries_and_keyword_beats",
+      "frames": 1285,
+      "motion_duration_s": 42.833333333333336,
+      "audio_duration_s": 42.823541666666664,
+      "aligned_phone_count": 539,
+      "blink_count": 7,
+      "beats": [
+        {
+          "text": "国債を何に使うか",
+          "part": "N05_02",
+          "time_s": 5.413281,
+          "angle_z": 3.2,
+          "basis": "manual editorial phrase placement within measured sentence bounds"
+        },
+        {
+          "text": "経済成長と税収",
+          "part": "N05_03",
+          "time_s": 11.080267,
+          "angle_z": -4.2,
+          "basis": "manual editorial phrase placement within measured sentence bounds"
+        },
+        {
+          "text": "暮らしを支える",
+          "part": "N05_04",
+          "time_s": 17.242138,
+          "angle_z": 3.8,
+          "basis": "manual editorial phrase placement within measured sentence bounds"
+        },
+        {
+          "text": "成長と家計支援",
+          "part": "N05_05",
+          "time_s": 23.690391,
+          "angle_z": -3.2,
+          "basis": "manual editorial phrase placement within measured sentence bounds"
+        },
+        {
+          "text": "物価や金利",
+          "part": "N05_06",
+          "time_s": 28.719706,
+          "angle_z": 3.2,
+          "basis": "manual editorial phrase placement within measured sentence bounds"
+        },
+        {
+          "text": "成長の力をどう暮らしへ",
+          "part": "N05_07",
+          "time_s": 36.484416,
+          "angle_z": -3.2,
+          "basis": "manual editorial phrase placement within measured sentence bounds"
+        }
+      ]
+    }
+  ],
+  "rendered": true
+}

@@ -1,0 +1,303 @@
+{
+  "fingerprint": "375331bbc00e5f80e2874162f3097420bf720c2483899e83b03f5cc227408e2e",
+  "text": "投資を増やしても、すぐに給料が上がるとは限りません。",
+  "spoken_text": "投資を増やしても、すぐに給料が上がるとは限りません。",
+  "query": {
+    "accent_phrases": [
+      {
+        "moras": [
+          {
+            "text": "ト",
+            "consonant": "t",
+            "consonant_length": 0.0,
+            "vowel": "o",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "オ",
+            "consonant": null,
+            "consonant_length": null,
+            "vowel": "o",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "シ",
+            "consonant": "sh",
+            "consonant_length": 0.0,
+            "vowel": "i",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "オ",
+            "consonant": null,
+            "consonant_length": null,
+            "vowel": "o",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          }
+        ],
+        "accent": 4,
+        "pause_mora": null,
+        "is_interrogative": false
+      },
+      {
+        "moras": [
+          {
+            "text": "フ",
+            "consonant": "f",
+            "consonant_length": 0.0,
+            "vowel": "u",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "ヤ",
+            "consonant": "y",
+            "consonant_length": 0.0,
+            "vowel": "a",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "シ",
+            "consonant": "sh",
+            "consonant_length": 0.0,
+            "vowel": "i",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "テ",
+            "consonant": "t",
+            "consonant_length": 0.0,
+            "vowel": "e",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "モ",
+            "consonant": "m",
+            "consonant_length": 0.0,
+            "vowel": "o",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": ",",
+            "consonant": null,
+            "consonant_length": null,
+            "vowel": "pau",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          }
+        ],
+        "accent": 2,
+        "pause_mora": null,
+        "is_interrogative": false
+      },
+      {
+        "moras": [
+          {
+            "text": "ス",
+            "consonant": "s",
+            "consonant_length": 0.0,
+            "vowel": "u",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "グ",
+            "consonant": "g",
+            "consonant_length": 0.0,
+            "vowel": "u",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "ニ",
+            "consonant": "n",
+            "consonant_length": 0.0,
+            "vowel": "i",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          }
+        ],
+        "accent": 1,
+        "pause_mora": null,
+        "is_interrogative": false
+      },
+      {
+        "moras": [
+          {
+            "text": "キュ",
+            "consonant": "ky",
+            "consonant_length": 0.0,
+            "vowel": "u",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "ウ",
+            "consonant": null,
+            "consonant_length": null,
+            "vowel": "u",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "リョ",
+            "consonant": "ry",
+            "consonant_length": 0.0,
+            "vowel": "o",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "オ",
+            "consonant": null,
+            "consonant_length": null,
+            "vowel": "o",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "ガ",
+            "consonant": "g",
+            "consonant_length": 0.0,
+            "vowel": "a",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          }
+        ],
+        "accent": 1,
+        "pause_mora": null,
+        "is_interrogative": false
+      },
+      {
+        "moras": [
+          {
+            "text": "ア",
+            "consonant": null,
+            "consonant_length": null,
+            "vowel": "a",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "ガ",
+            "consonant": "g",
+            "consonant_length": 0.0,
+            "vowel": "a",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "ル",
+            "consonant": "r",
+            "consonant_length": 0.0,
+            "vowel": "u",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "ト",
+            "consonant": "t",
+            "consonant_length": 0.0,
+            "vowel": "o",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "ワ",
+            "consonant": "w",
+            "consonant_length": 0.0,
+            "vowel": "a",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          }
+        ],
+        "accent": 3,
+        "pause_mora": null,
+        "is_interrogative": false
+      },
+      {
+        "moras": [
+          {
+            "text": "カ",
+            "consonant": "k",
+            "consonant_length": 0.0,
+            "vowel": "a",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "ギ",
+            "consonant": "g",
+            "consonant_length": 0.0,
+            "vowel": "i",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "リ",
+            "consonant": "r",
+            "consonant_length": 0.0,
+            "vowel": "i",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "マ",
+            "consonant": "m",
+            "consonant_length": 0.0,
+            "vowel": "a",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "セ",
+            "consonant": "s",
+            "consonant_length": 0.0,
+            "vowel": "e",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": "ン",
+            "consonant": null,
+            "consonant_length": null,
+            "vowel": "N",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          },
+          {
+            "text": ".",
+            "consonant": null,
+            "consonant_length": null,
+            "vowel": "pau",
+            "vowel_length": 0.0,
+            "pitch": 0.0
+          }
+        ],
+        "accent": 5,
+        "pause_mora": null,
+        "is_interrogative": false
+      }
+    ],
+    "speedScale": 1.17,
+    "intonationScale": 1.0,
+    "tempoDynamicsScale": 1.15,
+    "pitchScale": 0.0,
+    "volumeScale": 1.0,
+    "prePhonemeLength": 0.12,
+    "postPhonemeLength": 0.15,
+    "pauseLength": null,
+    "pauseLengthScale": 1.0,
+    "outputSamplingRate": 44100,
+    "outputStereo": false,
+    "kana": "投資を増やしても、すぐに給料が上がるとは限りません。"
+  }
+}

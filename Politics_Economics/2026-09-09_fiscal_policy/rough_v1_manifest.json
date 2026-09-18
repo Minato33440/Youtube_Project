@@ -1,0 +1,182 @@
+{
+  "version": "rough_v1",
+  "narration_included": false,
+  "planned_duration_seconds": 1048,
+  "clips": [
+    {
+      "cut_id": "C01",
+      "video_id": "HDIBA7-83yE",
+      "source_in": "00:02:22",
+      "source_out": "00:06:18",
+      "timeline_in_seconds": 0,
+      "timeline_out_seconds": 236,
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\rough_v1_clips\\C01_HDIBA7-83yE.mp4",
+      "duration_seconds": 236.0,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "r_frame_rate": "0/0"
+        }
+      ]
+    },
+    {
+      "cut_id": "C02",
+      "video_id": "LRcGT_xzWpY",
+      "source_in": "00:14:42",
+      "source_out": "00:17:16",
+      "timeline_in_seconds": 236,
+      "timeline_out_seconds": 390,
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\rough_v1_clips\\C02_LRcGT_xzWpY.mp4",
+      "duration_seconds": 154.0,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "r_frame_rate": "0/0"
+        }
+      ]
+    },
+    {
+      "cut_id": "C03",
+      "video_id": "YXQjMSHSWEo",
+      "source_in": "00:13:15",
+      "source_out": "00:16:09",
+      "timeline_in_seconds": 390,
+      "timeline_out_seconds": 564,
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\rough_v1_clips\\C03_YXQjMSHSWEo.mp4",
+      "duration_seconds": 174.0,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "r_frame_rate": "0/0"
+        }
+      ]
+    },
+    {
+      "cut_id": "C04",
+      "video_id": "HDIBA7-83yE",
+      "source_in": "00:15:35",
+      "source_out": "00:16:40",
+      "timeline_in_seconds": 564,
+      "timeline_out_seconds": 629,
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\rough_v1_clips\\C04_HDIBA7-83yE.mp4",
+      "duration_seconds": 65.0,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "r_frame_rate": "0/0"
+        }
+      ]
+    },
+    {
+      "cut_id": "C05",
+      "video_id": "VdKZeKSmo8o",
+      "source_in": "00:09:36",
+      "source_out": "00:11:57",
+      "timeline_in_seconds": 629,
+      "timeline_out_seconds": 770,
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\rough_v1_clips\\C05_VdKZeKSmo8o.mp4",
+      "duration_seconds": 141.0,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "r_frame_rate": "0/0"
+        }
+      ]
+    },
+    {
+      "cut_id": "C06",
+      "video_id": "VdKZeKSmo8o",
+      "source_in": "00:13:48",
+      "source_out": "00:17:25",
+      "timeline_in_seconds": 770,
+      "timeline_out_seconds": 987,
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\rough_v1_clips\\C06_VdKZeKSmo8o.mp4",
+      "duration_seconds": 217.0,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "r_frame_rate": "0/0"
+        }
+      ]
+    },
+    {
+      "cut_id": "C07",
+      "video_id": "VdKZeKSmo8o",
+      "source_in": "00:18:06",
+      "source_out": "00:19:07",
+      "timeline_in_seconds": 987,
+      "timeline_out_seconds": 1048,
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\rough_v1_clips\\C07_VdKZeKSmo8o.mp4",
+      "duration_seconds": 61.0,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "r_frame_rate": "0/0"
+        }
+      ]
+    }
+  ]
+}

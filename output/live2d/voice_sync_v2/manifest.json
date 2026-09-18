@@ -1,0 +1,43 @@
+{
+  "source_video": "C:\\Users\\Setona\\Desktop\\Voicd-Sample.mp4",
+  "fps": 30,
+  "frame_count": 478,
+  "duration_seconds": 15.933333333333334,
+  "source_audio_offset_seconds": 0,
+  "model": "model/Risa_compat.model3.json",
+  "editor_model": "../voice_sync_v1/Risa_voice_test.cmo3",
+  "audio": "audio_stereo_44100_pcm16.wav",
+  "curve": "mouth_curve.csv",
+  "motion_reference": "voice_sync.motion3.json",
+  "rgba_frames": "frames/%05d.png",
+  "alpha_mode": "straight",
+  "overlay": {
+    "source_crop_xywh": [
+      128,
+      0,
+      512,
+      560
+    ],
+    "size": [
+      256,
+      280
+    ],
+    "xy": [
+      850,
+      66
+    ]
+  },
+  "mouth_driver": "ParamMouthOpenY from aligned Japanese phones, phone-level energy and coarticulation",
+  "alignment": "alignment/phonemes.json",
+  "fixed_parameters": {
+    "ParamEyeLOpen": 1,
+    "ParamEyeROpen": 1,
+    "ParamAngleZ": 0,
+    "ParamBreath": 0
+  },
+  "outputs": [
+    "Risa_narration_composite.mp4",
+    "Risa_lipsync_closeup.mp4",
+    "Risa_lipsync_comparison.mp4"
+  ]
+}

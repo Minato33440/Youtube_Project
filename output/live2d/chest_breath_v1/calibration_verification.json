@@ -1,0 +1,115 @@
+{
+  "passed": true,
+  "cases": [
+    {
+      "case": {
+        "mouth_open_y": 0,
+        "mouth_form": 0,
+        "eye_l_open": 1,
+        "eye_r_open": 1,
+        "breath": 0,
+        "angle_z": 0
+      },
+      "changed_bbox_xyxy": null,
+      "head_max_pixel_difference": 0,
+      "new_interior_transparency_pixels": 0,
+      "mean_chest_pixel_difference": 0.0
+    },
+    {
+      "case": {
+        "mouth_open_y": 0,
+        "mouth_form": 0,
+        "eye_l_open": 1,
+        "eye_r_open": 1,
+        "breath": 0.3,
+        "angle_z": 0
+      },
+      "changed_bbox_xyxy": [
+        107,
+        366,
+        648,
+        1079
+      ],
+      "head_max_pixel_difference": 0,
+      "new_interior_transparency_pixels": 0,
+      "mean_chest_pixel_difference": 1.3822113022113023
+    },
+    {
+      "case": {
+        "mouth_open_y": 0,
+        "mouth_form": 0,
+        "eye_l_open": 1,
+        "eye_r_open": 1,
+        "breath": 0.6,
+        "angle_z": 0
+      },
+      "changed_bbox_xyxy": [
+        106,
+        364,
+        648,
+        1079
+      ],
+      "head_max_pixel_difference": 0,
+      "new_interior_transparency_pixels": 0,
+      "mean_chest_pixel_difference": 2.4714004914004915
+    },
+    {
+      "case": {
+        "mouth_open_y": 0,
+        "mouth_form": 0,
+        "eye_l_open": 1,
+        "eye_r_open": 1,
+        "breath": 1,
+        "angle_z": 0
+      },
+      "changed_bbox_xyxy": [
+        105,
+        363,
+        649,
+        1079
+      ],
+      "head_max_pixel_difference": 0,
+      "new_interior_transparency_pixels": 0,
+      "mean_chest_pixel_difference": 3.7613513513513515
+    },
+    {
+      "case": {
+        "mouth_open_y": 0.958,
+        "mouth_form": -0.55,
+        "eye_l_open": 1,
+        "eye_r_open": 1,
+        "breath": 1,
+        "angle_z": -8.4
+      },
+      "changed_bbox_xyxy": [
+        105,
+        363,
+        649,
+        1079
+      ],
+      "head_max_pixel_difference": 0,
+      "new_interior_transparency_pixels": 0,
+      "mean_chest_pixel_difference": 3.813644553644554
+    },
+    {
+      "case": {
+        "mouth_open_y": 0.958,
+        "mouth_form": -0.55,
+        "eye_l_open": 1,
+        "eye_r_open": 1,
+        "breath": 1,
+        "angle_z": 8.4
+      },
+      "changed_bbox_xyxy": [
+        105,
+        363,
+        649,
+        1079
+      ],
+      "head_max_pixel_difference": 0,
+      "new_interior_transparency_pixels": 0,
+      "mean_chest_pixel_difference": 3.8465765765765765
+    }
+  ],
+  "scope": "Same parameters on old and new native rigs; isolates new chest deformation. Head region y<300; transparency compares eroded old model alpha."
+}

@@ -1,0 +1,509 @@
+{
+  "long_pauses_from_alignment": [
+    {
+      "start_s": 1.103226,
+      "end_s": 1.433226,
+      "duration_s": 0.33
+    },
+    {
+      "start_s": 4.064949,
+      "end_s": 4.424949,
+      "duration_s": 0.36
+    },
+    {
+      "start_s": 5.494949,
+      "end_s": 5.854949,
+      "duration_s": 0.36
+    },
+    {
+      "start_s": 9.697489,
+      "end_s": 10.137489,
+      "duration_s": 0.44
+    },
+    {
+      "start_s": 12.247489,
+      "end_s": 12.607489,
+      "duration_s": 0.36
+    }
+  ],
+  "blinks": [
+    {
+      "start_s": 1.12,
+      "start_frame": 34,
+      "samples": [
+        1.0,
+        0.45,
+        0.0,
+        0.0,
+        0.25,
+        0.6,
+        0.84,
+        1.0
+      ],
+      "eyes": "same timing"
+    },
+    {
+      "start_s": 4.08,
+      "start_frame": 122,
+      "samples": [
+        1.0,
+        0.45,
+        0.0,
+        0.0,
+        0.25,
+        0.6,
+        0.84,
+        1.0
+      ],
+      "eyes": "same timing"
+    },
+    {
+      "start_s": 9.76,
+      "start_frame": 293,
+      "samples": [
+        1.0,
+        0.45,
+        0.0,
+        0.0,
+        0.25,
+        0.6,
+        0.84,
+        1.0
+      ],
+      "eyes": "same timing"
+    },
+    {
+      "start_s": 12.29,
+      "start_frame": 369,
+      "samples": [
+        1.0,
+        0.45,
+        0.0,
+        0.0,
+        0.25,
+        0.6,
+        0.84,
+        1.0
+      ],
+      "eyes": "same timing"
+    }
+  ],
+  "neck_emphasis": [
+    {
+      "time_s": 1.86,
+      "angle_z": 3.2,
+      "text": "財源",
+      "reason": "question focus",
+      "manual_editorial_time": true,
+      "source_window_s": [
+        1.52,
+        2.2
+      ],
+      "alignment_phonemes": [
+        {
+          "phoneme": "z",
+          "mora": "ザ",
+          "start_s": 1.433226,
+          "end_s": 1.543226,
+          "sentence": "N01_01"
+        },
+        {
+          "phoneme": "a",
+          "mora": "ザ",
+          "start_s": 1.543226,
+          "end_s": 1.603226,
+          "sentence": "N01_01"
+        },
+        {
+          "phoneme": "i",
+          "mora": "イ",
+          "start_s": 1.603226,
+          "end_s": 1.673226,
+          "sentence": "N01_01"
+        },
+        {
+          "phoneme": "g",
+          "mora": "ゲ",
+          "start_s": 1.673226,
+          "end_s": 1.723226,
+          "sentence": "N01_01"
+        },
+        {
+          "phoneme": "e",
+          "mora": "ゲ",
+          "start_s": 1.723226,
+          "end_s": 1.793226,
+          "sentence": "N01_01"
+        },
+        {
+          "phoneme": "N",
+          "mora": "ン",
+          "start_s": 1.793226,
+          "end_s": 1.843226,
+          "sentence": "N01_01"
+        },
+        {
+          "phoneme": "w",
+          "mora": "ワ",
+          "start_s": 1.843226,
+          "end_s": 1.913226,
+          "sentence": "N01_01"
+        },
+        {
+          "phoneme": "a",
+          "mora": "ワ",
+          "start_s": 1.913226,
+          "end_s": 1.963226,
+          "sentence": "N01_01"
+        },
+        {
+          "phoneme": "d",
+          "mora": "ド",
+          "start_s": 1.963226,
+          "end_s": 2.023226,
+          "sentence": "N01_01"
+        },
+        {
+          "phoneme": "o",
+          "mora": "ド",
+          "start_s": 2.023226,
+          "end_s": 2.063226,
+          "sentence": "N01_01"
+        },
+        {
+          "phoneme": "o",
+          "mora": "オ",
+          "start_s": 2.063226,
+          "end_s": 2.093226,
+          "sentence": "N01_01"
+        },
+        {
+          "phoneme": "s",
+          "mora": "ス",
+          "start_s": 2.093226,
+          "end_s": 2.213226,
+          "sentence": "N01_01"
+        }
+      ],
+      "v3_moras_in_window": [
+        "ザ",
+        "イ",
+        "ゲ",
+        "ン",
+        "ワ",
+        "ド",
+        "オ",
+        "ス"
+      ]
+    },
+    {
+      "time_s": 6.18,
+      "angle_z": -4.2,
+      "text": "経済成長",
+      "reason": "named explanatory viewpoint",
+      "manual_editorial_time": true,
+      "source_window_s": [
+        5.84,
+        6.52
+      ],
+      "alignment_phonemes": [
+        {
+          "phoneme": "sp",
+          "mora": "[observed_pause: N01_02 san-wa]",
+          "start_s": 5.494949,
+          "end_s": 5.854949,
+          "sentence": "N01_02"
+        },
+        {
+          "phoneme": "k",
+          "mora": "ケ",
+          "start_s": 5.854949,
+          "end_s": 5.924949,
+          "sentence": "N01_02"
+        },
+        {
+          "phoneme": "e",
+          "mora": "ケ",
+          "start_s": 5.924949,
+          "end_s": 5.994949,
+          "sentence": "N01_02"
+        },
+        {
+          "phoneme": "i",
+          "mora": "イ",
+          "start_s": 5.994949,
+          "end_s": 6.034949,
+          "sentence": "N01_02"
+        },
+        {
+          "phoneme": "z",
+          "mora": "ザ",
+          "start_s": 6.034949,
+          "end_s": 6.124949,
+          "sentence": "N01_02"
+        },
+        {
+          "phoneme": "a",
+          "mora": "ザ",
+          "start_s": 6.124949,
+          "end_s": 6.174949,
+          "sentence": "N01_02"
+        },
+        {
+          "phoneme": "i",
+          "mora": "イ",
+          "start_s": 6.174949,
+          "end_s": 6.224949,
+          "sentence": "N01_02"
+        },
+        {
+          "phoneme": "s",
+          "mora": "セ",
+          "start_s": 6.224949,
+          "end_s": 6.314949,
+          "sentence": "N01_02"
+        },
+        {
+          "phoneme": "e",
+          "mora": "セ",
+          "start_s": 6.314949,
+          "end_s": 6.374949,
+          "sentence": "N01_02"
+        },
+        {
+          "phoneme": "i",
+          "mora": "イ",
+          "start_s": 6.374949,
+          "end_s": 6.444949,
+          "sentence": "N01_02"
+        },
+        {
+          "phoneme": "ch",
+          "mora": "チョ",
+          "start_s": 6.444949,
+          "end_s": 6.524949,
+          "sentence": "N01_02"
+        }
+      ],
+      "v3_moras_in_window": [
+        "ケ",
+        "イ",
+        "ザ",
+        "セ",
+        "チョ"
+      ]
+    },
+    {
+      "time_s": 9.12,
+      "angle_z": 3.8,
+      "text": "国債への不安",
+      "reason": "topic shift",
+      "manual_editorial_time": true,
+      "source_window_s": [
+        8.78,
+        9.46
+      ],
+      "alignment_phonemes": [
+        {
+          "phoneme": "u",
+          "mora": "ク",
+          "start_s": 8.767489,
+          "end_s": 8.797489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "s",
+          "mora": "サ",
+          "start_s": 8.797489,
+          "end_s": 8.867489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "a",
+          "mora": "サ",
+          "start_s": 8.867489,
+          "end_s": 8.937489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "i",
+          "mora": "イ",
+          "start_s": 8.937489,
+          "end_s": 8.987489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "e",
+          "mora": "エ",
+          "start_s": 8.987489,
+          "end_s": 9.067489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "n",
+          "mora": "ノ",
+          "start_s": 9.067489,
+          "end_s": 9.127489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "o",
+          "mora": "ノ",
+          "start_s": 9.127489,
+          "end_s": 9.157489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "f",
+          "mora": "フ",
+          "start_s": 9.157489,
+          "end_s": 9.257489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "u",
+          "mora": "フ",
+          "start_s": 9.257489,
+          "end_s": 9.317489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "a",
+          "mora": "ア",
+          "start_s": 9.317489,
+          "end_s": 9.407489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "N",
+          "mora": "ン",
+          "start_s": 9.407489,
+          "end_s": 9.477489,
+          "sentence": "N01_03"
+        }
+      ],
+      "v3_moras_in_window": [
+        "サ",
+        "イ",
+        "エ",
+        "ノ",
+        "フ",
+        "ア",
+        "ン"
+      ]
+    },
+    {
+      "time_s": 11.36,
+      "angle_z": -3.1,
+      "text": "暮らしを支える政策",
+      "reason": "human-impact contrast",
+      "manual_editorial_time": true,
+      "source_window_s": [
+        11.02,
+        11.7
+      ],
+      "alignment_phonemes": [
+        {
+          "phoneme": "sh",
+          "mora": "シ",
+          "start_s": 10.977489,
+          "end_s": 11.077489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "i",
+          "mora": "シ",
+          "start_s": 11.077489,
+          "end_s": 11.107489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "o",
+          "mora": "オ",
+          "start_s": 11.107489,
+          "end_s": 11.147489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "s",
+          "mora": "サ",
+          "start_s": 11.147489,
+          "end_s": 11.247489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "a",
+          "mora": "サ",
+          "start_s": 11.247489,
+          "end_s": 11.277489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "s",
+          "mora": "サ",
+          "start_s": 11.277489,
+          "end_s": 11.377489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "a",
+          "mora": "サ",
+          "start_s": 11.377489,
+          "end_s": 11.417489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "e",
+          "mora": "エ",
+          "start_s": 11.417489,
+          "end_s": 11.467489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "r",
+          "mora": "ル",
+          "start_s": 11.467489,
+          "end_s": 11.507489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "u",
+          "mora": "ル",
+          "start_s": 11.507489,
+          "end_s": 11.537489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "s",
+          "mora": "セ",
+          "start_s": 11.537489,
+          "end_s": 11.647489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "e",
+          "mora": "セ",
+          "start_s": 11.647489,
+          "end_s": 11.677489,
+          "sentence": "N01_03"
+        },
+        {
+          "phoneme": "e",
+          "mora": "エ",
+          "start_s": 11.677489,
+          "end_s": 11.717489,
+          "sentence": "N01_03"
+        }
+      ],
+      "v3_moras_in_window": [
+        "シ",
+        "オ",
+        "サ",
+        "エ",
+        "ル",
+        "セ"
+      ]
+    }
+  ],
+  "note": "Blink and neck placements are manual editorial choices. Pause intervals and neck evidence are checked against forced phoneme alignment and v3 CSV mora rows; they are not motion capture."
+}

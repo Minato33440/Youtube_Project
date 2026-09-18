@@ -1,0 +1,21 @@
+{
+  "silence_db": -40,
+  "silence_min_s": 0.15,
+  "minimum_candidate_s": 0.24,
+  "alignment_margin_s": 0.25,
+  "start_guard_s": 0.03,
+  "end_guard_s": 0.035,
+  "inhale_target_s": 0.36,
+  "minimum_inhale_frames": 5,
+  "floor": 0.18,
+  "peak_base": 0.48,
+  "peak_per_next_phrase_s": 0.035,
+  "exhale_per_s": 0.11,
+  "max_exhale_drop": 0.32,
+  "short_inhale_s": 0.27,
+  "short_refill_cap": 0.12,
+  "start_pose": "already inhaled; insufficient lead-in for a full inhalation",
+  "end_pose": "settle at last exhaled level; no forced collapse to zero",
+  "long_idle": "Not exercised by this 16s clip; no generalized idle cycle implemented.",
+  "interpretation": "Editorial speech performance, not measured respiratory physiology."
+}

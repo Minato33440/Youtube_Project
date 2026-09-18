@@ -1,0 +1,77 @@
+{
+  "scope": "ParamBreath 0 to 1, fixed head at 1080px preview scale; not actual narration amplitude.",
+  "top_collar": {
+    "dx_px": 0,
+    "dy_px": 0,
+    "mse": 0.005238095238095238
+  },
+  "chest_center": {
+    "dx_px": -1,
+    "dy_px": 0,
+    "mse": 13.011363636363637
+  },
+  "added_upper_fold_motion_vs_v3_at_breath_1": {
+    "dx_px": -2,
+    "dy_px": -1,
+    "mse": 80.68706349206349
+  },
+  "added_lower_fold_motion_vs_v3_at_breath_1": {
+    "dx_px": 0,
+    "dy_px": 4,
+    "mse": 11.473151515151516
+  },
+  "original_v6_upper_fold_motion_vs_v3": {
+    "dx_px": -1,
+    "dy_px": 0,
+    "mse": 21.05468253968254
+  },
+  "original_v6_lower_fold_motion_vs_v3": {
+    "dx_px": 0,
+    "dy_px": 4,
+    "mse": 11.473151515151516
+  },
+  "original_v6_left_fold": {
+    "dx_px": 2,
+    "dy_px": 0,
+    "mse": 10.838541666666666
+  },
+  "original_v6_right_fold": {
+    "dx_px": -2,
+    "dy_px": 0,
+    "mse": 16.67482638888889
+  },
+  "left_internal_fold_vs_v3": {
+    "dx_px": 9,
+    "dy_px": 1,
+    "mse": 38.065104166666664
+  },
+  "right_internal_fold_vs_v3": {
+    "dx_px": -7,
+    "dy_px": 0,
+    "mse": 63.27986111111111
+  },
+  "outside_upper_knit_max_difference_v6_v7": 0.0,
+  "abdomen_max_difference_v6_v7": 0.0,
+  "silhouette_alpha_max_difference_v6_v7": 1,
+  "silhouette_mask_changed_pixels": {
+    "1": 0,
+    "127": 0,
+    "240": 0
+  },
+  "upper_fold_mean_rgb_change_vs_v3": 9.299277389277389,
+  "lower_fold_mean_rgb_change_vs_v3": 5.004028520499109,
+  "belt_and_lower_body_max_difference_vs_v3": 0,
+  "left_shoulder_rise_px": 16.0,
+  "right_shoulder_rise_px": 16.0,
+  "cream_chest_width_neutral_px": 269.0,
+  "cream_chest_width_inhale_px": 282.0,
+  "new_body_interior_transparency_pixels": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "passed": true
+}

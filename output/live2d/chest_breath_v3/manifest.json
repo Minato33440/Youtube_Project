@@ -1,0 +1,16 @@
+{
+  "primary": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\exports\\Risa_ModelOnly_ChestBreath_v3.mp4",
+  "breath_only": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\exports\\Risa_ModelOnly_BreathOnly_v3.mp4",
+  "rig": "Chest_Local_Breath (Warp4), 8x9 grid under Breath_Base; only Body_Clothes; ParamBreath keys 0 and 1; Breath_Base scale neutralized to 100 percent.",
+  "breathing_geometry": "Shoulder-side controls rise 6-7 editor pixels; chest controls expand horizontally 6 pixels, lower chest 4 pixels; central collar and waist controls fixed; no chest vertical translation.",
+  "speaking_curves_unchanged": true,
+  "audio_unchanged": true,
+  "hashes": {
+    "Risa_chest_breath.cmo3": "a353db3b6eb6ff8495cd4915b079233ff9eb340238ae1644243094c046489863",
+    "Risa_chest_breath.moc3": "26f4991a3a6e299209831e960560e163c1d2e8a8eaf3199eb0e815826afc6bec",
+    "texture_00.png": "4ed9b44b7bceef663fc66e01377bbae015716d887397f13c9c374362ed90d2f4",
+    "performance.motion3.json": "6226e257b4a2b72c153a6323ff917a0b391b84e0e396019a6d85179b57661821",
+    "Risa_ModelOnly_ChestBreath_v3.mp4": "0acbe16075697aad8b6b7204eb118fc72fd701c98c4a0a47fba391feebd87f59",
+    "Risa_ModelOnly_BreathOnly_v3.mp4": "f8720cbf61c24ef75a50f87f2e8d6ad43fe9fbbfedeea61ee65eaf96af6ff03f"
+  }
+}

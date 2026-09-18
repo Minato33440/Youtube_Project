@@ -1,0 +1,3 @@
+# Local research cache: source captions and expiring metadata URLs.
+/source_checks/
+/nemo_engine_0.24.0/

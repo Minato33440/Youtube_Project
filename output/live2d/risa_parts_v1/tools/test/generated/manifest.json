@@ -1,0 +1,28 @@
+{
+  "canvas": {
+    "width": 8,
+    "height": 6
+  },
+  "layers": [
+    {
+      "name": "eye_white",
+      "path": "eye_white.png",
+      "left": 1,
+      "top": 1
+    },
+    {
+      "name": "iris_full",
+      "path": "iris_full.png",
+      "left": 0,
+      "top": 1,
+      "clipTo": "eye_white"
+    },
+    {
+      "name": "hidden_reference",
+      "path": "iris_full.png",
+      "left": -1,
+      "top": 0,
+      "visible": false
+    }
+  ]
+}

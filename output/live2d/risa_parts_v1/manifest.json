@@ -1,0 +1,431 @@
+{
+  "canvas": {
+    "width": 1106,
+    "height": 1422
+  },
+  "layers": [
+    {
+      "name": "Hair_Back",
+      "path": "parts/Hair_Back.png",
+      "left": 350,
+      "top": 12,
+      "visible": true,
+      "source": "generated/hair_back.png",
+      "sourceCrop": {
+        "left": 110,
+        "top": 85,
+        "width": 925,
+        "height": 1110
+      },
+      "layoutSize": {
+        "width": 366,
+        "height": 418
+      }
+    },
+    {
+      "name": "Neck",
+      "path": "parts/Neck.png",
+      "left": 467,
+      "top": 295,
+      "visible": true,
+      "source": "generated/head.png",
+      "sourceCrop": {
+        "left": 274,
+        "top": 845,
+        "width": 560,
+        "height": 479
+      },
+      "layoutSize": {
+        "width": 168,
+        "height": 144
+      }
+    },
+    {
+      "name": "Head_Skin_Nose",
+      "path": "parts/Head_Skin_Nose.png",
+      "left": 426,
+      "top": 56,
+      "visible": true,
+      "source": "generated/head_only.png",
+      "sourceCrop": {
+        "left": 60,
+        "top": 90,
+        "width": 985,
+        "height": 1098
+      },
+      "layoutSize": {
+        "width": 251,
+        "height": 280
+      }
+    },
+    {
+      "name": "Arm_ViewerLeft",
+      "path": "parts/Arm_ViewerLeft.png",
+      "left": 192,
+      "top": 433,
+      "visible": true,
+      "source": "generated/arm_L.png",
+      "sourceCrop": {
+        "left": 362,
+        "top": 20,
+        "width": 435,
+        "height": 1390
+      },
+      "layoutSize": {
+        "width": 195,
+        "height": 869
+      }
+    },
+    {
+      "name": "Arm_ViewerRight",
+      "path": "parts/Arm_ViewerRight.png",
+      "left": 723,
+      "top": 433,
+      "visible": true,
+      "source": "generated/arm_R.png",
+      "sourceCrop": {
+        "left": 375,
+        "top": 22,
+        "width": 444,
+        "height": 1390
+      },
+      "layoutSize": {
+        "width": 195,
+        "height": 869
+      }
+    },
+    {
+      "name": "Body_Clothes",
+      "path": "parts/Body_Clothes.png",
+      "left": 269,
+      "top": 348,
+      "visible": true,
+      "source": "generated/body.png",
+      "sourceCrop": {
+        "left": 222,
+        "top": 140,
+        "width": 662,
+        "height": 1282
+      },
+      "layoutSize": {
+        "width": 564,
+        "height": 1074
+      }
+    },
+    {
+      "name": "EyeWhite_ViewerLeft",
+      "path": "parts/EyeWhite_ViewerLeft.png",
+      "left": 474,
+      "top": 205,
+      "visible": true,
+      "source": "generated/eyes.png",
+      "sourceCrop": {
+        "left": 54,
+        "top": 832,
+        "width": 464,
+        "height": 192
+      },
+      "layoutSize": {
+        "width": 54,
+        "height": 18
+      }
+    },
+    {
+      "name": "Iris_ViewerLeft",
+      "path": "parts/Iris_ViewerLeft.png",
+      "left": 489,
+      "top": 202,
+      "visible": true,
+      "clipTo": "EyeWhite_ViewerLeft",
+      "source": "generated/eyes.png",
+      "sourceCrop": {
+        "left": 193,
+        "top": 1090,
+        "width": 240,
+        "height": 241
+      },
+      "layoutSize": {
+        "width": 25,
+        "height": 25
+      }
+    },
+    {
+      "name": "LidUpper_ViewerLeft",
+      "path": "parts/LidUpper_ViewerLeft.png",
+      "left": 469,
+      "top": 197,
+      "visible": true,
+      "source": "generated/eyes.png",
+      "sourceCrop": {
+        "left": 35,
+        "top": 365,
+        "width": 461,
+        "height": 185
+      },
+      "layoutSize": {
+        "width": 63,
+        "height": 21
+      }
+    },
+    {
+      "name": "LidLower_ViewerLeft",
+      "path": "parts/LidLower_ViewerLeft.png",
+      "left": 474,
+      "top": 216,
+      "visible": true,
+      "source": "generated/eyes.png",
+      "sourceCrop": {
+        "left": 119,
+        "top": 665,
+        "width": 349,
+        "height": 94
+      },
+      "layoutSize": {
+        "width": 54,
+        "height": 8
+      }
+    },
+    {
+      "name": "Brow_ViewerLeft",
+      "path": "parts/Brow_ViewerLeft.png",
+      "left": 473,
+      "top": 177,
+      "visible": true,
+      "source": "generated/eyes.png",
+      "sourceCrop": {
+        "left": 70,
+        "top": 183,
+        "width": 430,
+        "height": 97
+      },
+      "layoutSize": {
+        "width": 61,
+        "height": 9
+      }
+    },
+    {
+      "name": "EyeWhite_ViewerRight",
+      "path": "parts/EyeWhite_ViewerRight.png",
+      "left": 570,
+      "top": 205,
+      "visible": true,
+      "source": "generated/eyes.png",
+      "sourceCrop": {
+        "left": 596,
+        "top": 832,
+        "width": 449,
+        "height": 192
+      },
+      "layoutSize": {
+        "width": 54,
+        "height": 18
+      }
+    },
+    {
+      "name": "Iris_ViewerRight",
+      "path": "parts/Iris_ViewerRight.png",
+      "left": 585,
+      "top": 202,
+      "visible": true,
+      "clipTo": "EyeWhite_ViewerRight",
+      "source": "generated/eyes.png",
+      "sourceCrop": {
+        "left": 669,
+        "top": 1090,
+        "width": 240,
+        "height": 242
+      },
+      "layoutSize": {
+        "width": 25,
+        "height": 25
+      }
+    },
+    {
+      "name": "LidUpper_ViewerRight",
+      "path": "parts/LidUpper_ViewerRight.png",
+      "left": 564,
+      "top": 197,
+      "visible": true,
+      "source": "generated/eyes.png",
+      "sourceCrop": {
+        "left": 614,
+        "top": 365,
+        "width": 459,
+        "height": 185
+      },
+      "layoutSize": {
+        "width": 63,
+        "height": 21
+      }
+    },
+    {
+      "name": "LidLower_ViewerRight",
+      "path": "parts/LidLower_ViewerRight.png",
+      "left": 570,
+      "top": 216,
+      "visible": true,
+      "source": "generated/eyes.png",
+      "sourceCrop": {
+        "left": 638,
+        "top": 665,
+        "width": 349,
+        "height": 94
+      },
+      "layoutSize": {
+        "width": 54,
+        "height": 8
+      }
+    },
+    {
+      "name": "Brow_ViewerRight",
+      "path": "parts/Brow_ViewerRight.png",
+      "left": 568,
+      "top": 177,
+      "visible": true,
+      "source": "generated/eyes.png",
+      "sourceCrop": {
+        "left": 607,
+        "top": 183,
+        "width": 429,
+        "height": 97
+      },
+      "layoutSize": {
+        "width": 61,
+        "height": 9
+      }
+    },
+    {
+      "name": "Mouth_Closed",
+      "path": "parts/Mouth_Closed.png",
+      "left": 524,
+      "top": 283,
+      "visible": true,
+      "source": "generated/mouth.png",
+      "sourceCrop": {
+        "left": 325,
+        "top": 210,
+        "width": 459,
+        "height": 134
+      },
+      "layoutSize": {
+        "width": 56,
+        "height": 12
+      }
+    },
+    {
+      "name": "Mouth_Interior",
+      "path": "parts/Mouth_Interior.png",
+      "left": 526,
+      "top": 284,
+      "visible": false,
+      "source": "generated/mouth.png",
+      "sourceCrop": {
+        "left": 410,
+        "top": 1125,
+        "width": 284,
+        "height": 116
+      },
+      "layoutSize": {
+        "width": 52,
+        "height": 21
+      }
+    },
+    {
+      "name": "Mouth_LipUpper",
+      "path": "parts/Mouth_LipUpper.png",
+      "left": 524,
+      "top": 282,
+      "visible": false,
+      "source": "generated/mouth.png",
+      "sourceCrop": {
+        "left": 330,
+        "top": 590,
+        "width": 450,
+        "height": 84
+      },
+      "layoutSize": {
+        "width": 56,
+        "height": 10
+      }
+    },
+    {
+      "name": "Mouth_LipLower",
+      "path": "parts/Mouth_LipLower.png",
+      "left": 525,
+      "top": 300,
+      "visible": false,
+      "source": "generated/mouth.png",
+      "sourceCrop": {
+        "left": 366,
+        "top": 870,
+        "width": 370,
+        "height": 111
+      },
+      "layoutSize": {
+        "width": 54,
+        "height": 12
+      }
+    },
+    {
+      "name": "Hair_Front_Sides_Pin",
+      "path": "parts/Hair_Front_Sides_Pin.png",
+      "left": 346,
+      "top": 10,
+      "visible": true,
+      "source": "generated/hair_front.png",
+      "sourceCrop": {
+        "left": 0,
+        "top": 20,
+        "width": 1106,
+        "height": 1312
+      },
+      "layoutSize": {
+        "width": 373,
+        "height": 426
+      }
+    },
+    {
+      "name": "Ear_ViewerLeft",
+      "path": "parts/Ear_ViewerLeft.png",
+      "left": 428,
+      "top": 195,
+      "visible": false,
+      "source": "generated/ears.png",
+      "sourceCrop": {
+        "left": 60,
+        "top": 135,
+        "width": 600,
+        "height": 607
+      },
+      "layoutSize": {
+        "width": 35,
+        "height": 45
+      }
+    },
+    {
+      "name": "Ear_ViewerRight",
+      "path": "parts/Ear_ViewerRight.png",
+      "left": 637,
+      "top": 195,
+      "visible": true,
+      "source": "generated/ears.png",
+      "sourceCrop": {
+        "left": 1120,
+        "top": 135,
+        "width": 600,
+        "height": 607
+      },
+      "layoutSize": {
+        "width": 35,
+        "height": 45
+      }
+    }
+  ],
+  "output": {
+    "psd": "Risa_Live2D_Parts_v1.psd",
+    "flattenedPng": "Risa_Live2D_Parts_v1.png",
+    "previewPng": "Risa_Live2D_Parts_v1_preview.png",
+    "verificationJson": "psd_verification.json",
+    "previewBackground": "#F7F5F0"
+  }
+}

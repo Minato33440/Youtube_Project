@@ -1,0 +1,109 @@
+{
+  "passed": true,
+  "previous_speech_head_blink_breath_curves_identical": true,
+  "fixed_head_breath_sweep_max_pixel_differences": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "fixed_neck_checks": [
+    {
+      "breath": 0,
+      "head_max_difference": 0,
+      "central_collar_mean_difference": 0.0,
+      "central_collar_max_difference": 0
+    },
+    {
+      "breath": 0.3,
+      "head_max_difference": 0,
+      "central_collar_mean_difference": 0.0065816326530612245,
+      "central_collar_max_difference": 1
+    },
+    {
+      "breath": 0.6,
+      "head_max_difference": 0,
+      "central_collar_mean_difference": 0.010561224489795918,
+      "central_collar_max_difference": 2
+    },
+    {
+      "breath": 1,
+      "head_max_difference": 0,
+      "central_collar_mean_difference": 0.016989795918367346,
+      "central_collar_max_difference": 3
+    }
+  ],
+  "outputs": {
+    "speaking": {
+      "frames": 479,
+      "fps": 30,
+      "duration_s": 15.966667,
+      "full_decode_passed": true,
+      "reference_frame_mean_pixel_error": [
+        1.0703423639689071,
+        1.067719764517604,
+        1.086701817558299,
+        1.0898676840420667,
+        1.0533321902149062,
+        1.0551594650205762,
+        1.0834042066758116
+      ],
+      "chest_region_temporal_mean_pixel_difference": [
+        5.036172027290449,
+        1.7577899610136452,
+        1.0226656920077972,
+        1.959298245614035,
+        2.0847441520467838,
+        5.491561890838207
+      ],
+      "checked_frame_indices": [
+        0,
+        80,
+        166,
+        280,
+        296,
+        411,
+        478
+      ],
+      "audio": {
+        "source_identical": true,
+        "correlation": 0.9999816066577017,
+        "peak_offset_ms": 0.0
+      }
+    },
+    "breath_only": {
+      "frames": 241,
+      "fps": 30,
+      "duration_s": 8.033333,
+      "full_decode_passed": true,
+      "reference_frame_mean_pixel_error": [
+        1.0671470621856425,
+        1.0562517146776407,
+        1.065003715134888,
+        1.0570261774119798,
+        1.063544810242341,
+        1.0659182098765432,
+        1.081329732510288
+      ],
+      "chest_region_temporal_mean_pixel_difference": [
+        4.641790935672515,
+        4.5548245614035086,
+        4.495767543859649,
+        4.621120857699805,
+        7.145131578947368,
+        7.050553118908382
+      ],
+      "checked_frame_indices": [
+        0,
+        30,
+        60,
+        90,
+        120,
+        180,
+        240
+      ],
+      "loop_endpoint_mean_pixel_difference": 0.21837562871513488
+    }
+  },
+  "appearance_scope": "Selected frames visually reviewed; full audiovisual human acceptance pending."
+}

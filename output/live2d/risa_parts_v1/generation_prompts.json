@@ -1,0 +1,86 @@
+{
+  "method": "ChatGPT Images built-in image_gen",
+  "source": "../../imagegen/risa_live2d_front_2026-09-13_v1.png",
+  "prompts": [
+    {
+      "id": "body",
+      "prompt": "Edit the attached Risa reference to produce an isolated BODY TORSO sprite for a Live2D model. This is exact-identity technical asset preparation, not redesign.\nOutput a portrait PNG with REAL TRANSPARENT BACKGROUND (alpha, no checkerboard painted in), same aspect ratio and composition scale as source. Keep original torso at its original on-canvas position (shoulders around y=29% and waist y=56%, trousers continue to lower canvas edge). Remove the ENTIRE head, hair, neck skin, both arms, both sleeves, both hands. Retain ONLY the ivory ribbed high-neck sweater, teal jacket BODY panels and lapels with orbital brooch, belt and charcoal trousers. Jacket shoulder-body panels end at shoulder seams, no sleeve stubs. Reconstruct the upper sweater/collar that hair concealed, and the jacket body and sides behind the sleeves so they are complete solid fabric. Torso has a clean complete silhouette and extends at shoulder seams a little for rig overlap. Keep exact linework, muted palette, fabric folds and belt. Do not draw severed anatomy, placeholders, labels, facial features, shadows on background. All empty regions transparent. One sprite, not a sheet."
+    },
+    {
+      "id": "arms",
+      "prompt": "Use case: identity-preserve; Live2D technical part extraction with hidden-area reconstruction.\nFrom attached Risa reference, create a transparent PNG asset sheet containing ONLY TWO detached complete arms: viewer-left arm in left half, viewer-right arm in right half. Each includes its ORIGINAL muted slate-teal blazer sleeve from rounded shoulder cap through rolled cuff, plus bare forearm and relaxed hand, all as one continuous sprite. Preserve precise original fabric style, rolled sleeve folds, skin palette, delicate anime lineart and hand poses. Arms angle gently outward as in reference, NOT bent across body.\nReconstruct the complete shoulder caps and inner sleeve edges normally hidden behind the jacket torso, with a rounded generous overlap cap at top. Fully draw each forearm into the cuff so no gaps. Five natural fingers each, complete fingertips.\nPlace both isolated sprites with ample transparent gap between them; both top shoulder caps at same height and fingertips at same height, fill canvas vertically with margins. No torso, no jacket body panels, no head, no hair, no background, no labels, no extra hands. REAL transparent alpha background, no drawn checkerboard. These are detachable illustrated model assets, no wounds or anatomical cross sections."
+    },
+    {
+      "id": "arms_transparency_fix",
+      "prompt": "Remove the entire checkerboard background from this image, retaining only the two illustrated sleeves/arms/hands. Output TRUE alpha transparency as RGBA PNG. The checkerboard pattern is NOT part of the artwork. Remove checkerboard both outside and between fingers, with clean anti-aliased edges. Do not change, reposition, recolor, redraw or rescale the two arm sprites. No other changes."
+    },
+    {
+      "id": "arm_viewer_left",
+      "prompt": "Create a transparent-background PNG cutout of ONLY the viewer-left arm of this woman, from full shoulder to fingertips. One isolated illustrated arm asset. Include its muted slate-teal rolled blazer sleeve, forearm, and hand. Restore a full rounded shoulder cap to overlap underneath torso clothing. Keep identical styling and colors and original arm angle/hand shape. Remove absolutely everything else. It must have a transparent background. No sheet or checkerboard."
+    },
+    {
+      "id": "arm_viewer_right",
+      "prompt": "Create a transparent-background PNG cutout of ONLY the viewer-right arm of this woman, from full shoulder to fingertips. One isolated illustrated arm asset. Include its muted slate-teal rolled blazer sleeve, forearm, and hand. Restore a full rounded shoulder cap to overlap underneath torso clothing. Keep identical styling and colors and original arm angle/hand shape. Remove absolutely everything else. It must have a transparent background. No sheet or checkerboard."
+    },
+    {
+      "id": "head_base",
+      "prompt": "Create a transparent-background PNG of ONLY this character's bare face/head and neck as a Live2D skin base layer. Preserve the exact original mature woman's jawline, face proportions, fair peach skin shading, small nose, pointed ears, and upright frontal head. Remove ALL hair and accessories, both eyebrows, both eyes including lashes and whites, and the mouth/lips. Fill those removed areas with smoothly continuous natural skin. Keep the small original nose and subtle facial shading. Reconstruct the full rounded scalp and full forehead hidden by hair. Include both complete subtle pointed ears and a full neck extending down to the base of the neck (no clothes or shoulders). This is a blank illustrated doll face base used underneath independently drawn facial feature layers, not a finished character image. Same delicate anime linework and restrained coloring. Single isolated front-facing skin silhouette, transparent background, no text, no other parts."
+    },
+    {
+      "id": "head_transparency",
+      "prompt": "Extract only the illustrated blank head, pointed ears and neck as a clean cutout with a fully transparent background. Preserve the illustration exactly. Delete every part of the patterned background, including outside the ears and neck. PNG with transparent alpha channel."
+    },
+    {
+      "id": "hair_back",
+      "prompt": "Create a transparent-background PNG sprite of ONLY the BACK HAIR layer from this woman for Live2D. Keep the exact ash-brown shoulder-length wavy layered hairstyle, muted blue-gray inner streaks and delicate original linework. Imagine front bangs, face, ears, neck and body lifted away; complete the back hair underneath them as a SOLID filled hair mass with natural strand shading. Back hair outer silhouette follows her original head crown down to shoulder-length tips. No opening or hole for the face, because the separate face layer will cover it. No front bangs, no accessories, no skin, no eyes, no clothing. One isolated hair cutout, actual transparent background, generously framed."
+    },
+    {
+      "id": "hair_front",
+      "prompt": "Extract this woman's FRONT HAIR and FACE-FRAMING SIDE LOCKS as ONE isolated illustrated cutout on a transparent background. Preserve the EXACT original hairstyle silhouette and strand shapes: ash-brown layered shoulder-length hair, long side-swept bangs over viewer-left forehead, off-center part, blue-gray inner streaks, orbital hairpin on viewer-right. Include crown/top hair and the hair framing both sides of face, but REMOVE all face skin, ears, neck, eyes, eyebrows, mouth and clothing. Leave the central face opening and gaps as TRUE transparency. Keep the original open face shape; do not let bangs cover the eyes more than reference. This is a front-hair overlay for the same character's face, in original frontal pose, not a wig redesigned from the back. Single cutout centered with margins, detailed soft linework matching reference. Transparent PNG."
+    },
+    {
+      "id": "hair_front_transparency",
+      "prompt": "Extract only the illustrated hair and hairpin as a clean cutout with a fully transparent background. Preserve the illustration exactly. Delete every part of the patterned background, including the central face opening and all gaps between hair strands. PNG with transparent alpha channel."
+    },
+    {
+      "id": "eye_components",
+      "prompt": "Create a transparent-background PNG sheet of separated EYE RIGGING COMPONENTS for the EXACT adult woman's eyes in the reference. Match her restrained gray-green eyes, mature soft eyelid shapes and ash-brown eyebrows, delicate fine anime linework. No face, skin patches, hair or clothing.\nExactly TWO columns (viewer-left eye components on left, viewer-right eye components on right) and FIVE clearly separated rows, with generous empty spacing so every item can be cropped independently:\nRow 1: left and right EYEBROWS, fully drawn complete eyebrow arcs, ash brown.\nRow 2: left and right UPPER EYELID/LASH strokes only, including fine eyelid crease line, dark brown, no iris or white attached.\nRow 3: left and right LOWER EYELID strokes only, delicate slim curves, no iris or white attached.\nRow 4: left and right EYE WHITES only, softly shaded ivory almond shapes matching the open eyes, no iris, no lashes.\nRow 5: left and right complete ROUND IRIS discs with pupils and small highlights, muted gray-green, fully reconstruct upper parts normally hidden by eyelids. Iris discs have no white surrounding them.\nAll components at consistent relative scale suitable for reassembly; both columns have the same eye-size scale. Eye whites should be about twice as wide as iris diameter. Do NOT draw whole eyes as any row. Do NOT draw labels, numbers, grid lines, background, or extra parts. All empty space must be actual transparent alpha."
+    },
+    {
+      "id": "eyes_transparency",
+      "prompt": "Extract the ten illustrated facial-component sprites from this sheet onto a fully TRANSPARENT background. Preserve every sprite's exact position, size, shape, colors and details. Remove every gray/white patterned background pixel, including all gaps inside eyelid strokes. Keep solid white sclera and highlights intact. Output PNG with real alpha channel, no background."
+    },
+    {
+      "id": "mouth_components",
+      "prompt": "Create a transparent-background PNG sheet of FOUR separate mouth assets for this exact adult woman's Live2D model. Preserve her subtle small gentle smile, original soft peach lip color, understated anime rendering, no lipstick.\nArrange FOUR rows vertically with ample spacing; all mouths use same width.\nTop row: complete original CLOSED smiling mouth, fine dark upper mouth line and very subtle lower-lip shading, no surrounding cheek skin.\nSecond row: UPPER LIP / upper mouth edge only for a gently open speaking mouth, small curved peach lip rim with fine brown outline, no other parts attached.\nThird row: LOWER LIP / lower mouth edge only for the same open speaking mouth, soft peach rim and delicate shadow, no other parts attached.\nBottom row: MOUTH INTERIOR only, a small gently open dark warm reddish mouth cavity, with a restrained sliver of upper teeth and a small tongue at bottom, no exterior lips or surrounding face skin.\nThese are clean 2D illustrated facial component sprites, not photoreal anatomy. No face, eyes, hair, text, labels or grid. Fully transparent alpha background."
+    },
+    {
+      "id": "head_without_neck",
+      "prompt": "Edit this transparent illustrated head-base asset: remove ONLY the neck below the jaw. Keep the entire rounded bald head, pointed ears, blank facial skin, small nose, face contour, original scale and placement EXACTLY unchanged. Complete the jawline as a clean closed chin silhouette. Below the chin should be transparent; no neck or shoulders. Preserve transparent background. This is a detachable Live2D face skin layer."
+    },
+    {
+      "id": "head_only_transparency",
+      "prompt": "Remove the background. Keep only the illustrated head and ears as a transparent PNG cutout. Keep the head shape and position unchanged."
+    },
+    {
+      "id": "ears",
+      "prompt": "Create a transparent PNG containing only this character's two delicate pointed EARS as separate isolated sprites side by side. Viewer-left ear on left, viewer-right ear on right. Preserve her fair peach skin, subtle natural pointed shape, warm soft shading, fine brown linework, small understated round stud earrings. Reconstruct the full inner root of each ear normally concealed by hair so it can overlap under the face. No face, no head, no hair, no neck, no background. Clearly separated complete ear cutouts, approximately mirror-balanced, actual transparent background."
+    },
+    {
+      "id": "head_remove_ears",
+      "prompt": "Remove both pointed ears from this transparent illustrated head base, leaving ONLY the smooth complete face/head skin silhouette with its nose. Smoothly reconstruct the side contours of the head where the ears attached. Preserve all other features, shading, scale and position. No neck. Keep a fully transparent background."
+    }
+  ],
+  "selected": {
+    "body": "exec-8f922d3a-46ff-43e6-920a-ee2a9fa01303.png",
+    "arm_L": "exec-56010251-fdcf-4328-9e60-3ea54bbdafe6.png",
+    "arm_R": "exec-c432b53b-e3f8-40b6-9abf-04a0c96b642d.png",
+    "head": "exec-70d8dd3b-3207-41e1-92d5-b937d84226fd.png",
+    "hair_back": "exec-99971b66-8ab9-42a5-84d4-fb26ff288973.png",
+    "hair_front": "exec-2ba93b46-201c-43e3-9dbb-83be189b071d.png",
+    "eyes": "exec-589d156b-9a4c-4856-b805-8a96336a22fe.png",
+    "mouth": "exec-ab1c792d-e4ba-43de-b082-4361214944b7.png",
+    "head_only": "exec-e9c0844c-2dc8-46f7-9d3c-aa92b3b69b44.png",
+    "ears": "exec-ef85b17f-3aec-445e-a52f-8341fa16b936.png"
+  }
+}

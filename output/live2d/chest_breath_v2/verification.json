@@ -1,0 +1,85 @@
+{
+  "passed": true,
+  "previous_speech_head_blink_breath_curves_identical": true,
+  "same_parameter_face_max_pixel_differences": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "outputs": {
+    "speaking": {
+      "frames": 479,
+      "fps": 30,
+      "duration_s": 15.966667,
+      "full_decode_passed": true,
+      "reference_frame_mean_pixel_error": [
+        1.1024328417924096,
+        1.0975365797896661,
+        1.0949196959304983,
+        1.1140429240969365,
+        1.0962251371742113,
+        1.0827874942844078,
+        1.215559842249657
+      ],
+      "chest_region_temporal_mean_pixel_difference": [
+        7.138087231968811,
+        2.5029751461988305,
+        1.082848440545809,
+        2.907553606237817,
+        2.936440058479532,
+        8.03446150097466
+      ],
+      "checked_frame_indices": [
+        0,
+        80,
+        166,
+        280,
+        296,
+        411,
+        478
+      ],
+      "audio": {
+        "source_identical": true,
+        "correlation": 0.9999816066577017,
+        "peak_offset_ms": 0.0
+      }
+    },
+    "breath_only": {
+      "frames": 241,
+      "fps": 30,
+      "duration_s": 8.033008,
+      "full_decode_passed": true,
+      "reference_frame_mean_pixel_error": [
+        1.0922062185642432,
+        1.0662445701874714,
+        1.0996553497942387,
+        1.06814357567444,
+        1.0954349565614998,
+        1.100439529035208,
+        1.1860456675811615
+      ],
+      "chest_region_temporal_mean_pixel_difference": [
+        6.603457602339181,
+        6.554498050682261,
+        6.55323343079922,
+        6.543550194931774,
+        10.034383528265106,
+        9.948367446393762
+      ],
+      "checked_frame_indices": [
+        0,
+        30,
+        60,
+        90,
+        120,
+        180,
+        240
+      ],
+      "loop_endpoint_mean_pixel_difference": 0.706485768175583
+    }
+  },
+  "appearance_scope": "Selected frames visually reviewed; full audiovisual human acceptance pending."
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "01_opening",
+    "waveform_correlation": 0.999980628490448,
+    "timeline_start_seconds": 0
+  },
+  {
+    "id": "02_tax_burden",
+    "waveform_correlation": 0.9999781250953674,
+    "timeline_start_seconds": 101.6333333
+  },
+  {
+    "id": "03_household_support",
+    "waveform_correlation": 0.9999850988388062,
+    "timeline_start_seconds": 785.5666667
+  }
+]

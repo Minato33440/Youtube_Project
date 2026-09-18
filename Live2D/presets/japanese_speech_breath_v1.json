@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "recorded_date": "2026-09-17",
+  "status": "provisional",
+  "reference_character": "Risa",
+  "evaluation": "Boss accepted more natural speech gaps and breathing in PunctuationPause v1; other voices/characters untested",
+  "auto_loaded_by_existing_builders": false,
+  "id": "japanese_speech_breath_v1",
+  "scope": "Japanese synthesized narration; production-side timing policy, not engine defaults",
+  "pause_seconds": {
+    "comma": 0.12,
+    "period": 0.5,
+    "question_or_major_semantic_boundary": 0.7,
+    "verified_implicit_clause_pause": 0.12
+  },
+  "pause_semantics": "Total observed pause duration; preserve speech and inspect alignment before editing",
+  "breathing_timing": {
+    "inhale_at": "sentence/meaning boundaries with enough verified silence",
+    "inhale_at_short_comma": false,
+    "inhale_target_seconds": 0.36,
+    "fps_reference": 30,
+    "inhale_frames_reference": 11,
+    "inhale_actual_seconds_reference": 0.36666666666666664,
+    "pause_end_guard_seconds": 0.05,
+    "minimum_pause_start_guard_seconds": 0.03,
+    "rounding": "end=floor((pause_end-0.05)*fps); start=end-round(0.36*fps); check start guard",
+    "curve": "s(x)=x*x*(3-2*x), x in [0,1]; lo+(hi-lo)*s(x)",
+    "exhale_at": "between inhales, including speech and short commas",
+    "initial_pose": "already inhaled",
+    "final_pose": "hold last exhaled level"
+  },
+  "calibration_ref": "human_motion_v1.json",
+  "reference_ref": "risa_reference_v1.json",
+  "unvalidated": [
+    "other TTS models",
+    "other speaking rates",
+    "long idle breathing",
+    "unbroken long-sentence breath replenishment",
+    "major topic transition as distinct test case"
+  ]
+}

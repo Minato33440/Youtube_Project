@@ -1,0 +1,20 @@
+{
+  "revision": "v2_sentence_boundaries_and_keyword_beats",
+  "frames_dir": "frames",
+  "frame_pattern": "frame_%06d.png",
+  "straight_alpha_png": true,
+  "source_canvas_px": [
+    768,
+    1024
+  ],
+  "mov": "N02_alpha_512x560.mov",
+  "mov_crop_xywh": [
+    128,
+    0,
+    512,
+    560
+  ],
+  "codec": "ProRes 4444 with alpha (ffprobe reports yuva444p12le)",
+  "fps": 30,
+  "frame_count": 540
+}

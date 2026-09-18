@@ -1,0 +1,26 @@
+{
+  "scope": "ParamBreath 0 to 1, fixed head at 1080px preview scale; not actual narration amplitude.",
+  "collar": {
+    "dx_px": 0,
+    "dy_px": 0,
+    "mse": 0.03373015873015873
+  },
+  "chest_center": {
+    "dx_px": -1,
+    "dy_px": 0,
+    "mse": 13.011363636363637
+  },
+  "left_shoulder_rise_px": 16.0,
+  "right_shoulder_rise_px": 16.0,
+  "cream_chest_width_neutral_px": 269.0,
+  "cream_chest_width_inhale_px": 282.0,
+  "new_body_interior_transparency_pixels": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "passed": true
+}

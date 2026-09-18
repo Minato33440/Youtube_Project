@@ -1,0 +1,116 @@
+{
+  "status": "success",
+  "model": "hmmdefs_ptm_gid.binhmm + logicalTri",
+  "sentence": "N01_02",
+  "aligned_phonemes": 71,
+  "focus_source_2_0_to_3_2_s": [
+    {
+      "start_s_source": 2.0125,
+      "end_s_source": 2.0625,
+      "phoneme": "k",
+      "sentence": "N01_02",
+      "mora": "ク",
+      "begin_frame": 200,
+      "end_frame": 204
+    },
+    {
+      "start_s_source": 2.0625,
+      "end_s_source": 2.0925,
+      "phoneme": "u",
+      "sentence": "N01_02",
+      "mora": "ク",
+      "begin_frame": 205,
+      "end_frame": 207
+    },
+    {
+      "start_s_source": 2.0925,
+      "end_s_source": 2.1725,
+      "phoneme": "j",
+      "sentence": "N01_02",
+      "mora": "ジ",
+      "begin_frame": 208,
+      "end_frame": 215
+    },
+    {
+      "start_s_source": 2.1725,
+      "end_s_source": 2.2025,
+      "phoneme": "i",
+      "sentence": "N01_02",
+      "mora": "ジ",
+      "begin_frame": 216,
+      "end_frame": 218
+    },
+    {
+      "start_s_source": 2.2025,
+      "end_s_source": 2.2925,
+      "phoneme": "s",
+      "sentence": "N01_02",
+      "mora": "サ",
+      "begin_frame": 219,
+      "end_frame": 227
+    },
+    {
+      "start_s_source": 2.2925,
+      "end_s_source": 2.3725,
+      "phoneme": "a",
+      "sentence": "N01_02",
+      "mora": "サ",
+      "begin_frame": 228,
+      "end_frame": 235
+    },
+    {
+      "start_s_source": 2.3725,
+      "end_s_source": 2.4225,
+      "phoneme": "N",
+      "sentence": "N01_02",
+      "mora": "ン",
+      "begin_frame": 236,
+      "end_frame": 240
+    },
+    {
+      "start_s_source": 2.4225,
+      "end_s_source": 2.5025,
+      "phoneme": "w",
+      "sentence": "N01_02",
+      "mora": "ワ",
+      "begin_frame": 241,
+      "end_frame": 248
+    },
+    {
+      "start_s_source": 2.5025,
+      "end_s_source": 2.6625,
+      "phoneme": "a",
+      "sentence": "N01_02",
+      "mora": "ワ",
+      "begin_frame": 249,
+      "end_frame": 264
+    },
+    {
+      "start_s_source": 2.6625,
+      "end_s_source": 3.1125,
+      "phoneme": "k",
+      "sentence": "N01_02",
+      "mora": "ケ",
+      "begin_frame": 265,
+      "end_frame": 309
+    },
+    {
+      "start_s_source": 3.1125,
+      "end_s_source": 3.1825,
+      "phoneme": "e",
+      "sentence": "N01_02",
+      "mora": "ケ",
+      "begin_frame": 310,
+      "end_frame": 316
+    },
+    {
+      "start_s_source": 3.1825,
+      "end_s_source": 3.2225,
+      "phoneme": "i",
+      "sentence": "N01_02",
+      "mora": "イ",
+      "begin_frame": 317,
+      "end_frame": 320
+    }
+  ]
+}

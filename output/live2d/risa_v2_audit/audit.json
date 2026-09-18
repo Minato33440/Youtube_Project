@@ -1,0 +1,45 @@
+{
+  "scope": "read-only PNG and file-consistency audit; CMO3 internals were not inspected",
+  "reference": {
+    "zip": "../risa_parts_v1/Risa_Live2D_Parts_v1_bundle.zip",
+    "sha256": "AA8A632581EA010EE1E20E9E17A26D8F15B7815F14C10A377C341C03668A2206",
+    "partCount": 23
+  },
+  "current": {
+    "partsDirectory": "../risa_parts_v1/parts",
+    "partCount": 26,
+    "allModes": ["RGBA"],
+    "fullyOpaquePngs": [],
+    "manifest": { "path": "../risa_parts_v1/manifest.json", "sha256": "3450BB839EA059D0AA6E0AAF3E37D30C39BC8CC08F07850109750A8E63CB2124", "layerCount": 23 },
+    "v1Psd": { "path": "../risa_parts_v1/Risa_Live2D_Parts_v1.psd", "sha256": "C3292FBE67DD22368DF4A9788A934D649CCB512B38BF0BB81F54E11D475B12A1", "lastWrite": "2026-09-13T13:56:17+09:00" },
+    "v2Cmo3": { "path": "../risa_parts_v1/Risa_Live2D_Parts_v2.cmo3", "sha256": "2199FCD2AD30877E98590EFA35755ECAB1CDC4D94CE2152A8E14D9B79E4BA517", "lastWrite": "2026-09-13T17:58:35+09:00" }
+  },
+  "comparison": {
+    "unchanged": 13,
+    "changed": 10,
+    "new": 3,
+    "missingFromCurrent": 0,
+    "changedWithDimensionChange": [
+      "Brow_ViewerLeft.png", "Brow_ViewerRight.png", "Ear_ViewerLeft.png", "Ear_ViewerRight.png",
+      "LidUpper_ViewerLeft.png", "LidUpper_ViewerRight.png", "Mouth_Closed.png", "Mouth_LipLower.png", "Mouth_LipUpper.png"
+    ],
+    "changedSameDimensions": ["Head_Skin_Nose.png"],
+    "newAndNotManifestReferenced": ["Hair_Front_Left_Pin.png.png", "Hair_Front_Right_Pin.png", "Head_Skin_Nose_Ears_Neck.png"],
+    "manifestMissingReferencedFiles": []
+  },
+  "changedOrNewEvidence": [
+    { "name": "Brow_ViewerLeft.png", "oldSize": [61, 9], "newSize": [71, 14], "sha256": "6700072F81F23C6FD95B4BD6E63B03E8E194C39519F342F49E9CCB1D22A60F41" },
+    { "name": "Brow_ViewerRight.png", "oldSize": [61, 9], "newSize": [71, 14], "sha256": "14952F24A1275F0E402EBF78E49EAEFF7900D81922FAE356FF508001FC059CC8" },
+    { "name": "Ear_ViewerLeft.png", "oldSize": [35, 45], "newSize": [57, 74], "sha256": "783095B5BFB3652E47213096A16C1EFB02AA93057BB721048C16D1EE0D390D90" },
+    { "name": "Ear_ViewerRight.png", "oldSize": [35, 45], "newSize": [57, 74], "sha256": "B09D0DADC8E9BAD6F11BC9D23C7E32AF5C4D4DD0D7E7FBD393CC2996937E9EE7" },
+    { "name": "Head_Skin_Nose.png", "oldSize": [251, 280], "newSize": [251, 280], "sha256": "2053084297EF8F79DAFB72EE2C9E90AC83376CFCD2AD6B1ED8120FC309E2995A" },
+    { "name": "LidUpper_ViewerLeft.png", "oldSize": [63, 21], "newSize": [71, 34], "sha256": "ADD4D8143C03BA349F499201F1CA52496D91DADE6D9A18E932118EE2AD3DE3DF" },
+    { "name": "LidUpper_ViewerRight.png", "oldSize": [63, 21], "newSize": [71, 34], "sha256": "D948952F2E29C904E1152318F3BACB7D5E6E9784E663FF9652F7EB3F646E95BF" },
+    { "name": "Mouth_Closed.png", "oldSize": [56, 12], "newSize": [60, 17], "sha256": "3FCE7CF7031983B397648313530AED759655EA085FFA1DA5FC138F43051611E3" },
+    { "name": "Mouth_LipLower.png", "oldSize": [54, 12], "newSize": [60, 17], "sha256": "18DED9B31C3E6C94B3C90C331D28E8698983503226C3E3B2555F355063523C3B" },
+    { "name": "Mouth_LipUpper.png", "oldSize": [56, 10], "newSize": [60, 17], "sha256": "A7DFF05DAB6107552BAB7D815B9A517C9835BA72187720CE68D30A31B8529892" },
+    { "name": "Hair_Front_Left_Pin.png.png", "status": "new", "size": [208, 298], "sha256": "868E640ADB29161811F9695DBB5F75C882586CD825FA84E5B5B20A6AA87112A9" },
+    { "name": "Hair_Front_Right_Pin.png", "status": "new", "size": [135, 229], "sha256": "2E50034D18B93BDC525AB4A52EBBE1BAC49B5FAF51295FCAA4C7646F5E98CD7A" },
+    { "name": "Head_Skin_Nose_Ears_Neck.png", "status": "new", "size": [251, 381], "sha256": "8AC6765797458F1C4B1F46D50BCA799B331F25388CC7C1503CDC5650E58B0329" }
+  ]
+}

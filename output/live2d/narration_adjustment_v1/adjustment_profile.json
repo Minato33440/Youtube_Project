@@ -1,0 +1,35 @@
+{
+  "source_curve": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\full_sample_v1\\N01\\performance_curve.csv",
+  "fps": 30,
+  "frames": 479,
+  "mouth_open_multiplier": 1.2,
+  "negative_mouth_form_multiplier": 0.55,
+  "positive_mouth_form_multiplier": 1.0,
+  "neck_multiplier": 2.0,
+  "timing_blink_breath": "preserved exactly from N01",
+  "layout": {
+    "scale_relative_to_previous": 1.5,
+    "overlay_xy": [
+      1180,
+      70
+    ],
+    "overlay_wh": [
+      576,
+      450
+    ],
+    "render_canvas": [
+      1152,
+      1536
+    ],
+    "render_crop_xywh": [
+      192,
+      0,
+      768,
+      600
+    ],
+    "note": "Bust crop; bottom at y=520, above cards beginning at y=545."
+  },
+  "rig_geometry": "unchanged; calibrated animation values remain within existing parameter limits",
+  "editor_model": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\voice_sync_v4\\Risa_coordinated.cmo3",
+  "model_scope": "model3 references existing rig assets; this folder alone is not a standalone model package"
+}

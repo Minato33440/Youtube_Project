@@ -1,0 +1,2182 @@
+{
+  "phonemes": [
+    {
+      "start_s_source": 0.0725,
+      "end_s_source": 0.1625,
+      "phoneme": "k",
+      "mora": "カ",
+      "part": "N02_01",
+      "start_s": 0.0725,
+      "end_s": 0.1625
+    },
+    {
+      "start_s_source": 0.1625,
+      "end_s_source": 0.1925,
+      "phoneme": "a",
+      "mora": "カ",
+      "part": "N02_01",
+      "start_s": 0.1625,
+      "end_s": 0.1925
+    },
+    {
+      "start_s_source": 0.1925,
+      "end_s_source": 0.2425,
+      "phoneme": "r",
+      "mora": "リ",
+      "part": "N02_01",
+      "start_s": 0.1925,
+      "end_s": 0.2425
+    },
+    {
+      "start_s_source": 0.2425,
+      "end_s_source": 0.3225,
+      "phoneme": "i",
+      "mora": "リ",
+      "part": "N02_01",
+      "start_s": 0.2425,
+      "end_s": 0.3225
+    },
+    {
+      "start_s_source": 0.3225,
+      "end_s_source": 0.3825,
+      "phoneme": "k",
+      "mora": "カ",
+      "part": "N02_01",
+      "start_s": 0.3225,
+      "end_s": 0.3825
+    },
+    {
+      "start_s_source": 0.3825,
+      "end_s_source": 0.4325,
+      "phoneme": "a",
+      "mora": "カ",
+      "part": "N02_01",
+      "start_s": 0.3825,
+      "end_s": 0.4325
+    },
+    {
+      "start_s_source": 0.4325,
+      "end_s_source": 0.4625,
+      "phoneme": "e",
+      "mora": "エ",
+      "part": "N02_01",
+      "start_s": 0.4325,
+      "end_s": 0.4625
+    },
+    {
+      "start_s_source": 0.4625,
+      "end_s_source": 0.5725,
+      "phoneme": "w",
+      "mora": "ワ",
+      "part": "N02_01",
+      "start_s": 0.4625,
+      "end_s": 0.5725
+    },
+    {
+      "start_s_source": 0.5725,
+      "end_s_source": 0.7725,
+      "phoneme": "a",
+      "mora": "ワ",
+      "part": "N02_01",
+      "start_s": 0.5725,
+      "end_s": 0.7725
+    },
+    {
+      "start_s_source": 0.7725,
+      "end_s_source": 1.1225,
+      "phoneme": "sp",
+      "mora": ",",
+      "part": "N02_01",
+      "start_s": 0.7725,
+      "end_s": 1.1225
+    },
+    {
+      "start_s_source": 1.1225,
+      "end_s_source": 1.2025,
+      "phoneme": "m",
+      "mora": "マ",
+      "part": "N02_01",
+      "start_s": 1.1225,
+      "end_s": 1.2025
+    },
+    {
+      "start_s_source": 1.2025,
+      "end_s_source": 1.2725,
+      "phoneme": "a",
+      "mora": "マ",
+      "part": "N02_01",
+      "start_s": 1.2025,
+      "end_s": 1.2725
+    },
+    {
+      "start_s_source": 1.2725,
+      "end_s_source": 1.3225,
+      "phoneme": "N",
+      "mora": "ン",
+      "part": "N02_01",
+      "start_s": 1.2725,
+      "end_s": 1.3225
+    },
+    {
+      "start_s_source": 1.3225,
+      "end_s_source": 1.3925,
+      "phoneme": "k",
+      "mora": "キ",
+      "part": "N02_01",
+      "start_s": 1.3225,
+      "end_s": 1.3925
+    },
+    {
+      "start_s_source": 1.3925,
+      "end_s_source": 1.4325,
+      "phoneme": "i",
+      "mora": "キ",
+      "part": "N02_01",
+      "start_s": 1.3925,
+      "end_s": 1.4325
+    },
+    {
+      "start_s_source": 1.4325,
+      "end_s_source": 1.4925,
+      "phoneme": "n",
+      "mora": "ノ",
+      "part": "N02_01",
+      "start_s": 1.4325,
+      "end_s": 1.4925
+    },
+    {
+      "start_s_source": 1.4925,
+      "end_s_source": 1.5525,
+      "phoneme": "o",
+      "mora": "ノ",
+      "part": "N02_01",
+      "start_s": 1.4925,
+      "end_s": 1.5525
+    },
+    {
+      "start_s_source": 1.5525,
+      "end_s_source": 1.6225,
+      "phoneme": "k",
+      "mora": "コ",
+      "part": "N02_01",
+      "start_s": 1.5525,
+      "end_s": 1.6225
+    },
+    {
+      "start_s_source": 1.6225,
+      "end_s_source": 1.6725,
+      "phoneme": "o",
+      "mora": "コ",
+      "part": "N02_01",
+      "start_s": 1.6225,
+      "end_s": 1.6725
+    },
+    {
+      "start_s_source": 1.6725,
+      "end_s_source": 1.7325,
+      "phoneme": "k",
+      "mora": "ク",
+      "part": "N02_01",
+      "start_s": 1.6725,
+      "end_s": 1.7325
+    },
+    {
+      "start_s_source": 1.7325,
+      "end_s_source": 1.7625,
+      "phoneme": "u",
+      "mora": "ク",
+      "part": "N02_01",
+      "start_s": 1.7325,
+      "end_s": 1.7625
+    },
+    {
+      "start_s_source": 1.7625,
+      "end_s_source": 1.8225,
+      "phoneme": "s",
+      "mora": "サ",
+      "part": "N02_01",
+      "start_s": 1.7625,
+      "end_s": 1.8225
+    },
+    {
+      "start_s_source": 1.8225,
+      "end_s_source": 1.8725,
+      "phoneme": "a",
+      "mora": "サ",
+      "part": "N02_01",
+      "start_s": 1.8225,
+      "end_s": 1.8725
+    },
+    {
+      "start_s_source": 1.8725,
+      "end_s_source": 1.9225,
+      "phoneme": "i",
+      "mora": "イ",
+      "part": "N02_01",
+      "start_s": 1.8725,
+      "end_s": 1.9225
+    },
+    {
+      "start_s_source": 1.9225,
+      "end_s_source": 1.9825,
+      "phoneme": "n",
+      "mora": "ニ",
+      "part": "N02_01",
+      "start_s": 1.9225,
+      "end_s": 1.9825
+    },
+    {
+      "start_s_source": 1.9825,
+      "end_s_source": 2.0525,
+      "phoneme": "i",
+      "mora": "ニ",
+      "part": "N02_01",
+      "start_s": 1.9825,
+      "end_s": 2.0525
+    },
+    {
+      "start_s_source": 2.0525,
+      "end_s_source": 2.1125,
+      "phoneme": "t",
+      "mora": "タ",
+      "part": "N02_01",
+      "start_s": 2.0525,
+      "end_s": 2.1125
+    },
+    {
+      "start_s_source": 2.1125,
+      "end_s_source": 2.1725,
+      "phoneme": "a",
+      "mora": "タ",
+      "part": "N02_01",
+      "start_s": 2.1125,
+      "end_s": 2.1725
+    },
+    {
+      "start_s_source": 2.1725,
+      "end_s_source": 2.2525,
+      "phoneme": "i",
+      "mora": "イ",
+      "part": "N02_01",
+      "start_s": 2.1725,
+      "end_s": 2.2525
+    },
+    {
+      "start_s_source": 2.2525,
+      "end_s_source": 2.3025,
+      "phoneme": "o",
+      "mora": "オ",
+      "part": "N02_01",
+      "start_s": 2.2525,
+      "end_s": 2.3025
+    },
+    {
+      "start_s_source": 2.3025,
+      "end_s_source": 2.3325,
+      "phoneme": "o",
+      "mora": "オ",
+      "part": "N02_01",
+      "start_s": 2.3025,
+      "end_s": 2.3325
+    },
+    {
+      "start_s_source": 2.3325,
+      "end_s_source": 2.4225,
+      "phoneme": "sh",
+      "mora": "シ",
+      "part": "N02_01",
+      "start_s": 2.3325,
+      "end_s": 2.4225
+    },
+    {
+      "start_s_source": 2.4225,
+      "end_s_source": 2.4525,
+      "phoneme": "i",
+      "mora": "シ",
+      "part": "N02_01",
+      "start_s": 2.4225,
+      "end_s": 2.4525
+    },
+    {
+      "start_s_source": 2.4525,
+      "end_s_source": 2.5125,
+      "phoneme": "t",
+      "mora": "テ",
+      "part": "N02_01",
+      "start_s": 2.4525,
+      "end_s": 2.5125
+    },
+    {
+      "start_s_source": 2.5125,
+      "end_s_source": 2.5925,
+      "phoneme": "e",
+      "mora": "テ",
+      "part": "N02_01",
+      "start_s": 2.5125,
+      "end_s": 2.5925
+    },
+    {
+      "start_s_source": 2.5925,
+      "end_s_source": 2.6225,
+      "phoneme": "a",
+      "mora": "ア",
+      "part": "N02_01",
+      "start_s": 2.5925,
+      "end_s": 2.6225
+    },
+    {
+      "start_s_source": 2.6225,
+      "end_s_source": 3.2225,
+      "phoneme": "t",
+      "mora": "タ",
+      "part": "N02_01",
+      "start_s": 2.6225,
+      "end_s": 3.2225
+    },
+    {
+      "start_s_source": 3.2225,
+      "end_s_source": 3.2625,
+      "phoneme": "a",
+      "mora": "タ",
+      "part": "N02_01",
+      "start_s": 3.2225,
+      "end_s": 3.2625
+    },
+    {
+      "start_s_source": 3.2625,
+      "end_s_source": 3.3225,
+      "phoneme": "r",
+      "mora": "ラ",
+      "part": "N02_01",
+      "start_s": 3.2625,
+      "end_s": 3.3225
+    },
+    {
+      "start_s_source": 3.3225,
+      "end_s_source": 3.3525,
+      "phoneme": "a",
+      "mora": "ラ",
+      "part": "N02_01",
+      "start_s": 3.3225,
+      "end_s": 3.3525
+    },
+    {
+      "start_s_source": 3.3525,
+      "end_s_source": 3.4725,
+      "phoneme": "sh",
+      "mora": "シ",
+      "part": "N02_01",
+      "start_s": 3.3525,
+      "end_s": 3.4725
+    },
+    {
+      "start_s_source": 3.4725,
+      "end_s_source": 3.5125,
+      "phoneme": "i",
+      "mora": "シ",
+      "part": "N02_01",
+      "start_s": 3.4725,
+      "end_s": 3.5125
+    },
+    {
+      "start_s_source": 3.5125,
+      "end_s_source": 3.5525,
+      "phoneme": "i",
+      "mora": "イ",
+      "part": "N02_01",
+      "start_s": 3.5125,
+      "end_s": 3.5525
+    },
+    {
+      "start_s_source": 3.5525,
+      "end_s_source": 3.6325,
+      "phoneme": "k",
+      "mora": "コ",
+      "part": "N02_01",
+      "start_s": 3.5525,
+      "end_s": 3.6325
+    },
+    {
+      "start_s_source": 3.6325,
+      "end_s_source": 3.6925,
+      "phoneme": "o",
+      "mora": "コ",
+      "part": "N02_01",
+      "start_s": 3.6325,
+      "end_s": 3.6925
+    },
+    {
+      "start_s_source": 3.6925,
+      "end_s_source": 3.7525,
+      "phoneme": "k",
+      "mora": "ク",
+      "part": "N02_01",
+      "start_s": 3.6925,
+      "end_s": 3.7525
+    },
+    {
+      "start_s_source": 3.7525,
+      "end_s_source": 3.7825,
+      "phoneme": "u",
+      "mora": "ク",
+      "part": "N02_01",
+      "start_s": 3.7525,
+      "end_s": 3.7825
+    },
+    {
+      "start_s_source": 3.7825,
+      "end_s_source": 3.8525,
+      "phoneme": "s",
+      "mora": "サ",
+      "part": "N02_01",
+      "start_s": 3.7825,
+      "end_s": 3.8525
+    },
+    {
+      "start_s_source": 3.8525,
+      "end_s_source": 3.8825,
+      "phoneme": "a",
+      "mora": "サ",
+      "part": "N02_01",
+      "start_s": 3.8525,
+      "end_s": 3.8825
+    },
+    {
+      "start_s_source": 3.8825,
+      "end_s_source": 3.9425,
+      "phoneme": "i",
+      "mora": "イ",
+      "part": "N02_01",
+      "start_s": 3.8825,
+      "end_s": 3.9425
+    },
+    {
+      "start_s_source": 3.9425,
+      "end_s_source": 4.0025,
+      "phoneme": "o",
+      "mora": "オ",
+      "part": "N02_01",
+      "start_s": 3.9425,
+      "end_s": 4.0025
+    },
+    {
+      "start_s_source": 4.0025,
+      "end_s_source": 4.1025,
+      "phoneme": "h",
+      "mora": "ハ",
+      "part": "N02_01",
+      "start_s": 4.0025,
+      "end_s": 4.1025
+    },
+    {
+      "start_s_source": 4.1025,
+      "end_s_source": 4.1625,
+      "phoneme": "a",
+      "mora": "ハ",
+      "part": "N02_01",
+      "start_s": 4.1025,
+      "end_s": 4.1625
+    },
+    {
+      "start_s_source": 4.1625,
+      "end_s_source": 4.2025,
+      "phoneme": "cl",
+      "mora": "ッ",
+      "part": "N02_01",
+      "start_s": 4.1625,
+      "end_s": 4.2025
+    },
+    {
+      "start_s_source": 4.2025,
+      "end_s_source": 4.2725,
+      "phoneme": "k",
+      "mora": "コ",
+      "part": "N02_01",
+      "start_s": 4.2025,
+      "end_s": 4.2725
+    },
+    {
+      "start_s_source": 4.2725,
+      "end_s_source": 4.3025,
+      "phoneme": "o",
+      "mora": "コ",
+      "part": "N02_01",
+      "start_s": 4.2725,
+      "end_s": 4.3025
+    },
+    {
+      "start_s_source": 4.3025,
+      "end_s_source": 4.3325,
+      "phoneme": "o",
+      "mora": "オ",
+      "part": "N02_01",
+      "start_s": 4.3025,
+      "end_s": 4.3325
+    },
+    {
+      "start_s_source": 4.3325,
+      "end_s_source": 4.4425,
+      "phoneme": "s",
+      "mora": "ス",
+      "part": "N02_01",
+      "start_s": 4.3325,
+      "end_s": 4.4425
+    },
+    {
+      "start_s_source": 4.4425,
+      "end_s_source": 4.4825,
+      "phoneme": "u",
+      "mora": "ス",
+      "part": "N02_01",
+      "start_s": 4.4425,
+      "end_s": 4.4825
+    },
+    {
+      "start_s_source": 4.4825,
+      "end_s_source": 4.5225,
+      "phoneme": "r",
+      "mora": "ル",
+      "part": "N02_01",
+      "start_s": 4.4825,
+      "end_s": 4.5225
+    },
+    {
+      "start_s_source": 4.5225,
+      "end_s_source": 4.5525,
+      "phoneme": "u",
+      "mora": "ル",
+      "part": "N02_01",
+      "start_s": 4.5225,
+      "end_s": 4.5525
+    },
+    {
+      "start_s_source": 4.5525,
+      "end_s_source": 4.6425,
+      "phoneme": "sh",
+      "mora": "シ",
+      "part": "N02_01",
+      "start_s": 4.5525,
+      "end_s": 4.6425
+    },
+    {
+      "start_s_source": 4.6425,
+      "end_s_source": 4.6925,
+      "phoneme": "i",
+      "mora": "シ",
+      "part": "N02_01",
+      "start_s": 4.6425,
+      "end_s": 4.6925
+    },
+    {
+      "start_s_source": 4.6925,
+      "end_s_source": 4.7425,
+      "phoneme": "k",
+      "mora": "ク",
+      "part": "N02_01",
+      "start_s": 4.6925,
+      "end_s": 4.7425
+    },
+    {
+      "start_s_source": 4.7425,
+      "end_s_source": 4.7725,
+      "phoneme": "u",
+      "mora": "ク",
+      "part": "N02_01",
+      "start_s": 4.7425,
+      "end_s": 4.7725
+    },
+    {
+      "start_s_source": 4.7725,
+      "end_s_source": 4.8425,
+      "phoneme": "m",
+      "mora": "ミ",
+      "part": "N02_01",
+      "start_s": 4.7725,
+      "end_s": 4.8425
+    },
+    {
+      "start_s_source": 4.8425,
+      "end_s_source": 4.8925,
+      "phoneme": "i",
+      "mora": "ミ",
+      "part": "N02_01",
+      "start_s": 4.8425,
+      "end_s": 4.8925
+    },
+    {
+      "start_s_source": 4.8925,
+      "end_s_source": 4.9325,
+      "phoneme": "d",
+      "mora": "デ",
+      "part": "N02_01",
+      "start_s": 4.8925,
+      "end_s": 4.9325
+    },
+    {
+      "start_s_source": 4.9325,
+      "end_s_source": 5.1125,
+      "phoneme": "e",
+      "mora": "デ",
+      "part": "N02_01",
+      "start_s": 4.9325,
+      "end_s": 5.1125
+    },
+    {
+      "start_s_source": 5.1125,
+      "end_s_source": 5.5325,
+      "phoneme": "sp",
+      "mora": ",",
+      "part": "N02_01",
+      "start_s": 5.1125,
+      "end_s": 5.5325
+    },
+    {
+      "start_s_source": 5.5325,
+      "end_s_source": 5.6425,
+      "phoneme": "s",
+      "mora": "サ",
+      "part": "N02_01",
+      "start_s": 5.5325,
+      "end_s": 5.6425
+    },
+    {
+      "start_s_source": 5.6425,
+      "end_s_source": 5.7225,
+      "phoneme": "a",
+      "mora": "サ",
+      "part": "N02_01",
+      "start_s": 5.6425,
+      "end_s": 5.7225
+    },
+    {
+      "start_s_source": 5.7225,
+      "end_s_source": 5.7525,
+      "phoneme": "i",
+      "mora": "イ",
+      "part": "N02_01",
+      "start_s": 5.7225,
+      "end_s": 5.7525
+    },
+    {
+      "start_s_source": 5.7525,
+      "end_s_source": 5.8125,
+      "phoneme": "m",
+      "mora": "ム",
+      "part": "N02_01",
+      "start_s": 5.7525,
+      "end_s": 5.8125
+    },
+    {
+      "start_s_source": 5.8125,
+      "end_s_source": 5.8825,
+      "phoneme": "u",
+      "mora": "ム",
+      "part": "N02_01",
+      "start_s": 5.8125,
+      "end_s": 5.8825
+    },
+    {
+      "start_s_source": 5.8825,
+      "end_s_source": 5.9325,
+      "phoneme": "g",
+      "mora": "ガ",
+      "part": "N02_01",
+      "start_s": 5.8825,
+      "end_s": 5.9325
+    },
+    {
+      "start_s_source": 5.9325,
+      "end_s_source": 6.0025,
+      "phoneme": "a",
+      "mora": "ガ",
+      "part": "N02_01",
+      "start_s": 5.9325,
+      "end_s": 6.0025
+    },
+    {
+      "start_s_source": 6.0025,
+      "end_s_source": 6.0925,
+      "phoneme": "k",
+      "mora": "キ",
+      "part": "N02_01",
+      "start_s": 6.0025,
+      "end_s": 6.0925
+    },
+    {
+      "start_s_source": 6.0925,
+      "end_s_source": 6.1425,
+      "phoneme": "i",
+      "mora": "キ",
+      "part": "N02_01",
+      "start_s": 6.0925,
+      "end_s": 6.1425
+    },
+    {
+      "start_s_source": 6.1425,
+      "end_s_source": 6.1825,
+      "phoneme": "e",
+      "mora": "エ",
+      "part": "N02_01",
+      "start_s": 6.1425,
+      "end_s": 6.1825
+    },
+    {
+      "start_s_source": 6.1825,
+      "end_s_source": 6.2325,
+      "phoneme": "r",
+      "mora": "ル",
+      "part": "N02_01",
+      "start_s": 6.1825,
+      "end_s": 6.2325
+    },
+    {
+      "start_s_source": 6.2325,
+      "end_s_source": 6.2725,
+      "phoneme": "u",
+      "mora": "ル",
+      "part": "N02_01",
+      "start_s": 6.2325,
+      "end_s": 6.2725
+    },
+    {
+      "start_s_source": 6.2725,
+      "end_s_source": 6.3125,
+      "phoneme": "w",
+      "mora": "ワ",
+      "part": "N02_01",
+      "start_s": 6.2725,
+      "end_s": 6.3125
+    },
+    {
+      "start_s_source": 6.3125,
+      "end_s_source": 6.3625,
+      "phoneme": "a",
+      "mora": "ワ",
+      "part": "N02_01",
+      "start_s": 6.3125,
+      "end_s": 6.3625
+    },
+    {
+      "start_s_source": 6.3625,
+      "end_s_source": 6.4125,
+      "phoneme": "k",
+      "mora": "ケ",
+      "part": "N02_01",
+      "start_s": 6.3625,
+      "end_s": 6.4125
+    },
+    {
+      "start_s_source": 6.4125,
+      "end_s_source": 6.4725,
+      "phoneme": "e",
+      "mora": "ケ",
+      "part": "N02_01",
+      "start_s": 6.4125,
+      "end_s": 6.4725
+    },
+    {
+      "start_s_source": 6.4725,
+      "end_s_source": 6.5025,
+      "phoneme": "d",
+      "mora": "デ",
+      "part": "N02_01",
+      "start_s": 6.4725,
+      "end_s": 6.5025
+    },
+    {
+      "start_s_source": 6.5025,
+      "end_s_source": 6.5425,
+      "phoneme": "e",
+      "mora": "デ",
+      "part": "N02_01",
+      "start_s": 6.5025,
+      "end_s": 6.5425
+    },
+    {
+      "start_s_source": 6.5425,
+      "end_s_source": 6.6225,
+      "phoneme": "w",
+      "mora": "ワ",
+      "part": "N02_01",
+      "start_s": 6.5425,
+      "end_s": 6.6225
+    },
+    {
+      "start_s_source": 6.6225,
+      "end_s_source": 6.6525,
+      "phoneme": "a",
+      "mora": "ワ",
+      "part": "N02_01",
+      "start_s": 6.6225,
+      "end_s": 6.6525
+    },
+    {
+      "start_s_source": 6.6525,
+      "end_s_source": 6.6825,
+      "phoneme": "a",
+      "mora": "ア",
+      "part": "N02_01",
+      "start_s": 6.6525,
+      "end_s": 6.6825
+    },
+    {
+      "start_s_source": 6.6825,
+      "end_s_source": 6.7425,
+      "phoneme": "r",
+      "mora": "リ",
+      "part": "N02_01",
+      "start_s": 6.6825,
+      "end_s": 6.7425
+    },
+    {
+      "start_s_source": 6.7425,
+      "end_s_source": 6.8025,
+      "phoneme": "i",
+      "mora": "リ",
+      "part": "N02_01",
+      "start_s": 6.7425,
+      "end_s": 6.8025
+    },
+    {
+      "start_s_source": 6.8025,
+      "end_s_source": 6.8725,
+      "phoneme": "m",
+      "mora": "マ",
+      "part": "N02_01",
+      "start_s": 6.8025,
+      "end_s": 6.8725
+    },
+    {
+      "start_s_source": 6.8725,
+      "end_s_source": 6.9025,
+      "phoneme": "a",
+      "mora": "マ",
+      "part": "N02_01",
+      "start_s": 6.8725,
+      "end_s": 6.9025
+    },
+    {
+      "start_s_source": 6.9025,
+      "end_s_source": 7.0125,
+      "phoneme": "s",
+      "mora": "セ",
+      "part": "N02_01",
+      "start_s": 6.9025,
+      "end_s": 7.0125
+    },
+    {
+      "start_s_source": 7.0125,
+      "end_s_source": 7.0525,
+      "phoneme": "e",
+      "mora": "セ",
+      "part": "N02_01",
+      "start_s": 7.0125,
+      "end_s": 7.0525
+    },
+    {
+      "start_s_source": 7.0525,
+      "end_s_source": 7.1025,
+      "phoneme": "N",
+      "mora": "ン",
+      "part": "N02_01",
+      "start_s": 7.0525,
+      "end_s": 7.1025
+    },
+    {
+      "start_s_source": 7.1025,
+      "end_s_source": 7.2025,
+      "phoneme": "sp",
+      "mora": ".",
+      "part": "N02_01",
+      "start_s": 7.1025,
+      "end_s": 7.2025
+    },
+    {
+      "start_s_source": 0.0425,
+      "end_s_source": 0.1525,
+      "phoneme": "k",
+      "mora": "コ",
+      "part": "N02_02",
+      "start_s": 7.3516383,
+      "end_s": 7.4616383
+    },
+    {
+      "start_s_source": 0.1525,
+      "end_s_source": 0.2025,
+      "phoneme": "o",
+      "mora": "コ",
+      "part": "N02_02",
+      "start_s": 7.4616383,
+      "end_s": 7.5116383
+    },
+    {
+      "start_s_source": 0.2025,
+      "end_s_source": 0.2625,
+      "phoneme": "k",
+      "mora": "コ",
+      "part": "N02_02",
+      "start_s": 7.5116383,
+      "end_s": 7.5716383
+    },
+    {
+      "start_s_source": 0.2625,
+      "end_s_source": 0.3225,
+      "phoneme": "o",
+      "mora": "コ",
+      "part": "N02_02",
+      "start_s": 7.5716383,
+      "end_s": 7.6316383
+    },
+    {
+      "start_s_source": 0.3225,
+      "end_s_source": 0.3925,
+      "phoneme": "k",
+      "mora": "カ",
+      "part": "N02_02",
+      "start_s": 7.6316383,
+      "end_s": 7.7016383
+    },
+    {
+      "start_s_source": 0.3925,
+      "end_s_source": 0.4325,
+      "phoneme": "a",
+      "mora": "カ",
+      "part": "N02_02",
+      "start_s": 7.7016383,
+      "end_s": 7.7416383
+    },
+    {
+      "start_s_source": 0.4325,
+      "end_s_source": 0.4825,
+      "phoneme": "r",
+      "mora": "ラ",
+      "part": "N02_02",
+      "start_s": 7.7416383,
+      "end_s": 7.7916383
+    },
+    {
+      "start_s_source": 0.4825,
+      "end_s_source": 0.5425,
+      "phoneme": "a",
+      "mora": "ラ",
+      "part": "N02_02",
+      "start_s": 7.7916383,
+      "end_s": 7.8516383
+    },
+    {
+      "start_s_source": 0.5425,
+      "end_s_source": 0.6325,
+      "phoneme": "w",
+      "mora": "ワ",
+      "part": "N02_02",
+      "start_s": 7.8516383,
+      "end_s": 7.9416383
+    },
+    {
+      "start_s_source": 0.6325,
+      "end_s_source": 0.8225,
+      "phoneme": "a",
+      "mora": "ワ",
+      "part": "N02_02",
+      "start_s": 7.9416383,
+      "end_s": 8.1316383
+    },
+    {
+      "start_s_source": 0.8225,
+      "end_s_source": 1.1725,
+      "phoneme": "sp",
+      "mora": ",",
+      "part": "N02_02",
+      "start_s": 8.1316383,
+      "end_s": 8.4816383
+    },
+    {
+      "start_s_source": 1.1725,
+      "end_s_source": 1.2525,
+      "phoneme": "k",
+      "mora": "キ",
+      "part": "N02_02",
+      "start_s": 8.4816383,
+      "end_s": 8.5616383
+    },
+    {
+      "start_s_source": 1.2525,
+      "end_s_source": 1.3425,
+      "phoneme": "i",
+      "mora": "キ",
+      "part": "N02_02",
+      "start_s": 8.5616383,
+      "end_s": 8.6516383
+    },
+    {
+      "start_s_source": 1.3425,
+      "end_s_source": 1.4225,
+      "phoneme": "gy",
+      "mora": "ギョ",
+      "part": "N02_02",
+      "start_s": 8.6516383,
+      "end_s": 8.7316383
+    },
+    {
+      "start_s_source": 1.4225,
+      "end_s_source": 1.4525,
+      "phoneme": "o",
+      "mora": "ギョ",
+      "part": "N02_02",
+      "start_s": 8.7316383,
+      "end_s": 8.7616383
+    },
+    {
+      "start_s_source": 1.4525,
+      "end_s_source": 1.5125,
+      "phoneme": "o",
+      "mora": "オ",
+      "part": "N02_02",
+      "start_s": 8.7616383,
+      "end_s": 8.8216383
+    },
+    {
+      "start_s_source": 1.5125,
+      "end_s_source": 1.5625,
+      "phoneme": "t",
+      "mora": "ト",
+      "part": "N02_02",
+      "start_s": 8.8216383,
+      "end_s": 8.8716383
+    },
+    {
+      "start_s_source": 1.5625,
+      "end_s_source": 1.5925,
+      "phoneme": "o",
+      "mora": "ト",
+      "part": "N02_02",
+      "start_s": 8.8716383,
+      "end_s": 8.9016383
+    },
+    {
+      "start_s_source": 1.5925,
+      "end_s_source": 1.6925,
+      "phoneme": "s",
+      "mora": "セ",
+      "part": "N02_02",
+      "start_s": 8.9016383,
+      "end_s": 9.0016383
+    },
+    {
+      "start_s_source": 1.6925,
+      "end_s_source": 1.7325,
+      "phoneme": "e",
+      "mora": "セ",
+      "part": "N02_02",
+      "start_s": 9.0016383,
+      "end_s": 9.0416383
+    },
+    {
+      "start_s_source": 1.7325,
+      "end_s_source": 1.7625,
+      "phoneme": "e",
+      "mora": "エ",
+      "part": "N02_02",
+      "start_s": 9.0416383,
+      "end_s": 9.0716383
+    },
+    {
+      "start_s_source": 1.7625,
+      "end_s_source": 1.8625,
+      "phoneme": "f",
+      "mora": "フ",
+      "part": "N02_02",
+      "start_s": 9.0716383,
+      "end_s": 9.1716383
+    },
+    {
+      "start_s_source": 1.8625,
+      "end_s_source": 1.8925,
+      "phoneme": "u",
+      "mora": "フ",
+      "part": "N02_02",
+      "start_s": 9.1716383,
+      "end_s": 9.2016383
+    },
+    {
+      "start_s_source": 1.8925,
+      "end_s_source": 1.9425,
+      "phoneme": "n",
+      "mora": "ノ",
+      "part": "N02_02",
+      "start_s": 9.2016383,
+      "end_s": 9.2516383
+    },
+    {
+      "start_s_source": 1.9425,
+      "end_s_source": 1.9725,
+      "phoneme": "o",
+      "mora": "ノ",
+      "part": "N02_02",
+      "start_s": 9.2516383,
+      "end_s": 9.2816383
+    },
+    {
+      "start_s_source": 1.9725,
+      "end_s_source": 2.0925,
+      "phoneme": "sh",
+      "mora": "シ",
+      "part": "N02_02",
+      "start_s": 9.2816383,
+      "end_s": 9.4016383
+    },
+    {
+      "start_s_source": 2.0925,
+      "end_s_source": 2.1225,
+      "phoneme": "i",
+      "mora": "シ",
+      "part": "N02_02",
+      "start_s": 9.4016383,
+      "end_s": 9.4316383
+    },
+    {
+      "start_s_source": 2.1225,
+      "end_s_source": 2.2025,
+      "phoneme": "sh",
+      "mora": "シュ",
+      "part": "N02_02",
+      "start_s": 9.4316383,
+      "end_s": 9.5116383
+    },
+    {
+      "start_s_source": 2.2025,
+      "end_s_source": 2.2325,
+      "phoneme": "u",
+      "mora": "シュ",
+      "part": "N02_02",
+      "start_s": 9.5116383,
+      "end_s": 9.5416383
+    },
+    {
+      "start_s_source": 2.2325,
+      "end_s_source": 2.3625,
+      "phoneme": "ts",
+      "mora": "ツ",
+      "part": "N02_02",
+      "start_s": 9.5416383,
+      "end_s": 9.6716383
+    },
+    {
+      "start_s_source": 2.3625,
+      "end_s_source": 2.8725,
+      "phoneme": "u",
+      "mora": "ツ",
+      "part": "N02_02",
+      "start_s": 9.6716383,
+      "end_s": 10.1816383
+    },
+    {
+      "start_s_source": 2.8725,
+      "end_s_source": 2.9025,
+      "phoneme": "o",
+      "mora": "オ",
+      "part": "N02_02",
+      "start_s": 10.1816383,
+      "end_s": 10.2116383
+    },
+    {
+      "start_s_source": 2.9025,
+      "end_s_source": 3.0225,
+      "phoneme": "a",
+      "mora": "ア",
+      "part": "N02_02",
+      "start_s": 10.2116383,
+      "end_s": 10.3316383
+    },
+    {
+      "start_s_source": 3.0225,
+      "end_s_source": 3.0725,
+      "phoneme": "w",
+      "mora": "ワ",
+      "part": "N02_02",
+      "start_s": 10.3316383,
+      "end_s": 10.3816383
+    },
+    {
+      "start_s_source": 3.0725,
+      "end_s_source": 3.1125,
+      "phoneme": "a",
+      "mora": "ワ",
+      "part": "N02_02",
+      "start_s": 10.3816383,
+      "end_s": 10.4216383
+    },
+    {
+      "start_s_source": 3.1125,
+      "end_s_source": 3.2125,
+      "phoneme": "s",
+      "mora": "セ",
+      "part": "N02_02",
+      "start_s": 10.4216383,
+      "end_s": 10.5216383
+    },
+    {
+      "start_s_source": 3.2125,
+      "end_s_source": 3.2725,
+      "phoneme": "e",
+      "mora": "セ",
+      "part": "N02_02",
+      "start_s": 10.5216383,
+      "end_s": 10.5816383
+    },
+    {
+      "start_s_source": 3.2725,
+      "end_s_source": 3.3125,
+      "phoneme": "t",
+      "mora": "テ",
+      "part": "N02_02",
+      "start_s": 10.5816383,
+      "end_s": 10.6216383
+    },
+    {
+      "start_s_source": 3.3125,
+      "end_s_source": 3.3525,
+      "phoneme": "e",
+      "mora": "テ",
+      "part": "N02_02",
+      "start_s": 10.6216383,
+      "end_s": 10.6616383
+    },
+    {
+      "start_s_source": 3.3525,
+      "end_s_source": 3.4425,
+      "phoneme": "m",
+      "mora": "ミ",
+      "part": "N02_02",
+      "start_s": 10.6616383,
+      "end_s": 10.7516383
+    },
+    {
+      "start_s_source": 3.4425,
+      "end_s_source": 3.4825,
+      "phoneme": "i",
+      "mora": "ミ",
+      "part": "N02_02",
+      "start_s": 10.7516383,
+      "end_s": 10.7916383
+    },
+    {
+      "start_s_source": 3.4825,
+      "end_s_source": 3.5225,
+      "phoneme": "r",
+      "mora": "ル",
+      "part": "N02_02",
+      "start_s": 10.7916383,
+      "end_s": 10.8316383
+    },
+    {
+      "start_s_source": 3.5225,
+      "end_s_source": 3.5625,
+      "phoneme": "u",
+      "mora": "ル",
+      "part": "N02_02",
+      "start_s": 10.8316383,
+      "end_s": 10.8716383
+    },
+    {
+      "start_s_source": 3.5625,
+      "end_s_source": 3.6625,
+      "phoneme": "k",
+      "mora": "カ",
+      "part": "N02_02",
+      "start_s": 10.8716383,
+      "end_s": 10.9716383
+    },
+    {
+      "start_s_source": 3.6625,
+      "end_s_source": 3.7325,
+      "phoneme": "a",
+      "mora": "カ",
+      "part": "N02_02",
+      "start_s": 10.9716383,
+      "end_s": 11.0416383
+    },
+    {
+      "start_s_source": 3.7325,
+      "end_s_source": 3.7925,
+      "phoneme": "N",
+      "mora": "ン",
+      "part": "N02_02",
+      "start_s": 11.0416383,
+      "end_s": 11.1016383
+    },
+    {
+      "start_s_source": 3.7925,
+      "end_s_source": 3.8425,
+      "phoneme": "g",
+      "mora": "ガ",
+      "part": "N02_02",
+      "start_s": 11.1016383,
+      "end_s": 11.1516383
+    },
+    {
+      "start_s_source": 3.8425,
+      "end_s_source": 3.8725,
+      "phoneme": "a",
+      "mora": "ガ",
+      "part": "N02_02",
+      "start_s": 11.1516383,
+      "end_s": 11.1816383
+    },
+    {
+      "start_s_source": 3.8725,
+      "end_s_source": 3.9225,
+      "phoneme": "e",
+      "mora": "エ",
+      "part": "N02_02",
+      "start_s": 11.1816383,
+      "end_s": 11.2316383
+    },
+    {
+      "start_s_source": 3.9225,
+      "end_s_source": 3.9925,
+      "phoneme": "k",
+      "mora": "カ",
+      "part": "N02_02",
+      "start_s": 11.2316383,
+      "end_s": 11.3016383
+    },
+    {
+      "start_s_source": 3.9925,
+      "end_s_source": 4.0325,
+      "phoneme": "a",
+      "mora": "カ",
+      "part": "N02_02",
+      "start_s": 11.3016383,
+      "end_s": 11.3416383
+    },
+    {
+      "start_s_source": 4.0325,
+      "end_s_source": 4.1025,
+      "phoneme": "t",
+      "mora": "タ",
+      "part": "N02_02",
+      "start_s": 11.3416383,
+      "end_s": 11.4116383
+    },
+    {
+      "start_s_source": 4.1025,
+      "end_s_source": 4.1425,
+      "phoneme": "a",
+      "mora": "タ",
+      "part": "N02_02",
+      "start_s": 11.4116383,
+      "end_s": 11.4516383
+    },
+    {
+      "start_s_source": 4.1425,
+      "end_s_source": 4.1725,
+      "phoneme": "d",
+      "mora": "デ",
+      "part": "N02_02",
+      "start_s": 11.4516383,
+      "end_s": 11.4816383
+    },
+    {
+      "start_s_source": 4.1725,
+      "end_s_source": 4.2225,
+      "phoneme": "e",
+      "mora": "デ",
+      "part": "N02_02",
+      "start_s": 11.4816383,
+      "end_s": 11.5316383
+    },
+    {
+      "start_s_source": 4.2225,
+      "end_s_source": 4.3825,
+      "phoneme": "s",
+      "mora": "ス",
+      "part": "N02_02",
+      "start_s": 11.5316383,
+      "end_s": 11.6916383
+    },
+    {
+      "start_s_source": 4.3825,
+      "end_s_source": 4.4225,
+      "phoneme": "u",
+      "mora": "ス",
+      "part": "N02_02",
+      "start_s": 11.6916383,
+      "end_s": 11.7316383
+    },
+    {
+      "start_s_source": 4.4225,
+      "end_s_source": 4.4825,
+      "phoneme": "sp",
+      "mora": ".",
+      "part": "N02_02",
+      "start_s": 11.7316383,
+      "end_s": 11.7916383
+    },
+    {
+      "start_s_source": 0.0825,
+      "end_s_source": 0.1425,
+      "phoneme": "n",
+      "mora": "ニ",
+      "part": "N02_03",
+      "start_s": 11.9085317,
+      "end_s": 11.9685317
+    },
+    {
+      "start_s_source": 0.1425,
+      "end_s_source": 0.1725,
+      "phoneme": "i",
+      "mora": "ニ",
+      "part": "N02_03",
+      "start_s": 11.9685317,
+      "end_s": 11.9985317
+    },
+    {
+      "start_s_source": 0.1725,
+      "end_s_source": 0.2725,
+      "phoneme": "s",
+      "mora": "セ",
+      "part": "N02_03",
+      "start_s": 11.9985317,
+      "end_s": 12.0985317
+    },
+    {
+      "start_s_source": 0.2725,
+      "end_s_source": 0.3525,
+      "phoneme": "e",
+      "mora": "セ",
+      "part": "N02_03",
+      "start_s": 12.0985317,
+      "end_s": 12.1785317
+    },
+    {
+      "start_s_source": 0.3525,
+      "end_s_source": 0.4025,
+      "phoneme": "N",
+      "mora": "ン",
+      "part": "N02_03",
+      "start_s": 12.1785317,
+      "end_s": 12.2285317
+    },
+    {
+      "start_s_source": 0.4025,
+      "end_s_source": 0.4525,
+      "phoneme": "n",
+      "mora": "ニ",
+      "part": "N02_03",
+      "start_s": 12.2285317,
+      "end_s": 12.2785317
+    },
+    {
+      "start_s_source": 0.4525,
+      "end_s_source": 0.4925,
+      "phoneme": "i",
+      "mora": "ニ",
+      "part": "N02_03",
+      "start_s": 12.2785317,
+      "end_s": 12.3185317
+    },
+    {
+      "start_s_source": 0.4925,
+      "end_s_source": 0.6025,
+      "phoneme": "j",
+      "mora": "ジュ",
+      "part": "N02_03",
+      "start_s": 12.3185317,
+      "end_s": 12.4285317
+    },
+    {
+      "start_s_source": 0.6025,
+      "end_s_source": 0.6325,
+      "phoneme": "u",
+      "mora": "ジュ",
+      "part": "N02_03",
+      "start_s": 12.4285317,
+      "end_s": 12.4585317
+    },
+    {
+      "start_s_source": 0.6325,
+      "end_s_source": 0.6925,
+      "phoneme": "u",
+      "mora": "ウ",
+      "part": "N02_03",
+      "start_s": 12.4585317,
+      "end_s": 12.5185317
+    },
+    {
+      "start_s_source": 0.6925,
+      "end_s_source": 0.7425,
+      "phoneme": "g",
+      "mora": "ゴ",
+      "part": "N02_03",
+      "start_s": 12.5185317,
+      "end_s": 12.5685317
+    },
+    {
+      "start_s_source": 0.7425,
+      "end_s_source": 0.7725,
+      "phoneme": "o",
+      "mora": "ゴ",
+      "part": "N02_03",
+      "start_s": 12.5685317,
+      "end_s": 12.5985317
+    },
+    {
+      "start_s_source": 0.7725,
+      "end_s_source": 0.8525,
+      "phoneme": "n",
+      "mora": "ネ",
+      "part": "N02_03",
+      "start_s": 12.5985317,
+      "end_s": 12.6785317
+    },
+    {
+      "start_s_source": 0.8525,
+      "end_s_source": 0.9125,
+      "phoneme": "e",
+      "mora": "ネ",
+      "part": "N02_03",
+      "start_s": 12.6785317,
+      "end_s": 12.7385317
+    },
+    {
+      "start_s_source": 0.9125,
+      "end_s_source": 1.0225,
+      "phoneme": "N",
+      "mora": "ン",
+      "part": "N02_03",
+      "start_s": 12.7385317,
+      "end_s": 12.8485317
+    },
+    {
+      "start_s_source": 1.0225,
+      "end_s_source": 1.1725,
+      "phoneme": "j",
+      "mora": "ジュ",
+      "part": "N02_03",
+      "start_s": 12.8485317,
+      "end_s": 12.9985317
+    },
+    {
+      "start_s_source": 1.1725,
+      "end_s_source": 1.2025,
+      "phoneme": "u",
+      "mora": "ジュ",
+      "part": "N02_03",
+      "start_s": 12.9985317,
+      "end_s": 13.0285317
+    },
+    {
+      "start_s_source": 1.2025,
+      "end_s_source": 1.2525,
+      "phoneme": "u",
+      "mora": "ウ",
+      "part": "N02_03",
+      "start_s": 13.0285317,
+      "end_s": 13.0785317
+    },
+    {
+      "start_s_source": 1.2525,
+      "end_s_source": 1.3325,
+      "phoneme": "i",
+      "mora": "イ",
+      "part": "N02_03",
+      "start_s": 13.0785317,
+      "end_s": 13.1585317
+    },
+    {
+      "start_s_source": 1.3325,
+      "end_s_source": 1.3925,
+      "phoneme": "ch",
+      "mora": "チ",
+      "part": "N02_03",
+      "start_s": 13.1585317,
+      "end_s": 13.2185317
+    },
+    {
+      "start_s_source": 1.3925,
+      "end_s_source": 1.4425,
+      "phoneme": "i",
+      "mora": "チ",
+      "part": "N02_03",
+      "start_s": 13.2185317,
+      "end_s": 13.2685317
+    },
+    {
+      "start_s_source": 1.4425,
+      "end_s_source": 1.4925,
+      "phoneme": "g",
+      "mora": "ガ",
+      "part": "N02_03",
+      "start_s": 13.2685317,
+      "end_s": 13.3185317
+    },
+    {
+      "start_s_source": 1.4925,
+      "end_s_source": 1.5325,
+      "phoneme": "a",
+      "mora": "ガ",
+      "part": "N02_03",
+      "start_s": 13.3185317,
+      "end_s": 13.3585317
+    },
+    {
+      "start_s_source": 1.5325,
+      "end_s_source": 1.6225,
+      "phoneme": "ts",
+      "mora": "ツ",
+      "part": "N02_03",
+      "start_s": 13.3585317,
+      "end_s": 13.4485317
+    },
+    {
+      "start_s_source": 1.6225,
+      "end_s_source": 1.6525,
+      "phoneme": "u",
+      "mora": "ツ",
+      "part": "N02_03",
+      "start_s": 13.4485317,
+      "end_s": 13.4785317
+    },
+    {
+      "start_s_source": 1.6525,
+      "end_s_source": 1.7625,
+      "phoneme": "k",
+      "mora": "コ",
+      "part": "N02_03",
+      "start_s": 13.4785317,
+      "end_s": 13.5885317
+    },
+    {
+      "start_s_source": 1.7625,
+      "end_s_source": 1.8125,
+      "phoneme": "o",
+      "mora": "コ",
+      "part": "N02_03",
+      "start_s": 13.5885317,
+      "end_s": 13.6385317
+    },
+    {
+      "start_s_source": 1.8125,
+      "end_s_source": 1.8825,
+      "phoneme": "o",
+      "mora": "オ",
+      "part": "N02_03",
+      "start_s": 13.6385317,
+      "end_s": 13.7085317
+    },
+    {
+      "start_s_source": 1.8825,
+      "end_s_source": 1.9425,
+      "phoneme": "k",
+      "mora": "カ",
+      "part": "N02_03",
+      "start_s": 13.7085317,
+      "end_s": 13.7685317
+    },
+    {
+      "start_s_source": 1.9425,
+      "end_s_source": 1.9925,
+      "phoneme": "a",
+      "mora": "カ",
+      "part": "N02_03",
+      "start_s": 13.7685317,
+      "end_s": 13.8185317
+    },
+    {
+      "start_s_source": 1.9925,
+      "end_s_source": 2.0325,
+      "phoneme": "i",
+      "mora": "イ",
+      "part": "N02_03",
+      "start_s": 13.8185317,
+      "end_s": 13.8585317
+    },
+    {
+      "start_s_source": 2.0325,
+      "end_s_source": 2.1025,
+      "phoneme": "n",
+      "mora": "ノ",
+      "part": "N02_03",
+      "start_s": 13.8585317,
+      "end_s": 13.9285317
+    },
+    {
+      "start_s_source": 2.1025,
+      "end_s_source": 2.1425,
+      "phoneme": "o",
+      "mora": "ノ",
+      "part": "N02_03",
+      "start_s": 13.9285317,
+      "end_s": 13.9685317
+    },
+    {
+      "start_s_source": 2.1425,
+      "end_s_source": 2.2425,
+      "phoneme": "k",
+      "mora": "カ",
+      "part": "N02_03",
+      "start_s": 13.9685317,
+      "end_s": 14.0685317
+    },
+    {
+      "start_s_source": 2.2425,
+      "end_s_source": 2.2725,
+      "phoneme": "a",
+      "mora": "カ",
+      "part": "N02_03",
+      "start_s": 14.0685317,
+      "end_s": 14.0985317
+    },
+    {
+      "start_s_source": 2.2725,
+      "end_s_source": 2.3025,
+      "phoneme": "i",
+      "mora": "イ",
+      "part": "N02_03",
+      "start_s": 14.0985317,
+      "end_s": 14.1285317
+    },
+    {
+      "start_s_source": 2.3025,
+      "end_s_source": 2.3825,
+      "phoneme": "s",
+      "mora": "セ",
+      "part": "N02_03",
+      "start_s": 14.1285317,
+      "end_s": 14.2085317
+    },
+    {
+      "start_s_source": 2.3825,
+      "end_s_source": 2.4225,
+      "phoneme": "e",
+      "mora": "セ",
+      "part": "N02_03",
+      "start_s": 14.2085317,
+      "end_s": 14.2485317
+    },
+    {
+      "start_s_source": 2.4225,
+      "end_s_source": 2.5225,
+      "phoneme": "ts",
+      "mora": "ツ",
+      "part": "N02_03",
+      "start_s": 14.2485317,
+      "end_s": 14.3485317
+    },
+    {
+      "start_s_source": 2.5225,
+      "end_s_source": 2.5525,
+      "phoneme": "u",
+      "mora": "ツ",
+      "part": "N02_03",
+      "start_s": 14.3485317,
+      "end_s": 14.3785317
+    },
+    {
+      "start_s_source": 2.5525,
+      "end_s_source": 2.5925,
+      "phoneme": "d",
+      "mora": "デ",
+      "part": "N02_03",
+      "start_s": 14.3785317,
+      "end_s": 14.4185317
+    },
+    {
+      "start_s_source": 2.5925,
+      "end_s_source": 2.7825,
+      "phoneme": "e",
+      "mora": "デ",
+      "part": "N02_03",
+      "start_s": 14.4185317,
+      "end_s": 14.6085317
+    },
+    {
+      "start_s_source": 2.7825,
+      "end_s_source": 3.2025,
+      "phoneme": "sp",
+      "mora": ",",
+      "part": "N02_03",
+      "start_s": 14.6085317,
+      "end_s": 15.0285317
+    },
+    {
+      "start_s_source": 3.2025,
+      "end_s_source": 3.2625,
+      "phoneme": "k",
+      "mora": "ケ",
+      "part": "N02_03",
+      "start_s": 15.0285317,
+      "end_s": 15.0885317
+    },
+    {
+      "start_s_source": 3.2625,
+      "end_s_source": 3.3225,
+      "phoneme": "e",
+      "mora": "ケ",
+      "part": "N02_03",
+      "start_s": 15.0885317,
+      "end_s": 15.1485317
+    },
+    {
+      "start_s_source": 3.3225,
+      "end_s_source": 3.3525,
+      "phoneme": "e",
+      "mora": "エ",
+      "part": "N02_03",
+      "start_s": 15.1485317,
+      "end_s": 15.1785317
+    },
+    {
+      "start_s_source": 3.3525,
+      "end_s_source": 3.4525,
+      "phoneme": "z",
+      "mora": "ザ",
+      "part": "N02_03",
+      "start_s": 15.1785317,
+      "end_s": 15.2785317
+    },
+    {
+      "start_s_source": 3.4525,
+      "end_s_source": 3.4925,
+      "phoneme": "a",
+      "mora": "ザ",
+      "part": "N02_03",
+      "start_s": 15.2785317,
+      "end_s": 15.3185317
+    },
+    {
+      "start_s_source": 3.4925,
+      "end_s_source": 3.5525,
+      "phoneme": "i",
+      "mora": "イ",
+      "part": "N02_03",
+      "start_s": 15.3185317,
+      "end_s": 15.3785317
+    },
+    {
+      "start_s_source": 3.5525,
+      "end_s_source": 3.6325,
+      "phoneme": "z",
+      "mora": "ゼ",
+      "part": "N02_03",
+      "start_s": 15.3785317,
+      "end_s": 15.4585317
+    },
+    {
+      "start_s_source": 3.6325,
+      "end_s_source": 3.6925,
+      "phoneme": "e",
+      "mora": "ゼ",
+      "part": "N02_03",
+      "start_s": 15.4585317,
+      "end_s": 15.5185317
+    },
+    {
+      "start_s_source": 3.6925,
+      "end_s_source": 3.7825,
+      "phoneme": "N",
+      "mora": "ン",
+      "part": "N02_03",
+      "start_s": 15.5185317,
+      "end_s": 15.6085317
+    },
+    {
+      "start_s_source": 3.7825,
+      "end_s_source": 3.8425,
+      "phoneme": "t",
+      "mora": "タ",
+      "part": "N02_03",
+      "start_s": 15.6085317,
+      "end_s": 15.6685317
+    },
+    {
+      "start_s_source": 3.8425,
+      "end_s_source": 3.8925,
+      "phoneme": "a",
+      "mora": "タ",
+      "part": "N02_03",
+      "start_s": 15.6685317,
+      "end_s": 15.7185317
+    },
+    {
+      "start_s_source": 3.8925,
+      "end_s_source": 3.9325,
+      "phoneme": "i",
+      "mora": "イ",
+      "part": "N02_03",
+      "start_s": 15.7185317,
+      "end_s": 15.7585317
+    },
+    {
+      "start_s_source": 3.9325,
+      "end_s_source": 4.0025,
+      "phoneme": "n",
+      "mora": "ノ",
+      "part": "N02_03",
+      "start_s": 15.7585317,
+      "end_s": 15.8285317
+    },
+    {
+      "start_s_source": 4.0025,
+      "end_s_source": 4.0725,
+      "phoneme": "o",
+      "mora": "ノ",
+      "part": "N02_03",
+      "start_s": 15.8285317,
+      "end_s": 15.8985317
+    },
+    {
+      "start_s_source": 4.0725,
+      "end_s_source": 4.1225,
+      "phoneme": "o",
+      "mora": "オ",
+      "part": "N02_03",
+      "start_s": 15.8985317,
+      "end_s": 15.9485317
+    },
+    {
+      "start_s_source": 4.1225,
+      "end_s_source": 4.1925,
+      "phoneme": "k",
+      "mora": "カ",
+      "part": "N02_03",
+      "start_s": 15.9485317,
+      "end_s": 16.0185317
+    },
+    {
+      "start_s_source": 4.1925,
+      "end_s_source": 4.2225,
+      "phoneme": "a",
+      "mora": "カ",
+      "part": "N02_03",
+      "start_s": 16.0185317,
+      "end_s": 16.0485317
+    },
+    {
+      "start_s_source": 4.2225,
+      "end_s_source": 4.2825,
+      "phoneme": "n",
+      "mora": "ネ",
+      "part": "N02_03",
+      "start_s": 16.0485317,
+      "end_s": 16.1085317
+    },
+    {
+      "start_s_source": 4.2825,
+      "end_s_source": 4.3125,
+      "phoneme": "e",
+      "mora": "ネ",
+      "part": "N02_03",
+      "start_s": 16.1085317,
+      "end_s": 16.1385317
+    },
+    {
+      "start_s_source": 4.3125,
+      "end_s_source": 4.3825,
+      "phoneme": "n",
+      "mora": "ノ",
+      "part": "N02_03",
+      "start_s": 16.1385317,
+      "end_s": 16.2085317
+    },
+    {
+      "start_s_source": 4.3825,
+      "end_s_source": 4.4225,
+      "phoneme": "o",
+      "mora": "ノ",
+      "part": "N02_03",
+      "start_s": 16.2085317,
+      "end_s": 16.2485317
+    },
+    {
+      "start_s_source": 4.4225,
+      "end_s_source": 4.5025,
+      "phoneme": "n",
+      "mora": "ナ",
+      "part": "N02_03",
+      "start_s": 16.2485317,
+      "end_s": 16.3285317
+    },
+    {
+      "start_s_source": 4.5025,
+      "end_s_source": 4.5725,
+      "phoneme": "a",
+      "mora": "ナ",
+      "part": "N02_03",
+      "start_s": 16.3285317,
+      "end_s": 16.3985317
+    },
+    {
+      "start_s_source": 4.5725,
+      "end_s_source": 4.6225,
+      "phoneme": "g",
+      "mora": "ガ",
+      "part": "N02_03",
+      "start_s": 16.3985317,
+      "end_s": 16.4485317
+    },
+    {
+      "start_s_source": 4.6225,
+      "end_s_source": 4.6525,
+      "phoneme": "a",
+      "mora": "ガ",
+      "part": "N02_03",
+      "start_s": 16.4485317,
+      "end_s": 16.4785317
+    },
+    {
+      "start_s_source": 4.6525,
+      "end_s_source": 4.7125,
+      "phoneme": "r",
+      "mora": "レ",
+      "part": "N02_03",
+      "start_s": 16.4785317,
+      "end_s": 16.5385317
+    },
+    {
+      "start_s_source": 4.7125,
+      "end_s_source": 4.7425,
+      "phoneme": "e",
+      "mora": "レ",
+      "part": "N02_03",
+      "start_s": 16.5385317,
+      "end_s": 16.5685317
+    },
+    {
+      "start_s_source": 4.7425,
+      "end_s_source": 4.8825,
+      "phoneme": "o",
+      "mora": "オ",
+      "part": "N02_03",
+      "start_s": 16.5685317,
+      "end_s": 16.7085317
+    },
+    {
+      "start_s_source": 4.8825,
+      "end_s_source": 5.0025,
+      "phoneme": "k",
+      "mora": "カ",
+      "part": "N02_03",
+      "start_s": 16.7085317,
+      "end_s": 16.8285317
+    },
+    {
+      "start_s_source": 5.0025,
+      "end_s_source": 5.0425,
+      "phoneme": "a",
+      "mora": "カ",
+      "part": "N02_03",
+      "start_s": 16.8285317,
+      "end_s": 16.8685317
+    },
+    {
+      "start_s_source": 5.0425,
+      "end_s_source": 5.1225,
+      "phoneme": "k",
+      "mora": "ク",
+      "part": "N02_03",
+      "start_s": 16.8685317,
+      "end_s": 16.9485317
+    },
+    {
+      "start_s_source": 5.1225,
+      "end_s_source": 5.1525,
+      "phoneme": "u",
+      "mora": "ク",
+      "part": "N02_03",
+      "start_s": 16.9485317,
+      "end_s": 16.9785317
+    },
+    {
+      "start_s_source": 5.1525,
+      "end_s_source": 5.2325,
+      "phoneme": "n",
+      "mora": "ニ",
+      "part": "N02_03",
+      "start_s": 16.9785317,
+      "end_s": 17.0585317
+    },
+    {
+      "start_s_source": 5.2325,
+      "end_s_source": 5.2625,
+      "phoneme": "i",
+      "mora": "ニ",
+      "part": "N02_03",
+      "start_s": 17.0585317,
+      "end_s": 17.0885317
+    },
+    {
+      "start_s_source": 5.2625,
+      "end_s_source": 5.2925,
+      "phoneme": "N",
+      "mora": "ン",
+      "part": "N02_03",
+      "start_s": 17.0885317,
+      "end_s": 17.1185317
+    },
+    {
+      "start_s_source": 5.2925,
+      "end_s_source": 5.4125,
+      "phoneme": "sh",
+      "mora": "シ",
+      "part": "N02_03",
+      "start_s": 17.1185317,
+      "end_s": 17.2385317
+    },
+    {
+      "start_s_source": 5.4125,
+      "end_s_source": 5.4425,
+      "phoneme": "i",
+      "mora": "シ",
+      "part": "N02_03",
+      "start_s": 17.2385317,
+      "end_s": 17.2685317
+    },
+    {
+      "start_s_source": 5.4425,
+      "end_s_source": 5.5025,
+      "phoneme": "m",
+      "mora": "マ",
+      "part": "N02_03",
+      "start_s": 17.2685317,
+      "end_s": 17.3285317
+    },
+    {
+      "start_s_source": 5.5025,
+      "end_s_source": 5.5325,
+      "phoneme": "a",
+      "mora": "マ",
+      "part": "N02_03",
+      "start_s": 17.3285317,
+      "end_s": 17.3585317
+    },
+    {
+      "start_s_source": 5.5325,
+      "end_s_source": 5.7025,
+      "phoneme": "s",
+      "mora": "ス",
+      "part": "N02_03",
+      "start_s": 17.3585317,
+      "end_s": 17.5285317
+    },
+    {
+      "start_s_source": 5.7025,
+      "end_s_source": 5.7425,
+      "phoneme": "u",
+      "mora": "ス",
+      "part": "N02_03",
+      "start_s": 17.5285317,
+      "end_s": 17.5685317
+    },
+    {
+      "start_s_source": 5.7425,
+      "end_s_source": 5.7925,
+      "phoneme": "sp",
+      "mora": ".",
+      "part": "N02_03",
+      "start_s": 17.5685317,
+      "end_s": 17.6185317
+    }
+  ]
+}

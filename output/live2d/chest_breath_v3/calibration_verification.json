@@ -1,0 +1,146 @@
+{
+  "passed": true,
+  "cases": [
+    {
+      "case": {
+        "mouth_open_y": 0,
+        "mouth_form": 0,
+        "eye_l_open": 1,
+        "eye_r_open": 1,
+        "breath": 0,
+        "angle_z": 0
+      },
+      "changed_bbox_xyxy": [
+        133,
+        441,
+        620,
+        490
+      ],
+      "head_max_pixel_difference": 0,
+      "new_interior_transparency_pixels": 0,
+      "mean_chest_pixel_difference": 0.015864045864045863
+    },
+    {
+      "case": {
+        "mouth_open_y": 0,
+        "mouth_form": 0,
+        "eye_l_open": 1,
+        "eye_r_open": 1,
+        "breath": 0.3,
+        "angle_z": 0
+      },
+      "changed_bbox_xyxy": [
+        61,
+        10,
+        695,
+        1079
+      ],
+      "head_max_pixel_difference": 255,
+      "new_interior_transparency_pixels": 0,
+      "mean_chest_pixel_difference": 6.918493038493039
+    },
+    {
+      "case": {
+        "mouth_open_y": 0,
+        "mouth_form": 0,
+        "eye_l_open": 1,
+        "eye_r_open": 1,
+        "breath": 0.6,
+        "angle_z": 0
+      },
+      "changed_bbox_xyxy": [
+        60,
+        9,
+        695,
+        1079
+      ],
+      "head_max_pixel_difference": 255,
+      "new_interior_transparency_pixels": 1,
+      "mean_chest_pixel_difference": 9.768517608517609
+    },
+    {
+      "case": {
+        "mouth_open_y": 0,
+        "mouth_form": 0,
+        "eye_l_open": 1,
+        "eye_r_open": 1,
+        "breath": 1,
+        "angle_z": 0
+      },
+      "changed_bbox_xyxy": [
+        59,
+        7,
+        696,
+        1079
+      ],
+      "head_max_pixel_difference": 255,
+      "new_interior_transparency_pixels": 16,
+      "mean_chest_pixel_difference": 12.096584766584767
+    },
+    {
+      "case": {
+        "mouth_open_y": 0.958,
+        "mouth_form": -0.55,
+        "eye_l_open": 1,
+        "eye_r_open": 1,
+        "breath": 1,
+        "angle_z": -8.4
+      },
+      "changed_bbox_xyxy": [
+        59,
+        7,
+        696,
+        1079
+      ],
+      "head_max_pixel_difference": 255,
+      "new_interior_transparency_pixels": 16,
+      "mean_chest_pixel_difference": 12.096879606879607
+    },
+    {
+      "case": {
+        "mouth_open_y": 0.958,
+        "mouth_form": -0.55,
+        "eye_l_open": 1,
+        "eye_r_open": 1,
+        "breath": 1,
+        "angle_z": 8.4
+      },
+      "changed_bbox_xyxy": [
+        59,
+        7,
+        696,
+        1079
+      ],
+      "head_max_pixel_difference": 255,
+      "new_interior_transparency_pixels": 16,
+      "mean_chest_pixel_difference": 12.095921375921376
+    }
+  ],
+  "fixed_neck_checks": [
+    {
+      "breath": 0,
+      "head_max_difference": 0,
+      "central_collar_mean_difference": 0.0,
+      "central_collar_max_difference": 0
+    },
+    {
+      "breath": 0.3,
+      "head_max_difference": 0,
+      "central_collar_mean_difference": 0.0065816326530612245,
+      "central_collar_max_difference": 1
+    },
+    {
+      "breath": 0.6,
+      "head_max_difference": 0,
+      "central_collar_mean_difference": 0.010561224489795918,
+      "central_collar_max_difference": 2
+    },
+    {
+      "breath": 1,
+      "head_max_difference": 0,
+      "central_collar_mean_difference": 0.016989795918367346,
+      "central_collar_max_difference": 3
+    }
+  ],
+  "scope": "v2/v3 comparison is descriptive; acceptance checks compare v3 breath 0/.3/.6/1 at neutral head. Global breath scale intentionally removed."
+}

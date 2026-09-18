@@ -1,0 +1,43 @@
+{
+  "engine": "VOICEVOX Nemo Engine",
+  "engine_version": "0.24.0",
+  "speaker": {
+    "name": "女声1",
+    "speaker_uuid": "abccafa5-174f-44d8-b70c-c41eebb3061c",
+    "styles": [
+      {
+        "name": "ノーマル",
+        "id": 10005,
+        "type": "talk"
+      }
+    ],
+    "version": "0.15.0",
+    "supported_features": {
+      "permitted_synthesis_morphing": "ALL"
+    }
+  },
+  "credit": "VOICEVOX Nemo",
+  "items": [
+    {
+      "id": "01_opening",
+      "text": "減税の話になると、必ず問われる財源。しかし、経済が成長して税収が増える可能性は、どう考えられているのでしょうか。",
+      "wav": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\speech\\01_opening_nemo_f1.wav",
+      "duration_seconds": 9.621333333333334,
+      "kana": "ゲンゼエノ'/ハナシ'ニ/ナ'ルト、カナラズ'/ト'ワレル/ザイゲン'、_シカ'シ、ケ'エザイガ/セエチョオ'/_シテ'/ゼエシュウガ'/フエ'ル/カノオセエワ'、ド'オ/カンガ'エラレテ/イル'/ノデショオ'カ"
+    },
+    {
+      "id": "02_tax_burden",
+      "text": "ここからは、経済の成長より税負担が速く増えていないか、という話です。",
+      "wav": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\speech\\02_tax_burden_nemo_f1.wav",
+      "duration_seconds": 5.9093333333333335,
+      "kana": "ココカラワ'、ケ'エザイノ/セエチョオヨ'リ/ゼエフ'タンガ/ハヤ'_クフエテ/イナイ'カ、ト'/イウ'/ハナシ'デ_ス"
+    },
+    {
+      "id": "03_household_support",
+      "text": "投資の成果が給料に届くまでには時間がかかる。その間の暮らしをどう支えるかが、次の論点です。",
+      "wav": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\speech\\03_household_support_nemo_f1.wav",
+      "duration_seconds": 7.594666666666667,
+      "kana": "トオシノ'/セ'エカガ/キュ'ウリョオニ/トド'クマデニワ/ジカンガ'/カカ'ル、ソノカ'ンノ/クラシオ'/ド'オ/ササエル'カガ、ツギ'ノ/ロンテ'ンデ_ス"
+    }
+  ]
+}

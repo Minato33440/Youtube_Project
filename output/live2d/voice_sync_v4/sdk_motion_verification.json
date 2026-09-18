@@ -1,0 +1,19 @@
+{
+  "pass": true,
+  "tolerance": 0.002,
+  "motion_groups": {
+    "Performance": 1
+  },
+  "frames": 478,
+  "max_absolute_parameter_error": {
+    "ParamMouthOpenY": 0.0009160163803100252,
+    "ParamMouthForm": 0.0012556725959778081,
+    "ParamEyeLOpen": 0.0008339881896972656,
+    "ParamEyeROpen": 0.0008339881896972656,
+    "ParamBreath": 5.177196884154078e-05,
+    "ParamAngleZ": 0.0005751088790892922
+  },
+  "auto_blink_breath": false,
+  "fade_in_out_seconds": 0,
+  "scope": "SDK motion playback values; audio remains a separately synchronized WAV."
+}

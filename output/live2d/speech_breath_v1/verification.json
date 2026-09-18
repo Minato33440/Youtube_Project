@@ -1,0 +1,114 @@
+{
+  "passed": true,
+  "non_breath_csv_and_motion_channels_identical": true,
+  "v8_rig_files_identical": true,
+  "inhales": [
+    {
+      "start_s": 1.0,
+      "end_s": 1.3333333333333333,
+      "gain": 0.11124600000000007,
+      "audio_peak_dbfs": -65.71507421430998
+    },
+    {
+      "start_s": 2.6,
+      "end_s": 2.8,
+      "gain": 0.12,
+      "audio_peak_dbfs": -53.85674218425473
+    },
+    {
+      "start_s": 3.966666666666667,
+      "end_s": 4.333333333333333,
+      "gain": 0.14066600000000007,
+      "audio_peak_dbfs": -77.75627404086922
+    },
+    {
+      "start_s": 5.4,
+      "end_s": 5.766666666666667,
+      "gain": 0.169833,
+      "audio_peak_dbfs": -81.2780989779276
+    },
+    {
+      "start_s": 8.333333333333334,
+      "end_s": 8.5,
+      "gain": 0.12,
+      "audio_peak_dbfs": -240.0
+    },
+    {
+      "start_s": 9.7,
+      "end_s": 10.033333333333333,
+      "gain": 0.27799999999999997,
+      "audio_peak_dbfs": -87.29869889120721
+    },
+    {
+      "start_s": 12.133333333333333,
+      "end_s": 12.5,
+      "gain": 0.205333,
+      "audio_peak_dbfs": -62.689720592847465
+    },
+    {
+      "start_s": 13.866666666666667,
+      "end_s": 14.066666666666666,
+      "gain": 0.12,
+      "audio_peak_dbfs": -64.37613786385714
+    }
+  ],
+  "positive_steps_outside_pause": 0,
+  "range": [
+    0.2755,
+    0.569833
+  ],
+  "max_frame_step": 0.041144000000000014,
+  "inhale_rate_range": [
+    0.33373800000000026,
+    0.8339999999999984
+  ],
+  "exhale_rate_range": [
+    0.10999968750000003,
+    0.10999999999999999
+  ],
+  "videos": {
+    "Risa_ModelOnly_SpeechBreath_v1.mp4": {
+      "full_decode_passed": true,
+      "audio_pcm_identical_to_v8": true,
+      "frames": 479,
+      "fps": 30,
+      "width": 1080,
+      "height": 1080,
+      "duration_s": 15.966667
+    },
+    "Risa_SpeechBreath_Compare_v8_v1.mp4": {
+      "full_decode_passed": true,
+      "audio_pcm_identical_to_v8": true,
+      "frames": 479,
+      "fps": 30,
+      "width": 1920,
+      "height": 1030,
+      "duration_s": 15.966667
+    }
+  },
+  "reference_frame_mae": [
+    1.0651088820301784,
+    1.0602729195244627,
+    1.0567626886145405,
+    1.1200248628257887,
+    1.1061482624599908,
+    1.0502274805669867,
+    1.0506830132601737,
+    1.0614406149977138,
+    1.0567566872427983,
+    1.0631221422039323
+  ],
+  "head_pixel_max_difference_vs_v8": 0,
+  "comparison_reference_mae": [
+    2.578802083333333,
+    2.5718688512731482,
+    2.533373119212963,
+    2.519263599537037,
+    2.5130808738425925,
+    2.5006372974537037,
+    2.548042173032407,
+    2.5293916377314813
+  ],
+  "strongest_inhale_chest_rgb_change": 4.507072916666667,
+  "human_acceptance": "Pending; numerical checks do not establish naturalness."
+}

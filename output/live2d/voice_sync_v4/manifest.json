@@ -1,0 +1,54 @@
+{
+  "source_video": "C:\\Users\\Setona\\Desktop\\Voicd-Sample.mp4",
+  "fps": 30,
+  "frame_count": 478,
+  "duration_seconds": 15.933333333333334,
+  "source_audio_offset_seconds": 0,
+  "model": "model/Risa_performance.model3.json",
+  "editor_model": "Risa_coordinated.cmo3",
+  "audio": "audio_stereo_44100_pcm16.wav",
+  "curve": "performance_curve.csv",
+  "motion_reference": "performance.motion3.json",
+  "rgba_frames": "frames/%05d.png",
+  "alpha_mode": "straight",
+  "overlay": {
+    "source_crop_xywh": [
+      128,
+      0,
+      512,
+      560
+    ],
+    "size": [
+      256,
+      280
+    ],
+    "xy": [
+      850,
+      66
+    ]
+  },
+  "mouth_driver": "Both mouth channels locked to approved v3; blink, breath and AngleZ follow coordination_rules.json and events.json",
+  "alignment": "../voice_sync_v2/alignment/phonemes.json",
+  "performance_rules": "coordination_rules.json",
+  "performance_events": "events.json",
+  "auto_blink_breath": false,
+  "outputs": [
+    "Risa_narration_composite.mp4",
+    "Risa_performance_closeup.mp4",
+    "Risa_performance_comparison.mp4",
+    "Risa_stage_blink.mp4",
+    "Risa_stage_breath.mp4"
+  ],
+  "mouth_source_acceptance": "Boss accepted v3 as generally good on 2026-09-14",
+  "geometry": "Reused approved v3 rig and textures; separate cmo3 copy, no new mesh deformation in this stage.",
+  "profile": "performance_profile.json",
+  "editor_motion_note": "cmo3 stores the rig; motion3 stores performance timing separately.",
+  "file_sha256": {
+    "Risa_coordinated.cmo3": "f12500410deed7f9c58523c60634ac8e11c113ccb8f6698f5fd26091862f73f8",
+    "model/Risa_mouth_shapes.moc3": "43f017a2d47c51dbeb7275b219929a016eb43cbeaa65b95e392a6ad789fd138e",
+    "model/Risa_performance.model3.json": "146a978f036b105ba9fe7c4f8980be2b32a84f9517fa5276245e400bb33335ad",
+    "performance.motion3.json": "e35c1ea1d14b6a49480479112676a9e94dfc190b37dab617eaadb6759b1fa3c5",
+    "performance_curve.csv": "fe81d6f698e9570fa2eb32bd7d3e7bd92dfe725fbab3f6df3db4e18982eabebe",
+    "performance_profile.json": "cadb49a10514344233aee9c84087d2006bd27401b2efe462951a0f4a5348ea54"
+  }
+}

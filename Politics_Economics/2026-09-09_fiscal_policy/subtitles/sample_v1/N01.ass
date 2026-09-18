@@ -1,0 +1,14 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Meiryo,44,&H00FFFFFF,&H00FFFFFF,&H002A1C10,&H002A1C10,0,0,0,0,100,100,0,0,1,1,0,2,110,110,130,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.81,Default,,0,0,0,,減税をするなら、財源はどうするのか。
+Dialogue: 0,0:00:02.81,0:00:08.49,Default,,0,0,0,,よく聞くこの問いに、\N会田卓司さんは経済成長という視点から答えています。
+Dialogue: 0,0:00:08.49,0:00:13.90,Default,,0,0,0,,国債への不安と、私たちの暮らしを支える政策は、\Nどうつながるのでしょうか。
+Dialogue: 0,0:00:13.90,0:00:15.60,Default,,0,0,0,,発言を順に見ていきます。

@@ -1,0 +1,103 @@
+{
+  "status": "pass",
+  "library": "ag-psd",
+  "psd": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\tools\\test\\generated\\risa_parts_v1.psd",
+  "flattenedPng": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\tools\\test\\generated\\risa_parts_v1_flattened.png",
+  "previewPng": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\tools\\test\\generated\\risa_parts_v1_preview.png",
+  "canvas": {
+    "width": 8,
+    "height": 6
+  },
+  "layerCount": 3,
+  "inputOrder": "bottom-to-top",
+  "psdRecordOrder": "bottom-to-top (Cubism-compatible)",
+  "layers": [
+    {
+      "name": "eye_white",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\tools\\test\\generated\\eye_white.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1,
+        "top": 1,
+        "right": 3,
+        "bottom": 2
+      },
+      "alpha": {
+        "nonTransparentPixels": 2,
+        "contentBounds": {
+          "left": 1,
+          "top": 1,
+          "right": 3,
+          "bottom": 2
+        }
+      }
+    },
+    {
+      "name": "iris_full",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\tools\\test\\generated\\iris_full.png",
+      "visible": true,
+      "clipTo": "eye_white",
+      "clipping": true,
+      "bounds": {
+        "left": 0,
+        "top": 1,
+        "right": 3,
+        "bottom": 2
+      },
+      "alpha": {
+        "nonTransparentPixels": 3,
+        "contentBounds": {
+          "left": 0,
+          "top": 1,
+          "right": 3,
+          "bottom": 2
+        }
+      }
+    },
+    {
+      "name": "hidden_reference",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\risa_parts_v1\\tools\\test\\generated\\iris_full.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": -1,
+        "top": 0,
+        "right": 2,
+        "bottom": 1
+      },
+      "alpha": {
+        "nonTransparentPixels": 3,
+        "contentBounds": {
+          "left": -1,
+          "top": 0,
+          "right": 2,
+          "bottom": 1
+        }
+      }
+    }
+  ],
+  "roundTrip": {
+    "verifiedWith": "ag-psd readPsd(useImageData)",
+    "colorMode": "RGB (3)",
+    "bitsPerChannel": 8,
+    "dimensions": true,
+    "names": true,
+    "positions": true,
+    "visibility": true,
+    "clipping": true,
+    "rgba": true,
+    "renderedLayerCompositeRgba": true,
+    "embeddedCompositeReadback": {
+      "exact": true,
+      "pixels": 0,
+      "visiblePixels": 0,
+      "transparentPixels": 0,
+      "alphaPixels": 0,
+      "maxChannelDelta": 0
+    },
+    "embeddedCompositeNote": null
+  }
+}

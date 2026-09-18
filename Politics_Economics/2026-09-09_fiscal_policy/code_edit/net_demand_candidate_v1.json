@@ -1,0 +1,88 @@
+{
+  "version": "net_demand_candidate_v1",
+  "created": "2026-09-10",
+  "source_url": "https://www.youtube.com/watch?v=FjHO1E_QLVo",
+  "reference_url": "https://www.youtube.com/watch?v=hDWfHRL5pbQ&t=877s",
+  "source_channel": "ニュースの争点 公式チャンネル",
+  "source_upload_date": "2025-11-05",
+  "recording_date": null,
+  "time_unit": "seconds",
+  "source_out_is_exclusive": true,
+  "status": "review_candidate_not_final",
+  "source": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\sources\\FjHO1E_QLVo.mp4",
+  "review": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\exports\\net_demand_candidate_v1.mp4",
+  "parts": [
+    {
+      "id": "ND01",
+      "source_in": 1508.24,
+      "source_out": 1595.48,
+      "timeline_in": 0,
+      "timeline_out": 87.266016,
+      "duration": 87.266016,
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\net_demand_candidate_v1\\ND01.mp4",
+      "purpose": "指標の定義と、ネットゼロだった時期の説明"
+    },
+    {
+      "id": "ND02",
+      "source_in": 1701.0,
+      "source_out": 1767.5,
+      "timeline_in": 87.266016,
+      "timeline_out": 153.76601599999998,
+      "duration": 66.5,
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\net_demand_candidate_v1\\ND02.mp4",
+      "purpose": "家計支援・成長投資とマイナス5の目安、過大拡張は別"
+    },
+    {
+      "id": "ND03",
+      "source_in": 1794.28,
+      "source_out": 1813.44,
+      "timeline_in": 153.76601599999998,
+      "timeline_out": 172.93268299999997,
+      "duration": 19.166667,
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\net_demand_candidate_v1\\ND03.mp4",
+      "purpose": "インフレにはネット資金需要と輸入物価が影響するという説明"
+    },
+    {
+      "id": "ND04",
+      "source_in": 1832.4,
+      "source_out": 1894.5,
+      "timeline_in": 172.93268299999997,
+      "timeline_out": 235.03268299999996,
+      "duration": 62.1,
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\net_demand_candidate_v1\\ND04.mp4",
+      "purpose": "輸入物価上昇ゼロという条件、賃金上昇は可能性、過大拡張のインフレ"
+    }
+  ],
+  "content_checks": {
+    "automatic_captions": true,
+    "representative_video_frames": true,
+    "audio_listening": false,
+    "full_video_watch": false,
+    "note": "Audio input is unavailable in this session. Boundaries require listening before final adoption."
+  },
+  "technical_checks": {
+    "full_decode": "passed",
+    "duration_seconds": 235.066667,
+    "expected_seconds": 235.03268299999996,
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "30/1",
+        "sample_rate": null,
+        "channels": null
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "width": null,
+        "height": null,
+        "r_frame_rate": "0/0",
+        "sample_rate": "48000",
+        "channels": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "export": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\exports\\Sample-MP4_v1-Risa-complete.mp4",
+  "fps_assumption": 30,
+  "export_size": [
+    1920,
+    1080
+  ],
+  "method": "five interior frame samples per timeline segment; temporal change plus corresponding source-frame comparison",
+  "limitations": [
+    "This detects frozen or wrongly mapped source frames at sampled locations; it is not a full visual review.",
+    "The Live2D comparison uses only opaque model pixels in ROI [1275,99,384,420]; it does not validate the background layer.",
+    "Thresholds permit normal H.264 recompression but may need adjustment if a future export applies intentional color grading or transforms."
+  ],
+  "segments": [
+    {
+      "segment": "HOOK",
+      "timeline_frames": [
+        0,
+        643
+      ],
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\sample_v1_risa\\video\\HOOK.mp4",
+      "samples": [
+        {
+          "timeline_frame": 64,
+          "source_frame": 64,
+          "mae": 0.001688542659394443,
+          "correlation": 0.9999040961265564,
+          "pixels": 2073600
+        },
+        {
+          "timeline_frame": 193,
+          "source_frame": 193,
+          "mae": 0.0015103076584637165,
+          "correlation": 0.9999198317527771,
+          "pixels": 2073600
+        },
+        {
+          "timeline_frame": 322,
+          "source_frame": 322,
+          "mae": 0.0016778637655079365,
+          "correlation": 0.999920129776001,
+          "pixels": 2073600
+        },
+        {
+          "timeline_frame": 450,
+          "source_frame": 450,
+          "mae": 0.001583110773935914,
+          "correlation": 0.9999223947525024,
+          "pixels": 2073600
+        },
+        {
+          "timeline_frame": 579,
+          "source_frame": 579,
+          "mae": 0.001569989719428122,
+          "correlation": 0.9999245405197144,
+          "pixels": 2073600
+        }
+      ],
+      "output_temporal_mae": [
+        0.049911923706531525,
+        0.27615976333618164,
+        0.034424182027578354,
+        0.03719712048768997
+      ],
+      "source_temporal_mae": [
+        0.04994139075279236,
+        0.2762635350227356,
+        0.03442215174436569,
+        0.03716226667165756
+      ],
+      "temporal_opaque_pixels": [],
+      "motion_requirement": "enough pairs with temporal MAE >= 0.004 to reflect source motion",
+      "source_requirement": "at least 4/5 samples: correlation >= 0.94 and MAE <= 0.08",
+      "motion_pass": true,
+      "source_match_pass": true,
+      "passed": true
+    },
+    {
+      "segment": "N01",
+      "timeline_frames": [
+        643,
+        1122
+      ],
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\sample_v1_risa\\live2d\\N01.mov",
+      "samples": [
+        {
+          "timeline_frame": 691,
+          "source_frame": 48,
+          "opaque_pixels": 82522,
+          "mae": 0.03718460351228714,
+          "correlation": 0.962166965007782,
+          "pixels": 82522
+        },
+        {
+          "timeline_frame": 787,
+          "source_frame": 144,
+          "opaque_pixels": 82413,
+          "mae": 0.03717974200844765,
+          "correlation": 0.9621577858924866,
+          "pixels": 82413
+        },
+        {
+          "timeline_frame": 883,
+          "source_frame": 240,
+          "opaque_pixels": 82269,
+          "mae": 0.03739462420344353,
+          "correlation": 0.9620567560195923,
+          "pixels": 82269
+        },
+        {
+          "timeline_frame": 978,
+          "source_frame": 335,
+          "opaque_pixels": 82275,
+          "mae": 0.037068795412778854,
+          "correlation": 0.9625246524810791,
+          "pixels": 82275
+        },
+        {
+          "timeline_frame": 1074,
+          "source_frame": 431,
+          "opaque_pixels": 82439,
+          "mae": 0.037318021059036255,
+          "correlation": 0.9619419574737549,
+          "pixels": 82439
+        }
+      ],
+      "output_temporal_mae": [
+        0.006377349141985178,
+        0.005394441541284323,
+        0.007615617010742426,
+        0.006099677179008722
+      ],
+      "source_temporal_mae": [
+        0.005474933423101902,
+        0.004717630799859762,
+        0.003922395873814821,
+        0.005461308639496565
+      ],
+      "temporal_opaque_pixels": [
+        82273,
+        82179,
+        82159,
+        82158
+      ],
+      "motion_requirement": "opaque-model ROI mean temporal MAE >= 30% of sampled Live2D source, whose mean must be >= 0.00005; otherwise inconclusive/fail",
+      "source_requirement": "at least 4/5 samples: opaque pixels >= 500, correlation >= 0.75 and MAE <= 0.15",
+      "motion_pass": true,
+      "source_match_pass": true,
+      "passed": true
+    },
+    {
+      "segment": "C01a",
+      "timeline_frames": [
+        1122,
+        2243
+      ],
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\sample_v1_risa\\video\\C01a.mp4",
+      "samples": [
+        {
+          "timeline_frame": 1234,
+          "source_frame": 112,
+          "mae": 0.001112529425881803,
+          "correlation": 0.9999760985374451,
+          "pixels": 2073600
+        },
+        {
+          "timeline_frame": 1458,
+          "source_frame": 336,
+          "mae": 0.0014837030321359634,
+          "correlation": 0.9999517798423767,
+          "pixels": 2073600
+        },
+        {
+          "timeline_frame": 1682,
+          "source_frame": 560,
+          "mae": 0.0018125681672245264,
+          "correlation": 0.9999024868011475,
+          "pixels": 2073600
+        },
+        {
+          "timeline_frame": 1907,
+          "source_frame": 785,
+          "mae": 0.0013637669617310166,
+          "correlation": 0.9999757409095764,
+          "pixels": 2073600
+        },
+        {
+          "timeline_frame": 2131,
+          "source_frame": 1009,
+          "mae": 0.0015185198280960321,
+          "correlation": 0.9999571442604065,
+          "pixels": 2073600
+        }
+      ],
+      "output_temporal_mae": [
+        0.07617159932851791,
+        0.2748444974422455,
+        0.044926680624485016,
+        0.2970471680164337
+      ],
+      "source_temporal_mae": [
+        0.07613445073366165,
+        0.2750021815299988,
+        0.045039039105176926,
+        0.29716116189956665
+      ],
+      "temporal_opaque_pixels": [],
+      "motion_requirement": "enough pairs with temporal MAE >= 0.004 to reflect source motion",
+      "source_requirement": "at least 4/5 samples: correlation >= 0.94 and MAE <= 0.08",
+      "motion_pass": true,
+      "source_match_pass": true,
+      "passed": true
+    },
+    {
+      "segment": "C01b",
+      "timeline_frames": [
+        2243,
+        2716
+      ],
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\sample_v1_risa\\video\\C01b.mp4",
+      "samples": [
+        {
+          "timeline_frame": 2290,
+          "source_frame": 47,
+          "mae": 0.0015405704034492373,
+          "correlation": 0.9999517202377319,
+          "pixels": 2073600
+        },
+        {
+          "timeline_frame": 2385,
+          "source_frame": 142,
+          "mae": 0.001549895852804184,
+          "correlation": 0.9999664425849915,
+          "pixels": 2073600
+        },
+        {
+          "timeline_frame": 2479,
+          "source_frame": 236,
+          "mae": 0.00165699259378016,
+          "correlation": 0.9999309778213501,
+          "pixels": 2073600
+        },
+        {
+          "timeline_frame": 2574,
+          "source_frame": 331,
+          "mae": 0.0016533703310415149,
+          "correlation": 0.9999699592590332,
+          "pixels": 2073600
+        },
+        {
+          "timeline_frame": 2669,
+          "source_frame": 426,
+          "mae": 0.0015600458718836308,
+          "correlation": 0.9999111294746399,
+          "pixels": 2073600
+        }
+      ],
+      "output_temporal_mae": [
+        0.0811268761754036,
+        0.036063432693481445,
+        0.28560495376586914,
+        0.02243039198219776
+      ],
+      "source_temporal_mae": [
+        0.08115336298942566,
+        0.03606225550174713,
+        0.2857491374015808,
+        0.022476252168416977
+      ],
+      "temporal_opaque_pixels": [],
+      "motion_requirement": "enough pairs with temporal MAE >= 0.004 to reflect source motion",
+      "source_requirement": "at least 4/5 samples: correlation >= 0.94 and MAE <= 0.08",
+      "motion_pass": true,
+      "source_match_pass": true,
+      "passed": true
+    },
+    {
+      "segment": "C02a",
+      "timeline_frames": [
+        2716,
+        3900
+      ],
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\sample_v1_risa\\video\\C02a.mp4",
+      "samples": [
+        {
+          "timeline_frame": 2834,
+          "source_frame": 118,
+          "mae": 0.00136940844822675,
+          "correlation": 1.0000356435775757,
+          "pixels": 2073600
+        },
+        {
+          "timeline_frame": 3071,
+          "source_frame": 355,
+          "mae": 0.0013224930735304952,
+          "correlation": 1.0000666379928589,
+          "pixels": 2073600
+        },
+        {
+          "timeline_frame": 3308,
+          "source_frame": 592,
+          "mae": 0.001295324880629778,
+          "correlation": 0.9999444484710693,
+          "pixels": 2073600
+        },
+        {
+          "timeline_frame": 3545,
+          "source_frame": 829,
+          "mae": 0.0013369605876505375,
+          "correlation": 0.9998321533203125,
+          "pixels": 2073600
+        },
+        {
+          "timeline_frame": 3782,
+          "source_frame": 1066,
+          "mae": 0.001138233346864581,
+          "correlation": 1.0001980066299438,
+          "pixels": 2073600
+        }
+      ],
+      "output_temporal_mae": [
+        0.02798900566995144,
+        0.023327142000198364,
+        0.028360478579998016,
+        0.023526282981038094
+      ],
+      "source_temporal_mae": [
+        0.02797389216721058,
+        0.023288583382964134,
+        0.02832183614373207,
+        0.02346188761293888
+      ],
+      "temporal_opaque_pixels": [],
+      "motion_requirement": "enough pairs with temporal MAE >= 0.004 to reflect source motion",
+      "source_requirement": "at least 4/5 samples: correlation >= 0.94 and MAE <= 0.08",
+      "motion_pass": true,
+      "source_match_pass": true,
+      "passed": true
+    },
+    {
+      "segment": "C02b",
+      "timeline_frames": [
+        3900,
+        4745
+      ],
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\sample_v1_risa\\video\\C02b.mp4",
+      "samples": [
+        {
+          "timeline_frame": 3984,
+          "source_frame": 84,
+          "mae": 0.0016389759257435799,
+          "correlation": 1.0000866651535034,
+          "pixels": 2073600
+        },
+        {
+          "timeline_frame": 4154,
+          "source_frame": 254,
+          "mae": 0.001678642351180315,
+          "correlation": 1.00001060962677,
+          "pixels": 2073600
+        },
+        {
+          "timeline_frame": 4322,
+          "source_frame": 422,
+          "mae": 0.0015002080472186208,
+          "correlation": 1.0001695156097412,
+          "pixels": 2073600
+        },
+        {
+          "timeline_frame": 4492,
+          "source_frame": 592,
+          "mae": 0.001461529522202909,
+          "correlation": 1.0001919269561768,
+          "pixels": 2073600
+        },
+        {
+          "timeline_frame": 4660,
+          "source_frame": 760,
+          "mae": 0.0014873063191771507,
+          "correlation": 0.9998692274093628,
+          "pixels": 2073600
+        }
+      ],
+      "output_temporal_mae": [
+        0.024459321051836014,
+        0.024793552234768867,
+        0.02601914294064045,
+        0.021871987730264664
+      ],
+      "source_temporal_mae": [
+        0.024578198790550232,
+        0.02462231181561947,
+        0.0260427575558424,
+        0.021965615451335907
+      ],
+      "temporal_opaque_pixels": [],
+      "motion_requirement": "enough pairs with temporal MAE >= 0.004 to reflect source motion",
+      "source_requirement": "at least 4/5 samples: correlation >= 0.94 and MAE <= 0.08",
+      "motion_pass": true,
+      "source_match_pass": true,
+      "passed": true
+    }
+  ],
+  "passed": true
+}

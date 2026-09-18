@@ -1,0 +1,66 @@
+{
+  "inhales": [
+    {
+      "start_frame": 76,
+      "end_frame": 87,
+      "start_s": 2.533333333333333,
+      "end_s": 2.9,
+      "from": 0.3150893333333333,
+      "to": 0.593756
+    },
+    {
+      "start_frame": 232,
+      "end_frame": 243,
+      "start_s": 7.733333333333333,
+      "end_s": 8.1,
+      "from": 0.23375599999999996,
+      "to": 0.593756
+    },
+    {
+      "start_frame": 391,
+      "end_frame": 402,
+      "start_s": 13.033333333333333,
+      "end_s": 13.4,
+      "from": 0.23375599999999996,
+      "to": 0.593756
+    }
+  ],
+  "blink_events": [
+    {
+      "eye": "eye_l_open",
+      "old_center_s": 2.716666666666667,
+      "new_center_s": 2.602567036278457,
+      "duration_s": 0.23333333333333334
+    },
+    {
+      "eye": "eye_l_open",
+      "old_center_s": 8.416666666666666,
+      "new_center_s": 7.926231978924229,
+      "duration_s": 0.23333333333333334
+    },
+    {
+      "eye": "eye_l_open",
+      "old_center_s": 13.816666666666666,
+      "new_center_s": 12.766458333333333,
+      "duration_s": 0.23333333333333334
+    },
+    {
+      "eye": "eye_r_open",
+      "old_center_s": 2.716666666666667,
+      "new_center_s": 2.602567036278457,
+      "duration_s": 0.23333333333333334
+    },
+    {
+      "eye": "eye_r_open",
+      "old_center_s": 8.416666666666666,
+      "new_center_s": 7.926231978924229,
+      "duration_s": 0.23333333333333334
+    },
+    {
+      "eye": "eye_r_open",
+      "old_center_s": 13.816666666666666,
+      "new_center_s": 12.766458333333333,
+      "duration_s": 0.23333333333333334
+    }
+  ]
+}

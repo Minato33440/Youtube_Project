@@ -1,0 +1,26 @@
+{
+  "speaking": {
+    "frames": 479,
+    "sdk_max_errors": {
+      "ParamMouthOpenY": 0.001060920883178662,
+      "ParamMouthForm": 0.0012469296531677498,
+      "ParamEyeLOpen": 0.0011487007141113281,
+      "ParamEyeROpen": 0.0011487007141113281,
+      "ParamBreath": 5.1334533691382855e-05,
+      "ParamAngleZ": 0.0011691724090576727
+    },
+    "head_side_not_clipped": true
+  },
+  "breath_only": {
+    "frames": 241,
+    "sdk_max_errors": {
+      "ParamMouthOpenY": 0.0,
+      "ParamMouthForm": 0.0,
+      "ParamEyeLOpen": 0.0,
+      "ParamEyeROpen": 0.0,
+      "ParamBreath": 3.1478545857721585e-06,
+      "ParamAngleZ": 0.0
+    },
+    "head_side_not_clipped": true
+  }
+}

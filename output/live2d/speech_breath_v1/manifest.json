@@ -1,0 +1,12 @@
+{
+  "model_geometry": "Unchanged v8; byte-identical cmo3, moc3 and texture",
+  "changed_channel": "ParamBreath only",
+  "primary": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\exports\\Risa_ModelOnly_SpeechBreath_v1.mp4",
+  "comparison": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\exports\\Risa_SpeechBreath_Compare_v8_v1.mp4",
+  "hashes": {
+    "performance_curve.csv": "1212768d6c643b8e3fcf21fa2ba5d34483d41df751b1328ea4c646974ac1c7bb",
+    "performance.motion3.json": "a0a59c003e066c1428c3e9663a8ff7d69076269d33aaa5e47a3839ba3af3e662",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\exports\\Risa_ModelOnly_SpeechBreath_v1.mp4": "b7feef14d4d567092a8d84d937226d46976625ef8c65aa540c5b9904f4693529",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\exports\\Risa_SpeechBreath_Compare_v8_v1.mp4": "a0c577d3b4810f51b47ce6e38ec5c6e3a5a01ec0c016b2767361b77f2e74d18c"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "checks": {
+    "v2_open_y_verbatim": true,
+    "motion_csv_exact": true,
+    "source_pcm_exact": true
+  },
+  "outputs": {
+    "Risa_narration_composite.mp4": {
+      "decode_pass": true,
+      "video_frames": 478,
+      "fps": "30/1",
+      "duration_s": 15.933333,
+      "audio_zero_offset_correlation": 0.999986168325472,
+      "sha256": "4f0856207bad21fd73a539d48170962cd847a7c8898ab4188bc56ca4c46ecfa1"
+    },
+    "Risa_lipsync_closeup.mp4": {
+      "decode_pass": true,
+      "video_frames": 478,
+      "fps": "30/1",
+      "duration_s": 15.933333,
+      "audio_zero_offset_correlation": 0.9999829988945851,
+      "sha256": "79e33463389a9c75d155056200d7a9b2adebbec4c81b7e7331f59e38cdd7138a"
+    },
+    "Risa_lipsync_comparison.mp4": {
+      "decode_pass": true,
+      "video_frames": 478,
+      "fps": "30/1",
+      "duration_s": 15.933333,
+      "audio_zero_offset_correlation": 0.9999829988945851,
+      "sha256": "828c8c46fd6aea484e7641cb4fd13eb4aa8c6996b74b146b7174b1153aac9472"
+    }
+  },
+  "render": {
+    "png_frames": 478,
+    "only_mouth_region_changes": true,
+    "changed_bbox_xyxy": [
+      354,
+      201,
+      403,
+      219
+    ],
+    "allowed_bbox_xyxy": [
+      330,
+      175,
+      430,
+      245
+    ],
+    "zero_open_form_variation_pixels": [
+      446,
+      0,
+      427
+    ],
+    "zero_open_aperture_parameter_zero": true,
+    "form_zero_neutral_pixel_diffs_vs_v2": [
+      {
+        "open_y": 0,
+        "v2_frame": "00000.png",
+        "v3_frame": "00001.png",
+        "different_pixels": 0
+      },
+      {
+        "open_y": 0.3,
+        "v2_frame": "00002.png",
+        "v3_frame": "00004.png",
+        "different_pixels": 0
+      },
+      {
+        "open_y": 0.6,
+        "v2_frame": "00004.png",
+        "v3_frame": "00007.png",
+        "different_pixels": 0
+      },
+      {
+        "open_y": 0.9,
+        "v2_frame": "00006.png",
+        "v3_frame": "00010.png",
+        "different_pixels": 0
+      }
+    ],
+    "transparent_background": true
+  },
+  "curve": {
+    "mouth_form_range": [
+      -0.999957,
+      0.899567
+    ],
+    "last_10_form": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "zero_open_frame_count": 103,
+    "closure_image_classification": "not performed; calibration sheet reviewed visually by parent"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "scope": "ParamBreath 0 to 1 on native rigs at identical 1080px preview scale. Template matching estimates local movement; silhouette median measures shoulder rise. This is not the actual narration range.",
+  "v1": {
+    "left_shoulder_rise_px": 4.0,
+    "right_shoulder_rise_px": 5.0,
+    "jacket_brooch": {
+      "dx_px": 1,
+      "dy_px": -3,
+      "matching_mse": 40.70703703703704
+    },
+    "chest_fabric": {
+      "dx_px": 0,
+      "dy_px": -2,
+      "matching_mse": 1.063409090909091
+    }
+  },
+  "v2": {
+    "left_shoulder_rise_px": 19.0,
+    "right_shoulder_rise_px": 20.5,
+    "jacket_brooch": {
+      "dx_px": 2,
+      "dy_px": -16,
+      "matching_mse": 86.22203703703704
+    },
+    "chest_fabric": {
+      "dx_px": -1,
+      "dy_px": -14,
+      "matching_mse": 4.693636363636363
+    }
+  }
+}

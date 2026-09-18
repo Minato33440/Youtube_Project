@@ -1,0 +1,269 @@
+{
+  "output": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\exports\\Opening-montage_v1.mp4",
+  "reference_url": "https://www.youtube.com/watch?v=4nR3dvrMdB0",
+  "baseline": {
+    "path": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\exports\\Sample-MP4_v1.mp4",
+    "sha256": "5d85bdf43ee52dcb0f5f7610be7c1a31365c53133f19a4189ab5a3f3eea51f64",
+    "size": 227761103,
+    "original_hook_source": "HDIBA7-83yE",
+    "original_hook_in": 150.16,
+    "original_hook_out": 171.6,
+    "original_hook_timeline_seconds": 21.4333333333,
+    "user_feedback": "冒頭切り抜きは良い所を切り抜いている",
+    "recorded_at_utc": "2026-09-10T11:34:42.583763+00:00"
+  },
+  "baseline_unchanged": true,
+  "duration": 20.565,
+  "timeline": [
+    {
+      "id": "M01",
+      "source_id": "HDIBA7-83yE",
+      "a": 150.16,
+      "b": 157.4,
+      "topic": "成長への投資",
+      "date": "2025-12-13",
+      "reason": "成長投資が将来の所得・成長を生むという理由と、国債による資金調達の主張を一緒に残す。",
+      "captions": [
+        [
+          0,
+          5.55,
+          "将来の所得を生む、成長投資"
+        ],
+        [
+          5.55,
+          null,
+          "その投資に、国債を使う"
+        ]
+      ],
+      "timeline_in": 0,
+      "timeline_out": 7.233333333333333,
+      "frames": 217,
+      "intermediate": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\hook_montage_v1\\M01.mkv"
+    },
+    {
+      "id": "M02",
+      "source_id": "YXQjMSHSWEo",
+      "a": 846.86,
+      "b": 849.34,
+      "topic": "減税の財源",
+      "date": "2026-05-03",
+      "reason": "税収の増加を財源とする説明の前提「名目GDPが持続的に上がる」を音声でも残す。",
+      "captions": [
+        [
+          0,
+          null,
+          "名目GDPの成長が続くなら"
+        ]
+      ],
+      "timeline_in": 7.233333333333333,
+      "timeline_out": 9.7,
+      "frames": 74,
+      "intermediate": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\hook_montage_v1\\M02.mkv"
+    },
+    {
+      "id": "M03",
+      "source_id": "YXQjMSHSWEo",
+      "a": 855.9,
+      "b": 858.9,
+      "topic": "減税の財源",
+      "date": "2026-05-03",
+      "reason": "直前の条件を受ける結論。説明の中間部分を省いて同じ話者の主張を短く提示。",
+      "captions": [
+        [
+          0,
+          null,
+          "税収の増加を、財源へ"
+        ]
+      ],
+      "timeline_in": 9.7,
+      "timeline_out": 12.7,
+      "frames": 90,
+      "intermediate": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\hook_montage_v1\\M03.mkv"
+    },
+    {
+      "id": "M04",
+      "source_id": "VdKZeKSmo8o",
+      "a": 895.38,
+      "b": 899.2,
+      "topic": "投資と暮らし",
+      "date": "2026-09-05",
+      "reason": "投資の成果が届くまでの家計支援。消費減税を含むという主張を保持。",
+      "captions": [
+        [
+          0,
+          null,
+          "消費減税を含めた、家計支援"
+        ]
+      ],
+      "timeline_in": 12.7,
+      "timeline_out": 16.53333333333333,
+      "frames": 115,
+      "intermediate": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\hook_montage_v1\\M04.mkv"
+    },
+    {
+      "id": "M05",
+      "source_id": "VdKZeKSmo8o",
+      "a": 901.8,
+      "b": 905.84,
+      "topic": "投資と暮らし",
+      "date": "2026-09-05",
+      "reason": "「その後」景気回復の果実を回すという順序と、政策戦略として述べている語尾を残す。",
+      "captions": [
+        [
+          0,
+          null,
+          "成長の果実を、暮らしへ"
+        ]
+      ],
+      "timeline_in": 16.53333333333333,
+      "timeline_out": 20.566666666666663,
+      "frames": 121,
+      "intermediate": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\media\\hook_montage_v1\\M05.mkv"
+    }
+  ],
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.640028",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "123400/4113",
+        "time_base": "1/16000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 329040,
+        "duration": "20.565000",
+        "bit_rate": "2432885",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "617",
+        "extradata_size": 50,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "ISO Media file produced by Google Inc.",
+          "encoder": "Lavc62.28.101 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 987120,
+        "duration": "20.565000",
+        "bit_rate": "189743",
+        "nb_frames": "956",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "eng",
+          "handler_name": "ISO Media file produced by Google Inc."
+        }
+      }
+    ],
+    "format": {
+      "filename": "C:\\Python\\REX_AI\\Youtube_Project\\Politics_Economics\\2026-09-09_fiscal_policy\\exports\\Opening-montage_v1.pending.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "20.565000",
+      "size": "6769742",
+      "bit_rate": "2633500",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf62.12.101"
+      }
+    }
+  },
+  "technical_decode": "passed",
+  "captions": "Editorial summaries, labelled 発言の要点; not verbatim quotations",
+  "listening": "not available",
+  "agent_count": 0,
+  "reasoning_effort": "effective parent setting not verified"
+}

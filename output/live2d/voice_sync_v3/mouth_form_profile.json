@@ -1,0 +1,102 @@
+{
+  "parameter": "ParamMouthForm",
+  "semantics": {
+    "-1": "narrower, rounder",
+    "0": "current neutral shape",
+    "+1": "wider shape"
+  },
+  "vowel_targets": {
+    "a": 0.0,
+    "e": 0.35,
+    "i": 0.9,
+    "u": -0.72,
+    "o": -1.0
+  },
+  "editorial_basis": "Japanese mouth-shape performance design; this is not measured lip tracking.",
+  "japanese_u_note": "u is restrained at -0.72 and is not treated as an English-style strong oo rounding.",
+  "coarticulation": "Ordinary consonants bridge adjacent vowel forms; m/b/p and silence ease to neutral.",
+  "neutralization": {
+    "sigma_seconds": 0.04,
+    "boundary_ease_seconds": 0.09
+  },
+  "alignment_source": "../voice_sync_v2/alignment/phonemes.json",
+  "alignment_method": "Julius 4.3.1 forced Viterbi alignment",
+  "frame_count": 478,
+  "fps": 30,
+  "duration_seconds": 15.933333333333334,
+  "neutral_intervals": [
+    {
+      "start_s": 1.103226,
+      "end_s": 1.433226,
+      "phoneme": "sp",
+      "reason": "silence"
+    },
+    {
+      "start_s": 2.713226,
+      "end_s": 2.773226,
+      "phoneme": "sp",
+      "reason": "silence"
+    },
+    {
+      "start_s": 4.064949,
+      "end_s": 4.424949,
+      "phoneme": "sp",
+      "reason": "silence"
+    },
+    {
+      "start_s": 5.494949,
+      "end_s": 5.854949,
+      "phoneme": "sp",
+      "reason": "silence"
+    },
+    {
+      "start_s": 8.074949,
+      "end_s": 8.164949,
+      "phoneme": "m",
+      "reason": "lip_closure"
+    },
+    {
+      "start_s": 8.404949,
+      "end_s": 8.454949,
+      "phoneme": "sp",
+      "reason": "silence"
+    },
+    {
+      "start_s": 9.697489,
+      "end_s": 10.137489,
+      "phoneme": "sp",
+      "reason": "silence"
+    },
+    {
+      "start_s": 12.247489,
+      "end_s": 12.607489,
+      "phoneme": "sp",
+      "reason": "silence"
+    },
+    {
+      "start_s": 13.807489,
+      "end_s": 13.857489,
+      "phoneme": "sp",
+      "reason": "silence"
+    },
+    {
+      "start_s": 14.790528,
+      "end_s": 14.860528,
+      "phoneme": "m",
+      "reason": "lip_closure"
+    },
+    {
+      "start_s": 15.190528,
+      "end_s": 15.260528,
+      "phoneme": "m",
+      "reason": "lip_closure"
+    },
+    {
+      "start_s": 15.510528,
+      "end_s": 15.560528,
+      "phoneme": "sp",
+      "reason": "silence"
+    }
+  ],
+  "visual_status": "Implemented in Risa_mouth_shapes.cmo3; calibration and sequence images reviewed; v3 full audiovisual acceptance pending. See test_report.md."
+}

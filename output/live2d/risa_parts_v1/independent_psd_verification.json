@@ -1,0 +1,43 @@
+{
+  "status": "pass",
+  "reader": "psd-tools 1.12.1",
+  "layerRecordOrder": "bottom-to-top",
+  "firstLayer": "Hair_Back",
+  "lastLayer": "Ear_ViewerRight",
+  "layerCount": 23,
+  "clippingLayers": [
+    "Iris_ViewerLeft",
+    "Iris_ViewerRight"
+  ],
+  "forceRenderedVsFlattenedRaw": {
+    "differentPixels": 1027782,
+    "maxChannelDelta": 255,
+    "alphaDifferentPixels": 111214
+  },
+  "forceRenderedVsFlattenedDisplay": {
+    "#F7F5F0": {
+      "visiblePixels": 666364,
+      "maxVisiblePerChannelDifference": 18.333333333333343,
+      "meanVisiblePerChannelDifference": 0.09899355680027738,
+      "pixelsWithAnyChannelDifferenceOver2": 38,
+      "over2Bounds": {
+        "left": 492,
+        "top": 206,
+        "right": 607,
+        "bottom": 222
+      }
+    },
+    "#808080": {
+      "visiblePixels": 666364,
+      "maxVisiblePerChannelDifference": 17.87450980392157,
+      "meanVisiblePerChannelDifference": 0.11366949810900415,
+      "pixelsWithAnyChannelDifferenceOver2": 70,
+      "over2Bounds": {
+        "left": 480,
+        "top": 206,
+        "right": 609,
+        "bottom": 311
+      }
+    }
+  }
+}

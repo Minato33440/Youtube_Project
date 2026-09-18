@@ -1,0 +1,37 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "../../voice_sync_v4/model/Risa_mouth_shapes.moc3",
+    "Textures": [
+      "../../voice_sync_v4/model/Risa_mouth_shapes.2048/texture_00.png"
+    ],
+    "DisplayInfo": "../../voice_sync_v4/model/Risa_mouth_shapes.cdi3.json",
+    "Motions": {
+      "Adjusted": [
+        {
+          "File": "../performance.motion3.json",
+          "Sound": "../N01.wav",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ]
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

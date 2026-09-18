@@ -1,0 +1,191 @@
+{
+  "time_unit": "100ns",
+  "tracks": [
+    {
+      "trackType": 2,
+      "clips": [
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/narration_v2/01_opening.mp4",
+          "tlBegin": 0,
+          "tlEnd": 96333333,
+          "inPoint": 0,
+          "outPoint": 96333333,
+          "type": 2
+        },
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/rough_v1_clips/C03_YXQjMSHSWEo.mp4",
+          "tlBegin": 96333333,
+          "tlEnd": 1016333333,
+          "inPoint": 0,
+          "outPoint": 920000000,
+          "type": 2
+        },
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/narration_v2/02_tax_burden.mp4",
+          "tlBegin": 1016333333,
+          "tlEnd": 1075666666,
+          "inPoint": 0,
+          "outPoint": 59333333,
+          "type": 2
+        },
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/rough_v1_clips/C03_YXQjMSHSWEo.mp4",
+          "tlBegin": 1075666666,
+          "tlEnd": 1895666666,
+          "inPoint": 920000000,
+          "outPoint": 1740000000,
+          "type": 2
+        },
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/rough_v1_clips/C01_HDIBA7-83yE.mp4",
+          "tlBegin": 1895666666,
+          "tlEnd": 4255666666,
+          "inPoint": 0,
+          "outPoint": 2360000000,
+          "type": 2
+        },
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/rough_v1_clips/C02_LRcGT_xzWpY.mp4",
+          "tlBegin": 4255666666,
+          "tlEnd": 5795666666,
+          "inPoint": 0,
+          "outPoint": 1540000000,
+          "type": 2
+        },
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/rough_v1_clips/C04_HDIBA7-83yE.mp4",
+          "tlBegin": 5795666666,
+          "tlEnd": 6445666666,
+          "inPoint": 0,
+          "outPoint": 650000000,
+          "type": 2
+        },
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/rough_v1_clips/C05_VdKZeKSmo8o.mp4",
+          "tlBegin": 6445666666,
+          "tlEnd": 7855666666,
+          "inPoint": 0,
+          "outPoint": 1410000000,
+          "type": 2
+        },
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/narration_v2/03_household_support.mp4",
+          "tlBegin": 7855666666,
+          "tlEnd": 7931666666,
+          "inPoint": 0,
+          "outPoint": 76000000,
+          "type": 2
+        },
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/rough_v1_clips/C06_VdKZeKSmo8o.mp4",
+          "tlBegin": 7931666666,
+          "tlEnd": 10101666666,
+          "inPoint": 0,
+          "outPoint": 2170000000,
+          "type": 2
+        },
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/rough_v1_clips/C07_VdKZeKSmo8o.mp4",
+          "tlBegin": 10101666666,
+          "tlEnd": 10711666666,
+          "inPoint": 0,
+          "outPoint": 610000000,
+          "type": 2
+        }
+      ]
+    },
+    {
+      "trackType": 1,
+      "clips": [
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/narration_v2/01_opening.mp4",
+          "tlBegin": 0,
+          "tlEnd": 96333333,
+          "inPoint": 0,
+          "outPoint": 96333333,
+          "type": 1
+        },
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/rough_v1_clips/C03_YXQjMSHSWEo.mp4",
+          "tlBegin": 96333333,
+          "tlEnd": 1016333333,
+          "inPoint": 0,
+          "outPoint": 920000000,
+          "type": 1
+        },
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/narration_v2/02_tax_burden.mp4",
+          "tlBegin": 1016333333,
+          "tlEnd": 1075666666,
+          "inPoint": 0,
+          "outPoint": 59333333,
+          "type": 1
+        },
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/rough_v1_clips/C03_YXQjMSHSWEo.mp4",
+          "tlBegin": 1075666666,
+          "tlEnd": 1895666666,
+          "inPoint": 920000000,
+          "outPoint": 1740000000,
+          "type": 1
+        },
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/rough_v1_clips/C01_HDIBA7-83yE.mp4",
+          "tlBegin": 1895666666,
+          "tlEnd": 4255666666,
+          "inPoint": 0,
+          "outPoint": 2360000000,
+          "type": 1
+        },
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/rough_v1_clips/C02_LRcGT_xzWpY.mp4",
+          "tlBegin": 4255666666,
+          "tlEnd": 5795666666,
+          "inPoint": 0,
+          "outPoint": 1540000000,
+          "type": 1
+        },
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/rough_v1_clips/C04_HDIBA7-83yE.mp4",
+          "tlBegin": 5795666666,
+          "tlEnd": 6445666666,
+          "inPoint": 0,
+          "outPoint": 650000000,
+          "type": 1
+        },
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/rough_v1_clips/C05_VdKZeKSmo8o.mp4",
+          "tlBegin": 6445666666,
+          "tlEnd": 7855666666,
+          "inPoint": 0,
+          "outPoint": 1410000000,
+          "type": 1
+        },
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/narration_v2/03_household_support.mp4",
+          "tlBegin": 7855666666,
+          "tlEnd": 7931666666,
+          "inPoint": 0,
+          "outPoint": 76000000,
+          "type": 1
+        },
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/rough_v1_clips/C06_VdKZeKSmo8o.mp4",
+          "tlBegin": 7931666666,
+          "tlEnd": 10101666666,
+          "inPoint": 0,
+          "outPoint": 2170000000,
+          "type": 1
+        },
+        {
+          "filename": "file:/C:/Python/REX_AI/Youtube_Project/Politics_Economics/2026-09-09_fiscal_policy/media/rough_v1_clips/C07_VdKZeKSmo8o.mp4",
+          "tlBegin": 10101666666,
+          "tlEnd": 10711666666,
+          "inPoint": 0,
+          "outPoint": 610000000,
+          "type": 1
+        }
+      ]
+    }
+  ]
+}

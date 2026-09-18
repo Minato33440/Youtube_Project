@@ -1,0 +1,195 @@
+{
+  "passed": true,
+  "previous_speech_head_blink_breath_curves_identical": true,
+  "local_motion_verification": {
+    "scope": "ParamBreath 0 to 1, fixed head at 1080px preview scale; not actual narration amplitude.",
+    "top_collar": {
+      "dx_px": 0,
+      "dy_px": 0,
+      "mse": 0.005238095238095238
+    },
+    "chest_center": {
+      "dx_px": -1,
+      "dy_px": 0,
+      "mse": 13.011363636363637
+    },
+    "added_upper_fold_motion_vs_v3_at_breath_1": {
+      "dx_px": 2,
+      "dy_px": -1,
+      "mse": 128.4359523809524
+    },
+    "added_lower_fold_motion_vs_v3_at_breath_1": {
+      "dx_px": 0,
+      "dy_px": 4,
+      "mse": 11.473151515151516
+    },
+    "original_v7_upper_fold_motion_vs_v3": {
+      "dx_px": -2,
+      "dy_px": -1,
+      "mse": 80.68706349206349
+    },
+    "original_v7_lower_fold_motion_vs_v3": {
+      "dx_px": 0,
+      "dy_px": 4,
+      "mse": 11.473151515151516
+    },
+    "original_v7_left_fold": {
+      "dx_px": 9,
+      "dy_px": 1,
+      "mse": 38.065104166666664
+    },
+    "original_v7_right_fold": {
+      "dx_px": -7,
+      "dy_px": 0,
+      "mse": 63.27986111111111
+    },
+    "left_internal_fold_vs_v3": {
+      "dx_px": 9,
+      "dy_px": 0,
+      "mse": 25.99704861111111
+    },
+    "right_internal_fold_vs_v3": {
+      "dx_px": -7,
+      "dy_px": 0,
+      "mse": 72.39965277777777
+    },
+    "upper_crease_added_motion_vs_v7": {
+      "dx_px": 6,
+      "dy_px": -1,
+      "mse": 15.899333333333333
+    },
+    "upper_crease_mean_rgb_change_vs_v7": 7.304098765432099,
+    "chest_and_abdomen_max_difference_v7_v8": 0.0,
+    "outside_upper_knit_max_difference_v7_v8": 0.0,
+    "abdomen_max_difference_v7_v8": 0.0,
+    "silhouette_alpha_max_difference_v7_v8": 0,
+    "silhouette_mask_changed_pixels": {
+      "1": 0,
+      "127": 0,
+      "240": 0
+    },
+    "upper_fold_mean_rgb_change_vs_v3": 11.082144522144523,
+    "lower_fold_mean_rgb_change_vs_v3": 5.004028520499109,
+    "belt_and_lower_body_max_difference_vs_v3": 0,
+    "left_shoulder_rise_px": 16.0,
+    "right_shoulder_rise_px": 16.0,
+    "cream_chest_width_neutral_px": 269.0,
+    "cream_chest_width_inhale_px": 282.0,
+    "new_body_interior_transparency_pixels": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "passed": true
+  },
+  "fixed_head_breath_sweep_max_pixel_differences": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "fixed_neck_checks": [
+    {
+      "breath": 0,
+      "head_max_difference": 0,
+      "top_collar_mean_difference": 0.0,
+      "top_collar_max_difference": 0
+    },
+    {
+      "breath": 0.3,
+      "head_max_difference": 0,
+      "top_collar_mean_difference": 0.003928571428571429,
+      "top_collar_max_difference": 1
+    },
+    {
+      "breath": 0.6,
+      "head_max_difference": 0,
+      "top_collar_mean_difference": 0.003928571428571429,
+      "top_collar_max_difference": 1
+    },
+    {
+      "breath": 1,
+      "head_max_difference": 0,
+      "top_collar_mean_difference": 0.003928571428571429,
+      "top_collar_max_difference": 1
+    }
+  ],
+  "outputs": {
+    "speaking": {
+      "frames": 479,
+      "fps": 30,
+      "duration_s": 15.966667,
+      "full_decode_passed": true,
+      "reference_frame_mean_pixel_error": [
+        1.0721019090077732,
+        1.0607853223593964,
+        1.0870699016918153,
+        1.086747256515775,
+        1.0536196844993142,
+        1.056917866941015,
+        1.0918121284865112
+      ],
+      "chest_region_temporal_mean_pixel_difference": [
+        5.270877192982456,
+        1.8776608187134503,
+        1.0365204678362574,
+        2.099134990253411,
+        2.204717348927875,
+        5.832665692007797
+      ],
+      "checked_frame_indices": [
+        0,
+        80,
+        166,
+        280,
+        296,
+        411,
+        478
+      ],
+      "audio": {
+        "source_identical": true,
+        "correlation": 0.9999816066577017,
+        "peak_offset_ms": 0.0
+      }
+    },
+    "breath_only": {
+      "frames": 241,
+      "fps": 30,
+      "duration_s": 8.033333,
+      "full_decode_passed": true,
+      "reference_frame_mean_pixel_error": [
+        1.066540923639689,
+        1.0576740397805213,
+        1.066474622770919,
+        1.0569244398719708,
+        1.0651880429812528,
+        1.0651868998628258,
+        1.0847773776863283
+      ],
+      "chest_region_temporal_mean_pixel_difference": [
+        4.9222392787524365,
+        4.827480506822612,
+        4.784237329434698,
+        4.86099171539961,
+        7.547609649122807,
+        7.46416910331384
+      ],
+      "checked_frame_indices": [
+        0,
+        30,
+        60,
+        90,
+        120,
+        180,
+        240
+      ],
+      "upper_knit_fold_temporal_mean_rgb_difference": 7.9561072261072265,
+      "lower_knit_fold_temporal_mean_rgb_difference": 7.566096256684492,
+      "loop_endpoint_mean_pixel_difference": 0.23008916323731138
+    }
+  },
+  "appearance_scope": "Selected frames visually reviewed; full audiovisual human acceptance pending."
+}

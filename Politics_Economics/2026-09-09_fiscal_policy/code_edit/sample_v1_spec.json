@@ -1,0 +1,198 @@
+{
+  "version": "sample_v1",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "output": "exports/Sample-MP4_v1.mp4",
+  "segments": [
+    {
+      "id": "HOOK",
+      "type": "video",
+      "source": "media/sources/HDIBA7-83yE.mp4",
+      "source_in": 150.16,
+      "source_out": 171.6,
+      "chapter": "注目発言｜成長への投資を、どう考える？",
+      "source_label": "三橋TV｜2025-12-13公開"
+    },
+    {
+      "id": "N01",
+      "type": "narration",
+      "wav": "speech/sample_v1/N01.wav",
+      "card": "media/sample_v1/cards/N01.png",
+      "subtitles": "subtitles/sample_v1/N01.ass",
+      "chapter": "INTRODUCTION",
+      "text": "減税をするなら、財源はどうするのか。よく聞くこの問いに、会田卓司さんは経済成長という視点から答えています。国債への不安と、私たちの暮らしを支える政策は、どうつながるのでしょうか。発言を順に見ていきます。"
+    },
+    {
+      "id": "C01a",
+      "type": "video",
+      "source": "media/sources/HDIBA7-83yE.mp4",
+      "source_in": 142.24,
+      "source_out": 179.6,
+      "chapter": "01｜国債・財政への不安",
+      "source_label": "三橋TV｜2025-12-13公開"
+    },
+    {
+      "id": "C01b",
+      "type": "video",
+      "source": "media/sources/HDIBA7-83yE.mp4",
+      "source_in": 200.6,
+      "source_out": 216.35,
+      "chapter": "01｜国債・財政への不安",
+      "source_label": "三橋TV｜2025-12-13公開"
+    },
+    {
+      "id": "C02a",
+      "type": "video",
+      "source": "media/sources/LRcGT_xzWpY.mp4",
+      "source_in": 882.12,
+      "source_out": 921.6,
+      "chapter": "01｜借換えと利払いの論点",
+      "source_label": "三橋TV｜2026-09-06公開"
+    },
+    {
+      "id": "C02b",
+      "type": "video",
+      "source": "media/sources/LRcGT_xzWpY.mp4",
+      "source_in": 934.12,
+      "source_out": 962.3,
+      "chapter": "01｜借換えと利払いの論点",
+      "source_label": "三橋TV｜2026-09-06公開"
+    },
+    {
+      "id": "C02c",
+      "type": "video",
+      "source": "media/sources/LRcGT_xzWpY.mp4",
+      "source_in": 1010.48,
+      "source_out": 1029.8,
+      "chapter": "01｜借換えと利払いの論点",
+      "source_label": "三橋TV｜2026-09-06公開"
+    },
+    {
+      "id": "N02",
+      "type": "narration",
+      "wav": "speech/sample_v1/N02.wav",
+      "card": "media/sample_v1/cards/N02.png",
+      "subtitles": "subtitles/sample_v1/N02.ass",
+      "chapter": "01 / お金の流れ",
+      "text": "借換えは、満期の国債に対応して新しい国債を発行する仕組みで、債務が消えるわけではありません。ここからは、企業と政府の支出を合わせて見る考え方です。二千二十五年十一月公開の解説で、経済全体のお金の流れを確認します。"
+    },
+    {
+      "id": "ND01",
+      "type": "video",
+      "source": "media/sources/FjHO1E_QLVo.mp4",
+      "source_in": 1508.24,
+      "source_out": 1595.48,
+      "chapter": "01｜ネット資金需要：会田氏の分析・提案",
+      "source_label": "ニュースの争点｜2025-11-05公開・当時の説明"
+    },
+    {
+      "id": "ND02",
+      "type": "video",
+      "source": "media/sources/FjHO1E_QLVo.mp4",
+      "source_in": 1701,
+      "source_out": 1767.5,
+      "chapter": "01｜ネット資金需要：会田氏の分析・提案",
+      "source_label": "ニュースの争点｜2025-11-05公開・当時の説明"
+    },
+    {
+      "id": "ND03",
+      "type": "video",
+      "source": "media/sources/FjHO1E_QLVo.mp4",
+      "source_in": 1794.28,
+      "source_out": 1813.44,
+      "chapter": "01｜ネット資金需要：会田氏の分析・提案",
+      "source_label": "ニュースの争点｜2025-11-05公開・当時の説明"
+    },
+    {
+      "id": "ND04",
+      "type": "video",
+      "source": "media/sources/FjHO1E_QLVo.mp4",
+      "source_in": 1832.4,
+      "source_out": 1894.5,
+      "chapter": "01｜ネット資金需要：会田氏の分析・提案",
+      "source_label": "ニュースの争点｜2025-11-05公開・当時の説明"
+    },
+    {
+      "id": "N03",
+      "type": "narration",
+      "wav": "speech/sample_v1/N03.wav",
+      "card": "media/sample_v1/cards/N03.png",
+      "subtitles": "subtitles/sample_v1/N03.ass",
+      "chapter": "02 / 減税の財源",
+      "text": "ここでのマイナス五パーセントは、会田さんが示す政策運営の目安です。輸入物価などの条件も合わせて考える必要があります。では、経済が成長したときの税収は、どう考えるのか。次は、減税の財源についての対談です。"
+    },
+    {
+      "id": "C03",
+      "type": "video",
+      "source": "media/sources/YXQjMSHSWEo.mp4",
+      "source_in": 795.24,
+      "source_out": 955.45,
+      "chapter": "02｜成長と減税の財源",
+      "source_label": "三橋TV｜2026-05-03公開"
+    },
+    {
+      "id": "C04",
+      "type": "video",
+      "source": "media/sources/HDIBA7-83yE.mp4",
+      "source_in": 935.88,
+      "source_out": 991.18,
+      "chapter": "03｜企業の投資と、暮らし",
+      "source_label": "三橋TV｜2025-12-13公開"
+    },
+    {
+      "id": "C05a",
+      "type": "video",
+      "source": "media/sources/VdKZeKSmo8o.mp4",
+      "source_in": 617.68,
+      "source_out": 646.0,
+      "chapter": "03｜成長への投資と、その条件",
+      "source_label": "三橋TV｜2026-09-05公開"
+    },
+    {
+      "id": "C05b",
+      "type": "video",
+      "source": "media/sources/VdKZeKSmo8o.mp4",
+      "source_in": 661.48,
+      "source_out": 716.55,
+      "chapter": "03｜成長への投資と、その条件",
+      "source_label": "三橋TV｜2026-09-05公開"
+    },
+    {
+      "id": "N04",
+      "type": "narration",
+      "wav": "speech/sample_v1/N04.wav",
+      "card": "media/sample_v1/cards/N04.png",
+      "subtitles": "subtitles/sample_v1/N04.ass",
+      "chapter": "03 / 投資と暮らし",
+      "text": "投資を増やしても、すぐに給料が上がるとは限りません。その間の暮らしをどう支えるのか。減税の具体的な方法では、二人の意見の違いにも注目してください。"
+    },
+    {
+      "id": "C06",
+      "type": "video",
+      "source": "media/sources/VdKZeKSmo8o.mp4",
+      "source_in": 858.12,
+      "source_out": 984.9,
+      "chapter": "03｜成果が届くまでの家計支援",
+      "source_label": "三橋TV｜2026-09-05公開"
+    },
+    {
+      "id": "C07",
+      "type": "video",
+      "source": "media/sources/VdKZeKSmo8o.mp4",
+      "source_in": 1086.16,
+      "source_out": 1149.16,
+      "chapter": "03｜予算を実行へ：2026年9月の対談",
+      "source_label": "三橋TV｜2026-09-05公開"
+    },
+    {
+      "id": "N05",
+      "type": "narration",
+      "wav": "speech/sample_v1/N05.wav",
+      "card": "media/sample_v1/cards/N05.png",
+      "subtitles": "subtitles/sample_v1/N05.ass",
+      "chapter": "SUMMARY",
+      "text": "今回のポイントは、三つです。一つ目は、国債の残高だけでなく、何に使い、将来の所得につながるかを見ること。二つ目は、経済成長と税収、そして家計の負担を、つなげて考えること。三つ目は、投資の成果が届くまで、暮らしを支えることです。会田さんは、企業と政府の支出に注目して、成長と家計支援を進める道筋を示しています。ただし、物価や金利への影響、投資の成果、予算が実行されるかも確かめる必要があります。財源があるかという問いから、成長の力をどう暮らしへ届けるかへ。今回の発言を、その視点から考えてみてください。"
+    }
+  ]
+}
