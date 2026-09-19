@@ -1,9 +1,23 @@
 # Youtube_Project
 
-YouTube 動画制作専用のリポジトリ。テーマ設計・素材選定・原稿・字幕・編集手順といった
-**制作の設計・記録**を管理する。動画や音声などの大容量素材は Git 管理外に置く。
+YouTube動画制作と、Live2Dの共通技術・キャラクター制作を管理するリポジトリ。
+Tommy’s Worksの販売事業はYouTubeと別動。当面は同一リポ内で制作領域を分ける。
+動画や音声などの大容量素材にはGit管理外のものがある。
+
+## 作業の入口（2026-09-19）
+
+| 作業 | 入口 |
+| --- | --- |
+| YouTube制作 | [コード主体の工程](Politics_Economics/CODE_VIDEO_PRODUCTION_WORKFLOW.md)／[Filmora主体の工程](Politics_Economics/VIDEO_PRODUCTION_WORKFLOW.md) |
+| Live2D・リサの既存データ | [Live2D制作入口](Live2D/README.md)／[暫定プリセット](Live2D/presets/README.md) |
+| 朝霧レン本体 | [商品仕様・決定事項・実装計画](Live2D/model-ren-asagiri/README.md) |
+| 将来のAI連携セット | [構想・保留事項](Live2D/future/ai_partner_integration.md) — 本体完成後に検討 |
+| リポ配置・将来の分離 | [配置判断と移行条件](Live2D/repository_layout.md) |
+| Grokの助言 | [参考資料の入口](Grok/README.md) — 採用仕様とは区別 |
 
 ## 目的
+
+以下はYouTube制作側の目的と既存運用。Live2D制作は上記の専用入口から参照する。
 
 複数の元動画から必要な発言を選び、前後にオリジナルのナレーション・画像・字幕を加えた
 動画を制作する。制作の各工程（テーマ決定 → 素材選定 → 切り抜き → 原稿 → 音声 → 画像 →

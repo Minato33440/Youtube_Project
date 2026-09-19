@@ -1,0 +1,212 @@
+[
+  {
+    "file": "young-man.png",
+    "size": [
+      422,
+      1621
+    ],
+    "alpha_bbox": [
+      3,
+      5,
+      419,
+      1614
+    ],
+    "transparent_pixels": 292354,
+    "partial_alpha_pixels": 0
+  },
+  {
+    "file": "black-hair.png",
+    "size": [
+      221,
+      233
+    ],
+    "alpha_bbox": [
+      3,
+      4,
+      217,
+      229
+    ],
+    "transparent_pixels": 28453,
+    "partial_alpha_pixels": 0
+  },
+  {
+    "file": "heterochromia-eyes/heterochromia-eyes-1.png",
+    "size": [
+      110,
+      28
+    ],
+    "alpha_bbox": [
+      5,
+      3,
+      107,
+      26
+    ],
+    "transparent_pixels": 2306,
+    "partial_alpha_pixels": 0
+  },
+  {
+    "file": "heterochromia-eyes/heterochromia-eyes-2.png",
+    "size": [
+      31,
+      23
+    ],
+    "alpha_bbox": [
+      3,
+      3,
+      28,
+      20
+    ],
+    "transparent_pixels": 389,
+    "partial_alpha_pixels": 0
+  },
+  {
+    "file": "heterochromia-eyes/heterochromia-eyes-3.png",
+    "size": [
+      27,
+      22
+    ],
+    "alpha_bbox": [
+      4,
+      2,
+      25,
+      19
+    ],
+    "transparent_pixels": 296,
+    "partial_alpha_pixels": 0
+  },
+  {
+    "file": "white-short-sleeve-shirt.png",
+    "size": [
+      422,
+      425
+    ],
+    "alpha_bbox": [
+      3,
+      4,
+      419,
+      421
+    ],
+    "transparent_pixels": 65824,
+    "partial_alpha_pixels": 0
+  },
+  {
+    "file": "gray-trousers.png",
+    "size": [
+      312,
+      851
+    ],
+    "alpha_bbox": [
+      4,
+      16,
+      308,
+      846
+    ],
+    "transparent_pixels": 89284,
+    "partial_alpha_pixels": 0
+  },
+  {
+    "file": "black-belt.png",
+    "size": [
+      234,
+      49
+    ],
+    "alpha_bbox": [
+      4,
+      4,
+      231,
+      46
+    ],
+    "transparent_pixels": 5168,
+    "partial_alpha_pixels": 0
+  },
+  {
+    "file": "silver-belt-buckle.png",
+    "size": [
+      43,
+      38
+    ],
+    "alpha_bbox": [
+      2,
+      3,
+      43,
+      36
+    ],
+    "transparent_pixels": 1057,
+    "partial_alpha_pixels": 0
+  },
+  {
+    "file": "black-loafers/black-loafers-1.png",
+    "size": [
+      137,
+      124
+    ],
+    "alpha_bbox": [
+      4,
+      1,
+      134,
+      120
+    ],
+    "transparent_pixels": 6977,
+    "partial_alpha_pixels": 0
+  },
+  {
+    "file": "black-loafers/black-loafers-2.png",
+    "size": [
+      126,
+      123
+    ],
+    "alpha_bbox": [
+      3,
+      2,
+      123,
+      120
+    ],
+    "transparent_pixels": 5893,
+    "partial_alpha_pixels": 0
+  },
+  {
+    "file": "dark-socks/dark-socks-1.png",
+    "size": [
+      33,
+      32
+    ],
+    "alpha_bbox": [
+      3,
+      2,
+      30,
+      31
+    ],
+    "transparent_pixels": 736,
+    "partial_alpha_pixels": 0
+  },
+  {
+    "file": "dark-socks/dark-socks-2.png",
+    "size": [
+      35,
+      33
+    ],
+    "alpha_bbox": [
+      2,
+      2,
+      33,
+      31
+    ],
+    "transparent_pixels": 806,
+    "partial_alpha_pixels": 0
+  },
+  {
+    "file": "beige-background.png",
+    "size": [
+      1152,
+      1726
+    ],
+    "alpha_bbox": [
+      0,
+      0,
+      1152,
+      1726
+    ],
+    "transparent_pixels": 443773,
+    "partial_alpha_pixels": 0
+  }
+]
