@@ -1,0 +1,167 @@
+[
+  {
+    "file": "01_hair/ahoge_and_top.png",
+    "size": [
+      1060,
+      650
+    ],
+    "size_ok": true,
+    "bounds_ok": true,
+    "master_crop_exact": true,
+    "visible_rgb_front_mae": 0.0
+  },
+  {
+    "file": "01_hair/bangs_and_sides.png",
+    "size": [
+      1060,
+      760
+    ],
+    "size_ok": true,
+    "bounds_ok": true,
+    "master_crop_exact": true,
+    "visible_rgb_front_mae": 0.0
+  },
+  {
+    "file": "00_face/face.png",
+    "size": [
+      820,
+      880
+    ],
+    "size_ok": true,
+    "bounds_ok": true,
+    "master_crop_exact": true,
+    "visible_rgb_front_mae": 0.0
+  },
+  {
+    "file": "00_face/eyes_zone.png",
+    "size": [
+      660,
+      300
+    ],
+    "size_ok": true,
+    "bounds_ok": true,
+    "master_crop_exact": true,
+    "visible_rgb_front_mae": 0.0
+  },
+  {
+    "file": "00_face/mouth_zone.png",
+    "size": [
+      340,
+      200
+    ],
+    "size_ok": true,
+    "bounds_ok": true,
+    "master_crop_exact": true,
+    "visible_rgb_front_mae": 0.0
+  },
+  {
+    "file": "02_body/neck_and_shoulders.png",
+    "size": [
+      1460,
+      560
+    ],
+    "size_ok": true,
+    "bounds_ok": true,
+    "master_crop_exact": true,
+    "visible_rgb_front_mae": 0.0
+  },
+  {
+    "file": "03_outfit_shirt/torso.png",
+    "size": [
+      1660,
+      1640
+    ],
+    "size_ok": true,
+    "bounds_ok": true,
+    "master_crop_exact": true,
+    "visible_rgb_front_mae": 0.0
+  },
+  {
+    "file": "02_body/arm_viewers_left.png",
+    "size": [
+      680,
+      2040
+    ],
+    "size_ok": true,
+    "bounds_ok": true,
+    "master_crop_exact": true,
+    "visible_rgb_front_mae": 0.0
+  },
+  {
+    "file": "02_body/arm_viewers_right.png",
+    "size": [
+      720,
+      2040
+    ],
+    "size_ok": true,
+    "bounds_ok": true,
+    "master_crop_exact": true,
+    "visible_rgb_front_mae": 0.0
+  },
+  {
+    "file": "02_body/hand_viewers_left.png",
+    "size": [
+      580,
+      740
+    ],
+    "size_ok": true,
+    "bounds_ok": true,
+    "master_crop_exact": true,
+    "visible_rgb_front_mae": 0.0
+  },
+  {
+    "file": "02_body/hand_viewers_right.png",
+    "size": [
+      600,
+      740
+    ],
+    "size_ok": true,
+    "bounds_ok": true,
+    "master_crop_exact": true,
+    "visible_rgb_front_mae": 0.0
+  },
+  {
+    "file": "03_outfit_shirt/belt.png",
+    "size": [
+      940,
+      260
+    ],
+    "size_ok": true,
+    "bounds_ok": true,
+    "master_crop_exact": true,
+    "visible_rgb_front_mae": 0.0
+  },
+  {
+    "file": "02_body/legs.png",
+    "size": [
+      1160,
+      2300
+    ],
+    "size_ok": true,
+    "bounds_ok": true,
+    "master_crop_exact": true,
+    "visible_rgb_front_mae": 0.0
+  },
+  {
+    "file": "02_body/shoe_viewers_left.png",
+    "size": [
+      680,
+      540
+    ],
+    "size_ok": true,
+    "bounds_ok": true,
+    "master_crop_exact": true,
+    "visible_rgb_front_mae": 0.0
+  },
+  {
+    "file": "02_body/shoe_viewers_right.png",
+    "size": [
+      660,
+      540
+    ],
+    "size_ok": true,
+    "bounds_ok": true,
+    "master_crop_exact": true,
+    "visible_rgb_front_mae": 0.0
+  }
+]
