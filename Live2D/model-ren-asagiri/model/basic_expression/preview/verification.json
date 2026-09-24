@@ -1,0 +1,213 @@
+{
+  "model": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\basic_expression\\runtime\\Ren_front.model3.json",
+  "parameter_ids": [
+    "ParamAngleX",
+    "ParamAngleY",
+    "ParamAngleZ",
+    "ParamEyeLOpen",
+    "ParamEyeLSmile",
+    "ParamEyeROpen",
+    "ParamEyeRSmile",
+    "ParamEyeBallX",
+    "ParamEyeBallY",
+    "ParamBrowLY",
+    "ParamBrowRY",
+    "ParamBrowLX",
+    "ParamBrowRX",
+    "ParamBrowLAngle",
+    "ParamBrowRAngle",
+    "ParamBrowLForm",
+    "ParamBrowRForm",
+    "ParamMouthForm",
+    "ParamMouthOpenY",
+    "ParamCheek",
+    "ParamBodyAngleX",
+    "ParamBodyAngleY",
+    "ParamBodyAngleZ",
+    "ParamBreath",
+    "ParamHairFront",
+    "ParamHairSide",
+    "ParamHairBack"
+  ],
+  "cases": [
+    {
+      "label": "Open",
+      "values": {
+        "ParamEyeLOpen": 1,
+        "ParamEyeROpen": 1,
+        "ParamMouthOpenY": 0
+      },
+      "alpha_bbox": [
+        215,
+        34,
+        995,
+        1741
+      ]
+    },
+    {
+      "label": "Eyes 0.75",
+      "values": {
+        "ParamEyeLOpen": 0.75,
+        "ParamEyeROpen": 0.75,
+        "ParamMouthOpenY": 0
+      },
+      "alpha_bbox": [
+        215,
+        34,
+        995,
+        1741
+      ]
+    },
+    {
+      "label": "Eyes 0.50",
+      "values": {
+        "ParamEyeLOpen": 0.5,
+        "ParamEyeROpen": 0.5,
+        "ParamMouthOpenY": 0
+      },
+      "alpha_bbox": [
+        215,
+        34,
+        995,
+        1741
+      ]
+    },
+    {
+      "label": "Eyes 0.25",
+      "values": {
+        "ParamEyeLOpen": 0.25,
+        "ParamEyeROpen": 0.25,
+        "ParamMouthOpenY": 0
+      },
+      "alpha_bbox": [
+        215,
+        34,
+        995,
+        1741
+      ]
+    },
+    {
+      "label": "Closed",
+      "values": {
+        "ParamEyeLOpen": 0,
+        "ParamEyeROpen": 0,
+        "ParamMouthOpenY": 0
+      },
+      "alpha_bbox": [
+        215,
+        34,
+        995,
+        1741
+      ]
+    },
+    {
+      "label": "Left blink",
+      "values": {
+        "ParamEyeLOpen": 0,
+        "ParamEyeROpen": 1,
+        "ParamMouthOpenY": 0
+      },
+      "alpha_bbox": [
+        215,
+        34,
+        995,
+        1741
+      ]
+    },
+    {
+      "label": "Right blink",
+      "values": {
+        "ParamEyeLOpen": 1,
+        "ParamEyeROpen": 0,
+        "ParamMouthOpenY": 0
+      },
+      "alpha_bbox": [
+        215,
+        34,
+        995,
+        1741
+      ]
+    },
+    {
+      "label": "Mouth 0.10",
+      "values": {
+        "ParamEyeLOpen": 1,
+        "ParamEyeROpen": 1,
+        "ParamMouthOpenY": 0.1
+      },
+      "alpha_bbox": [
+        215,
+        34,
+        995,
+        1741
+      ]
+    },
+    {
+      "label": "Mouth 0.25",
+      "values": {
+        "ParamEyeLOpen": 1,
+        "ParamEyeROpen": 1,
+        "ParamMouthOpenY": 0.25
+      },
+      "alpha_bbox": [
+        215,
+        34,
+        995,
+        1741
+      ]
+    },
+    {
+      "label": "Mouth 0.50",
+      "values": {
+        "ParamEyeLOpen": 1,
+        "ParamEyeROpen": 1,
+        "ParamMouthOpenY": 0.5
+      },
+      "alpha_bbox": [
+        215,
+        34,
+        995,
+        1741
+      ]
+    },
+    {
+      "label": "Mouth 0.75",
+      "values": {
+        "ParamEyeLOpen": 1,
+        "ParamEyeROpen": 1,
+        "ParamMouthOpenY": 0.75
+      },
+      "alpha_bbox": [
+        215,
+        34,
+        995,
+        1741
+      ]
+    },
+    {
+      "label": "Mouth 1.00",
+      "values": {
+        "ParamEyeLOpen": 1,
+        "ParamEyeROpen": 1,
+        "ParamMouthOpenY": 1
+      },
+      "alpha_bbox": [
+        215,
+        34,
+        995,
+        1741
+      ]
+    }
+  ],
+  "source": "Actual exported moc3 rendered with Live2D runtime",
+  "frames": 300,
+  "fps": 30,
+  "duration_seconds": 10,
+  "parameter_max_error_below": 0.0001,
+  "runtime_hashes": {
+    "runtime\\Ren_front.cdi3.json": "795fe649836f904747d00d1d470a0b31779d0d93ea949a9c29bfbdda056c44c1",
+    "runtime\\Ren_front.moc3": "53740c87b91763d408cd1ad0a5d3544f4b757b7e50a0e391c98fefa07b0b4d8f",
+    "runtime\\Ren_front.model3.json": "3c6bdf0ea9b08e9a151eb4758fa5c2ef7d2f957ec54748932433a57568955e67",
+    "runtime\\Ren_front.2048\\texture_00.png": "846be881fc3ee75bd68c6b7af572e83674e7b740acb2146367238d8b57700c32"
+  }
+}

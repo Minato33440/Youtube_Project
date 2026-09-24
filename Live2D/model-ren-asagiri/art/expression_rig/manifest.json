@@ -1,0 +1,50 @@
+{
+  "canvas": {
+    "width": 4000,
+    "height": 6000
+  },
+  "layers": [
+    {
+      "name": "mouth_cavity",
+      "path": "parts/mouth_cavity.png",
+      "left": 1926,
+      "top": 997,
+      "visible": true
+    },
+    {
+      "name": "mouth_teeth_upper",
+      "path": "parts/mouth_teeth_upper.png",
+      "left": 1933,
+      "top": 997,
+      "visible": true
+    },
+    {
+      "name": "mouth_tongue",
+      "path": "parts/mouth_tongue.png",
+      "left": 1949,
+      "top": 1029,
+      "visible": true
+    },
+    {
+      "name": "mouth_rim_upper",
+      "path": "parts/mouth_rim_upper.png",
+      "left": 1924,
+      "top": 994,
+      "visible": true
+    },
+    {
+      "name": "mouth_rim_lower",
+      "path": "parts/mouth_rim_lower.png",
+      "left": 1935,
+      "top": 1035,
+      "visible": true
+    }
+  ],
+  "output": {
+    "psd": "Ren_mouth_addition.psd",
+    "flattenedPng": "mouth_layer_composite.png",
+    "previewPng": "mouth_layer_preview.png",
+    "verificationJson": "psd_verification.json",
+    "previewBackground": "#657078"
+  }
+}

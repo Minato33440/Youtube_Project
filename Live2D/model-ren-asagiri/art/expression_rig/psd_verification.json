@@ -1,0 +1,147 @@
+{
+  "status": "pass",
+  "library": "ag-psd",
+  "psd": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\Ren_mouth_addition.psd",
+  "flattenedPng": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\mouth_layer_composite.png",
+  "previewPng": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\mouth_layer_preview.png",
+  "canvas": {
+    "width": 4000,
+    "height": 6000
+  },
+  "layerCount": 5,
+  "inputOrder": "bottom-to-top",
+  "psdRecordOrder": "bottom-to-top (Cubism-compatible)",
+  "layers": [
+    {
+      "name": "mouth_cavity",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\parts\\mouth_cavity.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1926,
+        "top": 997,
+        "right": 2082,
+        "bottom": 1072
+      },
+      "alpha": {
+        "nonTransparentPixels": 8963,
+        "contentBounds": {
+          "left": 1926,
+          "top": 997,
+          "right": 2082,
+          "bottom": 1072
+        }
+      }
+    },
+    {
+      "name": "mouth_teeth_upper",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\parts\\mouth_teeth_upper.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1933,
+        "top": 997,
+        "right": 2073,
+        "bottom": 1022
+      },
+      "alpha": {
+        "nonTransparentPixels": 2157,
+        "contentBounds": {
+          "left": 1933,
+          "top": 997,
+          "right": 2073,
+          "bottom": 1022
+        }
+      }
+    },
+    {
+      "name": "mouth_tongue",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\parts\\mouth_tongue.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1949,
+        "top": 1029,
+        "right": 2057,
+        "bottom": 1069
+      },
+      "alpha": {
+        "nonTransparentPixels": 3187,
+        "contentBounds": {
+          "left": 1949,
+          "top": 1029,
+          "right": 2057,
+          "bottom": 1069
+        }
+      }
+    },
+    {
+      "name": "mouth_rim_upper",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\parts\\mouth_rim_upper.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1924,
+        "top": 994,
+        "right": 2084,
+        "bottom": 1053
+      },
+      "alpha": {
+        "nonTransparentPixels": 1067,
+        "contentBounds": {
+          "left": 1924,
+          "top": 994,
+          "right": 2084,
+          "bottom": 1053
+        }
+      }
+    },
+    {
+      "name": "mouth_rim_lower",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\parts\\mouth_rim_lower.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1935,
+        "top": 1035,
+        "right": 2072,
+        "bottom": 1073
+      },
+      "alpha": {
+        "nonTransparentPixels": 716,
+        "contentBounds": {
+          "left": 1935,
+          "top": 1035,
+          "right": 2072,
+          "bottom": 1073
+        }
+      }
+    }
+  ],
+  "roundTrip": {
+    "verifiedWith": "ag-psd readPsd(useImageData)",
+    "colorMode": "RGB (3)",
+    "bitsPerChannel": 8,
+    "dimensions": true,
+    "names": true,
+    "positions": true,
+    "visibility": true,
+    "clipping": true,
+    "rgba": true,
+    "renderedLayerCompositeRgba": true,
+    "embeddedCompositeReadback": {
+      "exact": false,
+      "pixels": 403,
+      "visiblePixels": 403,
+      "transparentPixels": 0,
+      "alphaPixels": 0,
+      "maxChannelDelta": 247
+    },
+    "embeddedCompositeNote": "ag-psd applies its white-matte conversion to the separate merged preview. Layer RGBA is exact and recomposites exactly to the emitted flattened PNG; the diagnostic above is retained rather than treated as a transparent-pixel-only difference."
+  }
+}

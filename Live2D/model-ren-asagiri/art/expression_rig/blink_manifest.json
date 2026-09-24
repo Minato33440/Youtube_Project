@@ -1,0 +1,29 @@
+{
+  "canvas": {
+    "width": 4000,
+    "height": 6000
+  },
+  "layers": [
+    {
+      "name": "eyelash_closed_L",
+      "path": "parts/eyelash_closed_L.png",
+      "left": 2066,
+      "top": 818,
+      "visible": true
+    },
+    {
+      "name": "eyelash_closed_R",
+      "path": "parts/eyelash_closed_R.png",
+      "left": 1738,
+      "top": 818,
+      "visible": true
+    }
+  ],
+  "output": {
+    "psd": "Ren_blink_transition.psd",
+    "flattenedPng": "blink_layer_composite.png",
+    "previewPng": "blink_layer_preview.png",
+    "verificationJson": "blink_psd_verification.json",
+    "previewBackground": "#657078"
+  }
+}

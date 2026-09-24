@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Ren_front.moc3",
+		"Textures": [
+			"Ren_front.2048/texture_00.png"
+		],
+		"DisplayInfo": "Ren_front.cdi3.json"
+	}
+}

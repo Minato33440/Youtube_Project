@@ -1,0 +1,295 @@
+{
+  "passed": true,
+  "source_png_count": 48,
+  "sources": [
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\shoe_R.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\shoe_L.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\trousers_R.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\trousers_L.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hand_R.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hand_L.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\forearm_R.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\forearm_L.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\upper_arm_R.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\upper_arm_L.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\shirt_inside.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\neck-clavicle.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\shirt_torso.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\sleeve_R.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\sleeve_L.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\belt.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\collar_R.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\collar_L.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_back.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ear_R.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ear_L.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\face_underfill.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\mouth_closed.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\FILL_eye_white_R.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_iris_R_brown.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_eyelash_upper_R.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\lower_eyelid_right.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\upper_crease_R.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\brow_R.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\FILL_eye_white_L.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_iris_L_blue.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_eyelash_upper_L.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\lower_eyelid_left.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\upper_crease_L.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\brow_L.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_side_R.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_side_L.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_front_R.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_front_L.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_front_C.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_ahoge.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_cavity.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_teeth_upper.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_tongue.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_rim_upper.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_rim_lower.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\blink\\eyelash_upper_L_original.png",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\blink\\eyelash_upper_R_original.png",
+      "unchanged": true
+    }
+  ],
+  "drawable_count": 48,
+  "drawable_ids": [
+    "hair_ahoge",
+    "hair_front_C",
+    "hair_front_L",
+    "hair_front_R",
+    "hair_side_L",
+    "hair_side_R",
+    "brow_L",
+    "upper_crease_L",
+    "lower_eyelid_left",
+    "ALT_eyelash_upper_L",
+    "ALT_iris_L_blue",
+    "FILL_eye_white_L",
+    "brow_R",
+    "upper_crease_R",
+    "lower_eyelid_right",
+    "ALT_eyelash_upper_R",
+    "ALT_iris_R_brown",
+    "FILL_eye_white_R",
+    "mouth_closed",
+    "face_underfill",
+    "ear_L",
+    "ear_R",
+    "hair_back",
+    "collar_L",
+    "collar_R",
+    "belt",
+    "sleeve_L",
+    "sleeve_R",
+    "shirt_torso",
+    "ArtMesh",
+    "shirt_inside",
+    "upper_arm_L",
+    "upper_arm_R",
+    "forearm_L",
+    "forearm_R",
+    "hand_L",
+    "hand_R",
+    "trousers_L",
+    "trousers_R",
+    "shoe_L",
+    "shoe_R",
+    "mouth_rim_lower",
+    "mouth_rim_upper",
+    "mouth_tongue",
+    "mouth_teeth_upper",
+    "mouth_cavity",
+    "eyelash_closed_R",
+    "eyelash_closed_L"
+  ],
+  "implemented_parameters": [
+    "ParamEyeLOpen",
+    "ParamEyeROpen",
+    "ParamMouthOpenY"
+  ],
+  "all_parameter_ids": [
+    "ParamAngleX",
+    "ParamAngleY",
+    "ParamAngleZ",
+    "ParamEyeLOpen",
+    "ParamEyeLSmile",
+    "ParamEyeROpen",
+    "ParamEyeRSmile",
+    "ParamEyeBallX",
+    "ParamEyeBallY",
+    "ParamBrowLY",
+    "ParamBrowRY",
+    "ParamBrowLX",
+    "ParamBrowRX",
+    "ParamBrowLAngle",
+    "ParamBrowRAngle",
+    "ParamBrowLForm",
+    "ParamBrowRForm",
+    "ParamMouthForm",
+    "ParamMouthOpenY",
+    "ParamCheek",
+    "ParamBodyAngleX",
+    "ParamBodyAngleY",
+    "ParamBodyAngleZ",
+    "ParamBreath",
+    "ParamHairFront",
+    "ParamHairSide",
+    "ParamHairBack"
+  ],
+  "editor_file_sha256": "293e779ee860359b50420b26b0da97f1fa1795db49affb7157cb92dbdf6bf221",
+  "runtime_hashes": {
+    "runtime\\Ren_front.cdi3.json": "795fe649836f904747d00d1d470a0b31779d0d93ea949a9c29bfbdda056c44c1",
+    "runtime\\Ren_front.moc3": "53740c87b91763d408cd1ad0a5d3544f4b757b7e50a0e391c98fefa07b0b4d8f",
+    "runtime\\Ren_front.model3.json": "3c6bdf0ea9b08e9a151eb4758fa5c2ef7d2f957ec54748932433a57568955e67",
+    "runtime\\Ren_front.2048\\texture_00.png": "846be881fc3ee75bd68c6b7af572e83674e7b740acb2146367238d8b57700c32"
+  },
+  "limitations": [
+    "Jaw, head/neck angles, hair physics and laugh opening are not implemented.",
+    "Preview texture is one 2048x2048 atlas; source PNG resolution is unchanged.",
+    "VTube Studio and nizima LIVE have not been tested."
+  ]
+}

@@ -4,18 +4,21 @@
 
 ## 現在地
 
-**9/24工程1完了：[最新の正面PSD](art/psd_front/README.md)を作成。** 頭部・首・襟の静止接続を確認し、4000×6000の41レイヤーへ統合。PSDを別の読み込み処理で再描画して検証済み。Cubism取り込みと基本表情・首・髪の動作は次工程。
+**9/24：Cubism取り込みと瞬き・口開閉の基本実装完了。** [現在の編集モデルと動作プレビュー](model/basic_expression/README.md)を入口にする。最新正面PSDの41層に口5枚・閉眼まつ毛2枚を追加し、48 ArtMeshの`Ren_front.cmo3`を保存・再読込。左右独立の瞬き、通常会話の開口を実モデルの12状態と10秒プレビューで確認した。Bossの仕上がり確認待ち。顎・顔と首の角度・髪の揺れは次工程。
 
-**9/24：頭部前面のPNG素材は完成登録済み。** [art/head](art/head/README.md) の顔14・髪7・耳2を採用。Bossの顔・髪了承、修正耳の外縁、後ろ髪修正後の両耳との隙間解消を確認した。旧頭部素材はarchiveへ整理済み。次は他部位のPNG最終比較を進め、素材品質が揃ってからPSD化・Cubismメッシュ生成へ移る。頭部の動的検証はまだ完了していない。
+**9/24工程1完了：[最新の正面PSD](art/psd_front/README.md)を作成。** 頭部・首・襟の静止接続を確認し、4000×6000の41レイヤーへ統合。PSDを別の読み込み処理で再描画して検証済み。
+
+**9/24：頭部前面のPNG素材は完成登録済み。** [art/head](art/head/README.md) の顔14・髪7・耳2を採用。Bossの顔・髪了承、修正耳の外縁、後ろ髪修正後の両耳との隙間解消を確認した。旧頭部素材はarchiveへ整理済み。現在はPSD・Cubismへ反映済み。頭部角度や髪の動的検証は残る。
 
 **朝霧レン — 穏やかな表情と仕草を楽しむLive2Dモデル。**
 
-9/22現在：まばたき試作と口開閉v002はBossが動きの基準として了承。原画の手修正は進んでおり、[Cubism連動前の再チェック](art/archive/20260924-old-head-assets/art/pre_rig_review_20260922/REVIEW.md)では眉・髪の隠れる側・襟下の胴体布を優先補完対象とした。最新の全身PSD統合はこれから。現行cmo3には9/21夜の更新があるため、本実装前に内部内容を確認し、上書きしない。
+9/22時点の履歴：まばたき試作と口開閉v002はBossが動きの基準として了承。[Cubism連動前の再チェック](art/archive/20260924-old-head-assets/art/pre_rig_review_20260922/REVIEW.md)では眉・髪の隠れる側・襟下の胴体布を優先補完対象とした。9/21の旧モデルは`model/parts_v001`に保持し、新実装とは区別する。
 
 制作資料をここに集約する。2026-09-21にBossの4000×6000透過原画を基準に、正面51層・背面22層のPSDと初期配置用モデルを準備した。細部の原画修正はBoss、リグはその後の工程。目・まつ毛・開口の補助素材は位置を合わせた非表示候補として保持する。AIパートナー連携セットは本体完成後に検討する。
 
 | 資料 | 内容 |
 | --- | --- |
+| [現在のCubism基本表情](model/basic_expression/README.md) | 最新cmo3、瞬き・口開閉のGIF/MP4、検証と未実装範囲 |
 | [パーツv001・編集の入口](art/processing_v001/README.md) | 正面/背面PSD、cmo3、座標manifest、補助素材切替、Bossの修正対象 |
 | [v001検証結果](art/processing_v001/test_report.md) | 原画保存・再合成・PSD読戻し・Cubism確認の範囲 |
 | [キャラクター・商品仕様](product_brief.md) | 決定事項、原案、追加候補、価格・販路の未決事項 |
@@ -37,7 +40,7 @@
 - 正面頭部：[head/parts](art/head/README.md)。後ろ髪修正・耳との隙間を再確認した23PNGが現行。表情補助はhead/expression_sources。
 - 他部位：processing_v001/front/partsに残した首・襟・胴体・四肢を最終比較。背面はprocessing_v001/back。
 - [旧頭部素材・比較資料](art/archive/20260924-old-head-assets/README.md)は履歴。eye_adjust_v007等の旧最新指定は廃止。
-- 原画はart_assets、既存モデルはmodel/parts_v001に保持。最新頭部を統合したPSDはart/psd_frontに作成済み。Cubism取り込み、メッシュ、角度・髪・首・顎の連動はこれから。
+- 原画はart_assets、旧モデルはmodel/parts_v001に保持。最新頭部を統合したPSDはart/psd_front、現在のCubism編集モデルはmodel/basic_expression/Ren_front.cmo3。次は角度・髪・首・顎の連動。
 
 ## 元資料
 
