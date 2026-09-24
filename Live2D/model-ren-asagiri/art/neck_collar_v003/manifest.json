@@ -1,0 +1,48 @@
+{
+  "canvas": {
+    "width": 567,
+    "height": 590
+  },
+  "globalCanvasOrigin": [
+    1716,
+    1000
+  ],
+  "coordinateConvention": "local coordinates; add origin for original 4000x6000 canvas; provisional review",
+  "layers": [
+    {
+      "name": "shirt_inside",
+      "path": "parts/shirt_inside.png",
+      "left": 1,
+      "top": 128,
+      "visible": true
+    },
+    {
+      "name": "neck-clavicle",
+      "path": "parts/neck-clavicle.png",
+      "left": 106,
+      "top": 19,
+      "visible": true
+    },
+    {
+      "name": "collar_R",
+      "path": "parts/collar_R.png",
+      "left": 9,
+      "top": 150,
+      "visible": true
+    },
+    {
+      "name": "collar_L",
+      "path": "parts/collar_L.png",
+      "left": 248,
+      "top": 147,
+      "visible": true
+    }
+  ],
+  "output": {
+    "psd": "Ren_neck_collar_v003_review.psd",
+    "flattenedPng": "neck_collar_psd_assembled.png",
+    "previewPng": "neck_collar_psd_preview.png",
+    "verificationJson": "psd_verification.json",
+    "previewBackground": "#707070"
+  }
+}

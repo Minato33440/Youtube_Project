@@ -1,0 +1,30 @@
+{
+  "status": "pass",
+  "reader": "psd-tools 1.12.1",
+  "layerRecordOrder": "bottom-to-top",
+  "firstLayer": "shoe_L",
+  "lastLayer": "hair_ahoge",
+  "layerCount": 22,
+  "clippingLayers": [],
+  "forceRenderedVsFlattenedRaw": {
+    "differentPixels": 19098974,
+    "maxChannelDelta": 255,
+    "alphaDifferentPixels": 0
+  },
+  "forceRenderedVsFlattenedDisplay": {
+    "#F7F5F0": {
+      "visiblePixels": 4905098,
+      "maxVisiblePerChannelDifference": 0.9843137254902103,
+      "meanVisiblePerChannelDifference": 0.00014443183144999318,
+      "pixelsWithAnyChannelDifferenceOver2": 0,
+      "over2Bounds": null
+    },
+    "#808080": {
+      "visiblePixels": 4905098,
+      "maxVisiblePerChannelDifference": 0.9843137254902103,
+      "meanVisiblePerChannelDifference": 0.00014443183144999326,
+      "pixelsWithAnyChannelDifferenceOver2": 0,
+      "over2Bounds": null
+    }
+  }
+}

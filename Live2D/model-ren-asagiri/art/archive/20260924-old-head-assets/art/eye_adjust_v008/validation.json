@@ -1,0 +1,77 @@
+{
+  "sourceUnchanged": true,
+  "sources": {
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\face_underfill.png": "f7d8727b5b2bfa2816bd4d21148cedba14ee1b6676058836b2a979d070dc07a0",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art_assets\\ren-stand-pony-front-4000x6000.png": "edf3b0317f981568b29f04fc1dbaeebae416b164741c2dee2499d0a6116a4817",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\lower_eyelid_right.png": "72df8c8f962639c75e2a123f9561d6b581430d54682b746992e1bd4414fc7636",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ALT_eyelash_upper_R.png": "951373a298d1ef24880862ccc660c29acb256639dbbf361b22712eb58365098e",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ALT_iris_R_brown.png": "6613780f59fbe80a304284071e730678b3742617df31125e51dc51ed02ecc8d8",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\upper_crease_R.png": "5cabdd4dbca0f79d146745cb6aaf41977a733ec06aa638d866eef3c58160f404",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\lower_eyelid_left.png": "c5571bcf5ff3b30ec1c016dc89e9d6327d8ee23ceb660560fb17a6f90fc33b22",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ALT_eyelash_upper_L.png": "b43c14807fc8450c0d7a75316222ba5f2b45cd47d5939c2ac411803a5f029c49",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ALT_iris_L_blue.png": "50907795ad7e5f45c5cd4e0bb190b79a28472577c3b54dfadcee8a15bd39bcbf",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\upper_crease_L.png": "bd9d9b116d0a6346dca7485f5dbae57178a469274fc75d5009a0f71d0fbf0155",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\Upper_eyelid_left.png": "c78afa5927f9ee5c67a2c8dcbdcd91b10ea573da0e5edc048bd731d78efde66e",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\Upper_eyelid_right.png": "22024aa44f37215c285d27507b69cf253fc89db74885050bda35023a1b4e8767"
+  },
+  "eyes": [
+    {
+      "side": "R",
+      "iris_size": [
+        88,
+        92
+      ],
+      "iris_position": [
+        1818,
+        776
+      ],
+      "upper_lash_position": [
+        1750,
+        765
+      ],
+      "lower_lid_position": [
+        1785,
+        826
+      ],
+      "lower_lid_bbox": [
+        0,
+        0,
+        124,
+        37
+      ],
+      "orbit_line_position": [
+        1790,
+        722
+      ]
+    },
+    {
+      "side": "L",
+      "iris_size": [
+        88,
+        92
+      ],
+      "iris_position": [
+        2105,
+        773
+      ],
+      "upper_lash_position": [
+        2058,
+        762
+      ],
+      "lower_lid_position": [
+        2090,
+        825
+      ],
+      "lower_lid_bbox": [
+        0,
+        0,
+        112,
+        35
+      ],
+      "orbit_line_position": [
+        2047,
+        721
+      ]
+    }
+  ]
+}

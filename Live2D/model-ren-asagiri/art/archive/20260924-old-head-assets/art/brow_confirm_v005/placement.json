@@ -1,0 +1,50 @@
+[
+  {
+    "source": "Upper_eyelid_left.png",
+    "role": "eyebrow",
+    "provisional_position": [
+      2043,
+      684
+    ],
+    "opaque_median_RGB": [
+      74.0,
+      51.0,
+      40.0
+    ],
+    "sha256": "c78afa5927f9ee5c67a2c8dcbdcd91b10ea573da0e5edc048bd731d78efde66e",
+    "size": [
+      188,
+      30
+    ],
+    "bbox": [
+      0,
+      0,
+      188,
+      30
+    ]
+  },
+  {
+    "source": "Upper_eyelid_right.png",
+    "role": "eyebrow",
+    "provisional_position": [
+      1752,
+      687
+    ],
+    "opaque_median_RGB": [
+      74.0,
+      51.0,
+      40.0
+    ],
+    "sha256": "22024aa44f37215c285d27507b69cf253fc89db74885050bda35023a1b4e8767",
+    "size": [
+      181,
+      34
+    ],
+    "bbox": [
+      0,
+      1,
+      181,
+      32
+    ]
+  }
+]

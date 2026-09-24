@@ -1,0 +1,9 @@
+# 採用方針：修正版眉＋開眼ALTまつ毛／閉眼originalまつ毛
+
+2026-09-22 Boss決定。brow_confirm_v005の修正版眉を採用。開眼時はprocessing_v001/front/parts/ALT_eyelash_upper_L/R.pngを使う。目尻の眼瞼の描写を残す好み。閉眼時は今回修正したeyelash_upper_L/R_original.pngを使用する方針。
+
+face_with_brows.jpgは確定眉＋既存の承認済みALT開眼試作を合わせた静止サンプル。比較画像comparison.jpgでは左が直前のoriginalまつ毛、右がALT。髪・顔・眉・口は同じ。眉はファイル名Upper_eyelid_left/rightだが眉として扱う。原本・PSD/cmo3未変更。
+
+次の試作では開眼〜半開眼はALTを変形させ、閉じ際の狭い範囲で両素材の線位置を合わせて表示量を移行する。完全閉眼は修正originalを閉眼曲線へ変形したものだけ表示。開眼の形のまま差し替えない。白目・瞳も連動して閉じる。二重線・急な太さ変更・目尻の跳ねを確認して遷移範囲を決める。正確な切替値は未決定。
+
+このフォルダは採用方針と開眼サンプルのみ。2素材間の閉眼遷移GIF・Cubismパラメータはまだ実装していない。旧blink_assembly_v001は全状態ALTなので、今回の混合方式を検証済みとはしない。

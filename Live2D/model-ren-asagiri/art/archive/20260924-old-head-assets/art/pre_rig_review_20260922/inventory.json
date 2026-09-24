@@ -1,0 +1,1222 @@
+{
+  "front": [
+    {
+      "name": "ALT_eyelash_upper_L",
+      "size": [
+        197,
+        78
+      ],
+      "bbox": [
+        0,
+        0,
+        197,
+        78
+      ],
+      "sha256": "b43c14807fc8450c0d7a75316222ba5f2b45cd47d5939c2ac411803a5f029c49",
+      "updated": "2026-09-21T12:38:43",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "ALT_eyelash_upper_R",
+      "size": [
+        197,
+        79
+      ],
+      "bbox": [
+        0,
+        0,
+        197,
+        79
+      ],
+      "sha256": "951373a298d1ef24880862ccc660c29acb256639dbbf361b22712eb58365098e",
+      "updated": "2026-09-21T12:38:43",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "ALT_iris_L_blue",
+      "size": [
+        88,
+        112
+      ],
+      "bbox": [
+        0,
+        0,
+        88,
+        112
+      ],
+      "sha256": "50907795ad7e5f45c5cd4e0bb190b79a28472577c3b54dfadcee8a15bd39bcbf",
+      "updated": "2026-09-21T12:38:43",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "ALT_iris_R_brown",
+      "size": [
+        88,
+        112
+      ],
+      "bbox": [
+        0,
+        0,
+        88,
+        112
+      ],
+      "sha256": "6613780f59fbe80a304284071e730678b3742617df31125e51dc51ed02ecc8d8",
+      "updated": "2026-09-21T12:38:43",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "ALT_mouth_interior",
+      "size": [
+        239,
+        187
+      ],
+      "bbox": [
+        1,
+        4,
+        239,
+        187
+      ],
+      "sha256": "4e73a905fa043881dd645736190d214eb8ecf649e30f7d07218cba0937ed8338",
+      "updated": "2026-09-21T13:37:58",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "ALT_mouth_open_outline",
+      "size": [
+        185,
+        149
+      ],
+      "bbox": [
+        0,
+        0,
+        182,
+        149
+      ],
+      "sha256": "3da055a88f641a2d43ac826d7969e53b43d435e9f262877fd52d7eb0199fffdc",
+      "updated": "2026-09-21T14:12:38",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "ALT_mouth_teeth_upper",
+      "size": [
+        159,
+        39
+      ],
+      "bbox": [
+        1,
+        0,
+        159,
+        39
+      ],
+      "sha256": "43fab6e7e41ca68d73942c5f7d54d52793ad4f4df755773a44fd0ef8ff9255a4",
+      "updated": "2026-09-22T08:19:17",
+      "changedSincePriorReview": true
+    },
+    {
+      "name": "ALT_mouth_tongue",
+      "size": [
+        117,
+        70
+      ],
+      "bbox": [
+        1,
+        3,
+        114,
+        67
+      ],
+      "sha256": "1269bab796070ed8c6e85e1d6d58982a50a2b60b2cc12fdd075cba4a02cd36ee",
+      "updated": "2026-09-21T14:20:04",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "ALT_whole_eye_L",
+      "size": [
+        197,
+        131
+      ],
+      "bbox": [
+        0,
+        0,
+        197,
+        131
+      ],
+      "sha256": "d2ea54b9392ba8f8fc8330d60723719c27dd6bf6d4eb69efe9d2c93e6f1d7cbc",
+      "updated": "2026-09-22T08:30:35",
+      "changedSincePriorReview": true
+    },
+    {
+      "name": "ALT_whole_eye_R",
+      "size": [
+        197,
+        131
+      ],
+      "bbox": [
+        0,
+        0,
+        197,
+        131
+      ],
+      "sha256": "88596edfe14df6d78315c9b227af56211ec755f55ac333860053e0c4eac50159",
+      "updated": "2026-09-22T08:32:35",
+      "changedSincePriorReview": true
+    },
+    {
+      "name": "belt",
+      "size": [
+        847,
+        149
+      ],
+      "bbox": [
+        0,
+        0,
+        847,
+        149
+      ],
+      "sha256": "8d1c1aec294d5809174342259886bbf17dca3bf91a21c12168e7566d621f11b6",
+      "updated": "2026-09-21T14:22:32",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "brow_L",
+      "size": [
+        101,
+        40
+      ],
+      "bbox": [
+        0,
+        0,
+        101,
+        40
+      ],
+      "sha256": "76d43654ae7b2a10781c918fa6c4b4d8f7c80f64f0b8459a7b6bef5a9437bdba",
+      "updated": "2026-09-21T12:38:43",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "brow_R",
+      "size": [
+        120,
+        38
+      ],
+      "bbox": [
+        0,
+        0,
+        120,
+        38
+      ],
+      "sha256": "ed3fac617c38c1a0a7f73bc416b100db94ec545a0ee7f5a1bc8131255ffe8f81",
+      "updated": "2026-09-21T12:38:43",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "collar_L",
+      "size": [
+        307,
+        466
+      ],
+      "bbox": [
+        12,
+        3,
+        307,
+        435
+      ],
+      "sha256": "61e15e2b564db93c3d20acf2d1ed4cb3e0bc45c7142e95c10116be93b8424e82",
+      "updated": "2026-09-21T20:28:20",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "collar_R",
+      "size": [
+        278,
+        411
+      ],
+      "bbox": [
+        0,
+        0,
+        278,
+        411
+      ],
+      "sha256": "e40448560d40f6aabd0a3369869c954c3355e2b191d980afd847d5cd693048d8",
+      "updated": "2026-09-21T20:28:58",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "ear_L",
+      "size": [
+        128,
+        272
+      ],
+      "bbox": [
+        0,
+        0,
+        128,
+        272
+      ],
+      "sha256": "36920694df287404a374e17bc254aba116c3b69425aa24d67d56881f05826294",
+      "updated": "2026-09-21T12:38:42",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "ear_L_surface",
+      "size": [
+        137,
+        151
+      ],
+      "bbox": [
+        8,
+        0,
+        113,
+        143
+      ],
+      "sha256": "4e4dc7002775ecdfe4d4c9aa9e5268d0a7eb3596fa1fcabc6db48c93616618e2",
+      "updated": "2026-09-21T13:16:05",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "ear_R",
+      "size": [
+        137,
+        265
+      ],
+      "bbox": [
+        0,
+        0,
+        137,
+        265
+      ],
+      "sha256": "efa8ebba850ebd5b956248a3bd39020d27e263e2a01d37dea3811ec4c066604a",
+      "updated": "2026-09-21T14:39:13",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "ear_R_surface",
+      "size": [
+        131,
+        160
+      ],
+      "bbox": [
+        24,
+        7,
+        128,
+        160
+      ],
+      "sha256": "772c55f7343ba69a4e38182f59af875e968f2885814b85660109e43b8b5c06d7",
+      "updated": "2026-09-21T13:20:08",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "eyelash_upper_L_original",
+      "size": [
+        181,
+        58
+      ],
+      "bbox": [
+        0,
+        0,
+        181,
+        58
+      ],
+      "sha256": "16627fefbee13d0acdc74f51dd30b8d39c579a24188207ce5bf586e72ee19b3f",
+      "updated": "2026-09-21T12:38:43",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "eyelash_upper_R_original",
+      "size": [
+        177,
+        74
+      ],
+      "bbox": [
+        0,
+        0,
+        177,
+        74
+      ],
+      "sha256": "8f835115457cd65717e262fba8e6ea10d3462e36e7bef75a2f8a1b91fecba229",
+      "updated": "2026-09-21T12:38:43",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "eye_white_L",
+      "size": [
+        182,
+        95
+      ],
+      "bbox": [
+        0,
+        0,
+        182,
+        95
+      ],
+      "sha256": "d6fb664ff525c68366d43543101550a131c24e661984425fa2699926f20cd971",
+      "updated": "2026-09-21T12:38:43",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "eye_white_R",
+      "size": [
+        173,
+        98
+      ],
+      "bbox": [
+        0,
+        0,
+        173,
+        98
+      ],
+      "sha256": "d03c3f5922a2152485f41d8dcdd5fe86cb2dc628bce388913f63e74edc2d13d0",
+      "updated": "2026-09-21T12:38:43",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "face_surface",
+      "size": [
+        690,
+        732
+      ],
+      "bbox": [
+        0,
+        0,
+        690,
+        732
+      ],
+      "sha256": "fc2055b4d44ccbea652afeb107f38d647d8cf670d62b1de1058199715b96b63a",
+      "updated": "2026-09-21T12:38:43",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "face_underfill",
+      "size": [
+        609,
+        892
+      ],
+      "bbox": [
+        0,
+        2,
+        608,
+        866
+      ],
+      "sha256": "f7d8727b5b2bfa2816bd4d21148cedba14ee1b6676058836b2a979d070dc07a0",
+      "updated": "2026-09-22T08:49:06",
+      "changedSincePriorReview": true
+    },
+    {
+      "name": "FILL_eye_white_L",
+      "size": [
+        188,
+        122
+      ],
+      "bbox": [
+        0,
+        0,
+        188,
+        122
+      ],
+      "sha256": "db79003f6086861474f3fc838ca93b459a4ae894e3839572dfa0fbc376a0ba9f",
+      "updated": "2026-09-21T22:55:50",
+      "changedSincePriorReview": true
+    },
+    {
+      "name": "FILL_eye_white_R",
+      "size": [
+        181,
+        128
+      ],
+      "bbox": [
+        0,
+        0,
+        181,
+        128
+      ],
+      "sha256": "f0f2b718464a894e8b63d3632211d3a69c191d697b2fda976cb12c755dc158c2",
+      "updated": "2026-09-21T22:56:41",
+      "changedSincePriorReview": true
+    },
+    {
+      "name": "forearm_L",
+      "size": [
+        388,
+        623
+      ],
+      "bbox": [
+        0,
+        0,
+        388,
+        623
+      ],
+      "sha256": "3d6c383eb20781ed5de51231740d6b495c65520a36d061600ecd3e66923174e2",
+      "updated": "2026-09-21T12:38:41",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "forearm_R",
+      "size": [
+        374,
+        650
+      ],
+      "bbox": [
+        0,
+        0,
+        374,
+        650
+      ],
+      "sha256": "e266a37f17a146f2449cdd48c8a2ba188136916c68ed7de1b1017b80270cecec",
+      "updated": "2026-09-21T12:38:41",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "hair_ahoge",
+      "size": [
+        427,
+        235
+      ],
+      "bbox": [
+        0,
+        0,
+        427,
+        235
+      ],
+      "sha256": "cf303c03f5fb86555d0d3f87cad1f5bc117dbc13416b1d69fbc784633399a582",
+      "updated": "2026-09-21T17:30:36",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "hair_back",
+      "size": [
+        515,
+        208
+      ],
+      "bbox": [
+        0,
+        8,
+        487,
+        178
+      ],
+      "sha256": "eaf39cf624c5db9514a43f90bcf7c7797c97e0032a58fe1e933abae09aa49ff8",
+      "updated": "2026-09-21T17:37:53",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "hair_front_C",
+      "size": [
+        283,
+        595
+      ],
+      "bbox": [
+        17,
+        12,
+        268,
+        582
+      ],
+      "sha256": "c964dcfcf6124dfdded0d59ec097b1f34967fd9aeb1d7524dcefe5f0f66cfcba",
+      "updated": "2026-09-21T17:56:04",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "hair_front_L",
+      "size": [
+        412,
+        646
+      ],
+      "bbox": [
+        0,
+        0,
+        412,
+        646
+      ],
+      "sha256": "81201cb5e0f738430f5e92d59c2e4627cd899a7b741c488fa74d74f1227ef565",
+      "updated": "2026-09-21T17:58:17",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "hair_front_R",
+      "size": [
+        420,
+        650
+      ],
+      "bbox": [
+        0,
+        0,
+        420,
+        321
+      ],
+      "sha256": "fcfa8b6431841bcc52685900ab5c7351def1f42e3f81f03049adaed2d3f77d62",
+      "updated": "2026-09-21T17:58:59",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "hair_side_L",
+      "size": [
+        383,
+        486
+      ],
+      "bbox": [
+        0,
+        0,
+        372,
+        478
+      ],
+      "sha256": "1101ebfce5d9495497273a30660fa891d0e4c35ce980231f37ec7f7c9173392f",
+      "updated": "2026-09-21T18:10:43",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "hair_side_R",
+      "size": [
+        351,
+        441
+      ],
+      "bbox": [
+        8,
+        0,
+        351,
+        430
+      ],
+      "sha256": "5bbccb5653f704bc4d0d7bf39f6bc6b750a31cc44a8250e56ceca9bfdc3bf1ed",
+      "updated": "2026-09-21T18:10:07",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "hand_L",
+      "size": [
+        347,
+        479
+      ],
+      "bbox": [
+        0,
+        0,
+        347,
+        479
+      ],
+      "sha256": "85cc0ae6bdd7e6a0ed76c7a216041d60632d684b49b78162d5515510b9156bf3",
+      "updated": "2026-09-21T12:38:41",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "hand_R",
+      "size": [
+        349,
+        471
+      ],
+      "bbox": [
+        0,
+        0,
+        349,
+        471
+      ],
+      "sha256": "6f99fa8182ccd7519cfbd63c5dd8c3288e5dfffd0d414d9628a354205c32dd8e",
+      "updated": "2026-09-21T12:38:41",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "iris_L_original",
+      "size": [
+        87,
+        92
+      ],
+      "bbox": [
+        0,
+        0,
+        87,
+        92
+      ],
+      "sha256": "4431a401f0f7f09afe6ba071a3dd91bffc5c3ecf06b947a905fb38d94da08b75",
+      "updated": "2026-09-21T12:38:43",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "iris_R_original",
+      "size": [
+        87,
+        91
+      ],
+      "bbox": [
+        0,
+        0,
+        87,
+        91
+      ],
+      "sha256": "cab3cf00d937f86194fd6963054eb14f8931b9ad9f7c860ecd815e508ae6c87a",
+      "updated": "2026-09-21T12:38:43",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "mouth_closed",
+      "size": [
+        198,
+        142
+      ],
+      "bbox": [
+        49,
+        63,
+        148,
+        79
+      ],
+      "sha256": "86860b51c7498d50a5db053c530fa11a42a6723d0be576060cfd8206abcbd6f4",
+      "updated": "2026-09-22T09:12:10",
+      "changedSincePriorReview": true
+    },
+    {
+      "name": "neck-clavicle",
+      "size": [
+        368,
+        492
+      ],
+      "bbox": [
+        0,
+        0,
+        368,
+        492
+      ],
+      "sha256": "1e77961e89c059d5b3d42f45525ebba61c8e078f7181f9f2139c40b51c0c5192",
+      "updated": "2026-09-21T21:06:11",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "shirt_inside",
+      "size": [
+        567,
+        454
+      ],
+      "bbox": [
+        146,
+        13,
+        426,
+        454
+      ],
+      "sha256": "3740c1dde2c402583a9df205e497575672a2ebbd86ce92e6af5d019e6816ea63",
+      "updated": "2026-09-22T08:20:20",
+      "changedSincePriorReview": true
+    },
+    {
+      "name": "shirt_torso",
+      "size": [
+        1102,
+        1224
+      ],
+      "bbox": [
+        0,
+        0,
+        1102,
+        1224
+      ],
+      "sha256": "993ae17ea0920b9556eead9b805d37bce308a1ce59a80109864572814828c7f3",
+      "updated": "2026-09-21T12:38:41",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "shoe_L",
+      "size": [
+        461,
+        569
+      ],
+      "bbox": [
+        0,
+        0,
+        460,
+        569
+      ],
+      "sha256": "b895a66cb0d2725e94c71363a27b86def78f26e2fc7befaa18cc55eeb33fc8ab",
+      "updated": "2026-09-21T18:29:54",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "shoe_R",
+      "size": [
+        476,
+        566
+      ],
+      "bbox": [
+        0,
+        0,
+        476,
+        566
+      ],
+      "sha256": "6f91f35c28747d8f17edeb1c419cbf47778380beca0320623b55a863b0ea82a2",
+      "updated": "2026-09-21T12:38:41",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "sleeve_L",
+      "size": [
+        365,
+        646
+      ],
+      "bbox": [
+        0,
+        0,
+        365,
+        646
+      ],
+      "sha256": "0d4032af34c93f20197616d05b6ccd1ac37c27d2b5c81d908d445325c8a32514",
+      "updated": "2026-09-21T12:38:41",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "sleeve_R",
+      "size": [
+        351,
+        633
+      ],
+      "bbox": [
+        0,
+        0,
+        351,
+        633
+      ],
+      "sha256": "aa8c091a1a3af21775549658127d206d18893de22302eb040146b0b668e34b12",
+      "updated": "2026-09-21T12:38:41",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "trousers_L",
+      "size": [
+        496,
+        2673
+      ],
+      "bbox": [
+        0,
+        0,
+        496,
+        2673
+      ],
+      "sha256": "c85e42207f1967c05962ca973b663077291bac1cc8643b83fa8d408d881ff0ac",
+      "updated": "2026-09-21T12:38:41",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "trousers_R",
+      "size": [
+        501,
+        2687
+      ],
+      "bbox": [
+        0,
+        0,
+        501,
+        2687
+      ],
+      "sha256": "ba3472592fb0d373e0b795fbeb6eeb50b2f846697b5e21a3581e98ee919e0730",
+      "updated": "2026-09-21T12:38:41",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "upper_arm_L",
+      "size": [
+        341,
+        438
+      ],
+      "bbox": [
+        0,
+        0,
+        341,
+        438
+      ],
+      "sha256": "62cd4d4dfc429ba127d81ce902d40588e4f72f7b3fe2e82f6b7151643e39b920",
+      "updated": "2026-09-21T12:38:41",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "upper_arm_R",
+      "size": [
+        313,
+        456
+      ],
+      "bbox": [
+        0,
+        0,
+        313,
+        456
+      ],
+      "sha256": "5c17080f87c446e781d3ddc127afae19705e97289f1b1134dd4f179bde534d2b",
+      "updated": "2026-09-21T12:38:41",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "Upper_eyelid_left",
+      "size": [
+        149,
+        30
+      ],
+      "bbox": [
+        0,
+        0,
+        135,
+        30
+      ],
+      "sha256": "2186849b3e12b7c0a9851bc1e9c68bb1ec56203a23ade3feec73a9e492ee4f5b",
+      "updated": "2026-09-21T22:47:35",
+      "changedSincePriorReview": true
+    },
+    {
+      "name": "Upper_eyelid_right",
+      "size": [
+        160,
+        30
+      ],
+      "bbox": [
+        7,
+        0,
+        159,
+        30
+      ],
+      "sha256": "17fa79b30423834fa05072cee9b6897e0250bbcac4593a8544a4d38c49b82b97",
+      "updated": "2026-09-21T22:49:02",
+      "changedSincePriorReview": true
+    }
+  ],
+  "back": [
+    {
+      "name": "belt",
+      "size": [
+        821,
+        149
+      ],
+      "bbox": [
+        0,
+        0,
+        821,
+        149
+      ],
+      "sha256": "0cd600f7d7a43d403db47fcc555b8b2f93d12fb6b0ad9356bad911f8acea4ccd",
+      "updated": "2026-09-21T12:38:52",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "collar_back",
+      "size": [
+        473,
+        145
+      ],
+      "bbox": [
+        0,
+        0,
+        473,
+        145
+      ],
+      "sha256": "297464fdc7a5b6d2b8a29aaf8e59782e507141234fa656a997a88c69f0fd2013",
+      "updated": "2026-09-21T12:38:53",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "ear_L",
+      "size": [
+        148,
+        251
+      ],
+      "bbox": [
+        0,
+        0,
+        148,
+        251
+      ],
+      "sha256": "d2b6980c280eeae15d6261cf18a95a3c3d682478b4df878fe892556862fd3803",
+      "updated": "2026-09-21T12:38:53",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "ear_R",
+      "size": [
+        148,
+        259
+      ],
+      "bbox": [
+        0,
+        0,
+        148,
+        259
+      ],
+      "sha256": "0172b428032fdbb7432415d739401c0511c2858475792135b53755f798fdbe5c",
+      "updated": "2026-09-21T12:38:53",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "forearm_L",
+      "size": [
+        371,
+        649
+      ],
+      "bbox": [
+        0,
+        0,
+        371,
+        649
+      ],
+      "sha256": "9989b580568f673fffd367ded55afc11e8b185271cb1f8dae6284a40ea155255",
+      "updated": "2026-09-21T12:38:52",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "forearm_R",
+      "size": [
+        365,
+        636
+      ],
+      "bbox": [
+        0,
+        0,
+        365,
+        636
+      ],
+      "sha256": "e95093dc115297c566236f64472ef07ceb408c3e93488958132a21aa6f2d995c",
+      "updated": "2026-09-21T12:38:52",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "hair_ahoge",
+      "size": [
+        378,
+        218
+      ],
+      "bbox": [
+        0,
+        0,
+        378,
+        218
+      ],
+      "sha256": "ba127280b7bead799c0352e088575961e3c4776176377fba728cdd83d34d2d30",
+      "updated": "2026-09-21T12:38:53",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "hair_back_C",
+      "size": [
+        625,
+        1045
+      ],
+      "bbox": [
+        0,
+        0,
+        625,
+        1045
+      ],
+      "sha256": "466cc5fac9bf7fee7fcf1aacd0307d005a70a7aef4147e4ae43dabc0ed47a374",
+      "updated": "2026-09-21T12:38:53",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "hair_back_L",
+      "size": [
+        342,
+        717
+      ],
+      "bbox": [
+        0,
+        0,
+        342,
+        717
+      ],
+      "sha256": "83fc980a5a9c2184c448f2a7f20c841b24595f4592d29889f35fca354f07ff30",
+      "updated": "2026-09-21T12:38:53",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "hair_back_R",
+      "size": [
+        289,
+        694
+      ],
+      "bbox": [
+        0,
+        0,
+        289,
+        694
+      ],
+      "sha256": "9fd56cc59ba2c19a77086d965fbc6bf84f035b30b0deb0bd6a2b2034bb26eda0",
+      "updated": "2026-09-21T12:38:53",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "hand_L",
+      "size": [
+        319,
+        525
+      ],
+      "bbox": [
+        0,
+        0,
+        319,
+        525
+      ],
+      "sha256": "71f75301cf09f4368c31d4a5e210b9da1b024911fc45f17a816531b3e94d0d28",
+      "updated": "2026-09-21T12:38:52",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "hand_R",
+      "size": [
+        321,
+        530
+      ],
+      "bbox": [
+        0,
+        0,
+        321,
+        530
+      ],
+      "sha256": "3f99637c59fb595f30c12958a44364b0a938c629c30dd5eb3050550a0f6eb438",
+      "updated": "2026-09-21T12:38:52",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "head_neck_underfill",
+      "size": [
+        618,
+        829
+      ],
+      "bbox": [
+        0,
+        0,
+        618,
+        829
+      ],
+      "sha256": "d1a97068d06df791f1ec64e1721ebf9a1c61fcba022c2fb36666eab2f239bfee",
+      "updated": "2026-09-21T12:38:53",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "shirt_torso",
+      "size": [
+        1105,
+        1224
+      ],
+      "bbox": [
+        0,
+        0,
+        1105,
+        1224
+      ],
+      "sha256": "39e0041ed69c140ddeb87ab43dd4b1cebc9c6bcb5d0a5359cbf422d746ca6883",
+      "updated": "2026-09-21T12:38:53",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "shoe_L",
+      "size": [
+        414,
+        564
+      ],
+      "bbox": [
+        0,
+        0,
+        414,
+        564
+      ],
+      "sha256": "df3f18685272370357700508319fce67aa018973b343bc53068259889ae62c6e",
+      "updated": "2026-09-21T12:38:52",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "shoe_R",
+      "size": [
+        416,
+        564
+      ],
+      "bbox": [
+        0,
+        0,
+        416,
+        564
+      ],
+      "sha256": "389e27756ffccac00760855eef50bb40227f6530ccd05fc8188377975c997939",
+      "updated": "2026-09-21T12:38:52",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "sleeve_L",
+      "size": [
+        347,
+        658
+      ],
+      "bbox": [
+        0,
+        0,
+        347,
+        658
+      ],
+      "sha256": "44b90dfeac7f4976ed9ab7ab6138d41ad94d6a71e339838f7fb4d756c6be132d",
+      "updated": "2026-09-21T12:38:53",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "sleeve_R",
+      "size": [
+        348,
+        669
+      ],
+      "bbox": [
+        0,
+        0,
+        348,
+        669
+      ],
+      "sha256": "826f441d86b72b504982ac5d8f7e19ed1d78fcd636e1b20d7c888acaf72e1c55",
+      "updated": "2026-09-21T12:38:53",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "trousers_L",
+      "size": [
+        505,
+        2686
+      ],
+      "bbox": [
+        0,
+        0,
+        505,
+        2686
+      ],
+      "sha256": "f3b94b6a9c4181a558673727add5270b352fbb6f75fe5bba44bb795dfa2266d7",
+      "updated": "2026-09-21T12:38:52",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "trousers_R",
+      "size": [
+        496,
+        2677
+      ],
+      "bbox": [
+        0,
+        0,
+        496,
+        2677
+      ],
+      "sha256": "6d6638aeeb89b7ef983e546a1b67ce7817c731a173928f873a558fa24722d561",
+      "updated": "2026-09-21T12:38:53",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "upper_arm_L",
+      "size": [
+        311,
+        460
+      ],
+      "bbox": [
+        0,
+        0,
+        311,
+        460
+      ],
+      "sha256": "7bfec95b207e5a7f2b36105e803100bc8b62d598e2e47c53bb7a00a2454342fc",
+      "updated": "2026-09-21T12:38:52",
+      "changedSincePriorReview": false
+    },
+    {
+      "name": "upper_arm_R",
+      "size": [
+        319,
+        455
+      ],
+      "bbox": [
+        0,
+        0,
+        319,
+        455
+      ],
+      "sha256": "b793454a27eb48ff537c0dd7a40116066b712ff030d541658b95c134e53e38cb",
+      "updated": "2026-09-21T12:38:52",
+      "changedSincePriorReview": false
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "status": "pass",
+  "reader": "psd-tools",
+  "canvas": [
+    4000,
+    6000
+  ],
+  "layerCount": 41,
+  "RGB8bit": true,
+  "allLayerNamesPositionsVisibilityAndRGBAExact": true,
+  "all41SourcesUnchanged": true,
+  "fullCanvasForceCompositeTiles": [
+    {
+      "top": 0,
+      "maxReaderDisplayDifference": 1.3568572998046875,
+      "readerPixelsDifferenceOver2": 0,
+      "maxPythonDisplayDifference": 0.0
+    },
+    {
+      "top": 500,
+      "maxReaderDisplayDifference": 1.6823577880859375,
+      "readerPixelsDifferenceOver2": 0,
+      "maxPythonDisplayDifference": 0.0
+    },
+    {
+      "top": 1000,
+      "maxReaderDisplayDifference": 1.6823577880859375,
+      "readerPixelsDifferenceOver2": 0,
+      "maxPythonDisplayDifference": 0.0
+    },
+    {
+      "top": 1500,
+      "maxReaderDisplayDifference": 1.60784912109375,
+      "readerPixelsDifferenceOver2": 0,
+      "maxPythonDisplayDifference": 0.0
+    },
+    {
+      "top": 2000,
+      "maxReaderDisplayDifference": 1.364715576171875,
+      "readerPixelsDifferenceOver2": 0,
+      "maxPythonDisplayDifference": 0.0
+    },
+    {
+      "top": 2500,
+      "maxReaderDisplayDifference": 0.98431396484375,
+      "readerPixelsDifferenceOver2": 0,
+      "maxPythonDisplayDifference": 0.0
+    },
+    {
+      "top": 3000,
+      "maxReaderDisplayDifference": 0.98431396484375,
+      "readerPixelsDifferenceOver2": 0,
+      "maxPythonDisplayDifference": 0.0
+    },
+    {
+      "top": 3500,
+      "maxReaderDisplayDifference": 0.976470947265625,
+      "readerPixelsDifferenceOver2": 0,
+      "maxPythonDisplayDifference": 0.0
+    },
+    {
+      "top": 4000,
+      "maxReaderDisplayDifference": 0.9686279296875,
+      "readerPixelsDifferenceOver2": 0,
+      "maxPythonDisplayDifference": 0.0
+    },
+    {
+      "top": 4500,
+      "maxReaderDisplayDifference": 0.9568634033203125,
+      "readerPixelsDifferenceOver2": 0,
+      "maxPythonDisplayDifference": 0.0
+    },
+    {
+      "top": 5000,
+      "maxReaderDisplayDifference": 0.95294189453125,
+      "readerPixelsDifferenceOver2": 0,
+      "maxPythonDisplayDifference": 0.0
+    },
+    {
+      "top": 5500,
+      "maxReaderDisplayDifference": 0.9725494384765625,
+      "readerPixelsDifferenceOver2": 0,
+      "maxPythonDisplayDifference": 0.0
+    }
+  ],
+  "PSDsha256": "aa5d90854ac47f4d5d27b7ca1f3955e18a5cdcc0c430bf846b7f08b574c94d44",
+  "CubismImportTested": false,
+  "deformationTested": false
+}

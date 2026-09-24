@@ -1,0 +1,30 @@
+{
+  "status": "pass",
+  "reader": "psd-tools 1.12.1",
+  "layerRecordOrder": "bottom-to-top",
+  "firstLayer": "mouth_cavity",
+  "lastLayer": "mouth_rim_lower",
+  "layerCount": 5,
+  "clippingLayers": [],
+  "forceRenderedVsFlattenedRaw": {
+    "differentPixels": 13648,
+    "maxChannelDelta": 255,
+    "alphaDifferentPixels": 627
+  },
+  "forceRenderedVsFlattenedDisplay": {
+    "#F7F5F0": {
+      "visiblePixels": 33631,
+      "maxVisiblePerChannelDifference": 1.0470588235294258,
+      "meanVisiblePerChannelDifference": 0.046826000676702145,
+      "pixelsWithAnyChannelDifferenceOver2": 0,
+      "over2Bounds": null
+    },
+    "#808080": {
+      "visiblePixels": 33631,
+      "maxVisiblePerChannelDifference": 1.4901960784313815,
+      "meanVisiblePerChannelDifference": 0.04860470508166,
+      "pixelsWithAnyChannelDifferenceOver2": 0,
+      "over2Bounds": null
+    }
+  }
+}

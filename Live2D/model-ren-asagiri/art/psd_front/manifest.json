@@ -1,0 +1,600 @@
+{
+  "canvas": {
+    "width": 4000,
+    "height": 6000
+  },
+  "coordinateConvention": "Original front canvas; bottom-to-top layer order; R is character right / viewer left.",
+  "status": "PSD preparation, neutral expression only; Cubism import and deformation not yet performed",
+  "layers": [
+    {
+      "name": "shoe_R",
+      "path": "../processing_v001/front/parts/shoe_R.png",
+      "left": 1357,
+      "top": 5232,
+      "visible": true,
+      "size": [
+        476,
+        566
+      ],
+      "sha256": "6f91f35c28747d8f17edeb1c419cbf47778380beca0320623b55a863b0ea82a2",
+      "role": "body_context"
+    },
+    {
+      "name": "shoe_L",
+      "path": "../processing_v001/front/parts/shoe_L.png",
+      "left": 2145,
+      "top": 5232,
+      "visible": true,
+      "size": [
+        461,
+        569
+      ],
+      "sha256": "b895a66cb0d2725e94c71363a27b86def78f26e2fc7befaa18cc55eeb33fc8ab",
+      "role": "body_context"
+    },
+    {
+      "name": "trousers_R",
+      "path": "../processing_v001/front/parts/trousers_R.png",
+      "left": 1504,
+      "top": 2593,
+      "visible": true,
+      "size": [
+        501,
+        2687
+      ],
+      "sha256": "ba3472592fb0d373e0b795fbeb6eeb50b2f846697b5e21a3581e98ee919e0730",
+      "role": "body_context"
+    },
+    {
+      "name": "trousers_L",
+      "path": "../processing_v001/front/parts/trousers_L.png",
+      "left": 1994,
+      "top": 2593,
+      "visible": true,
+      "size": [
+        496,
+        2673
+      ],
+      "sha256": "c85e42207f1967c05962ca973b663077291bac1cc8643b83fa8d408d881ff0ac",
+      "role": "body_context"
+    },
+    {
+      "name": "hand_R",
+      "path": "../processing_v001/front/parts/hand_R.png",
+      "left": 721,
+      "top": 2738,
+      "visible": true,
+      "size": [
+        349,
+        471
+      ],
+      "sha256": "6f99fa8182ccd7519cfbd63c5dd8c3288e5dfffd0d414d9628a354205c32dd8e",
+      "role": "body_context"
+    },
+    {
+      "name": "hand_L",
+      "path": "../processing_v001/front/parts/hand_L.png",
+      "left": 2969,
+      "top": 2720,
+      "visible": true,
+      "size": [
+        347,
+        479
+      ],
+      "sha256": "85cc0ae6bdd7e6a0ed76c7a216041d60632d684b49b78162d5515510b9156bf3",
+      "role": "body_context"
+    },
+    {
+      "name": "forearm_R",
+      "path": "../processing_v001/front/parts/forearm_R.png",
+      "left": 953,
+      "top": 2144,
+      "visible": true,
+      "size": [
+        374,
+        650
+      ],
+      "sha256": "e266a37f17a146f2449cdd48c8a2ba188136916c68ed7de1b1017b80270cecec",
+      "role": "body_context"
+    },
+    {
+      "name": "forearm_L",
+      "path": "../processing_v001/front/parts/forearm_L.png",
+      "left": 2691,
+      "top": 2144,
+      "visible": true,
+      "size": [
+        388,
+        623
+      ],
+      "sha256": "3d6c383eb20781ed5de51231740d6b495c65520a36d061600ecd3e66923174e2",
+      "role": "body_context"
+    },
+    {
+      "name": "upper_arm_R",
+      "path": "../processing_v001/front/parts/upper_arm_R.png",
+      "left": 1189,
+      "top": 1850,
+      "visible": true,
+      "size": [
+        313,
+        456
+      ],
+      "sha256": "5c17080f87c446e781d3ddc127afae19705e97289f1b1134dd4f179bde534d2b",
+      "role": "body_context"
+    },
+    {
+      "name": "upper_arm_L",
+      "path": "../processing_v001/front/parts/upper_arm_L.png",
+      "left": 2496,
+      "top": 1847,
+      "visible": true,
+      "size": [
+        341,
+        438
+      ],
+      "sha256": "62cd4d4dfc429ba127d81ce902d40588e4f72f7b3fe2e82f6b7151643e39b920",
+      "role": "body_context"
+    },
+    {
+      "name": "shirt_inside",
+      "path": "../processing_v001/front/parts/shirt_inside.png",
+      "left": 1717,
+      "top": 1128,
+      "visible": true,
+      "size": [
+        567,
+        454
+      ],
+      "sha256": "3740c1dde2c402583a9df205e497575672a2ebbd86ce92e6af5d019e6816ea63",
+      "role": "neck_collar_integration"
+    },
+    {
+      "name": "neck-clavicle",
+      "path": "../processing_v001/front/parts/neck-clavicle.png",
+      "left": 1822,
+      "top": 1044,
+      "visible": true,
+      "size": [
+        368,
+        492
+      ],
+      "sha256": "1e77961e89c059d5b3d42f45525ebba61c8e078f7181f9f2139c40b51c0c5192",
+      "role": "neck_collar_integration"
+    },
+    {
+      "name": "shirt_torso",
+      "path": "../processing_v001/front/parts/shirt_torso.png",
+      "left": 1422,
+      "top": 1231,
+      "visible": true,
+      "size": [
+        1157,
+        1249
+      ],
+      "sha256": "b04c7139d749e5dd2500ca12ed97e78d2c9901cfc56d5374dde3d4268a2971d4",
+      "role": "neck_collar_integration"
+    },
+    {
+      "name": "sleeve_R",
+      "path": "../processing_v001/front/parts/sleeve_R.png",
+      "left": 1230,
+      "top": 1385,
+      "visible": true,
+      "size": [
+        351,
+        633
+      ],
+      "sha256": "aa8c091a1a3af21775549658127d206d18893de22302eb040146b0b668e34b12",
+      "role": "body_context"
+    },
+    {
+      "name": "sleeve_L",
+      "path": "../processing_v001/front/parts/sleeve_L.png",
+      "left": 2424,
+      "top": 1369,
+      "visible": true,
+      "size": [
+        365,
+        646
+      ],
+      "sha256": "0d4032af34c93f20197616d05b6ccd1ac37c27d2b5c81d908d445325c8a32514",
+      "role": "body_context"
+    },
+    {
+      "name": "belt",
+      "path": "../processing_v001/front/parts/belt.png",
+      "left": 1579,
+      "top": 2444,
+      "visible": true,
+      "size": [
+        847,
+        149
+      ],
+      "sha256": "8d1c1aec294d5809174342259886bbf17dca3bf91a21c12168e7566d621f11b6",
+      "role": "body_context"
+    },
+    {
+      "name": "collar_R",
+      "path": "../processing_v001/front/parts/collar_R.png",
+      "left": 1725,
+      "top": 1150,
+      "visible": true,
+      "size": [
+        278,
+        411
+      ],
+      "sha256": "e40448560d40f6aabd0a3369869c954c3355e2b191d980afd847d5cd693048d8",
+      "role": "neck_collar_integration"
+    },
+    {
+      "name": "collar_L",
+      "path": "../processing_v001/front/parts/collar_L.png",
+      "left": 1964,
+      "top": 1147,
+      "visible": true,
+      "size": [
+        307,
+        466
+      ],
+      "sha256": "61e15e2b564db93c3d20acf2d1ed4cb3e0bc45c7142e95c10116be93b8424e82",
+      "role": "neck_collar_integration"
+    },
+    {
+      "name": "hair_back",
+      "path": "../head/parts/hair_back.png",
+      "left": 1753,
+      "top": 948,
+      "visible": true,
+      "size": [
+        506,
+        202
+      ],
+      "sha256": "c3a36f296372a2fa0a2d94beca33395a6f0151df3e2cb0ce543ed470eda7921f",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "ear_R",
+      "path": "../head/parts/ear_R.png",
+      "left": 1668,
+      "top": 718,
+      "visible": true,
+      "size": [
+        137,
+        265
+      ],
+      "sha256": "ad1332f78fa8f76aa4b88026453c9928674eb2e30881f896d574c49e8ade77cf",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "ear_L",
+      "path": "../head/parts/ear_L.png",
+      "left": 2206,
+      "top": 711,
+      "visible": true,
+      "size": [
+        128,
+        272
+      ],
+      "sha256": "2cb6db3af49979627445d582b6af3dc2a6a1a1c17bb0b98270f1091c5222f89b",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "face_underfill",
+      "path": "../head/parts/face_underfill.png",
+      "left": 1696,
+      "top": 296,
+      "visible": true,
+      "size": [
+        608,
+        864
+      ],
+      "sha256": "27ddeb8dec0d6101e9ce05314406e7d8c6bafdaaa2bf0f840189b5e0da54e938",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "mouth_closed",
+      "path": "../head/parts/mouth_closed.png",
+      "left": 1955,
+      "top": 1015,
+      "visible": true,
+      "size": [
+        96,
+        14
+      ],
+      "sha256": "5f0b8bc2594a58b935f2b4929e1c20e72a5ad35e649bc906d6d827ee73f10ca6",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "FILL_eye_white_R",
+      "path": "../head/parts/FILL_eye_white_R.png",
+      "left": 1764,
+      "top": 764,
+      "visible": true,
+      "size": [
+        153,
+        101
+      ],
+      "sha256": "0b6e3077fb2c2e0d93fa40a988bcced3e66b6949cd9849aaf4a032210ac87a7c",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "ALT_iris_R_brown",
+      "path": "../head/parts/ALT_iris_R_brown.png",
+      "left": 1818,
+      "top": 767,
+      "visible": true,
+      "size": [
+        78,
+        95
+      ],
+      "sha256": "1912823fb0bc5d6b2994ec975e1cae61fb1d4ad53905d8d0d9adcfae03b96601",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "ALT_eyelash_upper_R",
+      "path": "../head/parts/ALT_eyelash_upper_R.png",
+      "left": 1738,
+      "top": 753,
+      "visible": true,
+      "size": [
+        183,
+        79
+      ],
+      "sha256": "b52302092619ee9660571cc9ea59b5324df5e6de4f115e9e5172f6f19b50b1e5",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "lower_eyelid_right",
+      "path": "../head/parts/lower_eyelid_right.png",
+      "left": 1777,
+      "top": 832,
+      "visible": true,
+      "size": [
+        132,
+        41
+      ],
+      "sha256": "ffb3942db69111672964c0426051198a3cf6865f7d2fd31bf9b4b3077c064e92",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "upper_crease_R",
+      "path": "../head/parts/upper_crease_R.png",
+      "left": 1790,
+      "top": 745,
+      "visible": true,
+      "size": [
+        132,
+        23
+      ],
+      "sha256": "b21b6161eadda172aae5911b7ef47d7a8b40b590907458517b2d8e657cee9390",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "brow_R",
+      "path": "../head/parts/brow_R.png",
+      "left": 1756,
+      "top": 693,
+      "visible": true,
+      "size": [
+        181,
+        29
+      ],
+      "sha256": "c84aa7bb7869b5bf633d1212296e52795d078f1b48eb856e85f6daf108c9cc74",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "FILL_eye_white_L",
+      "path": "../head/parts/FILL_eye_white_L.png",
+      "left": 2070,
+      "top": 763,
+      "visible": true,
+      "size": [
+        159,
+        101
+      ],
+      "sha256": "27bde4022ec8e975fb8651545af27c34822fe6121815522ae7d0b6972b7b8a35",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "ALT_iris_L_blue",
+      "path": "../head/parts/ALT_iris_L_blue.png",
+      "left": 2098,
+      "top": 767,
+      "visible": true,
+      "size": [
+        79,
+        95
+      ],
+      "sha256": "f232f20d44def5e10c06f6957c50e74be99f0aae909b04c4b5b97ec180f9bc05",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "ALT_eyelash_upper_L",
+      "path": "../head/parts/ALT_eyelash_upper_L.png",
+      "left": 2066,
+      "top": 754,
+      "visible": true,
+      "size": [
+        193,
+        81
+      ],
+      "sha256": "b4bd49d59cfe282575c43642e55d48cc7aaa0989f02b6702dc233511ced2cfce",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "lower_eyelid_left",
+      "path": "../head/parts/lower_eyelid_left.png",
+      "left": 2086,
+      "top": 830,
+      "visible": true,
+      "size": [
+        132,
+        41
+      ],
+      "sha256": "11046d47e00e1b5930ab23d312dfda4b047ae61e3d548a59f5e4a0587ad24fe5",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "upper_crease_L",
+      "path": "../head/parts/upper_crease_L.png",
+      "left": 2068,
+      "top": 748,
+      "visible": true,
+      "size": [
+        135,
+        30
+      ],
+      "sha256": "bd9d9b116d0a6346dca7485f5dbae57178a469274fc75d5009a0f71d0fbf0155",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "brow_L",
+      "path": "../head/parts/brow_L.png",
+      "left": 2064,
+      "top": 687,
+      "visible": true,
+      "size": [
+        194,
+        31
+      ],
+      "sha256": "1d259eb00870a694a6ddba562e9821babc5bf5dcec19c68b0a1f59ecf4d34dfb",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "hair_side_R",
+      "path": "../head/parts/hair_side_R.png",
+      "left": 1514,
+      "top": 501,
+      "visible": true,
+      "size": [
+        496,
+        481
+      ],
+      "sha256": "b79cd49430cb7cf4ab8fe9246cf3e1cf95af726a32bad0ab7916f7326e064493",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "hair_side_L",
+      "path": "../head/parts/hair_side_L.png",
+      "left": 1984,
+      "top": 498,
+      "visible": true,
+      "size": [
+        517,
+        468
+      ],
+      "sha256": "2c9c9eb42c89f0fea44ba7b5ab01900ebfa1fccd0886630b9d6903cdb53988d3",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "hair_front_R",
+      "path": "../head/parts/hair_front_R.png",
+      "left": 1549,
+      "top": 205,
+      "visible": true,
+      "size": [
+        467,
+        353
+      ],
+      "sha256": "459f9b5cf6a813b90f74767c02f77b1e3bfce3586aaacc1d4df9bd3c9aae2cab",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "hair_front_L",
+      "path": "../head/parts/hair_front_L.png",
+      "left": 1987,
+      "top": 199,
+      "visible": true,
+      "size": [
+        445,
+        349
+      ],
+      "sha256": "9021d9fc6e1bc695209ce0afbea32ebae8901641763a89c27ab6ce9ca3986f94",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "hair_front_C",
+      "path": "../head/parts/hair_front_C.png",
+      "left": 1717,
+      "top": 211,
+      "visible": true,
+      "size": [
+        567,
+        680
+      ],
+      "sha256": "8d0f2ea1ec564881d2b2416a5b80e17e490cee4a209b9d051087bfdb5f74940f",
+      "role": "current_head",
+      "flipHorizontal": false
+    },
+    {
+      "name": "hair_ahoge",
+      "path": "../head/parts/hair_ahoge.png",
+      "left": 1621,
+      "top": 118,
+      "visible": true,
+      "size": [
+        427,
+        235
+      ],
+      "sha256": "cf303c03f5fb86555d0d3f87cad1f5bc117dbc13416b1d69fbc784633399a582",
+      "role": "current_head",
+      "flipHorizontal": false
+    }
+  ],
+  "changedHeadInputsSincePreviousRegistration": [
+    {
+      "file": "parts/ALT_eyelash_upper_R.png",
+      "previousSha256": "1dff844b9527fd4a1b2fb4587c10a6ce1047145f7fc63cc2a4746e3ccf1e6440",
+      "sha256": "b52302092619ee9660571cc9ea59b5324df5e6de4f115e9e5172f6f19b50b1e5"
+    },
+    {
+      "file": "parts/FILL_eye_white_L.png",
+      "previousSha256": "01c227543b1022dc4a8d61aab1483c7a94299a1e204d477c8e241594f4987726",
+      "sha256": "27bde4022ec8e975fb8651545af27c34822fe6121815522ae7d0b6972b7b8a35"
+    },
+    {
+      "file": "parts/ALT_eyelash_upper_L.png",
+      "previousSha256": "6a1e4070e6d2e06df01052b822f25ecd878d09269725291faac26fa365032e9e",
+      "sha256": "b4bd49d59cfe282575c43642e55d48cc7aaa0989f02b6702dc233511ced2cfce"
+    },
+    {
+      "file": "parts/hair_side_R.png",
+      "previousSha256": "87713f22f7d5f73be82877072f88830a3752aea1279db20bccb3a19d7b87bcd9",
+      "sha256": "b79cd49430cb7cf4ab8fe9246cf3e1cf95af726a32bad0ab7916f7326e064493"
+    },
+    {
+      "file": "parts/hair_side_L.png",
+      "previousSha256": "b290c6ca481fc43e11724b3760d45a2c66e18707562cb626852ecc9e20463179",
+      "sha256": "2c9c9eb42c89f0fea44ba7b5ab01900ebfa1fccd0886630b9d6903cdb53988d3"
+    }
+  ],
+  "output": {
+    "psd": "Ren_front.psd",
+    "flattenedPng": "Ren_front.png",
+    "previewPng": "Ren_front_preview.png",
+    "verificationJson": "psd_verification.json",
+    "previewBackground": "#50696E"
+  }
+}

@@ -1,0 +1,4126 @@
+[
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001",
+    "files": [
+      {
+        "relative": "acceptance.json",
+        "sha256": "836ca50c7cbfc2cb5266ae787257975b539c61493faa478c017321c0f24279db",
+        "bytes": 554
+      },
+      {
+        "relative": "blink_preview.gif",
+        "sha256": "9b11af7f5b47878bcb0a56bbf12f2901426263b0828a972ca88096aa14a42707",
+        "bytes": 639925
+      },
+      {
+        "relative": "blink_states.jpg",
+        "sha256": "52f39e37b0ed3c5f84b1ad4b5dd8829ac7f49848446c5498c6b583e56af41208",
+        "bytes": 132312
+      },
+      {
+        "relative": "build_blink.py",
+        "sha256": "1afc62972c8cca6b04a6ba994d8bf599be8abb1f486cdc4f6c2447fb7afac03a",
+        "bytes": 6985
+      },
+      {
+        "relative": "input_contact_sheet.jpg",
+        "sha256": "6dbd8de079b34dec60f8e814f30ed4feadaaeca27705749fd07f23e894830dbf",
+        "bytes": 42772
+      },
+      {
+        "relative": "README.md",
+        "sha256": "00531379d01815bdb99765125958b8c94a8227e9a4c9c125d34165ca2aed9345",
+        "bytes": 4363
+      },
+      {
+        "relative": "validation.json",
+        "sha256": "88d5acda27fa5ebdcfc179b6793ad300dab84b0257f3c7c38442d7fa19ba9107",
+        "bytes": 1781
+      },
+      {
+        "relative": "closed\\assembled.png",
+        "sha256": "300017b979e937fa1b2be3a5e27a27af188c8f37411e4293a4003a66518fb19a",
+        "bytes": 139384
+      },
+      {
+        "relative": "closed\\independent_verification.json",
+        "sha256": "da307214cf10b3a2cfacda570e8ead5361a700f347a2732550abc43127ac8777",
+        "bytes": 912
+      },
+      {
+        "relative": "closed\\manifest.json",
+        "sha256": "3b07b5117b9add33937974620b77efc14e2588ce68307ba51e9e3c5fa6fe48f4",
+        "bytes": 3776
+      },
+      {
+        "relative": "closed\\preview.png",
+        "sha256": "9140dc03efd2701d416ed3be80a1fc0b3790adddaf33fffec07c3321a8266864",
+        "bytes": 137068
+      },
+      {
+        "relative": "closed\\psd_verification.json",
+        "sha256": "9a44e1ab78995e22537cc233e54926026b388a9d1e5fc76d2982c787d1e51a52",
+        "bytes": 12875
+      },
+      {
+        "relative": "closed\\python_composite.png",
+        "sha256": "ca3c5d4cafa880e0abd78c7de9a5ccf5ac47a115a0937f82128ff2fd1005b482",
+        "bytes": 135468
+      },
+      {
+        "relative": "closed\\Ren_eyes_closed_v001.psd",
+        "sha256": "1a40906ca18214220d12f62cf5249bc4345e8ff401f641506d93fdde0d227ff4",
+        "bytes": 685947
+      },
+      {
+        "relative": "half\\assembled.png",
+        "sha256": "1b1abc32c683a72a3f668c006403b4a8b8f664e6b74f7c87c061d10adc919ecf",
+        "bytes": 162951
+      },
+      {
+        "relative": "half\\independent_verification.json",
+        "sha256": "1afe03befcea16018468d2ee164bcf4ae4f181c91dc2017d778ad2952bc6d734",
+        "bytes": 927
+      },
+      {
+        "relative": "half\\manifest.json",
+        "sha256": "1d2571ecf6ac1e4e4bba9aed8b2566b46da4341020a38c55269f0efc71c91d60",
+        "bytes": 3790
+      },
+      {
+        "relative": "half\\preview.png",
+        "sha256": "bcb408a59fcaf15a64e5eeba9af78bd51c1f0cf1f26dc07c574a042f382e8ac4",
+        "bytes": 160836
+      },
+      {
+        "relative": "half\\psd_verification.json",
+        "sha256": "afd059f62cce27fa701eacee63f0bf4abfe43dc71cfd1fbea1fd7bbbe6da6116",
+        "bytes": 13269
+      },
+      {
+        "relative": "half\\python_composite.png",
+        "sha256": "812a33528edb52a86d9af0a0f5c118e8508345e727a2b622964f51127cb4f9dc",
+        "bytes": 160506
+      },
+      {
+        "relative": "half\\Ren_eyes_half_v001.psd",
+        "sha256": "5adf87d44f31e2d5bd0fee5b4348ce80fefdcf593350c7a1ce684e0dd4882a40",
+        "bytes": 756808
+      },
+      {
+        "relative": "open\\assembled.png",
+        "sha256": "510898d1739d7e169e9e350adbef8b0cb31d6901ce53b38f3b495fe8ea500409",
+        "bytes": 185814
+      },
+      {
+        "relative": "open\\independent_verification.json",
+        "sha256": "c55b0b8d51f6ea039c3052385fe26695c9f368d91fc99410b9ebe2ab19a73eb7",
+        "bytes": 929
+      },
+      {
+        "relative": "open\\manifest.json",
+        "sha256": "4ac2a967da859767a40f9cdb1278a28294c603d3371afcf3ae3e66eba0527a8e",
+        "bytes": 3790
+      },
+      {
+        "relative": "open\\preview.png",
+        "sha256": "1e2b9225d9e6a44eac808ef8b603f8a2c0416b37090d9e56ce3e460d22ae2ff7",
+        "bytes": 183390
+      },
+      {
+        "relative": "open\\psd_verification.json",
+        "sha256": "9dd17d6df2446a21e6320cb99512f18c5114a28807c7e46b38900d7f2d08e14c",
+        "bytes": 13271
+      },
+      {
+        "relative": "open\\python_composite.png",
+        "sha256": "88fa68bcb38a23d53b62ca78cc17dc2ddf382f9ebff14e0671667ed8064ce588",
+        "bytes": 183394
+      },
+      {
+        "relative": "open\\Ren_eyes_open_v001.psd",
+        "sha256": "4b3848e2fb13702bde387d747c8221860d7e4a7085866aee92749d25da6773f2",
+        "bytes": 814760
+      },
+      {
+        "relative": "source_snapshot\\ALT_eyelash_upper_L.png",
+        "sha256": "b43c14807fc8450c0d7a75316222ba5f2b45cd47d5939c2ac411803a5f029c49",
+        "bytes": 12848
+      },
+      {
+        "relative": "source_snapshot\\ALT_eyelash_upper_R.png",
+        "sha256": "951373a298d1ef24880862ccc660c29acb256639dbbf361b22712eb58365098e",
+        "bytes": 13024
+      },
+      {
+        "relative": "source_snapshot\\ALT_iris_L_blue.png",
+        "sha256": "50907795ad7e5f45c5cd4e0bb190b79a28472577c3b54dfadcee8a15bd39bcbf",
+        "bytes": 24809
+      },
+      {
+        "relative": "source_snapshot\\ALT_iris_R_brown.png",
+        "sha256": "6613780f59fbe80a304284071e730678b3742617df31125e51dc51ed02ecc8d8",
+        "bytes": 24823
+      },
+      {
+        "relative": "source_snapshot\\eyelash_upper_L_original.png",
+        "sha256": "16627fefbee13d0acdc74f51dd30b8d39c579a24188207ce5bf586e72ee19b3f",
+        "bytes": 10316
+      },
+      {
+        "relative": "source_snapshot\\eyelash_upper_R_original.png",
+        "sha256": "8f835115457cd65717e262fba8e6ea10d3462e36e7bef75a2f8a1b91fecba229",
+        "bytes": 11605
+      },
+      {
+        "relative": "source_snapshot\\face_underfill.png",
+        "sha256": "9bbf85ab8991512673bd9f05f9310764dbc46ae781435dc23eb75519eb2ac1a3",
+        "bytes": 143018
+      },
+      {
+        "relative": "source_snapshot\\FILL_eye_white_L.png",
+        "sha256": "db79003f6086861474f3fc838ca93b459a4ae894e3839572dfa0fbc376a0ba9f",
+        "bytes": 18863
+      },
+      {
+        "relative": "source_snapshot\\FILL_eye_white_R.png",
+        "sha256": "f0f2b718464a894e8b63d3632211d3a69c191d697b2fda976cb12c755dc158c2",
+        "bytes": 18553
+      },
+      {
+        "relative": "source_snapshot\\iris_L_original.png",
+        "sha256": "4431a401f0f7f09afe6ba071a3dd91bffc5c3ecf06b947a905fb38d94da08b75",
+        "bytes": 13945
+      },
+      {
+        "relative": "source_snapshot\\iris_R_original.png",
+        "sha256": "cab3cf00d937f86194fd6963054eb14f8931b9ad9f7c860ecd815e508ae6c87a",
+        "bytes": 14111
+      },
+      {
+        "relative": "source_snapshot\\Upper_eyelid_left.png",
+        "sha256": "2186849b3e12b7c0a9851bc1e9c68bb1ec56203a23ade3feec73a9e492ee4f5b",
+        "bytes": 20896
+      },
+      {
+        "relative": "source_snapshot\\Upper_eyelid_right.png",
+        "sha256": "17fa79b30423834fa05072cee9b6897e0250bbcac4593a8544a4d38c49b82b97",
+        "bytes": 21482
+      },
+      {
+        "relative": "closed\\parts\\eye_white_L.png",
+        "sha256": "c2153f77e11087fcb078ae38527fa83bef29791e3700e30cc87fec4405a66d0f",
+        "bytes": 70
+      },
+      {
+        "relative": "closed\\parts\\eye_white_R.png",
+        "sha256": "c2153f77e11087fcb078ae38527fa83bef29791e3700e30cc87fec4405a66d0f",
+        "bytes": 70
+      },
+      {
+        "relative": "closed\\parts\\face_underfill.png",
+        "sha256": "007b7d3fe9da06d078b572eddc32442e65ad15dcda12fda429f1fac69b78c5ae",
+        "bytes": 112626
+      },
+      {
+        "relative": "closed\\parts\\iris_L.png",
+        "sha256": "c2153f77e11087fcb078ae38527fa83bef29791e3700e30cc87fec4405a66d0f",
+        "bytes": 70
+      },
+      {
+        "relative": "closed\\parts\\iris_R.png",
+        "sha256": "c2153f77e11087fcb078ae38527fa83bef29791e3700e30cc87fec4405a66d0f",
+        "bytes": 70
+      },
+      {
+        "relative": "closed\\parts\\REF_ALT_eyelash_upper_L.png",
+        "sha256": "b43c14807fc8450c0d7a75316222ba5f2b45cd47d5939c2ac411803a5f029c49",
+        "bytes": 12848
+      },
+      {
+        "relative": "closed\\parts\\REF_ALT_eyelash_upper_R.png",
+        "sha256": "951373a298d1ef24880862ccc660c29acb256639dbbf361b22712eb58365098e",
+        "bytes": 13024
+      },
+      {
+        "relative": "closed\\parts\\REF_ALT_iris_L_blue.png",
+        "sha256": "50907795ad7e5f45c5cd4e0bb190b79a28472577c3b54dfadcee8a15bd39bcbf",
+        "bytes": 24809
+      },
+      {
+        "relative": "closed\\parts\\REF_ALT_iris_R_brown.png",
+        "sha256": "6613780f59fbe80a304284071e730678b3742617df31125e51dc51ed02ecc8d8",
+        "bytes": 24823
+      },
+      {
+        "relative": "closed\\parts\\REF_eyelash_upper_L_original.png",
+        "sha256": "16627fefbee13d0acdc74f51dd30b8d39c579a24188207ce5bf586e72ee19b3f",
+        "bytes": 10316
+      },
+      {
+        "relative": "closed\\parts\\REF_eyelash_upper_R_original.png",
+        "sha256": "8f835115457cd65717e262fba8e6ea10d3462e36e7bef75a2f8a1b91fecba229",
+        "bytes": 11605
+      },
+      {
+        "relative": "closed\\parts\\REF_FILL_eye_white_L.png",
+        "sha256": "67eb063379dadeaa868519db33998b5394b0c295f8bdbd3dfb5e50e306f146be",
+        "bytes": 4420
+      },
+      {
+        "relative": "closed\\parts\\REF_FILL_eye_white_R.png",
+        "sha256": "d8443db5527946561919ab85b1b3c1fa4d9c1de347f7a5323e620addc3ede87d",
+        "bytes": 4073
+      },
+      {
+        "relative": "closed\\parts\\REF_iris_L_original.png",
+        "sha256": "4431a401f0f7f09afe6ba071a3dd91bffc5c3ecf06b947a905fb38d94da08b75",
+        "bytes": 13945
+      },
+      {
+        "relative": "closed\\parts\\REF_iris_R_original.png",
+        "sha256": "cab3cf00d937f86194fd6963054eb14f8931b9ad9f7c860ecd815e508ae6c87a",
+        "bytes": 14111
+      },
+      {
+        "relative": "closed\\parts\\REF_Upper_eyelid_left.png",
+        "sha256": "1ae6cdc8df1a7207e92ee9b7b294a63c5e922f625e385df1cbea2ffe02b2e2dc",
+        "bytes": 5175
+      },
+      {
+        "relative": "closed\\parts\\REF_Upper_eyelid_right.png",
+        "sha256": "b8fa034bb15987c8e6041d5d3146b49096c5b428971d65077356def3579d85d5",
+        "bytes": 5805
+      },
+      {
+        "relative": "closed\\parts\\upper_crease_L.png",
+        "sha256": "60c0038fba6cdda555a7e9108fd00451de628e9a1c28cf9e0d12ca45e11d4a49",
+        "bytes": 3481
+      },
+      {
+        "relative": "closed\\parts\\upper_crease_R.png",
+        "sha256": "49c40b46c2649e34ca61a4903ee0bc9f8ee576b0c1f316906ef94e88f7033790",
+        "bytes": 3863
+      },
+      {
+        "relative": "closed\\parts\\upper_lash_L.png",
+        "sha256": "2cf9a89c6126e1d5d8666daf39a98a61977e55a4b39ed78ccb99b21747210b38",
+        "bytes": 6247
+      },
+      {
+        "relative": "closed\\parts\\upper_lash_R.png",
+        "sha256": "a99413e539c7199b2507dbe326275245f17804e0d8a72b4796b7ad1dd62625d2",
+        "bytes": 6390
+      },
+      {
+        "relative": "half\\parts\\eye_white_L.png",
+        "sha256": "d217660d876d8e0347e60d6c5008000bd1ed2f03368d3bfce9ec0d6d905a646d",
+        "bytes": 1435
+      },
+      {
+        "relative": "half\\parts\\eye_white_R.png",
+        "sha256": "72369068d00287f9b10d851ddeecf7147c9442cf0c600a50846ea6c3a3605bbc",
+        "bytes": 1353
+      },
+      {
+        "relative": "half\\parts\\face_underfill.png",
+        "sha256": "007b7d3fe9da06d078b572eddc32442e65ad15dcda12fda429f1fac69b78c5ae",
+        "bytes": 112626
+      },
+      {
+        "relative": "half\\parts\\iris_L.png",
+        "sha256": "d1de2959d8370180f87d5e934e0b02c4997f46d279db3f374c0d8caf5985c4cb",
+        "bytes": 13107
+      },
+      {
+        "relative": "half\\parts\\iris_R.png",
+        "sha256": "4cd6a6651551092c5b98b349c36a595ab997bfd51e087da5f4d8edb6e75168a1",
+        "bytes": 12847
+      },
+      {
+        "relative": "half\\parts\\REF_ALT_eyelash_upper_L.png",
+        "sha256": "b43c14807fc8450c0d7a75316222ba5f2b45cd47d5939c2ac411803a5f029c49",
+        "bytes": 12848
+      },
+      {
+        "relative": "half\\parts\\REF_ALT_eyelash_upper_R.png",
+        "sha256": "951373a298d1ef24880862ccc660c29acb256639dbbf361b22712eb58365098e",
+        "bytes": 13024
+      },
+      {
+        "relative": "half\\parts\\REF_ALT_iris_L_blue.png",
+        "sha256": "50907795ad7e5f45c5cd4e0bb190b79a28472577c3b54dfadcee8a15bd39bcbf",
+        "bytes": 24809
+      },
+      {
+        "relative": "half\\parts\\REF_ALT_iris_R_brown.png",
+        "sha256": "6613780f59fbe80a304284071e730678b3742617df31125e51dc51ed02ecc8d8",
+        "bytes": 24823
+      },
+      {
+        "relative": "half\\parts\\REF_eyelash_upper_L_original.png",
+        "sha256": "16627fefbee13d0acdc74f51dd30b8d39c579a24188207ce5bf586e72ee19b3f",
+        "bytes": 10316
+      },
+      {
+        "relative": "half\\parts\\REF_eyelash_upper_R_original.png",
+        "sha256": "8f835115457cd65717e262fba8e6ea10d3462e36e7bef75a2f8a1b91fecba229",
+        "bytes": 11605
+      },
+      {
+        "relative": "half\\parts\\REF_FILL_eye_white_L.png",
+        "sha256": "67eb063379dadeaa868519db33998b5394b0c295f8bdbd3dfb5e50e306f146be",
+        "bytes": 4420
+      },
+      {
+        "relative": "half\\parts\\REF_FILL_eye_white_R.png",
+        "sha256": "d8443db5527946561919ab85b1b3c1fa4d9c1de347f7a5323e620addc3ede87d",
+        "bytes": 4073
+      },
+      {
+        "relative": "half\\parts\\REF_iris_L_original.png",
+        "sha256": "4431a401f0f7f09afe6ba071a3dd91bffc5c3ecf06b947a905fb38d94da08b75",
+        "bytes": 13945
+      },
+      {
+        "relative": "half\\parts\\REF_iris_R_original.png",
+        "sha256": "cab3cf00d937f86194fd6963054eb14f8931b9ad9f7c860ecd815e508ae6c87a",
+        "bytes": 14111
+      },
+      {
+        "relative": "half\\parts\\REF_Upper_eyelid_left.png",
+        "sha256": "1ae6cdc8df1a7207e92ee9b7b294a63c5e922f625e385df1cbea2ffe02b2e2dc",
+        "bytes": 5175
+      },
+      {
+        "relative": "half\\parts\\REF_Upper_eyelid_right.png",
+        "sha256": "b8fa034bb15987c8e6041d5d3146b49096c5b428971d65077356def3579d85d5",
+        "bytes": 5805
+      },
+      {
+        "relative": "half\\parts\\upper_crease_L.png",
+        "sha256": "0997b18872379d0926eabab7d97e774fedad407f1aa9af2edd519821d0305f30",
+        "bytes": 2876
+      },
+      {
+        "relative": "half\\parts\\upper_crease_R.png",
+        "sha256": "4e1d9026f3e26d60268e9a8c4074286fbaf515065e972fb77bc662e8f968c15b",
+        "bytes": 3379
+      },
+      {
+        "relative": "half\\parts\\upper_lash_L.png",
+        "sha256": "e62597636aa047c9b028a743580141da15918d0dd77d795f6880a5156231d798",
+        "bytes": 7284
+      },
+      {
+        "relative": "half\\parts\\upper_lash_R.png",
+        "sha256": "b230b4481cded9dc4799763732b31fe9088d3c67f91aca10f4806941e7d62159",
+        "bytes": 7626
+      },
+      {
+        "relative": "open\\parts\\eye_white_L.png",
+        "sha256": "ed487a4aa50109234815d8bce00fba998aed45d013c42219fa4e840d9a1da1b0",
+        "bytes": 2077
+      },
+      {
+        "relative": "open\\parts\\eye_white_R.png",
+        "sha256": "7fb0fc3270dc31bc36010e74a63b34c1bf320fe12d85289838d8238b0d39b869",
+        "bytes": 1879
+      },
+      {
+        "relative": "open\\parts\\face_underfill.png",
+        "sha256": "007b7d3fe9da06d078b572eddc32442e65ad15dcda12fda429f1fac69b78c5ae",
+        "bytes": 112626
+      },
+      {
+        "relative": "open\\parts\\iris_L.png",
+        "sha256": "ed667bcf4beed4418e0143a720ba90da945b4461e79fd48ba9d0aeab30a7c8ac",
+        "bytes": 22046
+      },
+      {
+        "relative": "open\\parts\\iris_R.png",
+        "sha256": "38b5a02fa1f96dd386cc830d25663c46590de75f4c92a9e3e5f11204ca2a6fca",
+        "bytes": 22052
+      },
+      {
+        "relative": "open\\parts\\REF_ALT_eyelash_upper_L.png",
+        "sha256": "b43c14807fc8450c0d7a75316222ba5f2b45cd47d5939c2ac411803a5f029c49",
+        "bytes": 12848
+      },
+      {
+        "relative": "open\\parts\\REF_ALT_eyelash_upper_R.png",
+        "sha256": "951373a298d1ef24880862ccc660c29acb256639dbbf361b22712eb58365098e",
+        "bytes": 13024
+      },
+      {
+        "relative": "open\\parts\\REF_ALT_iris_L_blue.png",
+        "sha256": "50907795ad7e5f45c5cd4e0bb190b79a28472577c3b54dfadcee8a15bd39bcbf",
+        "bytes": 24809
+      },
+      {
+        "relative": "open\\parts\\REF_ALT_iris_R_brown.png",
+        "sha256": "6613780f59fbe80a304284071e730678b3742617df31125e51dc51ed02ecc8d8",
+        "bytes": 24823
+      },
+      {
+        "relative": "open\\parts\\REF_eyelash_upper_L_original.png",
+        "sha256": "16627fefbee13d0acdc74f51dd30b8d39c579a24188207ce5bf586e72ee19b3f",
+        "bytes": 10316
+      },
+      {
+        "relative": "open\\parts\\REF_eyelash_upper_R_original.png",
+        "sha256": "8f835115457cd65717e262fba8e6ea10d3462e36e7bef75a2f8a1b91fecba229",
+        "bytes": 11605
+      },
+      {
+        "relative": "open\\parts\\REF_FILL_eye_white_L.png",
+        "sha256": "67eb063379dadeaa868519db33998b5394b0c295f8bdbd3dfb5e50e306f146be",
+        "bytes": 4420
+      },
+      {
+        "relative": "open\\parts\\REF_FILL_eye_white_R.png",
+        "sha256": "d8443db5527946561919ab85b1b3c1fa4d9c1de347f7a5323e620addc3ede87d",
+        "bytes": 4073
+      },
+      {
+        "relative": "open\\parts\\REF_iris_L_original.png",
+        "sha256": "4431a401f0f7f09afe6ba071a3dd91bffc5c3ecf06b947a905fb38d94da08b75",
+        "bytes": 13945
+      },
+      {
+        "relative": "open\\parts\\REF_iris_R_original.png",
+        "sha256": "cab3cf00d937f86194fd6963054eb14f8931b9ad9f7c860ecd815e508ae6c87a",
+        "bytes": 14111
+      },
+      {
+        "relative": "open\\parts\\REF_Upper_eyelid_left.png",
+        "sha256": "1ae6cdc8df1a7207e92ee9b7b294a63c5e922f625e385df1cbea2ffe02b2e2dc",
+        "bytes": 5175
+      },
+      {
+        "relative": "open\\parts\\REF_Upper_eyelid_right.png",
+        "sha256": "b8fa034bb15987c8e6041d5d3146b49096c5b428971d65077356def3579d85d5",
+        "bytes": 5805
+      },
+      {
+        "relative": "open\\parts\\upper_crease_L.png",
+        "sha256": "bd9d9b116d0a6346dca7485f5dbae57178a469274fc75d5009a0f71d0fbf0155",
+        "bytes": 2502
+      },
+      {
+        "relative": "open\\parts\\upper_crease_R.png",
+        "sha256": "5cabdd4dbca0f79d146745cb6aaf41977a733ec06aa638d866eef3c58160f404",
+        "bytes": 2877
+      },
+      {
+        "relative": "open\\parts\\upper_lash_L.png",
+        "sha256": "3ebca501f107e31fbb6760fe7b99c9f8af9e26ea8766d9c50c78944352698c39",
+        "bytes": 10064
+      },
+      {
+        "relative": "open\\parts\\upper_lash_R.png",
+        "sha256": "fad56adc401df938edb823ac8ca3c2b43d7a3f72c97098cf9f37f94cc86b91c5",
+        "bytes": 10339
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\brow_confirm_v004",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\brow_confirm_v004",
+    "files": [
+      {
+        "relative": "brows_closeup.jpg",
+        "sha256": "69bf83aae0b6a0d26924323ccb932587906d53b37c105e5ce43ff08bfd847a41",
+        "bytes": 62712
+      },
+      {
+        "relative": "face_with_brows.jpg",
+        "sha256": "7eb5a643e46f8c78673686cf12ca3f0cf0e1156385c49c06f94a25cf11188a7a",
+        "bytes": 316972
+      },
+      {
+        "relative": "placement.json",
+        "sha256": "ea32d431abbcbea511de62abd1a4dc6d1b827e382fda036942c77c3b25ccbff7",
+        "bytes": 594
+      },
+      {
+        "relative": "REVIEW.md",
+        "sha256": "756c157e826e9d4a14473096d0218c54a55f8dc619af58ac99d126377aa001cb",
+        "bytes": 1318
+      },
+      {
+        "relative": "review.py",
+        "sha256": "6445c964ee1910180888d030533008dc4dc7a9d8d05491556328ea85b2eae361",
+        "bytes": 1691
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\brow_confirm_v005",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\brow_confirm_v005",
+    "files": [
+      {
+        "relative": "brows_closeup.jpg",
+        "sha256": "b06c606741a94afd5a5ca274c29b3b0bb82e7a8f8a05c9ab0a4d4db172bfe36e",
+        "bytes": 64186
+      },
+      {
+        "relative": "comparison.jpg",
+        "sha256": "9e91f8fa40644eef20eabe91c54343bd76377c722b2ad503bb567cc849c94fdd",
+        "bytes": 188300
+      },
+      {
+        "relative": "face_with_brows.jpg",
+        "sha256": "f9fa87843c17aa39467b8e8b29564ea6d3622c58f6d24622a168b89fd9424dae",
+        "bytes": 316891
+      },
+      {
+        "relative": "placement.json",
+        "sha256": "3010d209038ee701e1537d9b3b9f6f8c939ab5a15bb262234cfabf627e16742e",
+        "bytes": 812
+      },
+      {
+        "relative": "REVIEW.md",
+        "sha256": "d9adaee38d9efc62e8e11c2068643ee74934302070b944d9c540bca7b29e08d0",
+        "bytes": 1003
+      },
+      {
+        "relative": "review.py",
+        "sha256": "f85b97c088621e2148feb36a132917c02e9c40c0b8693969fe29dc74cd595208",
+        "bytes": 2451
+      },
+      {
+        "relative": "source_snapshot\\Upper_eyelid_left.png",
+        "sha256": "c78afa5927f9ee5c67a2c8dcbdcd91b10ea573da0e5edc048bd731d78efde66e",
+        "bytes": 19738
+      },
+      {
+        "relative": "source_snapshot\\Upper_eyelid_right.png",
+        "sha256": "22024aa44f37215c285d27507b69cf253fc89db74885050bda35023a1b4e8767",
+        "bytes": 21073
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007",
+    "files": [
+      {
+        "relative": "assembled.png",
+        "sha256": "b21c0cd44d04fb264acfcff457a8134f9ca5063d50179abad0cc0cf89a8d3481",
+        "bytes": 174134
+      },
+      {
+        "relative": "build.py",
+        "sha256": "c09b41aa492ef763dbcbd6ea75b316ad8ce95f2c4749e1f7e8b15aaa674858dd",
+        "bytes": 7391
+      },
+      {
+        "relative": "comparison.jpg",
+        "sha256": "a847780ab32f5bfc8c80a8cc483e09b8f3ca1d1f88a79b6c193e4d30d9d23ade",
+        "bytes": 314661
+      },
+      {
+        "relative": "eyes_comparison.jpg",
+        "sha256": "70f5347f9b5b7051bde12f9c64532cab30ebcc858617377b682c42fbc21f6ed0",
+        "bytes": 241174
+      },
+      {
+        "relative": "eyes_face_preview.jpg",
+        "sha256": "a117c30c7b01dc5e54197730460a7659c54d12e0a6d90b87610198a2b5afc707",
+        "bytes": 78172
+      },
+      {
+        "relative": "face_sample.jpg",
+        "sha256": "fae1473e7d936ce75a4b09330c0f7d8e7b4d1c3c4c294b12a84f7cb73d475bb9",
+        "bytes": 316050
+      },
+      {
+        "relative": "independent_verification.json",
+        "sha256": "d296c47b5dbcd59533f5dfa3d21ae58bea949dbad9bdbf77043c5fcaae50c653",
+        "bytes": 910
+      },
+      {
+        "relative": "lower_lid_parts.jpg",
+        "sha256": "f610f0035d31744a6a3c944f152a4e6842374fd71262e45b7c5116ce529696a7",
+        "bytes": 11302
+      },
+      {
+        "relative": "manifest.json",
+        "sha256": "cf1218f5804961e979ab2356e625be3f77520b6324d2a4c25c27a77814ad2aa5",
+        "bytes": 3623
+      },
+      {
+        "relative": "preview.png",
+        "sha256": "8f1af76abf98db4ce8e2f931dfd3d7575b4f24da48c7188dc049f74238315460",
+        "bytes": 168972
+      },
+      {
+        "relative": "psd_verification.json",
+        "sha256": "fb6a27da357c6c59ebac06a49e9bb97f1ab88f6ea365f680e87229d0fb577d33",
+        "bytes": 11178
+      },
+      {
+        "relative": "python_composite.png",
+        "sha256": "9b27974163a84c50f1bce38c333089e6d9ca3e0335119a7a92b631cadf79b470",
+        "bytes": 171425
+      },
+      {
+        "relative": "README.md",
+        "sha256": "2280652da738b7a27b49967ca5727bad4bb9c8cb98ceb98ae93f7a779152d2b9",
+        "bytes": 3883
+      },
+      {
+        "relative": "user_parts_review.jpg",
+        "sha256": "59b948726033c9d39305a22a3e861d227e2a8142d2e9307f24928d022c4197c5",
+        "bytes": 18838
+      },
+      {
+        "relative": "validation.json",
+        "sha256": "3b35b028982ad56727fa02296991e0cd6ce03fad0f3d587dd47d6d82c782ad19",
+        "bytes": 3175
+      },
+      {
+        "relative": "parts\\ALT_eyelash_upper_L.png",
+        "sha256": "6a1e4070e6d2e06df01052b822f25ecd878d09269725291faac26fa365032e9e",
+        "bytes": 28169
+      },
+      {
+        "relative": "parts\\ALT_eyelash_upper_R.png",
+        "sha256": "1dff844b9527fd4a1b2fb4587c10a6ce1047145f7fc63cc2a4746e3ccf1e6440",
+        "bytes": 28208
+      },
+      {
+        "relative": "parts\\ALT_iris_L_blue.png",
+        "sha256": "f232f20d44def5e10c06f6957c50e74be99f0aae909b04c4b5b97ec180f9bc05",
+        "bytes": 35388
+      },
+      {
+        "relative": "parts\\ALT_iris_R_brown.png",
+        "sha256": "1912823fb0bc5d6b2994ec975e1cae61fb1d4ad53905d8d0d9adcfae03b96601",
+        "bytes": 36049
+      },
+      {
+        "relative": "parts\\brow_L.png",
+        "sha256": "1d259eb00870a694a6ddba562e9821babc5bf5dcec19c68b0a1f59ecf4d34dfb",
+        "bytes": 21020
+      },
+      {
+        "relative": "parts\\brow_R.png",
+        "sha256": "c84aa7bb7869b5bf633d1212296e52795d078f1b48eb856e85f6daf108c9cc74",
+        "bytes": 22773
+      },
+      {
+        "relative": "parts\\current_parts.json",
+        "sha256": "f593f03b241311a176836d2156829e5a7453def2de2e5a4b98dab219a3e41cd0",
+        "bytes": 1334
+      },
+      {
+        "relative": "parts\\face_underfill.png",
+        "sha256": "430fad67b0fab3fe04c39120afd906a2a565b8ae6fc37fe32e92440651a24379",
+        "bytes": 130260
+      },
+      {
+        "relative": "parts\\FILL_eye_white_L.png",
+        "sha256": "01c227543b1022dc4a8d61aab1483c7a94299a1e204d477c8e241594f4987726",
+        "bytes": 22994
+      },
+      {
+        "relative": "parts\\FILL_eye_white_R.png",
+        "sha256": "0b6e3077fb2c2e0d93fa40a988bcced3e66b6949cd9849aaf4a032210ac87a7c",
+        "bytes": 22994
+      },
+      {
+        "relative": "parts\\lower_eyelid_left.png",
+        "sha256": "11046d47e00e1b5930ab23d312dfda4b047ae61e3d548a59f5e4a0587ad24fe5",
+        "bytes": 23309
+      },
+      {
+        "relative": "parts\\lower_eyelid_right.png",
+        "sha256": "ffb3942db69111672964c0426051198a3cf6865f7d2fd31bf9b4b3077c064e92",
+        "bytes": 22894
+      },
+      {
+        "relative": "parts\\mouth_closed.png",
+        "sha256": "5f0b8bc2594a58b935f2b4929e1c20e72a5ad35e649bc906d6d827ee73f10ca6",
+        "bytes": 20671
+      },
+      {
+        "relative": "parts\\README.md",
+        "sha256": "f5d1da3e6ff06d492702924dcd7eaf124c48071567a6cffc7516644d3cda0700",
+        "bytes": 3928
+      },
+      {
+        "relative": "parts\\upper_crease_L.png",
+        "sha256": "bd9d9b116d0a6346dca7485f5dbae57178a469274fc75d5009a0f71d0fbf0155",
+        "bytes": 2502
+      },
+      {
+        "relative": "parts\\upper_crease_R.png",
+        "sha256": "b21b6161eadda172aae5911b7ef47d7a8b40b590907458517b2d8e657cee9390",
+        "bytes": 23706
+      },
+      {
+        "relative": "source_snapshot\\ALT_eyelash_upper_L.png",
+        "sha256": "b43c14807fc8450c0d7a75316222ba5f2b45cd47d5939c2ac411803a5f029c49",
+        "bytes": 12848
+      },
+      {
+        "relative": "source_snapshot\\ALT_eyelash_upper_R.png",
+        "sha256": "951373a298d1ef24880862ccc660c29acb256639dbbf361b22712eb58365098e",
+        "bytes": 13024
+      },
+      {
+        "relative": "source_snapshot\\ALT_iris_L_blue.png",
+        "sha256": "50907795ad7e5f45c5cd4e0bb190b79a28472577c3b54dfadcee8a15bd39bcbf",
+        "bytes": 24809
+      },
+      {
+        "relative": "source_snapshot\\ALT_iris_R_brown.png",
+        "sha256": "6613780f59fbe80a304284071e730678b3742617df31125e51dc51ed02ecc8d8",
+        "bytes": 24823
+      },
+      {
+        "relative": "source_snapshot\\collar_L.png",
+        "sha256": "61e15e2b564db93c3d20acf2d1ed4cb3e0bc45c7142e95c10116be93b8424e82",
+        "bytes": 134413
+      },
+      {
+        "relative": "source_snapshot\\collar_R.png",
+        "sha256": "e40448560d40f6aabd0a3369869c954c3355e2b191d980afd847d5cd693048d8",
+        "bytes": 121738
+      },
+      {
+        "relative": "source_snapshot\\ear_L.png",
+        "sha256": "36920694df287404a374e17bc254aba116c3b69425aa24d67d56881f05826294",
+        "bytes": 34330
+      },
+      {
+        "relative": "source_snapshot\\ear_R.png",
+        "sha256": "efa8ebba850ebd5b956248a3bd39020d27e263e2a01d37dea3811ec4c066604a",
+        "bytes": 53491
+      },
+      {
+        "relative": "source_snapshot\\face_underfill.png",
+        "sha256": "f7d8727b5b2bfa2816bd4d21148cedba14ee1b6676058836b2a979d070dc07a0",
+        "bytes": 123382
+      },
+      {
+        "relative": "source_snapshot\\hair_ahoge.png",
+        "sha256": "cf303c03f5fb86555d0d3f87cad1f5bc117dbc13416b1d69fbc784633399a582",
+        "bytes": 47278
+      },
+      {
+        "relative": "source_snapshot\\hair_back.png",
+        "sha256": "eaf39cf624c5db9514a43f90bcf7c7797c97e0032a58fe1e933abae09aa49ff8",
+        "bytes": 46627
+      },
+      {
+        "relative": "source_snapshot\\hair_front_C.png",
+        "sha256": "8d0f2ea1ec564881d2b2416a5b80e17e490cee4a209b9d051087bfdb5f74940f",
+        "bytes": 152586
+      },
+      {
+        "relative": "source_snapshot\\hair_front_L.png",
+        "sha256": "9021d9fc6e1bc695209ce0afbea32ebae8901641763a89c27ab6ce9ca3986f94",
+        "bytes": 130054
+      },
+      {
+        "relative": "source_snapshot\\hair_front_R.png",
+        "sha256": "459f9b5cf6a813b90f74767c02f77b1e3bfce3586aaacc1d4df9bd3c9aae2cab",
+        "bytes": 127957
+      },
+      {
+        "relative": "source_snapshot\\hair_side_L.png",
+        "sha256": "b290c6ca481fc43e11724b3760d45a2c66e18707562cb626852ecc9e20463179",
+        "bytes": 175646
+      },
+      {
+        "relative": "source_snapshot\\hair_side_R.png",
+        "sha256": "87713f22f7d5f73be82877072f88830a3752aea1279db20bccb3a19d7b87bcd9",
+        "bytes": 170511
+      },
+      {
+        "relative": "source_snapshot\\neck-clavicle.png",
+        "sha256": "1e77961e89c059d5b3d42f45525ebba61c8e078f7181f9f2139c40b51c0c5192",
+        "bytes": 63831
+      },
+      {
+        "relative": "source_snapshot\\shirt_inside.png",
+        "sha256": "3740c1dde2c402583a9df205e497575672a2ebbd86ce92e6af5d019e6816ea63",
+        "bytes": 34023
+      },
+      {
+        "relative": "source_snapshot\\shirt_torso.png",
+        "sha256": "b04c7139d749e5dd2500ca12ed97e78d2c9901cfc56d5374dde3d4268a2971d4",
+        "bytes": 533495
+      },
+      {
+        "relative": "source_snapshot\\Upper_eyelid_left.png",
+        "sha256": "c78afa5927f9ee5c67a2c8dcbdcd91b10ea573da0e5edc048bd731d78efde66e",
+        "bytes": 19738
+      },
+      {
+        "relative": "source_snapshot\\Upper_eyelid_right.png",
+        "sha256": "22024aa44f37215c285d27507b69cf253fc89db74885050bda35023a1b4e8767",
+        "bytes": 21073
+      },
+      {
+        "relative": "parts\\backup\\face_underfill-2.png",
+        "sha256": "33c0833a7d7f0b2f1700c194acc67258103bf9486a5d72eeee8a6882feeea20f",
+        "bytes": 122511
+      },
+      {
+        "relative": "parts\\backup\\face_underfill.png",
+        "sha256": "9bc7bd5a80a357fa98879ac8ed9e345b97cd3a6975ba058f48e12e333e484de2",
+        "bytes": 109825
+      },
+      {
+        "relative": "parts\\backup\\lower_eyelid_left.png",
+        "sha256": "c5571bcf5ff3b30ec1c016dc89e9d6327d8ee23ceb660560fb17a6f90fc33b22",
+        "bytes": 25863
+      },
+      {
+        "relative": "parts\\backup\\lower_eyelid_right.png",
+        "sha256": "72df8c8f962639c75e2a123f9561d6b581430d54682b746992e1bd4414fc7636",
+        "bytes": 27305
+      },
+      {
+        "relative": "parts\\backup\\mouth_closed.png",
+        "sha256": "1c2475a7b5a6397892e76007f39582e9e6d23e77696c09b4000d1cd16614191f",
+        "bytes": 1976
+      },
+      {
+        "relative": "parts\\backup\\REF_iris_full_L.png",
+        "sha256": "39be97ca13c78b96c7f4afe722f67cb7e1bca2c37604f699cf1a638c4155ef20",
+        "bytes": 21512
+      },
+      {
+        "relative": "parts\\backup\\REF_iris_full_R.png",
+        "sha256": "51e1c1d9d85b0d560dbb455d8af18ccbdbc8ee94754d4bd0f443fd07632f847a",
+        "bytes": 21564
+      },
+      {
+        "relative": "parts\\backup\\upper_lash_L.png",
+        "sha256": "b43c14807fc8450c0d7a75316222ba5f2b45cd47d5939c2ac411803a5f029c49",
+        "bytes": 12848
+      },
+      {
+        "relative": "parts\\backup\\upper_lash_R.png",
+        "sha256": "951373a298d1ef24880862ccc660c29acb256639dbbf361b22712eb58365098e",
+        "bytes": 13024
+      },
+      {
+        "relative": "parts\\archive\\20260922-initial-eye-layers\\eye_white_L.png",
+        "sha256": "e584a3c984e037c3cd889e16946fe7d93251101c016e5756c28903c53730c225",
+        "bytes": 2141
+      },
+      {
+        "relative": "parts\\archive\\20260922-initial-eye-layers\\eye_white_R.png",
+        "sha256": "bb581aa5ed9c0c2e3115405c2b73fa4a29f83435a22e1375a93b004dc319d043",
+        "bytes": 2121
+      },
+      {
+        "relative": "parts\\archive\\20260922-initial-eye-layers\\iris_L.png",
+        "sha256": "bd29213fd352744830371c520dfe2dabfcf291588d958ec3caea636551675ef1",
+        "bytes": 19891
+      },
+      {
+        "relative": "parts\\archive\\20260922-initial-eye-layers\\iris_R.png",
+        "sha256": "02d0e481f81d01d3757e1db8a5953dbec532647804abb07ac1dcaa00720a44aa",
+        "bytes": 19901
+      },
+      {
+        "relative": "parts\\archive\\20260922-initial-eye-layers\\lower_lid_L.png",
+        "sha256": "2c0a1c10348a193cdb12c0a88c7195a780236f71cd84f72c80784494ce734476",
+        "bytes": 13820
+      },
+      {
+        "relative": "parts\\archive\\20260922-initial-eye-layers\\lower_lid_R.png",
+        "sha256": "9210111c1632eff05225812ce11db7f7d08b7f54d2a6c3f1432d8c277e59ed46",
+        "bytes": 12740
+      },
+      {
+        "relative": "parts\\archive\\20260922-initial-eye-layers\\manifest_before_organization.json",
+        "sha256": "ba6bb239811bdd7978988d1102273a4ec84f72ed591c6e10eb9bf57a82b35c5a",
+        "bytes": 3040
+      },
+      {
+        "relative": "parts\\archive\\20260922-initial-eye-layers\\README.md",
+        "sha256": "1b5f6622671db875ec0d401bcef7617309fd4b569b6c9c2a06fed08b680c9d5c",
+        "bytes": 315
+      },
+      {
+        "relative": "parts\\archive\\20260922-initial-eye-layers\\REF_lower_lid_source_L.png",
+        "sha256": "6ec2b78ace0c386306c79759a0b7821b677d9e6e69863077838a38a6bccc942d",
+        "bytes": 38449
+      },
+      {
+        "relative": "parts\\archive\\20260922-initial-eye-layers\\REF_lower_lid_source_R.png",
+        "sha256": "1dba4f187e2a85d9186c4a30d2a9651c6f85461022e1f8adcb7c59621f7bb82f",
+        "bytes": 35985
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v008",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008",
+    "files": [
+      {
+        "relative": "assembled.png",
+        "sha256": "298eba31068a5bca5bf9c06fea7f6c7c080ac84e37961ec7db78fd1713bce598",
+        "bytes": 173507
+      },
+      {
+        "relative": "build.py",
+        "sha256": "99d2170ba5f96c59502e1f50f1471f6eef66bb86105dd73ea016b6e5eb52be76",
+        "bytes": 7502
+      },
+      {
+        "relative": "change_metrics.json",
+        "sha256": "6db764a057b5122e765961a3b04ee96a5b54f290b5b9415caeef44115121d823",
+        "bytes": 348
+      },
+      {
+        "relative": "comparison.jpg",
+        "sha256": "c4e712d7da5e81e39aad0fe72f4455f54bc759e2d1f6179e8633a8789039b8a0",
+        "bytes": 313940
+      },
+      {
+        "relative": "eyes_comparison.jpg",
+        "sha256": "944786438adb6608d0a4e32336e5fa75e3bb4fec1311ce4b3afdc450aecdc085",
+        "bytes": 238862
+      },
+      {
+        "relative": "eyes_face_preview.jpg",
+        "sha256": "f4cca565b6c9552f59741f8f67143344cb28ac9a334747ca2baa23a16a9a6653",
+        "bytes": 77885
+      },
+      {
+        "relative": "eye_detail_nohair.jpg",
+        "sha256": "9eeb4465206e0f8e72f91d3ee4482e6647f268d6b085e7aca5680fa4020801b5",
+        "bytes": 39905
+      },
+      {
+        "relative": "face_sample.jpg",
+        "sha256": "23187e481031da4cb7bc3f0e824dc01aa1298d2922662334e07c706a7bb812dd",
+        "bytes": 315252
+      },
+      {
+        "relative": "independent_verification.json",
+        "sha256": "5e8028b68b789f57fd2fddca3033ebfe0e2e14e3eb6494d2cfc3913bae77146e",
+        "bytes": 910
+      },
+      {
+        "relative": "manifest.json",
+        "sha256": "fdf5c1e89574a3fc80cde4b89ec10e394cdbcbac3a10c9f1abcf02669dedcdcc",
+        "bytes": 3040
+      },
+      {
+        "relative": "preview.png",
+        "sha256": "b76db2d46c7b473a37645e4c37dc17f0e6f31328aecbcc1cf9506d25c640edcf",
+        "bytes": 167768
+      },
+      {
+        "relative": "psd_verification.json",
+        "sha256": "b7930ded6e50a063b64b614fcb2c4b95563ccab466cf59b5b0b532bc5ab4e668",
+        "bytes": 11175
+      },
+      {
+        "relative": "python_composite.png",
+        "sha256": "ef3f439fd1a5aa57a8fc83d1209b151042a4cf0470b43413ae7108a0cc28a1db",
+        "bytes": 170183
+      },
+      {
+        "relative": "README.md",
+        "sha256": "c7637c7944883b1eb484038c8fe6ffa1a4f692f6247d5a39b0843807d8f77a5e",
+        "bytes": 3450
+      },
+      {
+        "relative": "Ren_eyes_adjust_v008.psd",
+        "sha256": "c35dca2d324b32c4e087f2d6f2ab4444dd921891bb73e3a1e37a3d7c4201b1eb",
+        "bytes": 818783
+      },
+      {
+        "relative": "validation.json",
+        "sha256": "b43ead6deb48f7a506643ccf213ef64fb4dd972274f66df5bbf8a8d9f983afdb",
+        "bytes": 3303
+      },
+      {
+        "relative": "parts\\brow_L.png",
+        "sha256": "9432abdd786ec3c8d66068e07e9a12f796cec868301df316c4b137e876ca117f",
+        "bytes": 4551
+      },
+      {
+        "relative": "parts\\brow_R.png",
+        "sha256": "8e361a88599de1706aa0bfb718a1aa1bbbf5d50dd409b8f20bb46d59df070e5d",
+        "bytes": 5905
+      },
+      {
+        "relative": "parts\\eye_white_L.png",
+        "sha256": "9c9f1ea2c5b928842cfce561117eaf45a828cef5317e682e0f8aaa113007a2d3",
+        "bytes": 1909
+      },
+      {
+        "relative": "parts\\eye_white_R.png",
+        "sha256": "b7ae42dce346e17dd87ef742f14461a2351eeaf82af330d5f20cca086ec65caf",
+        "bytes": 1866
+      },
+      {
+        "relative": "parts\\face_underfill.png",
+        "sha256": "9bc7bd5a80a357fa98879ac8ed9e345b97cd3a6975ba058f48e12e333e484de2",
+        "bytes": 109825
+      },
+      {
+        "relative": "parts\\iris_L.png",
+        "sha256": "ac2eeb0b154ce810cc275428135b67e7f8a9de0f067fb360f0dfc97ccbc74607",
+        "bytes": 19768
+      },
+      {
+        "relative": "parts\\iris_R.png",
+        "sha256": "34388c35525164b8675842fbc4b02a8d7d82a8ecce6895bbd76138363b179727",
+        "bytes": 19817
+      },
+      {
+        "relative": "parts\\lower_lid_L.png",
+        "sha256": "c9f8bd295eafcb7114058dea1b26ae2692d754eb0d4fad09ae241bc45e35752e",
+        "bytes": 10994
+      },
+      {
+        "relative": "parts\\lower_lid_R.png",
+        "sha256": "cb842e9647e0df1ec4104b30f5f18a44044493a5ebec6c804d7ddc165f852829",
+        "bytes": 12444
+      },
+      {
+        "relative": "parts\\mouth_closed.png",
+        "sha256": "1c2475a7b5a6397892e76007f39582e9e6d23e77696c09b4000d1cd16614191f",
+        "bytes": 1976
+      },
+      {
+        "relative": "parts\\orbital_line_L.png",
+        "sha256": "bd9d9b116d0a6346dca7485f5dbae57178a469274fc75d5009a0f71d0fbf0155",
+        "bytes": 2502
+      },
+      {
+        "relative": "parts\\orbital_line_R.png",
+        "sha256": "5cabdd4dbca0f79d146745cb6aaf41977a733ec06aa638d866eef3c58160f404",
+        "bytes": 2877
+      },
+      {
+        "relative": "parts\\REF_iris_full_L.png",
+        "sha256": "39be97ca13c78b96c7f4afe722f67cb7e1bca2c37604f699cf1a638c4155ef20",
+        "bytes": 21512
+      },
+      {
+        "relative": "parts\\REF_iris_full_R.png",
+        "sha256": "51e1c1d9d85b0d560dbb455d8af18ccbdbc8ee94754d4bd0f443fd07632f847a",
+        "bytes": 21564
+      },
+      {
+        "relative": "parts\\REF_lower_lid_source_L.png",
+        "sha256": "6ec2b78ace0c386306c79759a0b7821b677d9e6e69863077838a38a6bccc942d",
+        "bytes": 38449
+      },
+      {
+        "relative": "parts\\REF_lower_lid_source_R.png",
+        "sha256": "1dba4f187e2a85d9186c4a30d2a9651c6f85461022e1f8adcb7c59621f7bb82f",
+        "bytes": 35985
+      },
+      {
+        "relative": "parts\\upper_lash_L.png",
+        "sha256": "b43c14807fc8450c0d7a75316222ba5f2b45cd47d5939c2ac411803a5f029c49",
+        "bytes": 12848
+      },
+      {
+        "relative": "parts\\upper_lash_R.png",
+        "sha256": "951373a298d1ef24880862ccc660c29acb256639dbbf361b22712eb58365098e",
+        "bytes": 13024
+      },
+      {
+        "relative": "source_snapshot\\ALT_eyelash_upper_L.png",
+        "sha256": "b43c14807fc8450c0d7a75316222ba5f2b45cd47d5939c2ac411803a5f029c49",
+        "bytes": 12848
+      },
+      {
+        "relative": "source_snapshot\\ALT_eyelash_upper_R.png",
+        "sha256": "951373a298d1ef24880862ccc660c29acb256639dbbf361b22712eb58365098e",
+        "bytes": 13024
+      },
+      {
+        "relative": "source_snapshot\\ALT_iris_L_blue.png",
+        "sha256": "50907795ad7e5f45c5cd4e0bb190b79a28472577c3b54dfadcee8a15bd39bcbf",
+        "bytes": 24809
+      },
+      {
+        "relative": "source_snapshot\\ALT_iris_R_brown.png",
+        "sha256": "6613780f59fbe80a304284071e730678b3742617df31125e51dc51ed02ecc8d8",
+        "bytes": 24823
+      },
+      {
+        "relative": "source_snapshot\\face_underfill.png",
+        "sha256": "f7d8727b5b2bfa2816bd4d21148cedba14ee1b6676058836b2a979d070dc07a0",
+        "bytes": 123382
+      },
+      {
+        "relative": "source_snapshot\\lower_eyelid_left.png",
+        "sha256": "c5571bcf5ff3b30ec1c016dc89e9d6327d8ee23ceb660560fb17a6f90fc33b22",
+        "bytes": 25863
+      },
+      {
+        "relative": "source_snapshot\\lower_eyelid_right.png",
+        "sha256": "72df8c8f962639c75e2a123f9561d6b581430d54682b746992e1bd4414fc7636",
+        "bytes": 27305
+      },
+      {
+        "relative": "source_snapshot\\upper_crease_L.png",
+        "sha256": "bd9d9b116d0a6346dca7485f5dbae57178a469274fc75d5009a0f71d0fbf0155",
+        "bytes": 2502
+      },
+      {
+        "relative": "source_snapshot\\upper_crease_R.png",
+        "sha256": "5cabdd4dbca0f79d146745cb6aaf41977a733ec06aa638d866eef3c58160f404",
+        "bytes": 2877
+      },
+      {
+        "relative": "source_snapshot\\Upper_eyelid_left.png",
+        "sha256": "c78afa5927f9ee5c67a2c8dcbdcd91b10ea573da0e5edc048bd731d78efde66e",
+        "bytes": 19738
+      },
+      {
+        "relative": "source_snapshot\\Upper_eyelid_right.png",
+        "sha256": "22024aa44f37215c285d27507b69cf253fc89db74885050bda35023a1b4e8767",
+        "bytes": 21073
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_proportion_review_v001",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_proportion_review_v001",
+    "files": [
+      {
+        "relative": "eyes_comparison.jpg",
+        "sha256": "8ea04b4a5e1a6a27cc1ac595350cada00e7393151c3592672b69ad9cdbd74c06",
+        "bytes": 181392
+      },
+      {
+        "relative": "face_comparison.jpg",
+        "sha256": "8c8b45ee21e3ff674e5d926d664b3a08945f342c33c2532e73339b4d9e6f0607",
+        "bytes": 211810
+      },
+      {
+        "relative": "grid.jpg",
+        "sha256": "831c8cd233c5d3750e9d9ef6983316bc74b6e09a440124a908d73abfe1117811",
+        "bytes": 87937
+      },
+      {
+        "relative": "measurements.json",
+        "sha256": "5428e2d0dc82db39d21c76e689a0b6b1ec4c1a53dd2e717a2c8b7852c4b158e6",
+        "bytes": 1216
+      },
+      {
+        "relative": "raw_detail.png",
+        "sha256": "a8a74d33bcdf3748ed8b7fc67bd7c9aa871cc0cca05ce18ab44724af94a42fad",
+        "bytes": 427048
+      },
+      {
+        "relative": "REVIEW.md",
+        "sha256": "3e9f671d81e87c09e52274629fb55e4b94fc267251eda99e531d497584c529f6",
+        "bytes": 2502
+      },
+      {
+        "relative": "review.py",
+        "sha256": "d5bc20f7b4b43662a2767ddc4c2e039989b3923f4a2f5fa4fb758956fedeef1d",
+        "bytes": 1788
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_style_v006",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_style_v006",
+    "files": [
+      {
+        "relative": "brows_closeup.jpg",
+        "sha256": "d0c419ed5aa581f4ebcbb42516a6ba07b0bd850d73f761709532827b466739fa",
+        "bytes": 65021
+      },
+      {
+        "relative": "comparison.jpg",
+        "sha256": "5f095f0b3d2bc75cc18533995402c4b713eb9a646209ff4f19aec4bc77c5369c",
+        "bytes": 195685
+      },
+      {
+        "relative": "face_with_brows.jpg",
+        "sha256": "fd04db71899fdae59506ff7ec2d696d6e4191f38390704c4c4816bda631473e5",
+        "bytes": 317697
+      },
+      {
+        "relative": "placement.json",
+        "sha256": "3010d209038ee701e1537d9b3b9f6f8c939ab5a15bb262234cfabf627e16742e",
+        "bytes": 812
+      },
+      {
+        "relative": "README.md",
+        "sha256": "050fa68906b9fa5ff1f7098024ae3962f0a1262fb5f1806868ae20db19d82574",
+        "bytes": 1359
+      },
+      {
+        "relative": "review.py",
+        "sha256": "5f905449beec2285aafe3db939c16d8d85d7ddbad26e6c1157b46b58cc8ea8ac",
+        "bytes": 2631
+      },
+      {
+        "relative": "source_snapshot\\Upper_eyelid_left.png",
+        "sha256": "c78afa5927f9ee5c67a2c8dcbdcd91b10ea573da0e5edc048bd731d78efde66e",
+        "bytes": 19738
+      },
+      {
+        "relative": "source_snapshot\\Upper_eyelid_right.png",
+        "sha256": "22024aa44f37215c285d27507b69cf253fc89db74885050bda35023a1b4e8767",
+        "bytes": 21073
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\face_comparison_20260924",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924",
+    "files": [
+      {
+        "relative": "assembly.json",
+        "sha256": "3b4f51653e47009440ad01f35b9bc344289e2a2d342983b520065d58743937ef",
+        "bytes": 6074
+      },
+      {
+        "relative": "build.py",
+        "sha256": "a92fc48d6d560b3f07f7b267773fe24686fcd5c371c2ad49965905341f3f9ecf",
+        "bytes": 5467
+      },
+      {
+        "relative": "comparison.jpg",
+        "sha256": "5f9add502377daa26f8e82ee80fc6555be2e77619de4c35defeff3e0ab067b24",
+        "bytes": 134028
+      },
+      {
+        "relative": "detail_comparison.jpg",
+        "sha256": "c939979e2ff35fe051edfa3dfdecf54242b6bc640deafc7acc87eac4e45fd0e1",
+        "bytes": 195417
+      },
+      {
+        "relative": "face_sample.png",
+        "sha256": "3353817bbb8cc84899ee7e3b574f238baa2b94ceb6e0f61607c471481a75f992",
+        "bytes": 176306
+      },
+      {
+        "relative": "face_sample_gray.png",
+        "sha256": "0265e5613944ffe2ff7660be8cb316947b0cd3b1601f8e49ba4ffed05df76e5e",
+        "bytes": 154581
+      },
+      {
+        "relative": "original_features_comparison.jpg",
+        "sha256": "f36e0d23afaab84af6e7107a16b3351ddcb56835ec33455414b3ca28caa5df08",
+        "bytes": 222460
+      },
+      {
+        "relative": "placement_reference_gray.png",
+        "sha256": "5bfbee9ae931f02cc9f80238e55b218e1a0f9d6adbab2af19e2a5f20e07b2beb",
+        "bytes": 155928
+      },
+      {
+        "relative": "README.md",
+        "sha256": "eaaf8d360d017a18b464350669435e84933ff5f28ce9ef598e98a5cfbad4087a",
+        "bytes": 3100
+      },
+      {
+        "relative": "reference_layer_00.png",
+        "sha256": "b08936cd0d6e3d7339dcf3a19e258704356823bc7b6e94ddffe1868accbf0492",
+        "bytes": 113056
+      },
+      {
+        "relative": "reference_layer_01.png",
+        "sha256": "1bd545bdfb04567f7a841d02da57c2d14199951efe0a50298cb226462438b3a6",
+        "bytes": 1579
+      },
+      {
+        "relative": "reference_layer_02.png",
+        "sha256": "33434eecdc928c596d8fcad405d2832572ab9dc5fd853f205bb04f6f4a6875d7",
+        "bytes": 4119
+      },
+      {
+        "relative": "reference_layer_03.png",
+        "sha256": "50004a447b8555d14013f2af37789ed217a7a74693defd5a36445e9d4ef243e5",
+        "bytes": 17772
+      },
+      {
+        "relative": "reference_layer_04.png",
+        "sha256": "0b52e9ac2b538848afc738fd4fd8f5d6e13e89dcc76c4378f8d3e870c42acf55",
+        "bytes": 9418
+      },
+      {
+        "relative": "reference_layer_05.png",
+        "sha256": "98133d4ec416551a541e31e10bdd98f8741a4de2c7f243fe09ac045896a3bc1c",
+        "bytes": 4137
+      },
+      {
+        "relative": "reference_layer_06.png",
+        "sha256": "fe78543e5c54891a05198906aad3b33007fefadd17df339249c5493e044cdaec",
+        "bytes": 3472
+      },
+      {
+        "relative": "reference_layer_07.png",
+        "sha256": "06345da7d45334b24b5815bcafa2dad7f3384a6a574d7fff8c136efd6146d941",
+        "bytes": 3540
+      },
+      {
+        "relative": "reference_layer_08.png",
+        "sha256": "e5534ca9503bc5c911f73d2cfe306d363278d799cf6df8610f97bc1c1166c2d4",
+        "bytes": 4103
+      },
+      {
+        "relative": "reference_layer_09.png",
+        "sha256": "f14877a98d3a7ff56edfb55cf4d1969082ab686a5b021a49ca7670129f42e7e8",
+        "bytes": 16912
+      },
+      {
+        "relative": "reference_layer_10.png",
+        "sha256": "94fc9a1fd40746d40e9af242159286c0c94cdf6ed0060663ec9f541479747c77",
+        "bytes": 9828
+      },
+      {
+        "relative": "reference_layer_11.png",
+        "sha256": "a91512f3b436c3f8678767f6efa318aee6dab2e6ec572be3448e160ccf445fa0",
+        "bytes": 4112
+      },
+      {
+        "relative": "reference_layer_12.png",
+        "sha256": "1900854451206c32f30dc1aeee231c92e62b5e798be08d6473ac54c0b8b30132",
+        "bytes": 3209
+      },
+      {
+        "relative": "reference_layer_13.png",
+        "sha256": "1665bf94c69ea9c745a0282f913fdceb38bb6a5ee067b9ae1d82f0d4dfe90e75",
+        "bytes": 4198
+      },
+      {
+        "relative": "source_inspect.jpg",
+        "sha256": "a2040c9c756b7d5f2bb27c1992dc71cfed74de33291ef04dade7a813e3cf2f66",
+        "bytes": 29992
+      },
+      {
+        "relative": "source_snapshot\\ALT_eyelash_upper_L.png",
+        "sha256": "6a1e4070e6d2e06df01052b822f25ecd878d09269725291faac26fa365032e9e",
+        "bytes": 28169
+      },
+      {
+        "relative": "source_snapshot\\ALT_eyelash_upper_R.png",
+        "sha256": "1dff844b9527fd4a1b2fb4587c10a6ce1047145f7fc63cc2a4746e3ccf1e6440",
+        "bytes": 28208
+      },
+      {
+        "relative": "source_snapshot\\ALT_iris_L_blue.png",
+        "sha256": "f232f20d44def5e10c06f6957c50e74be99f0aae909b04c4b5b97ec180f9bc05",
+        "bytes": 35388
+      },
+      {
+        "relative": "source_snapshot\\ALT_iris_R_brown.png",
+        "sha256": "1912823fb0bc5d6b2994ec975e1cae61fb1d4ad53905d8d0d9adcfae03b96601",
+        "bytes": 36049
+      },
+      {
+        "relative": "source_snapshot\\brow_L.png",
+        "sha256": "1d259eb00870a694a6ddba562e9821babc5bf5dcec19c68b0a1f59ecf4d34dfb",
+        "bytes": 21020
+      },
+      {
+        "relative": "source_snapshot\\brow_R.png",
+        "sha256": "c84aa7bb7869b5bf633d1212296e52795d078f1b48eb856e85f6daf108c9cc74",
+        "bytes": 22773
+      },
+      {
+        "relative": "source_snapshot\\face_underfill.png",
+        "sha256": "01f1f19bd3d29e79df8e3cd40b4feeaa52a76964f947fd9a041eb829f213e5ee",
+        "bytes": 128342
+      },
+      {
+        "relative": "source_snapshot\\facial_feature.png",
+        "sha256": "c70e8e50a4f85540044013a02bfdd1c73e164579ea25cbb54bf21c4d1e2fde71",
+        "bytes": 198747
+      },
+      {
+        "relative": "source_snapshot\\FILL_eye_white_L.png",
+        "sha256": "01c227543b1022dc4a8d61aab1483c7a94299a1e204d477c8e241594f4987726",
+        "bytes": 22994
+      },
+      {
+        "relative": "source_snapshot\\FILL_eye_white_R.png",
+        "sha256": "0b6e3077fb2c2e0d93fa40a988bcced3e66b6949cd9849aaf4a032210ac87a7c",
+        "bytes": 22994
+      },
+      {
+        "relative": "source_snapshot\\lower_eyelid_left.png",
+        "sha256": "ffb3942db69111672964c0426051198a3cf6865f7d2fd31bf9b4b3077c064e92",
+        "bytes": 22894
+      },
+      {
+        "relative": "source_snapshot\\lower_eyelid_right.png",
+        "sha256": "9a73745f858682c875bb97812076373d7d1bfbf759f54a92c9ea88ae593a2246",
+        "bytes": 20879
+      },
+      {
+        "relative": "source_snapshot\\mouth_closed.png",
+        "sha256": "5f0b8bc2594a58b935f2b4929e1c20e72a5ad35e649bc906d6d827ee73f10ca6",
+        "bytes": 20671
+      },
+      {
+        "relative": "source_snapshot\\ren-stand-pony-front-4000x6000.png",
+        "sha256": "edf3b0317f981568b29f04fc1dbaeebae416b164741c2dee2499d0a6116a4817",
+        "bytes": 4132582
+      },
+      {
+        "relative": "source_snapshot\\upper_crease_L.png",
+        "sha256": "bd9d9b116d0a6346dca7485f5dbae57178a469274fc75d5009a0f71d0fbf0155",
+        "bytes": 2502
+      },
+      {
+        "relative": "source_snapshot\\upper_crease_R.png",
+        "sha256": "b21b6161eadda172aae5911b7ef47d7a8b40b590907458517b2d8e657cee9390",
+        "bytes": 23706
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\face_comparison_v010",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_v010",
+    "files": [
+      {
+        "relative": "build_comparison.py",
+        "sha256": "7fecfaafb629beabe42df67c06ec13bbe630ad916015aa706df84f6a949f4cdb",
+        "bytes": 4533
+      },
+      {
+        "relative": "comparison_4_grid.jpg",
+        "sha256": "f424e370836d9fb3db22767d5be75ad4542b38a19c61a8527ff79c1cd5a70b6f",
+        "bytes": 461583
+      },
+      {
+        "relative": "comparison_4_horizontal.jpg",
+        "sha256": "1cbb4104467444d941478a1f458d4ba4c5b716033d111dcf12a318e6176e995f",
+        "bytes": 459899
+      },
+      {
+        "relative": "eyes_nose_4_grid.jpg",
+        "sha256": "5695ea0bb19ce8c0ba220bd5eb56652879e986a9772166268eb94d427f4caf50",
+        "bytes": 475550
+      },
+      {
+        "relative": "face_01.png",
+        "sha256": "222484d7568930ef43439ef25ce1296d1bb6a0d0965e2b8732b6a36e95b3188f",
+        "bytes": 965789
+      },
+      {
+        "relative": "face_02.png",
+        "sha256": "63c4aa6c4fc65051d1a6d69e3c2e1ee33882105db7fe2a05a028088f627f4f3f",
+        "bytes": 876801
+      },
+      {
+        "relative": "face_03.png",
+        "sha256": "2a707bcda6be5b6f67e9d1f8d4ae5362c758fde59821f9371d6d406160b00c00",
+        "bytes": 827638
+      },
+      {
+        "relative": "face_04.png",
+        "sha256": "1df02d614b78865b12d1a5af53183e7dc3951ec91111579b0e720be2656f1564",
+        "bytes": 832237
+      },
+      {
+        "relative": "facial_features_source.png",
+        "sha256": "1d8f8e84c1e817e86bce771985af940a7a5b08df836d9e99ead9606d9ddc033f",
+        "bytes": 196799
+      },
+      {
+        "relative": "latest_unhaired_preview.jpg",
+        "sha256": "48b3a32b2753aa355ff1c8e33c69f1df6ef511fe5e9fe2ce17b9d7620f52c0e5",
+        "bytes": 37024
+      },
+      {
+        "relative": "previous_face_reconstructed.png",
+        "sha256": "f1b5dc230269d5a0430eeb01e9f9fd9fb5c362e4093cac498d4dd07d7162713d",
+        "bytes": 170925
+      },
+      {
+        "relative": "README.md",
+        "sha256": "4d3667fab73a53cb7ebd17bec7e171a4a738f94ffb8431cb50fdc76dd4b60f71",
+        "bytes": 1924
+      },
+      {
+        "relative": "underfill_current_check.jpg",
+        "sha256": "8b5eff1c2d2bd362ea22d25e82b3ffe86a399417cc27fb8936cb9ddd90052dee",
+        "bytes": 19737
+      },
+      {
+        "relative": "validation.json",
+        "sha256": "a3016074df8399babba67e1d851ceee457b8ba14ed6f0fa13adcd60b19b27214",
+        "bytes": 6485
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\face_eyelid_review_v001",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_eyelid_review_v001",
+    "files": [
+      {
+        "relative": "eyelid_matches.json",
+        "sha256": "a59025c1ad0f5ad080f49220afe5685dcc7a90b5a962df298af51e49946d3273",
+        "bytes": 543
+      },
+      {
+        "relative": "eyelid_placement_comparison.jpg",
+        "sha256": "3020f616a7f303dc80877dea0889b002275336b9218a206e6c2bb37867e8c475",
+        "bytes": 357075
+      },
+      {
+        "relative": "face_notes.png",
+        "sha256": "26a1759be43532c987b2e376c957f68f40caa392fdcb5bbd68338e5203f55482",
+        "bytes": 105683
+      },
+      {
+        "relative": "face_underfill_review.png",
+        "sha256": "615f64913185c5f153111a7d756d480115a2bb20d235b8546f83ca8ef42a0c6c",
+        "bytes": 117069
+      },
+      {
+        "relative": "face_with_eyes.png",
+        "sha256": "73c3f86d24dcd0838f075b268d0cfdbe118131ba41b55e60cc2a8fbe84991065",
+        "bytes": 172069
+      },
+      {
+        "relative": "original_eyes.png",
+        "sha256": "e6a2fbd80cfd5c2ce812eaf6ac6d4c6bf199af7923f060aa0c6304263c937db8",
+        "bytes": 644364
+      },
+      {
+        "relative": "positions_review.json",
+        "sha256": "48e8118d23b005884761345d5e0d6921f7eff4590ff423b6d468656a6917284f",
+        "bytes": 958
+      },
+      {
+        "relative": "REVIEW.md",
+        "sha256": "e17b7297462b58a5f85a65f79cd50dae25b8d0770dae9e6cf7ad37af04b2ee80",
+        "bytes": 2811
+      },
+      {
+        "relative": "review.py",
+        "sha256": "362ddc2c6c36385e63eb95ec1089ba5779bc68f35fb4c22d068f0d38619c9497",
+        "bytes": 2945
+      },
+      {
+        "relative": "Upper_eyelid_left_review.png",
+        "sha256": "332e80bedb57f5b9a0f74d1679627be7fa23228a03361c061ef2f329dac9717f",
+        "bytes": 26432
+      },
+      {
+        "relative": "Upper_eyelid_right_review.png",
+        "sha256": "624f00262af2fb40b6bc007351d28e95cd707d967dd7573709f0ba029be03ea3",
+        "bytes": 30105
+      },
+      {
+        "relative": "source_snapshot\\face_underfill.png",
+        "sha256": "f633bd84b484e60c406f30d30eedf90ef2d28aa55aba1d7f3f129946df0a8ec5",
+        "bytes": 147939
+      },
+      {
+        "relative": "source_snapshot\\Upper_eyelid_left.png",
+        "sha256": "99238f31d5ef46f12e53e0e07af5bdf1f2c4691db4c9947b959251970383e638",
+        "bytes": 25771
+      },
+      {
+        "relative": "source_snapshot\\Upper_eyelid_right.png",
+        "sha256": "63918c04979ba16ea513974c33b9d3c3f6859196fd0701277bf1cbec1ebaf7c2",
+        "bytes": 26354
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\face_manual_review_v009",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_manual_review_v009",
+    "files": [
+      {
+        "relative": "audit.json",
+        "sha256": "82b3cff31d5a2fcf13e8ed859537edc938b05500bf29fbf0a8ae817828a48662",
+        "bytes": 11758
+      },
+      {
+        "relative": "comparison.jpg",
+        "sha256": "e47c49cf30efcf1a17cfe219abc5b9950fe66a80c428fc80d01e258465466cb2",
+        "bytes": 328783
+      },
+      {
+        "relative": "contour_detail.jpg",
+        "sha256": "d014a7c7a435bd252067d04537b0d2d785ee416c92a1b23080a0c6042b54dcf0",
+        "bytes": 134287
+      },
+      {
+        "relative": "current_with_hair.jpg",
+        "sha256": "16be9d1e56e9e9f6a78781be8b52b48d429ba777d8c62593592eae21245abbb6",
+        "bytes": 281491
+      },
+      {
+        "relative": "details.py",
+        "sha256": "9a51ddd45426feb43e83aa73762b7c4d7c2cae86fc4dc1832162646c64063836",
+        "bytes": 2166
+      },
+      {
+        "relative": "edge_details.jpg",
+        "sha256": "a8a4404cbaa775d25b4dd16e61a4d16ed189ef5bb4d742d7d98c935981489735",
+        "bytes": 132583
+      },
+      {
+        "relative": "eyes_detail.jpg",
+        "sha256": "c16296150681182fe6b0bbaa334555b5c1753cb90bd7df799da83cb1b5df83de",
+        "bytes": 301457
+      },
+      {
+        "relative": "layer_00.png",
+        "sha256": "311085475d9556ff005e3f829a6d253c9cc279243639764105a1e84092e9f2f2",
+        "bytes": 105939
+      },
+      {
+        "relative": "layer_01.png",
+        "sha256": "c5869fcc3e75b45a79e21d1bb74c27ab0e3e6f6d3e7f1025629200d194ab233a",
+        "bytes": 4171
+      },
+      {
+        "relative": "layer_02.png",
+        "sha256": "37a37fda5a6ac04a27b311a0316a46d2f2d1166d742be51f8ef52dc3261618ca",
+        "bytes": 17774
+      },
+      {
+        "relative": "layer_03.png",
+        "sha256": "a556737a2312c9023e8ac0b5982cffebe974173ae23e1c78661860ae3a5bbf67",
+        "bytes": 3585
+      },
+      {
+        "relative": "layer_04.png",
+        "sha256": "7eeec9b4427c42d9c43b66b79b46f37f99d38cd8808e82af452d91936d171c08",
+        "bytes": 11057
+      },
+      {
+        "relative": "layer_05.png",
+        "sha256": "27101c3d55f81f6c46b021149abcdfadd5090984e8f9b34c6ebee1f720e7a4c6",
+        "bytes": 4092
+      },
+      {
+        "relative": "layer_06.png",
+        "sha256": "4fff93ec5ca6f7733992f04a8c13402353d50816f58c97db47a59ecc988c7395",
+        "bytes": 16914
+      },
+      {
+        "relative": "layer_07.png",
+        "sha256": "919491aa392c01fc5f35177a3ced53ae934d224d62298a2c768021c01c9caeaf",
+        "bytes": 3910
+      },
+      {
+        "relative": "layer_08.png",
+        "sha256": "4737073f451bb1e3a54d75806f9db246f84b6e23e824f4e98b237ea96582c682",
+        "bytes": 10973
+      },
+      {
+        "relative": "layer_09.png",
+        "sha256": "db46a876798e151695eef3824b2bf07ff5c4ea5f9679855f8afb2683332bbdc1",
+        "bytes": 1581
+      },
+      {
+        "relative": "layer_10.png",
+        "sha256": "debeb2cd31554a7deadbd45c278d3f1e1af510a97131efdfd44310994d0e8c6c",
+        "bytes": 2111
+      },
+      {
+        "relative": "layer_11.png",
+        "sha256": "8ec050c1c78c8b7ab56c1252b979909699d2120257b5f36735f45d5adacb2d20",
+        "bytes": 3542
+      },
+      {
+        "relative": "parts_sheet.jpg",
+        "sha256": "2e524480328b5ffd83d2859499c4c221512664aaf959ebc2cc6e115455e406d4",
+        "bytes": 221021
+      },
+      {
+        "relative": "psd_inventory.json",
+        "sha256": "ee4cd5cf693f2143a9a6b8b818321867e70bb87971adca22454c4e1a8277f08e",
+        "bytes": 2609
+      },
+      {
+        "relative": "psd_source_check.json",
+        "sha256": "4fde5325d2de0c16a90fa3a492e1d86d80f9b1d3c640ba3d9d8e428347d59d61",
+        "bytes": 4360
+      },
+      {
+        "relative": "REVIEW.md",
+        "sha256": "66727b7c48ae36593595166963f71fa0609d8dfce5645f4e53b3919927dcba6f",
+        "bytes": 4702
+      },
+      {
+        "relative": "review.py",
+        "sha256": "26f63969cc3dc3c571c9924419fdbbd2fbbe113207bf424f73c674f238aa79ab",
+        "bytes": 4739
+      },
+      {
+        "relative": "sample.jpg",
+        "sha256": "b84e1154bfd1a0beea964e735312c24b5facde49983fe2f227fc420cc460c626",
+        "bytes": 36445
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head_comparison_20260924",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924",
+    "files": [
+      {
+        "relative": "assembly.json",
+        "sha256": "711d87f1186a40191bb4e1d583d62bf19e1b167aa13f5b6de588e02d1c5d6c8d",
+        "bytes": 6079
+      },
+      {
+        "relative": "build_face.py",
+        "sha256": "a92fc48d6d560b3f07f7b267773fe24686fcd5c371c2ad49965905341f3f9ecf",
+        "bytes": 5467
+      },
+      {
+        "relative": "build_head.py",
+        "sha256": "483e273430dbfc168a89a60c27cdafdef196c63289efdff4beb9cf6c9160e53e",
+        "bytes": 4940
+      },
+      {
+        "relative": "comparison.jpg",
+        "sha256": "1c219aed7e6e4504ca323f22cbf544da7a1f7c3f43c8eae3415878450af964b4",
+        "bytes": 134143
+      },
+      {
+        "relative": "detail_comparison.jpg",
+        "sha256": "1840270ae6c3a3a9235fa56451811d2e5d3306c545d0b9defd231529a28ed97e",
+        "bytes": 195799
+      },
+      {
+        "relative": "face_sample.png",
+        "sha256": "610a4ed5f8b1d49fbb227b618a5ed7877cb9f25b7729436603e4682e37c772c1",
+        "bytes": 178070
+      },
+      {
+        "relative": "face_sample_gray.png",
+        "sha256": "4a4083b0e2f0da850d8029b4d3ee4a29018113b402e2ea26c0db5fdd785ecbeb",
+        "bytes": 155924
+      },
+      {
+        "relative": "original_features_comparison.jpg",
+        "sha256": "102b32a6f39ab42cd93e2b5ba8f3c5b0fcc44ad134e7c396f5d399929561eb41",
+        "bytes": 222703
+      },
+      {
+        "relative": "placement_reference_gray.png",
+        "sha256": "5bfbee9ae931f02cc9f80238e55b218e1a0f9d6adbab2af19e2a5f20e07b2beb",
+        "bytes": 155928
+      },
+      {
+        "relative": "source_snapshot\\ALT_eyelash_upper_L.png",
+        "sha256": "6a1e4070e6d2e06df01052b822f25ecd878d09269725291faac26fa365032e9e",
+        "bytes": 28169
+      },
+      {
+        "relative": "source_snapshot\\ALT_eyelash_upper_R.png",
+        "sha256": "1dff844b9527fd4a1b2fb4587c10a6ce1047145f7fc63cc2a4746e3ccf1e6440",
+        "bytes": 28208
+      },
+      {
+        "relative": "source_snapshot\\ALT_iris_L_blue.png",
+        "sha256": "f232f20d44def5e10c06f6957c50e74be99f0aae909b04c4b5b97ec180f9bc05",
+        "bytes": 35388
+      },
+      {
+        "relative": "source_snapshot\\ALT_iris_R_brown.png",
+        "sha256": "1912823fb0bc5d6b2994ec975e1cae61fb1d4ad53905d8d0d9adcfae03b96601",
+        "bytes": 36049
+      },
+      {
+        "relative": "source_snapshot\\brow_L.png",
+        "sha256": "1d259eb00870a694a6ddba562e9821babc5bf5dcec19c68b0a1f59ecf4d34dfb",
+        "bytes": 21020
+      },
+      {
+        "relative": "source_snapshot\\brow_R.png",
+        "sha256": "c84aa7bb7869b5bf633d1212296e52795d078f1b48eb856e85f6daf108c9cc74",
+        "bytes": 22773
+      },
+      {
+        "relative": "source_snapshot\\face_underfill.png",
+        "sha256": "01f1f19bd3d29e79df8e3cd40b4feeaa52a76964f947fd9a041eb829f213e5ee",
+        "bytes": 128342
+      },
+      {
+        "relative": "source_snapshot\\facial_feature.png",
+        "sha256": "01dfe6507a95db1541790c0c3a4c81248803125a98afc6c932df6df0864b2361",
+        "bytes": 198929
+      },
+      {
+        "relative": "source_snapshot\\FILL_eye_white_L.png",
+        "sha256": "01c227543b1022dc4a8d61aab1483c7a94299a1e204d477c8e241594f4987726",
+        "bytes": 22994
+      },
+      {
+        "relative": "source_snapshot\\FILL_eye_white_R.png",
+        "sha256": "0b6e3077fb2c2e0d93fa40a988bcced3e66b6949cd9849aaf4a032210ac87a7c",
+        "bytes": 22994
+      },
+      {
+        "relative": "source_snapshot\\lower_eyelid_left.png",
+        "sha256": "11046d47e00e1b5930ab23d312dfda4b047ae61e3d548a59f5e4a0587ad24fe5",
+        "bytes": 23309
+      },
+      {
+        "relative": "source_snapshot\\lower_eyelid_right.png",
+        "sha256": "ffb3942db69111672964c0426051198a3cf6865f7d2fd31bf9b4b3077c064e92",
+        "bytes": 22894
+      },
+      {
+        "relative": "source_snapshot\\mouth_closed.png",
+        "sha256": "5f0b8bc2594a58b935f2b4929e1c20e72a5ad35e649bc906d6d827ee73f10ca6",
+        "bytes": 20671
+      },
+      {
+        "relative": "source_snapshot\\ren-stand-pony-front-4000x6000.png",
+        "sha256": "edf3b0317f981568b29f04fc1dbaeebae416b164741c2dee2499d0a6116a4817",
+        "bytes": 4132582
+      },
+      {
+        "relative": "source_snapshot\\upper_crease_L.png",
+        "sha256": "bd9d9b116d0a6346dca7485f5dbae57178a469274fc75d5009a0f71d0fbf0155",
+        "bytes": 2502
+      },
+      {
+        "relative": "source_snapshot\\upper_crease_R.png",
+        "sha256": "b21b6161eadda172aae5911b7ef47d7a8b40b590907458517b2d8e657cee9390",
+        "bytes": 23706
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_motion_v001",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001",
+    "files": [
+      {
+        "relative": "build_mouth.py",
+        "sha256": "1f99864551bad244c8e909185844c682e76665d70c04cc09469e54ebe9c17d43",
+        "bytes": 8570
+      },
+      {
+        "relative": "face_states.jpg",
+        "sha256": "b28afb37a17ac5a11c7c3086ae0f1dc809818598c0e568eca7697f1a12e8eabe",
+        "bytes": 80720
+      },
+      {
+        "relative": "mouth_preview.gif",
+        "sha256": "8b940356a18af94e8f8f977d3cebb43a5820d0d80b180783e9f93f751c24d2ac",
+        "bytes": 1075878
+      },
+      {
+        "relative": "mouth_states.jpg",
+        "sha256": "3bd1abeefa46dae6bb5df26dfd3d7183345b5f72d7bd34addf27529777277b01",
+        "bytes": 71397
+      },
+      {
+        "relative": "README.md",
+        "sha256": "5ab3a8b281196d212802c2e26f16c00f96aa528f841e433908ff17bc61460c01",
+        "bytes": 4608
+      },
+      {
+        "relative": "transition_contact_sheet.jpg",
+        "sha256": "79420b2a99b281ab9bdaf4046012350a849e10fdbc86e6a116bc88ec38990432",
+        "bytes": 126966
+      },
+      {
+        "relative": "validation.json",
+        "sha256": "ee518e1eef8233a74b5212f34fd0ca91fda6a76d1723722d210524afbc70ca75",
+        "bytes": 3046
+      },
+      {
+        "relative": "closed\\assembled.png",
+        "sha256": "6c1fed8c8d33da9a6c4f46f185746c1c01e6544bece6b2948c1945a80b768c07",
+        "bytes": 180552
+      },
+      {
+        "relative": "closed\\independent_verification.json",
+        "sha256": "41479f1d351d950a30848edcdcda5e97b78ba06799019dfbdbb9a53718ae2724",
+        "bytes": 921
+      },
+      {
+        "relative": "closed\\manifest.json",
+        "sha256": "5ffe98b94b4a7c4a5c60ac6a025f202d37bd411ed03832f07ef12d900d2f471b",
+        "bytes": 2438
+      },
+      {
+        "relative": "closed\\preview.png",
+        "sha256": "89691080db8bd871b7fbc8ce0e1259923087828ee3e25056b7c1fd6bf885b01c",
+        "bytes": 175183
+      },
+      {
+        "relative": "closed\\psd_verification.json",
+        "sha256": "9a7977d869992a34f864c744156ba48cd8e27028f02d314a18e25650f4a556ed",
+        "bytes": 8142
+      },
+      {
+        "relative": "closed\\python_composite.png",
+        "sha256": "cce50130cc8b2166ef2ba0c663b0e25343248836b0cb7117e290cf5cade91b6d",
+        "bytes": 177571
+      },
+      {
+        "relative": "closed\\Ren_mouth_closed_v001.psd",
+        "sha256": "7fb1de371396e7d5ca109f09bebcc9c4ebbdb974935ddf32d0aa335b6c0e91be",
+        "bytes": 695377
+      },
+      {
+        "relative": "open\\assembled.png",
+        "sha256": "59eee7be8c0b504792a33db9ebee695dd955543ddc3618e2f1848bc08a71f345",
+        "bytes": 194394
+      },
+      {
+        "relative": "open\\independent_verification.json",
+        "sha256": "bb4f4cbe5c08acb7e6817c2b112188fdd3894d2418d455ed521b6b710749c4d6",
+        "bytes": 920
+      },
+      {
+        "relative": "open\\manifest.json",
+        "sha256": "39ff98c493c657cb5a84f17c80513cf55ee0c4831a686efd037990d5d02c890c",
+        "bytes": 2452
+      },
+      {
+        "relative": "open\\preview.png",
+        "sha256": "b3d8ac390c2bf8b84e8a0a013ea7accbf0d11a03db4e48bafbfa935f6f68f81a",
+        "bytes": 188942
+      },
+      {
+        "relative": "open\\psd_verification.json",
+        "sha256": "a33c2f068e62582cab01da4e4a394e918e1fb992386848df1eab17598c5f5e53",
+        "bytes": 8554
+      },
+      {
+        "relative": "open\\python_composite.png",
+        "sha256": "faf8c24af6d100b21238830b0108d7230472c1b013e847e9851bb80c4942367f",
+        "bytes": 192987
+      },
+      {
+        "relative": "open\\Ren_mouth_open_v001.psd",
+        "sha256": "c04a698b5dcc58c4dc6ca42114654b7613b38438a3a987d7e46ab7ba3ea188a4",
+        "bytes": 755470
+      },
+      {
+        "relative": "small\\assembled.png",
+        "sha256": "42a86227254b0309d47ee79df9c248bcf0302fc36b9e3e9e9454eeecb106cdd1",
+        "bytes": 182819
+      },
+      {
+        "relative": "small\\independent_verification.json",
+        "sha256": "ef47e15d57a8d179b1863566bcae88b60688f415c9149651eab56db5a4c4948b",
+        "bytes": 919
+      },
+      {
+        "relative": "small\\manifest.json",
+        "sha256": "a718110d24cf005dbed60fcd855f41e346da5bf6ef8247a361a0bc2f65b81758",
+        "bytes": 2456
+      },
+      {
+        "relative": "small\\preview.png",
+        "sha256": "d91c62281aa62fd54a77d13e968eb8a65e2101bcc5b5527c158239772b9c1400",
+        "bytes": 177555
+      },
+      {
+        "relative": "small\\psd_verification.json",
+        "sha256": "c465763d06a4149e7622c94f4c73bef5b4ac25e25c3e1dd8f06b4dbbc650edef",
+        "bytes": 8564
+      },
+      {
+        "relative": "small\\python_composite.png",
+        "sha256": "73949f436fb7203176345d1b5fb958d2d548a45ad3ef7f17ad80f0734b935243",
+        "bytes": 179717
+      },
+      {
+        "relative": "small\\Ren_mouth_small_v001.psd",
+        "sha256": "96e7f663c904f27b575220e80b3cba2a9ca425ab99a4f53c25b902884e86aa78",
+        "bytes": 704491
+      },
+      {
+        "relative": "source_snapshot\\approved_open_eyes_context.png",
+        "sha256": "c41df67029910b1d60a73cea211b8f01e2ad395a19f36619081289877af98bc9",
+        "bytes": 74421
+      },
+      {
+        "relative": "source_snapshot\\face_underfill.png",
+        "sha256": "f7d8727b5b2bfa2816bd4d21148cedba14ee1b6676058836b2a979d070dc07a0",
+        "bytes": 123382
+      },
+      {
+        "relative": "source_snapshot\\mouth_cavity.png",
+        "sha256": "f845f65ad41dd5049443fae32627404b4d0aa3bc3e5af70c761ee9d1ecaa35e2",
+        "bytes": 4934
+      },
+      {
+        "relative": "source_snapshot\\mouth_closed.png",
+        "sha256": "86860b51c7498d50a5db053c530fa11a42a6723d0be576060cfd8206abcbd6f4",
+        "bytes": 20774
+      },
+      {
+        "relative": "source_snapshot\\mouth_rim_lower.png",
+        "sha256": "78033b9291e3a7120f88cd525d3977c771ddfdf2d4910018c8d4866657bb1b29",
+        "bytes": 26556
+      },
+      {
+        "relative": "source_snapshot\\mouth_rim_upper.png",
+        "sha256": "5fdd579737481dc78d5a2bbcd73ab8ec028f8300c63e472b8a0d003dc8571691",
+        "bytes": 29111
+      },
+      {
+        "relative": "source_snapshot\\mouth_teeth_upper.png",
+        "sha256": "43fab6e7e41ca68d73942c5f7d54d52793ad4f4df755773a44fd0ef8ff9255a4",
+        "bytes": 25362
+      },
+      {
+        "relative": "source_snapshot\\mouth_tongue.png",
+        "sha256": "aaff8d6a86d6093e5b274016f49d2daa4290100ee50dd6aeab094ff1b6fd277a",
+        "bytes": 10539
+      },
+      {
+        "relative": "closed\\parts\\eyes_context.png",
+        "sha256": "66600bc5d7848acaa8e7a18a98fa488d48a7e69b1e7ac716aa1d8153e8f9dbc8",
+        "bytes": 67904
+      },
+      {
+        "relative": "closed\\parts\\face_underfill.png",
+        "sha256": "b9977ae339d7e3081f81ca4a70a2a4fa1ef69df8e2e50c5835bbc130f9388b5a",
+        "bytes": 104782
+      },
+      {
+        "relative": "closed\\parts\\mouth_cavity.png",
+        "sha256": "c2153f77e11087fcb078ae38527fa83bef29791e3700e30cc87fec4405a66d0f",
+        "bytes": 70
+      },
+      {
+        "relative": "closed\\parts\\mouth_closed.png",
+        "sha256": "1c2475a7b5a6397892e76007f39582e9e6d23e77696c09b4000d1cd16614191f",
+        "bytes": 1976
+      },
+      {
+        "relative": "closed\\parts\\mouth_rim_lower.png",
+        "sha256": "c2153f77e11087fcb078ae38527fa83bef29791e3700e30cc87fec4405a66d0f",
+        "bytes": 70
+      },
+      {
+        "relative": "closed\\parts\\mouth_rim_upper.png",
+        "sha256": "c2153f77e11087fcb078ae38527fa83bef29791e3700e30cc87fec4405a66d0f",
+        "bytes": 70
+      },
+      {
+        "relative": "closed\\parts\\mouth_teeth_upper.png",
+        "sha256": "c2153f77e11087fcb078ae38527fa83bef29791e3700e30cc87fec4405a66d0f",
+        "bytes": 70
+      },
+      {
+        "relative": "closed\\parts\\mouth_tongue.png",
+        "sha256": "c2153f77e11087fcb078ae38527fa83bef29791e3700e30cc87fec4405a66d0f",
+        "bytes": 70
+      },
+      {
+        "relative": "closed\\parts\\REF_mouth_cavity.png",
+        "sha256": "907cf8631f6342a08e81cf28567d24a7bdde2856014a3d2626ea17e0c21f60ee",
+        "bytes": 5213
+      },
+      {
+        "relative": "closed\\parts\\REF_mouth_rim_lower.png",
+        "sha256": "c14750492c3cf262c4e499bac4b2f70c903ec17aedb0c137a32ab173c4b14e6b",
+        "bytes": 7388
+      },
+      {
+        "relative": "closed\\parts\\REF_mouth_rim_upper.png",
+        "sha256": "fdbe20d7bc70abe8b5f10d0167d5816d0fba7044cd8ae9ceab1e3b2a476eec8b",
+        "bytes": 10112
+      },
+      {
+        "relative": "closed\\parts\\REF_mouth_teeth_upper.png",
+        "sha256": "356b808c921fad735154c9ed45754a884cc12db1b0c6059267a6cdc86f9a0ea0",
+        "bytes": 14911
+      },
+      {
+        "relative": "closed\\parts\\REF_mouth_tongue.png",
+        "sha256": "4f14d23a708cd3382508c3ec7d8bea0de5a4eeba2dc494f799cf3c16d2221abb",
+        "bytes": 10602
+      },
+      {
+        "relative": "open\\parts\\eyes_context.png",
+        "sha256": "66600bc5d7848acaa8e7a18a98fa488d48a7e69b1e7ac716aa1d8153e8f9dbc8",
+        "bytes": 67904
+      },
+      {
+        "relative": "open\\parts\\face_underfill.png",
+        "sha256": "b9977ae339d7e3081f81ca4a70a2a4fa1ef69df8e2e50c5835bbc130f9388b5a",
+        "bytes": 104782
+      },
+      {
+        "relative": "open\\parts\\mouth_cavity.png",
+        "sha256": "54391de0247f8ed4e4bff170093ad65d58f6f21700f417e05e406bf8453e54d7",
+        "bytes": 4310
+      },
+      {
+        "relative": "open\\parts\\mouth_closed.png",
+        "sha256": "c2153f77e11087fcb078ae38527fa83bef29791e3700e30cc87fec4405a66d0f",
+        "bytes": 70
+      },
+      {
+        "relative": "open\\parts\\mouth_rim_lower.png",
+        "sha256": "4bd9e18511e34613916ee54cd89798d4611ff2adcb9692f9dcddd4a5f43346c5",
+        "bytes": 5260
+      },
+      {
+        "relative": "open\\parts\\mouth_rim_upper.png",
+        "sha256": "8d210614486cc16b9ef9db3087c791404952c056ded0978546f4541f690bb1c4",
+        "bytes": 6883
+      },
+      {
+        "relative": "open\\parts\\mouth_teeth_upper.png",
+        "sha256": "0a51950dfd392bd11dc63481e9832889572e63e4c95b09eb72cfc3b519cf8f86",
+        "bytes": 9598
+      },
+      {
+        "relative": "open\\parts\\mouth_tongue.png",
+        "sha256": "75d948aa5d45d9fd95098ecc0a8cb254af97fe761a67f41e4e2535869cd2d01b",
+        "bytes": 7260
+      },
+      {
+        "relative": "open\\parts\\REF_mouth_cavity.png",
+        "sha256": "907cf8631f6342a08e81cf28567d24a7bdde2856014a3d2626ea17e0c21f60ee",
+        "bytes": 5213
+      },
+      {
+        "relative": "open\\parts\\REF_mouth_rim_lower.png",
+        "sha256": "c14750492c3cf262c4e499bac4b2f70c903ec17aedb0c137a32ab173c4b14e6b",
+        "bytes": 7388
+      },
+      {
+        "relative": "open\\parts\\REF_mouth_rim_upper.png",
+        "sha256": "fdbe20d7bc70abe8b5f10d0167d5816d0fba7044cd8ae9ceab1e3b2a476eec8b",
+        "bytes": 10112
+      },
+      {
+        "relative": "open\\parts\\REF_mouth_teeth_upper.png",
+        "sha256": "356b808c921fad735154c9ed45754a884cc12db1b0c6059267a6cdc86f9a0ea0",
+        "bytes": 14911
+      },
+      {
+        "relative": "open\\parts\\REF_mouth_tongue.png",
+        "sha256": "4f14d23a708cd3382508c3ec7d8bea0de5a4eeba2dc494f799cf3c16d2221abb",
+        "bytes": 10602
+      },
+      {
+        "relative": "small\\parts\\eyes_context.png",
+        "sha256": "66600bc5d7848acaa8e7a18a98fa488d48a7e69b1e7ac716aa1d8153e8f9dbc8",
+        "bytes": 67904
+      },
+      {
+        "relative": "small\\parts\\face_underfill.png",
+        "sha256": "b9977ae339d7e3081f81ca4a70a2a4fa1ef69df8e2e50c5835bbc130f9388b5a",
+        "bytes": 104782
+      },
+      {
+        "relative": "small\\parts\\mouth_cavity.png",
+        "sha256": "ddf19ebff4f17a8cf3783bfec98e2ff7b57b4bff92f5dfbfedadcffa10de4cf4",
+        "bytes": 1159
+      },
+      {
+        "relative": "small\\parts\\mouth_closed.png",
+        "sha256": "c2153f77e11087fcb078ae38527fa83bef29791e3700e30cc87fec4405a66d0f",
+        "bytes": 70
+      },
+      {
+        "relative": "small\\parts\\mouth_rim_lower.png",
+        "sha256": "dc0c689d9424e1a94290e3906eaa0a61708918da808304a3878634420eff731e",
+        "bytes": 2952
+      },
+      {
+        "relative": "small\\parts\\mouth_rim_upper.png",
+        "sha256": "ca32c7e9a4323ca9773e4e91c1e0955d009cf7e101fda8f818768bbc005809b0",
+        "bytes": 2906
+      },
+      {
+        "relative": "small\\parts\\mouth_teeth_upper.png",
+        "sha256": "3fe41b0d6a4ca886fcc85cd61c1af8add35f9e1593a6b8332a55e52ae6e6b4d4",
+        "bytes": 146
+      },
+      {
+        "relative": "small\\parts\\mouth_tongue.png",
+        "sha256": "c258eba95416619563dd34a7a1dd44985b65b5e81c2dec1c2367ac1a8cd3c9ae",
+        "bytes": 207
+      },
+      {
+        "relative": "small\\parts\\REF_mouth_cavity.png",
+        "sha256": "907cf8631f6342a08e81cf28567d24a7bdde2856014a3d2626ea17e0c21f60ee",
+        "bytes": 5213
+      },
+      {
+        "relative": "small\\parts\\REF_mouth_rim_lower.png",
+        "sha256": "c14750492c3cf262c4e499bac4b2f70c903ec17aedb0c137a32ab173c4b14e6b",
+        "bytes": 7388
+      },
+      {
+        "relative": "small\\parts\\REF_mouth_rim_upper.png",
+        "sha256": "fdbe20d7bc70abe8b5f10d0167d5816d0fba7044cd8ae9ceab1e3b2a476eec8b",
+        "bytes": 10112
+      },
+      {
+        "relative": "small\\parts\\REF_mouth_teeth_upper.png",
+        "sha256": "356b808c921fad735154c9ed45754a884cc12db1b0c6059267a6cdc86f9a0ea0",
+        "bytes": 14911
+      },
+      {
+        "relative": "small\\parts\\REF_mouth_tongue.png",
+        "sha256": "4f14d23a708cd3382508c3ec7d8bea0de5a4eeba2dc494f799cf3c16d2221abb",
+        "bytes": 10602
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_motion_v002",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002",
+    "files": [
+      {
+        "relative": "before_after.jpg",
+        "sha256": "34cc579398f63d025fadbe4ada02064feee6aaa1e8d14c00ab022d552d206baf",
+        "bytes": 66051
+      },
+      {
+        "relative": "build_mouth.py",
+        "sha256": "b737811cfe15be1343a9a3cbbe1299dad01041ff268701e90e396c703af6f800",
+        "bytes": 8922
+      },
+      {
+        "relative": "face_states.jpg",
+        "sha256": "7760920159269b5f3730a12c40696f1e13bad9670415f66dc5d43b96056bab89",
+        "bytes": 106130
+      },
+      {
+        "relative": "mouth_preview.gif",
+        "sha256": "79148f7eaf677ab2a5840d2092f5ecbd8dfc8bd96817cffc51bd6b7dd139f63b",
+        "bytes": 1083328
+      },
+      {
+        "relative": "mouth_states.jpg",
+        "sha256": "2ac6d5fe97ef89ca9fbe3df6aee7021891c9dbff353079d4fcbca62d0a546e45",
+        "bytes": 92993
+      },
+      {
+        "relative": "README.md",
+        "sha256": "4176ef68095179946cb2beb22859d97478f3d5f82da5ca6752b7c72c3df54836",
+        "bytes": 3537
+      },
+      {
+        "relative": "revision_metrics.json",
+        "sha256": "0bbf75a179318d45b6cfc42c5936d8ddfd281487d117508dbdde16fbbd519253",
+        "bytes": 299
+      },
+      {
+        "relative": "transition_contact_sheet.jpg",
+        "sha256": "60bbb63b9c40c4294ca2d6a8725bdba7f87e04fceb0c72afb9df4b8826941c04",
+        "bytes": 123126
+      },
+      {
+        "relative": "validation.json",
+        "sha256": "a8e7c784013887963b293aff0e80d3fb394c4ad03d5fdfb419f2e7a5cee800f1",
+        "bytes": 3251
+      },
+      {
+        "relative": "closed\\assembled.png",
+        "sha256": "6c1fed8c8d33da9a6c4f46f185746c1c01e6544bece6b2948c1945a80b768c07",
+        "bytes": 180552
+      },
+      {
+        "relative": "closed\\independent_verification.json",
+        "sha256": "41479f1d351d950a30848edcdcda5e97b78ba06799019dfbdbb9a53718ae2724",
+        "bytes": 921
+      },
+      {
+        "relative": "closed\\manifest.json",
+        "sha256": "ed3919e70118b824c8cdf9c09004b73ab7cafaa1d874661314a5699118d20555",
+        "bytes": 2438
+      },
+      {
+        "relative": "closed\\preview.png",
+        "sha256": "89691080db8bd871b7fbc8ce0e1259923087828ee3e25056b7c1fd6bf885b01c",
+        "bytes": 175183
+      },
+      {
+        "relative": "closed\\psd_verification.json",
+        "sha256": "4d9a01be00914b73c4594c12ffdeaa26bf33907b706ec9d00bdc16be5d9894bd",
+        "bytes": 8142
+      },
+      {
+        "relative": "closed\\python_composite.png",
+        "sha256": "cce50130cc8b2166ef2ba0c663b0e25343248836b0cb7117e290cf5cade91b6d",
+        "bytes": 177571
+      },
+      {
+        "relative": "closed\\Ren_mouth_closed_v002.psd",
+        "sha256": "7fb1de371396e7d5ca109f09bebcc9c4ebbdb974935ddf32d0aa335b6c0e91be",
+        "bytes": 695377
+      },
+      {
+        "relative": "medium\\assembled.png",
+        "sha256": "71c55f81427163800c0ad90a33b949206b85f7be999b947dfcaf8bc2bce4ad62",
+        "bytes": 186940
+      },
+      {
+        "relative": "medium\\independent_verification.json",
+        "sha256": "b8557ab065cb342e5c1ecc9c1dbdb01dbf101f970ad3746a5b9b08981f285c1e",
+        "bytes": 919
+      },
+      {
+        "relative": "medium\\manifest.json",
+        "sha256": "7b370b6a171462df9d5bd48508f5c97f91a605d4b818e0634099b9cf4e251227",
+        "bytes": 2457
+      },
+      {
+        "relative": "medium\\preview.png",
+        "sha256": "1bfbd00869bc71ee31bef16e53accd3627f0e6a23dd81338f7f2ef2ac1a0ff88",
+        "bytes": 181441
+      },
+      {
+        "relative": "medium\\psd_verification.json",
+        "sha256": "4462b2b9c72545ff48dbe08a4426c5ebd4f91da04875fbb6ec328dc1c0e6f62b",
+        "bytes": 8585
+      },
+      {
+        "relative": "medium\\python_composite.png",
+        "sha256": "12aa384aa2a80141dec664c0770870e1db6e04eb1739a34c8b40d72d49c919e2",
+        "bytes": 183788
+      },
+      {
+        "relative": "medium\\Ren_mouth_medium_v002.psd",
+        "sha256": "6d666faec32dca25ae97a851c87bd93584f18cca75515f20aa2ac212531e6743",
+        "bytes": 717153
+      },
+      {
+        "relative": "open\\assembled.png",
+        "sha256": "3f5c4342916e49ef533a483544ad4440b5530b30c5067eb2cfeccace27bd8609",
+        "bytes": 190702
+      },
+      {
+        "relative": "open\\independent_verification.json",
+        "sha256": "65b72f77b4963ed65d96dac90b69da86cbdb4aedcaaf26b6325b2353d7041a86",
+        "bytes": 920
+      },
+      {
+        "relative": "open\\manifest.json",
+        "sha256": "af851083044706d609b92b1ecc629b76076f24ab0ae363fa22699b084c8b3491",
+        "bytes": 2452
+      },
+      {
+        "relative": "open\\preview.png",
+        "sha256": "b3bf7bf20f548c07a6f31ecf26e2b211fe33197be2aca8d09ccbe086768638b2",
+        "bytes": 186082
+      },
+      {
+        "relative": "open\\psd_verification.json",
+        "sha256": "92e9b4020a59e81d0e43bc3af31ccab1c8a56c34eda0da0c50479025a728eded",
+        "bytes": 8552
+      },
+      {
+        "relative": "open\\python_composite.png",
+        "sha256": "91d4d4557fc2b3d2943bbaf289e260eb37c444e0fb0257c789c7b742bf4ebc4f",
+        "bytes": 188514
+      },
+      {
+        "relative": "open\\Ren_mouth_open_v002.psd",
+        "sha256": "cebcd0cbd12e9032a5e4010b4fc3e9e063411a24069346c9faae421cbd4513da",
+        "bytes": 733344
+      },
+      {
+        "relative": "small\\assembled.png",
+        "sha256": "add5efd2cf7558d86939f6af3724c9e1f32a7010e75eb7cc26296de4c00534df",
+        "bytes": 184727
+      },
+      {
+        "relative": "small\\independent_verification.json",
+        "sha256": "b919ff687487bb5926914e36353fc81aee1fa676d4160562990e64f9c81eb68e",
+        "bytes": 921
+      },
+      {
+        "relative": "small\\manifest.json",
+        "sha256": "a62e104c3f3b59bac0cc07e8d0703c3ee9eee42f74ce6012a4893aede354a9aa",
+        "bytes": 2456
+      },
+      {
+        "relative": "small\\preview.png",
+        "sha256": "e20f55ff206c531157726142ffb0296ecd61ecf8449bbaff476bb10f4fada094",
+        "bytes": 179300
+      },
+      {
+        "relative": "small\\psd_verification.json",
+        "sha256": "6e220ac7774fc35600a485a888ed26b5275583d28786d3c28ce9172b4e945e67",
+        "bytes": 8567
+      },
+      {
+        "relative": "small\\python_composite.png",
+        "sha256": "47b5239fa5347485311a97a5a09c13ba62fdd81b681b09513bda94da3693835f",
+        "bytes": 181336
+      },
+      {
+        "relative": "small\\Ren_mouth_small_v002.psd",
+        "sha256": "af185a0c87a0ccfdfa7675a8657fe98e7321562c57fbfb7533486388583a0632",
+        "bytes": 708281
+      },
+      {
+        "relative": "source_snapshot\\approved_open_eyes_context.png",
+        "sha256": "c41df67029910b1d60a73cea211b8f01e2ad395a19f36619081289877af98bc9",
+        "bytes": 74421
+      },
+      {
+        "relative": "source_snapshot\\face_underfill.png",
+        "sha256": "f7d8727b5b2bfa2816bd4d21148cedba14ee1b6676058836b2a979d070dc07a0",
+        "bytes": 123382
+      },
+      {
+        "relative": "source_snapshot\\mouth_cavity.png",
+        "sha256": "f845f65ad41dd5049443fae32627404b4d0aa3bc3e5af70c761ee9d1ecaa35e2",
+        "bytes": 4934
+      },
+      {
+        "relative": "source_snapshot\\mouth_closed.png",
+        "sha256": "86860b51c7498d50a5db053c530fa11a42a6723d0be576060cfd8206abcbd6f4",
+        "bytes": 20774
+      },
+      {
+        "relative": "source_snapshot\\mouth_rim_lower.png",
+        "sha256": "78033b9291e3a7120f88cd525d3977c771ddfdf2d4910018c8d4866657bb1b29",
+        "bytes": 26556
+      },
+      {
+        "relative": "source_snapshot\\mouth_rim_upper.png",
+        "sha256": "5fdd579737481dc78d5a2bbcd73ab8ec028f8300c63e472b8a0d003dc8571691",
+        "bytes": 29111
+      },
+      {
+        "relative": "source_snapshot\\mouth_teeth_upper.png",
+        "sha256": "43fab6e7e41ca68d73942c5f7d54d52793ad4f4df755773a44fd0ef8ff9255a4",
+        "bytes": 25362
+      },
+      {
+        "relative": "source_snapshot\\mouth_tongue.png",
+        "sha256": "aaff8d6a86d6093e5b274016f49d2daa4290100ee50dd6aeab094ff1b6fd277a",
+        "bytes": 10539
+      },
+      {
+        "relative": "closed\\parts\\eyes_context.png",
+        "sha256": "66600bc5d7848acaa8e7a18a98fa488d48a7e69b1e7ac716aa1d8153e8f9dbc8",
+        "bytes": 67904
+      },
+      {
+        "relative": "closed\\parts\\face_underfill.png",
+        "sha256": "b9977ae339d7e3081f81ca4a70a2a4fa1ef69df8e2e50c5835bbc130f9388b5a",
+        "bytes": 104782
+      },
+      {
+        "relative": "closed\\parts\\mouth_cavity.png",
+        "sha256": "c2153f77e11087fcb078ae38527fa83bef29791e3700e30cc87fec4405a66d0f",
+        "bytes": 70
+      },
+      {
+        "relative": "closed\\parts\\mouth_closed.png",
+        "sha256": "1c2475a7b5a6397892e76007f39582e9e6d23e77696c09b4000d1cd16614191f",
+        "bytes": 1976
+      },
+      {
+        "relative": "closed\\parts\\mouth_rim_lower.png",
+        "sha256": "c2153f77e11087fcb078ae38527fa83bef29791e3700e30cc87fec4405a66d0f",
+        "bytes": 70
+      },
+      {
+        "relative": "closed\\parts\\mouth_rim_upper.png",
+        "sha256": "c2153f77e11087fcb078ae38527fa83bef29791e3700e30cc87fec4405a66d0f",
+        "bytes": 70
+      },
+      {
+        "relative": "closed\\parts\\mouth_teeth_upper.png",
+        "sha256": "c2153f77e11087fcb078ae38527fa83bef29791e3700e30cc87fec4405a66d0f",
+        "bytes": 70
+      },
+      {
+        "relative": "closed\\parts\\mouth_tongue.png",
+        "sha256": "c2153f77e11087fcb078ae38527fa83bef29791e3700e30cc87fec4405a66d0f",
+        "bytes": 70
+      },
+      {
+        "relative": "closed\\parts\\REF_mouth_cavity.png",
+        "sha256": "907cf8631f6342a08e81cf28567d24a7bdde2856014a3d2626ea17e0c21f60ee",
+        "bytes": 5213
+      },
+      {
+        "relative": "closed\\parts\\REF_mouth_rim_lower.png",
+        "sha256": "c14750492c3cf262c4e499bac4b2f70c903ec17aedb0c137a32ab173c4b14e6b",
+        "bytes": 7388
+      },
+      {
+        "relative": "closed\\parts\\REF_mouth_rim_upper.png",
+        "sha256": "fdbe20d7bc70abe8b5f10d0167d5816d0fba7044cd8ae9ceab1e3b2a476eec8b",
+        "bytes": 10112
+      },
+      {
+        "relative": "closed\\parts\\REF_mouth_teeth_upper.png",
+        "sha256": "356b808c921fad735154c9ed45754a884cc12db1b0c6059267a6cdc86f9a0ea0",
+        "bytes": 14911
+      },
+      {
+        "relative": "closed\\parts\\REF_mouth_tongue.png",
+        "sha256": "4f14d23a708cd3382508c3ec7d8bea0de5a4eeba2dc494f799cf3c16d2221abb",
+        "bytes": 10602
+      },
+      {
+        "relative": "medium\\parts\\eyes_context.png",
+        "sha256": "66600bc5d7848acaa8e7a18a98fa488d48a7e69b1e7ac716aa1d8153e8f9dbc8",
+        "bytes": 67904
+      },
+      {
+        "relative": "medium\\parts\\face_underfill.png",
+        "sha256": "b9977ae339d7e3081f81ca4a70a2a4fa1ef69df8e2e50c5835bbc130f9388b5a",
+        "bytes": 104782
+      },
+      {
+        "relative": "medium\\parts\\mouth_cavity.png",
+        "sha256": "e6bc5f87549161569c94484b445c78f8de9a88e9d22430a3dcedb8319e446311",
+        "bytes": 1387
+      },
+      {
+        "relative": "medium\\parts\\mouth_closed.png",
+        "sha256": "c2153f77e11087fcb078ae38527fa83bef29791e3700e30cc87fec4405a66d0f",
+        "bytes": 70
+      },
+      {
+        "relative": "medium\\parts\\mouth_rim_lower.png",
+        "sha256": "95333f0b1748eba7cefe9cecfd779ac32836912c3528fe6dd04df99625ee63f7",
+        "bytes": 2824
+      },
+      {
+        "relative": "medium\\parts\\mouth_rim_upper.png",
+        "sha256": "8ef66c3904643a4b4f0a2ba33127847ce9bf6fcc06a55114ed329dc75b40d8ba",
+        "bytes": 2926
+      },
+      {
+        "relative": "medium\\parts\\mouth_teeth_upper.png",
+        "sha256": "c4ec1f0ef6a36bbf8be954a4ac3c85d5a905b4982c86c37ed3fda3e929d96336",
+        "bytes": 4195
+      },
+      {
+        "relative": "medium\\parts\\mouth_tongue.png",
+        "sha256": "412798c68f674471a8b02185115d8d131b0ff33b5d869bef7ed25000dc3e0d8f",
+        "bytes": 2048
+      },
+      {
+        "relative": "medium\\parts\\REF_mouth_cavity.png",
+        "sha256": "907cf8631f6342a08e81cf28567d24a7bdde2856014a3d2626ea17e0c21f60ee",
+        "bytes": 5213
+      },
+      {
+        "relative": "medium\\parts\\REF_mouth_rim_lower.png",
+        "sha256": "c14750492c3cf262c4e499bac4b2f70c903ec17aedb0c137a32ab173c4b14e6b",
+        "bytes": 7388
+      },
+      {
+        "relative": "medium\\parts\\REF_mouth_rim_upper.png",
+        "sha256": "fdbe20d7bc70abe8b5f10d0167d5816d0fba7044cd8ae9ceab1e3b2a476eec8b",
+        "bytes": 10112
+      },
+      {
+        "relative": "medium\\parts\\REF_mouth_teeth_upper.png",
+        "sha256": "356b808c921fad735154c9ed45754a884cc12db1b0c6059267a6cdc86f9a0ea0",
+        "bytes": 14911
+      },
+      {
+        "relative": "medium\\parts\\REF_mouth_tongue.png",
+        "sha256": "4f14d23a708cd3382508c3ec7d8bea0de5a4eeba2dc494f799cf3c16d2221abb",
+        "bytes": 10602
+      },
+      {
+        "relative": "open\\parts\\eyes_context.png",
+        "sha256": "66600bc5d7848acaa8e7a18a98fa488d48a7e69b1e7ac716aa1d8153e8f9dbc8",
+        "bytes": 67904
+      },
+      {
+        "relative": "open\\parts\\face_underfill.png",
+        "sha256": "b9977ae339d7e3081f81ca4a70a2a4fa1ef69df8e2e50c5835bbc130f9388b5a",
+        "bytes": 104782
+      },
+      {
+        "relative": "open\\parts\\mouth_cavity.png",
+        "sha256": "5fb2f0a4c1fb520d93c59181b76208b60daf94c8515eef1594252dac67711cbe",
+        "bytes": 2672
+      },
+      {
+        "relative": "open\\parts\\mouth_closed.png",
+        "sha256": "c2153f77e11087fcb078ae38527fa83bef29791e3700e30cc87fec4405a66d0f",
+        "bytes": 70
+      },
+      {
+        "relative": "open\\parts\\mouth_rim_lower.png",
+        "sha256": "e163bab1d9596655d213bba104b6a8e3065798af44540dcf5729b055aa710c5b",
+        "bytes": 3590
+      },
+      {
+        "relative": "open\\parts\\mouth_rim_upper.png",
+        "sha256": "a9990773ce8cb9a272a728c1c43075e30de2a920cadeae48b499041009ec4222",
+        "bytes": 4460
+      },
+      {
+        "relative": "open\\parts\\mouth_teeth_upper.png",
+        "sha256": "3a55cf8572cab5875cbbc0bff0e131f9dfa2c3a96f04a371c8569f701731efac",
+        "bytes": 6229
+      },
+      {
+        "relative": "open\\parts\\mouth_tongue.png",
+        "sha256": "4795e690dfbb3d2709c20e8371d66b091227e62697594c3975fd65d868303531",
+        "bytes": 4070
+      },
+      {
+        "relative": "open\\parts\\REF_mouth_cavity.png",
+        "sha256": "907cf8631f6342a08e81cf28567d24a7bdde2856014a3d2626ea17e0c21f60ee",
+        "bytes": 5213
+      },
+      {
+        "relative": "open\\parts\\REF_mouth_rim_lower.png",
+        "sha256": "c14750492c3cf262c4e499bac4b2f70c903ec17aedb0c137a32ab173c4b14e6b",
+        "bytes": 7388
+      },
+      {
+        "relative": "open\\parts\\REF_mouth_rim_upper.png",
+        "sha256": "fdbe20d7bc70abe8b5f10d0167d5816d0fba7044cd8ae9ceab1e3b2a476eec8b",
+        "bytes": 10112
+      },
+      {
+        "relative": "open\\parts\\REF_mouth_teeth_upper.png",
+        "sha256": "356b808c921fad735154c9ed45754a884cc12db1b0c6059267a6cdc86f9a0ea0",
+        "bytes": 14911
+      },
+      {
+        "relative": "open\\parts\\REF_mouth_tongue.png",
+        "sha256": "4f14d23a708cd3382508c3ec7d8bea0de5a4eeba2dc494f799cf3c16d2221abb",
+        "bytes": 10602
+      },
+      {
+        "relative": "small\\parts\\eyes_context.png",
+        "sha256": "66600bc5d7848acaa8e7a18a98fa488d48a7e69b1e7ac716aa1d8153e8f9dbc8",
+        "bytes": 67904
+      },
+      {
+        "relative": "small\\parts\\face_underfill.png",
+        "sha256": "b9977ae339d7e3081f81ca4a70a2a4fa1ef69df8e2e50c5835bbc130f9388b5a",
+        "bytes": 104782
+      },
+      {
+        "relative": "small\\parts\\mouth_cavity.png",
+        "sha256": "d58241e22f9885ba0a96b87e2ac1dd1a1162f324dc5c142de0a0da36310b25d5",
+        "bytes": 737
+      },
+      {
+        "relative": "small\\parts\\mouth_closed.png",
+        "sha256": "c2153f77e11087fcb078ae38527fa83bef29791e3700e30cc87fec4405a66d0f",
+        "bytes": 70
+      },
+      {
+        "relative": "small\\parts\\mouth_rim_lower.png",
+        "sha256": "e482a26e274f5825b12737a00e0ee457d19c0f8fe8af52bf1939e5119fc5e4e8",
+        "bytes": 2326
+      },
+      {
+        "relative": "small\\parts\\mouth_rim_upper.png",
+        "sha256": "f648ad300d216acfec9d91a31e48c19fb556409a85ed88abb438f3cd3ec51ca4",
+        "bytes": 2014
+      },
+      {
+        "relative": "small\\parts\\mouth_teeth_upper.png",
+        "sha256": "487fc16235fcff8dcef41f94ad76808d8c82d5bb3f551bd92e518444fd806c90",
+        "bytes": 3433
+      },
+      {
+        "relative": "small\\parts\\mouth_tongue.png",
+        "sha256": "90af0b597756d540433bc0b1b390c747a63879ee64fe8520017b73ccb3ea50b4",
+        "bytes": 639
+      },
+      {
+        "relative": "small\\parts\\REF_mouth_cavity.png",
+        "sha256": "907cf8631f6342a08e81cf28567d24a7bdde2856014a3d2626ea17e0c21f60ee",
+        "bytes": 5213
+      },
+      {
+        "relative": "small\\parts\\REF_mouth_rim_lower.png",
+        "sha256": "c14750492c3cf262c4e499bac4b2f70c903ec17aedb0c137a32ab173c4b14e6b",
+        "bytes": 7388
+      },
+      {
+        "relative": "small\\parts\\REF_mouth_rim_upper.png",
+        "sha256": "fdbe20d7bc70abe8b5f10d0167d5816d0fba7044cd8ae9ceab1e3b2a476eec8b",
+        "bytes": 10112
+      },
+      {
+        "relative": "small\\parts\\REF_mouth_teeth_upper.png",
+        "sha256": "356b808c921fad735154c9ed45754a884cc12db1b0c6059267a6cdc86f9a0ea0",
+        "bytes": 14911
+      },
+      {
+        "relative": "small\\parts\\REF_mouth_tongue.png",
+        "sha256": "4f14d23a708cd3382508c3ec7d8bea0de5a4eeba2dc494f799cf3c16d2221abb",
+        "bytes": 10602
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_overlap_review_v002",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_overlap_review_v002",
+    "files": [
+      {
+        "relative": "aligned.jpg",
+        "sha256": "b746563eca63c5a2041b9f12b3c2417719e74c17ecfa2e3d3ff68388eb026a84",
+        "bytes": 54214
+      },
+      {
+        "relative": "comparison.jpg",
+        "sha256": "ba0d3971e08042e0da56fecb4de3383d40d8ac0a48298938300c20b0049875cc",
+        "bytes": 78807
+      },
+      {
+        "relative": "placement_review.json",
+        "sha256": "11fbd749a0ffe1872e7f2bf616b62c6dd4be5adefc417c12499a79f2ab53e876",
+        "bytes": 181
+      },
+      {
+        "relative": "sources.json",
+        "sha256": "51a7e5356cc73806ee26edcbf97acd3a02c96720b91ca3f5afd021ab4ebb855b",
+        "bytes": 1119
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_review_20260922",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_review_20260922",
+    "files": [
+      {
+        "relative": "parts.jpg",
+        "sha256": "496dde6c6c223face24a3110da7a163f57cd7ece6153156f1a3a5d20727be329",
+        "bytes": 56474
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_review_20260922_repaired",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_review_20260922_repaired",
+    "files": [
+      {
+        "relative": "aligned_draft.jpg",
+        "sha256": "32d1f30250c9306b978f784c12bd8dbb1ee1aa4e9394c1f13534bd9d72b7e01f",
+        "bytes": 49524
+      },
+      {
+        "relative": "review.jpg",
+        "sha256": "39635427dbc7602894b9ed61db0aa760ec8c8291708f74bb42733419ab874856",
+        "bytes": 78895
+      },
+      {
+        "relative": "sources.json",
+        "sha256": "fa66458784cd05b65e4bd1b72a07ec2e7b8b5bf0015a2fbcb4e2ed89d07b0259",
+        "bytes": 903
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_split_v002",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002",
+    "files": [
+      {
+        "relative": "manifest.json",
+        "sha256": "233f3ea16add1ba254f519e0321ae0ed964241d6a0ada6899cde565ee212b533",
+        "bytes": 1151
+      },
+      {
+        "relative": "mouth_assembled.png",
+        "sha256": "964f4935e21af2ab6e54b9238fe232fa6afcad929723cf1bcd67f2051a40cc45",
+        "bytes": 23671
+      },
+      {
+        "relative": "mouth_grid.png",
+        "sha256": "b152f02aad8830aa20539571f7450b7ce3a93ae76af82778b21fa37efa73c63b",
+        "bytes": 221297
+      },
+      {
+        "relative": "mouth_parts_review.jpg",
+        "sha256": "13c32e7a344d4f28366e415306f8aa2b5b586058dd48f01dba830100a7b8af2a",
+        "bytes": 170533
+      },
+      {
+        "relative": "mouth_psd_assembled.png",
+        "sha256": "a5abbf851b3aea0d20d51f10fc86e24d282fb681e306c15c29ad846d73b8e00f",
+        "bytes": 23526
+      },
+      {
+        "relative": "mouth_psd_preview.png",
+        "sha256": "7af5fe1492e3a81af82bd53456af1d57d67d7af4be55c336f585d3138080e7fe",
+        "bytes": 22837
+      },
+      {
+        "relative": "mouth_toggle_check.png",
+        "sha256": "d6c68fb2b6f8bcbddf6767df2245397c5d23f513eef0bf35ef9579c3cf4a6a05",
+        "bytes": 86464
+      },
+      {
+        "relative": "neck_collar_overlay.png",
+        "sha256": "c694359fb090c9736dafaecf11294c2c4dd6edd1f4ffe50d0e3c28b497b4fa6f",
+        "bytes": 172558
+      },
+      {
+        "relative": "neck_collar_review.jpg",
+        "sha256": "04a82cabdcf6e16c4bbaf1fd2099031304d9449e53367c799b0756575c732a32",
+        "bytes": 184674
+      },
+      {
+        "relative": "neck_collar_with_shirt.png",
+        "sha256": "a3fa8d7fdec06d2326dc173a0fa61e169943a686c5248a85500b363aa0d56d0e",
+        "bytes": 299338
+      },
+      {
+        "relative": "neck_extension_review.png",
+        "sha256": "946f0995e483d01676da23cbeddfe27fa352a725928fe061b4e11627f784a4b7",
+        "bytes": 296561
+      },
+      {
+        "relative": "neck_review_placements.json",
+        "sha256": "89564cc209cf6c424a9428fb67f88444c51e51a5d3d7106eeb1a87a1f43db4b7",
+        "bytes": 570
+      },
+      {
+        "relative": "process.py",
+        "sha256": "6783ccca58ca9aeb2bb2b90c68a1fe0b06f8fb2d60e8592eb96fb2f16457d1db",
+        "bytes": 8666
+      },
+      {
+        "relative": "psd_tools_verification.json",
+        "sha256": "40e065a4d5ae75c4f431b20bcb937c05aff1fe9d28ba3e8697fde04413cbded5",
+        "bytes": 904
+      },
+      {
+        "relative": "psd_verification.json",
+        "sha256": "56f12846b4577f9f2d7f0799d9cf72e7376fbc98740d17fe4159792ac3a59bbc",
+        "bytes": 4099
+      },
+      {
+        "relative": "README.md",
+        "sha256": "4840640e867d85fb6a25bfae2c98106fd5ada6ea5acae7f5ee8dfe07d9265394",
+        "bytes": 5318
+      },
+      {
+        "relative": "Ren_mouth_split_v002.psd",
+        "sha256": "3f905428462f8794e4fa1f2e866420fcaec27f07e4252eb2d537cca70e20b455",
+        "bytes": 98934
+      },
+      {
+        "relative": "validation.json",
+        "sha256": "526028614ec439d8c1a18dbe79939afada0fc576c2243e0fde0be115db6652c5",
+        "bytes": 2091
+      },
+      {
+        "relative": "parts\\mouth_cavity.png",
+        "sha256": "f845f65ad41dd5049443fae32627404b4d0aa3bc3e5af70c761ee9d1ecaa35e2",
+        "bytes": 4934
+      },
+      {
+        "relative": "parts\\mouth_rim.psd",
+        "sha256": "5fd03918daee4e9f722dc4ff37bd83c6411c119017cb55396facf382b8c67d67",
+        "bytes": 614148
+      },
+      {
+        "relative": "parts\\mouth_rim_lower.png",
+        "sha256": "78033b9291e3a7120f88cd525d3977c771ddfdf2d4910018c8d4866657bb1b29",
+        "bytes": 26556
+      },
+      {
+        "relative": "parts\\mouth_rim_upper.png",
+        "sha256": "5fdd579737481dc78d5a2bbcd73ab8ec028f8300c63e472b8a0d003dc8571691",
+        "bytes": 29111
+      },
+      {
+        "relative": "parts\\mouth_teeth_upper.png",
+        "sha256": "5c92a79e2992bf346f0ac3ba49cd07021d778e383806c30dcf3732e16d0d6406",
+        "bytes": 6797
+      },
+      {
+        "relative": "parts\\mouth_tongue.png",
+        "sha256": "aaff8d6a86d6093e5b274016f49d2daa4290100ee50dd6aeab094ff1b6fd277a",
+        "bytes": 10539
+      },
+      {
+        "relative": "source_snapshot\\ALT_mouth_interior.png",
+        "sha256": "4e73a905fa043881dd645736190d214eb8ecf649e30f7d07218cba0937ed8338",
+        "bytes": 51167
+      },
+      {
+        "relative": "source_snapshot\\collar_L.png",
+        "sha256": "a39100c8bc26e0454f8b54185d7ec1c6778a5e51aab12153c615784fca53c0dc",
+        "bytes": 144871
+      },
+      {
+        "relative": "source_snapshot\\collar_R.png",
+        "sha256": "9687adac2e9c8758b6f3573300b0423bcb84e864efc3e14f69ce5f738dd1f971",
+        "bytes": 123758
+      },
+      {
+        "relative": "source_snapshot\\neck-clavicle-before-201122.png",
+        "sha256": "980b6f12095c348c1f0ff8082a1f1c08a40acffac5bb6fafcbe028e21043ad00",
+        "bytes": 66598
+      },
+      {
+        "relative": "source_snapshot\\neck-clavicle.png",
+        "sha256": "8737a8fbe163fc0d674849d4e1c53a3ddc21bc496b4ec5b72092f0b53933bb25",
+        "bytes": 64395
+      },
+      {
+        "relative": "source_snapshot\\shirt_inside.png",
+        "sha256": "8c18e3e2f73a62c3b7fb043ef8dd93583ce7dc9f976e1bdcdb570f4fa9d87603",
+        "bytes": 30735
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\overlap_recheck_v002",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\overlap_recheck_v002",
+    "files": [
+      {
+        "relative": "collar_current.jpg",
+        "sha256": "8a17b72a37d1fcef962ca6e91f6184430aa992a667db3e3821573158569e3d88",
+        "bytes": 84132
+      },
+      {
+        "relative": "collar_cut_trial.jpg",
+        "sha256": "d5984b226754b0e550469bc18722aeb11828adc077154c666e2b682d57afcf2f",
+        "bytes": 86536
+      },
+      {
+        "relative": "collar_neck_over.jpg",
+        "sha256": "7ea3dd71bb8c21d8bcaeea90a4aefa863587b6616048403017ac4684bf9bdd1f",
+        "bytes": 86311
+      },
+      {
+        "relative": "current.jpg",
+        "sha256": "45f74fb34f9187d24d3c0508a9ddf87cf64ace7cdf07bf13f013585b69f75c63",
+        "bytes": 283050
+      },
+      {
+        "relative": "details.py",
+        "sha256": "3871fcfd74100b4795dcdd7b37c845a2b31ac56dc7f9476c222db098cd6f2e70",
+        "bytes": 2983
+      },
+      {
+        "relative": "eyelash_comparison.jpg",
+        "sha256": "a21a11925b5be17576df69c54a0518cb9ddf3fad35529878fca83a866702018a",
+        "bytes": 110084
+      },
+      {
+        "relative": "hair_comparison.jpg",
+        "sha256": "af22cc42da14eb319cf23b6a997694798fc28ac292315e05b788042617091e9f",
+        "bytes": 232523
+      },
+      {
+        "relative": "hair_current.jpg",
+        "sha256": "c50f7d47f4100d572d55535d1d55668cdfe7da205681e93c6fa85fcb9c26ad2e",
+        "bytes": 190054
+      },
+      {
+        "relative": "hair_previous.jpg",
+        "sha256": "24fb2c19790ff9c162962cc6a234ed6d1059dabfd467c04577adbed6f3111108",
+        "bytes": 193670
+      },
+      {
+        "relative": "inventory.json",
+        "sha256": "53b223729ebc8fef128a0449b8057269ccc6a23c9635477746ffcbe5ed423b8b",
+        "bytes": 5181
+      },
+      {
+        "relative": "neck_over.jpg",
+        "sha256": "19298cd9b5d116caa1d0eccec69008acc72eea581b3ab12d8970dd70fc6aefdd",
+        "bytes": 285032
+      },
+      {
+        "relative": "parts.jpg",
+        "sha256": "e9431f66db20686015cb38dcfd226f7b9a395efc915c4d6a26a5b75721398599",
+        "bytes": 186871
+      },
+      {
+        "relative": "previous.jpg",
+        "sha256": "7b75865b47301caebd20af9507e87808342b6552d0c4afaf8e7f06316d6d6eeb",
+        "bytes": 291690
+      },
+      {
+        "relative": "probe.jpg",
+        "sha256": "14be30c2cff7dc45e59b73ba7bf20dc9804b16ba29316fe2cfb92c3db78b0d23",
+        "bytes": 287263
+      },
+      {
+        "relative": "register.py",
+        "sha256": "d634c221d009aa1331efd22f1f4e537a5ecc5e3e725fd93d32b070b3c38dd6d4",
+        "bytes": 1297
+      },
+      {
+        "relative": "registration.json",
+        "sha256": "948842c8c12af8d2f9f4c952b27f43a6c4efbc5e3eb5222b495ae96cd77ee643",
+        "bytes": 1389
+      },
+      {
+        "relative": "REVIEW.md",
+        "sha256": "3f90a9863d81b3105702cd9273e08af209051c04dabce92a54b7c0677c32867d",
+        "bytes": 5035
+      },
+      {
+        "relative": "review.py",
+        "sha256": "595e5b94203c0fa1a62dd627faed869e965c4cae5bf32ec463ca52fe9426ebe6",
+        "bytes": 3801
+      },
+      {
+        "relative": "shirt_cut_coordinates.json",
+        "sha256": "0f0a7876e7edefcb362bbb0be28d2592afe2d20cf4dc33927f2e22b4253abc28",
+        "bytes": 1048
+      },
+      {
+        "relative": "shirt_cut_guide.jpg",
+        "sha256": "0989c2bac81c294b034ed4d600b0e14803bf6fbf9693a9474e10c88189da7a95",
+        "bytes": 93919
+      },
+      {
+        "relative": "shirt_cut_local.jpg",
+        "sha256": "b7c3d34daccae8c512c877ec91925f7e8825bfdcdfccf51c2a6d90ec3cb03192",
+        "bytes": 174191
+      },
+      {
+        "relative": "shirt_cut_mask_DRAFT.png",
+        "sha256": "c93ed3441dd222877fa2ea6cb1adb059e6f48806b5f003a3183fc79d069b624c",
+        "bytes": 2885
+      },
+      {
+        "relative": "source_unchanged.json",
+        "sha256": "d136af5e8ac5ef366803b7bee4727ab892d7aff2769b2b3eb5bf3139fcc6806d",
+        "bytes": 197
+      },
+      {
+        "relative": "source_snapshot\\eyelash_upper_L_original.png",
+        "sha256": "eba35c6c2ae813a25d63b795879a37762fa50daa819a44b45b74ab2ea41b49ed",
+        "bytes": 27168
+      },
+      {
+        "relative": "source_snapshot\\eyelash_upper_R_original.png",
+        "sha256": "32c03f01ee185b03434043db23cf123aa10712335c8503e053e2098437fdf745",
+        "bytes": 26380
+      },
+      {
+        "relative": "source_snapshot\\hair_front_C.png",
+        "sha256": "8d0f2ea1ec564881d2b2416a5b80e17e490cee4a209b9d051087bfdb5f74940f",
+        "bytes": 152586
+      },
+      {
+        "relative": "source_snapshot\\hair_front_L.png",
+        "sha256": "9021d9fc6e1bc695209ce0afbea32ebae8901641763a89c27ab6ce9ca3986f94",
+        "bytes": 130054
+      },
+      {
+        "relative": "source_snapshot\\hair_front_R.png",
+        "sha256": "459f9b5cf6a813b90f74767c02f77b1e3bfce3586aaacc1d4df9bd3c9aae2cab",
+        "bytes": 127957
+      },
+      {
+        "relative": "source_snapshot\\hair_side_L.png",
+        "sha256": "b290c6ca481fc43e11724b3760d45a2c66e18707562cb626852ecc9e20463179",
+        "bytes": 175646
+      },
+      {
+        "relative": "source_snapshot\\hair_side_R.png",
+        "sha256": "87713f22f7d5f73be82877072f88830a3752aea1279db20bccb3a19d7b87bcd9",
+        "bytes": 170511
+      },
+      {
+        "relative": "source_snapshot\\shirt_torso.png",
+        "sha256": "c3b15b62bca9ec09c3a64f3473d939217031a69161f362465a781097bc8d4889",
+        "bytes": 522495
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\pre_rig_review_20260922",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922",
+    "files": [
+      {
+        "relative": "back.jpg",
+        "sha256": "aad261bb3f572bc6d28d2fb3134abc68932e38ea53ff0d910cba19cac943e8e8",
+        "bytes": 410266
+      },
+      {
+        "relative": "body.jpg",
+        "sha256": "04164c63b49a9c08772ea31bd7b15f7d0eb31df95f19c59ae249a375a008b2e9",
+        "bytes": 214316
+      },
+      {
+        "relative": "brow_donor_reference.jpg",
+        "sha256": "5f37e2f4003a03457525fc1c56b579d4299c79f599ee9892b6116b1124224a61",
+        "bytes": 43289
+      },
+      {
+        "relative": "ears_base_only.jpg",
+        "sha256": "77da088d90771ab4a3184ff54dfd0eab4f68d71a76de2281e436ba39e2080d05",
+        "bytes": 185230
+      },
+      {
+        "relative": "ear_layer_comparison.jpg",
+        "sha256": "76e72433e10e07c6adee35df28945e80a76c3f89935676c4839bfdf07523a27e",
+        "bytes": 113581
+      },
+      {
+        "relative": "eyes.jpg",
+        "sha256": "f58eafae92ad28148d35c024ef4c2ef01a74e113f7b9c76defe227a52d51b4e2",
+        "bytes": 111351
+      },
+      {
+        "relative": "hair.jpg",
+        "sha256": "5525473ff874f604843e2c029720a43fc03da20b071ff7c8a4fd847db4c7b8e0",
+        "bytes": 139626
+      },
+      {
+        "relative": "hair_only.jpg",
+        "sha256": "ae1dc47b2eb986fbd99f3e2c69ffda74a49150a418e55ccb40cae67f4090e479",
+        "bytes": 165956
+      },
+      {
+        "relative": "hair_separation_probe.jpg",
+        "sha256": "f12241939fd28c4dea393d91457bb7faee0cae9c0db0117358ea70239375c589",
+        "bytes": 288143
+      },
+      {
+        "relative": "head_neck_static.jpg",
+        "sha256": "709bb613713ce2bcdb29ad151b01635df3d38c76e2f9396cce2759ab12f68eae",
+        "bytes": 282774
+      },
+      {
+        "relative": "head_shift_probe.jpg",
+        "sha256": "b48bfe3e98895e0b6a6aa6c50873fcdb8abe0c7dfaf8a9b3be286ae1ef941685",
+        "bytes": 282095
+      },
+      {
+        "relative": "inventory.json",
+        "sha256": "48af63c0c5b771acee2a72cadc4819802e8d551b43d91b77b8a49ca77ecd62f8",
+        "bytes": 26112
+      },
+      {
+        "relative": "neck_collar_detail.jpg",
+        "sha256": "31aef2b4c3b068313ee057974d5b4f1349a93ca62d19ebfe0f64ddae911e0bc6",
+        "bytes": 81184
+      },
+      {
+        "relative": "placements_review.json",
+        "sha256": "6c0259bcdbf8700cd4243f524e268b331b87696cd52fa7aa03b3c4e7f4c26d5a",
+        "bytes": 3148
+      },
+      {
+        "relative": "priority_marked.jpg",
+        "sha256": "71b1dcc4f87d51c5193fb72bf037db4643cc76afcd130be34fb03c2bfd536cf8",
+        "bytes": 296436
+      },
+      {
+        "relative": "REVIEW.md",
+        "sha256": "b7937aba426fca00e53defbc171e329ad7c91ec1bca501f193bcba441b0b00e1",
+        "bytes": 8495
+      },
+      {
+        "relative": "review.py",
+        "sha256": "9487d7e1d1a95cbc54b8f4c84780d6d72c1add468b5a6f537ac2691503e88c57",
+        "bytes": 6142
+      },
+      {
+        "relative": "skin_ears_neck.jpg",
+        "sha256": "d238e936ceaf4c11f31d613a289c2eecdc73755f14e77d2ef1de41026ac0b3ab",
+        "bytes": 195198
+      },
+      {
+        "relative": "source_unchanged.json",
+        "sha256": "221a96d43d10cbe74a91f40104f536ea280992b9e86b1eb4ab7bba104a3ed34f",
+        "bytes": 29
+      },
+      {
+        "relative": "without_front_hair.jpg",
+        "sha256": "948155aebd52c676f6ff01ad4fdecd214686a68446b8db71eb83a0d9bce37f30",
+        "bytes": 186932
+      },
+      {
+        "relative": "source_snapshot\\ALT_whole_eye_L.png",
+        "sha256": "d2ea54b9392ba8f8fc8330d60723719c27dd6bf6d4eb69efe9d2c93e6f1d7cbc",
+        "bytes": 61022
+      },
+      {
+        "relative": "source_snapshot\\ALT_whole_eye_R.png",
+        "sha256": "88596edfe14df6d78315c9b227af56211ec755f55ac333860053e0c4eac50159",
+        "bytes": 62219
+      },
+      {
+        "relative": "source_snapshot\\brow_L.png",
+        "sha256": "76d43654ae7b2a10781c918fa6c4b4d8f7c80f64f0b8459a7b6bef5a9437bdba",
+        "bytes": 4957
+      },
+      {
+        "relative": "source_snapshot\\brow_R.png",
+        "sha256": "ed3fac617c38c1a0a7f73bc416b100db94ec545a0ee7f5a1bc8131255ffe8f81",
+        "bytes": 5472
+      },
+      {
+        "relative": "source_snapshot\\collar_L.png",
+        "sha256": "61e15e2b564db93c3d20acf2d1ed4cb3e0bc45c7142e95c10116be93b8424e82",
+        "bytes": 134413
+      },
+      {
+        "relative": "source_snapshot\\collar_R.png",
+        "sha256": "e40448560d40f6aabd0a3369869c954c3355e2b191d980afd847d5cd693048d8",
+        "bytes": 121738
+      },
+      {
+        "relative": "source_snapshot\\ear_L.png",
+        "sha256": "36920694df287404a374e17bc254aba116c3b69425aa24d67d56881f05826294",
+        "bytes": 34330
+      },
+      {
+        "relative": "source_snapshot\\ear_L_surface.png",
+        "sha256": "4e4dc7002775ecdfe4d4c9aa9e5268d0a7eb3596fa1fcabc6db48c93616618e2",
+        "bytes": 33108
+      },
+      {
+        "relative": "source_snapshot\\ear_R.png",
+        "sha256": "efa8ebba850ebd5b956248a3bd39020d27e263e2a01d37dea3811ec4c066604a",
+        "bytes": 53491
+      },
+      {
+        "relative": "source_snapshot\\ear_R_surface.png",
+        "sha256": "772c55f7343ba69a4e38182f59af875e968f2885814b85660109e43b8b5c06d7",
+        "bytes": 31751
+      },
+      {
+        "relative": "source_snapshot\\face_surface.png",
+        "sha256": "fc2055b4d44ccbea652afeb107f38d647d8cf670d62b1de1058199715b96b63a",
+        "bytes": 198972
+      },
+      {
+        "relative": "source_snapshot\\face_underfill.png",
+        "sha256": "f7d8727b5b2bfa2816bd4d21148cedba14ee1b6676058836b2a979d070dc07a0",
+        "bytes": 123382
+      },
+      {
+        "relative": "source_snapshot\\FILL_eye_white_L.png",
+        "sha256": "db79003f6086861474f3fc838ca93b459a4ae894e3839572dfa0fbc376a0ba9f",
+        "bytes": 18863
+      },
+      {
+        "relative": "source_snapshot\\FILL_eye_white_R.png",
+        "sha256": "f0f2b718464a894e8b63d3632211d3a69c191d697b2fda976cb12c755dc158c2",
+        "bytes": 18553
+      },
+      {
+        "relative": "source_snapshot\\hair_ahoge.png",
+        "sha256": "cf303c03f5fb86555d0d3f87cad1f5bc117dbc13416b1d69fbc784633399a582",
+        "bytes": 47278
+      },
+      {
+        "relative": "source_snapshot\\hair_back.png",
+        "sha256": "eaf39cf624c5db9514a43f90bcf7c7797c97e0032a58fe1e933abae09aa49ff8",
+        "bytes": 46627
+      },
+      {
+        "relative": "source_snapshot\\hair_front_C.png",
+        "sha256": "c964dcfcf6124dfdded0d59ec097b1f34967fd9aeb1d7524dcefe5f0f66cfcba",
+        "bytes": 168293
+      },
+      {
+        "relative": "source_snapshot\\hair_front_L.png",
+        "sha256": "81201cb5e0f738430f5e92d59c2e4627cd899a7b741c488fa74d74f1227ef565",
+        "bytes": 120835
+      },
+      {
+        "relative": "source_snapshot\\hair_front_R.png",
+        "sha256": "fcfa8b6431841bcc52685900ab5c7351def1f42e3f81f03049adaed2d3f77d62",
+        "bytes": 106498
+      },
+      {
+        "relative": "source_snapshot\\hair_side_L.png",
+        "sha256": "1101ebfce5d9495497273a30660fa891d0e4c35ce980231f37ec7f7c9173392f",
+        "bytes": 192388
+      },
+      {
+        "relative": "source_snapshot\\hair_side_R.png",
+        "sha256": "5bbccb5653f704bc4d0d7bf39f6bc6b750a31cc44a8250e56ceca9bfdc3bf1ed",
+        "bytes": 162437
+      },
+      {
+        "relative": "source_snapshot\\neck-clavicle.png",
+        "sha256": "1e77961e89c059d5b3d42f45525ebba61c8e078f7181f9f2139c40b51c0c5192",
+        "bytes": 63831
+      },
+      {
+        "relative": "source_snapshot\\shirt_inside.png",
+        "sha256": "3740c1dde2c402583a9df205e497575672a2ebbd86ce92e6af5d019e6816ea63",
+        "bytes": 34023
+      },
+      {
+        "relative": "source_snapshot\\shirt_torso.png",
+        "sha256": "993ae17ea0920b9556eead9b805d37bce308a1ce59a80109864572814828c7f3",
+        "bytes": 549803
+      },
+      {
+        "relative": "source_snapshot\\Upper_eyelid_left.png",
+        "sha256": "2186849b3e12b7c0a9851bc1e9c68bb1ec56203a23ade3feec73a9e492ee4f5b",
+        "bytes": 20896
+      },
+      {
+        "relative": "source_snapshot\\Upper_eyelid_right.png",
+        "sha256": "17fa79b30423834fa05072cee9b6897e0250bbcac4593a8544a4d38c49b82b97",
+        "bytes": 21482
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\review_20260921_repairs",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_20260921_repairs",
+    "files": [
+      {
+        "relative": "changes.json",
+        "sha256": "4713cc1460e4dc14fbd29337e8459a762db75f4f9f3a1e23078b1d0054a02adf",
+        "bytes": 3744
+      },
+      {
+        "relative": "findings.png",
+        "sha256": "5814ad9471292778820d9582dae0293da8177850da514e191e345611316c614c",
+        "bytes": 993421
+      },
+      {
+        "relative": "full_current.jpg",
+        "sha256": "a10df97298aa07063715572b53b475e99e5feb21993ad1b06e56a9a18ad42383",
+        "bytes": 47298
+      },
+      {
+        "relative": "mouth_backup.png",
+        "sha256": "2065b3f2db244f05906cf83241cac34e8376348cb87dc612e3424ad444fdef51",
+        "bytes": 248321
+      },
+      {
+        "relative": "mouth_comparison.jpg",
+        "sha256": "5ea9b99cb9226e3728cb3d336cbb8ef1796b5675036fc1fc61e81dfb9c2eb8a9",
+        "bytes": 139401
+      },
+      {
+        "relative": "mouth_current.png",
+        "sha256": "a5b7c7835fee32efb04e6baba6b780e06ddf1844b1b31b86cdb5ad7b972c85aa",
+        "bytes": 331405
+      },
+      {
+        "relative": "mouth_single_fit.png",
+        "sha256": "6aa608719d749d9162c5a30cf2e3d4ff48cd5a908f82b033f106b383816d0263",
+        "bytes": 348410
+      },
+      {
+        "relative": "neck_current.png",
+        "sha256": "a992ba3d1e2022e937ac7776b1a6e3184b792be154458b3e79d7488a4b3e1f1d",
+        "bytes": 339046
+      },
+      {
+        "relative": "neck_face_ears.jpg",
+        "sha256": "9cd37f4ae04643df8738d5ce9e00339fe0b74fab1813bebfb0d0dead98730450",
+        "bytes": 143659
+      },
+      {
+        "relative": "nohair_current.png",
+        "sha256": "57306394856382157e02da9ea2047c40960caa45547ad74b64ab0dcfcf368796",
+        "bytes": 705521
+      },
+      {
+        "relative": "normal_aligned_estimate.png",
+        "sha256": "520ff51eebe2bf1c7bc5dc7e5ce50b4235e67e0ced7166aa4b8a20c7040046b6",
+        "bytes": 1004511
+      },
+      {
+        "relative": "normal_current.png",
+        "sha256": "d2c7dd16ec0ee62c03fe9007270e432010595567d3d2bed4b86013d57500493b",
+        "bytes": 1024198
+      },
+      {
+        "relative": "open_aligned_estimate.png",
+        "sha256": "55407c69083163d83a49b585a02f933a0d65357e59843bf5f85e57a503f4643e",
+        "bytes": 1016354
+      },
+      {
+        "relative": "open_current.png",
+        "sha256": "f571d455d2b3724d909535c9fb86af4ce11b1305e1f4bd043d071c319a586892",
+        "bytes": 1028487
+      },
+      {
+        "relative": "parts_1.jpg",
+        "sha256": "a5a7e6bf6ca79201b459ec7aebe78b473f8570c97ececc207d40130a839ab1cb",
+        "bytes": 281200
+      },
+      {
+        "relative": "parts_2.jpg",
+        "sha256": "aabc33cb4bbf28a29e97707c478a1dc11295080c787b12f793538e741e07ee5a",
+        "bytes": 284579
+      },
+      {
+        "relative": "parts_3.jpg",
+        "sha256": "93c089d2c1036a24faf587adb1aaac720c848422438f3527af0f6a9cc7c5bf54",
+        "bytes": 35394
+      },
+      {
+        "relative": "REVIEW.md",
+        "sha256": "b1172865c76071a891fac8235272ae7c25bd6cceef8826ca44b57e39efc71a9e",
+        "bytes": 5907
+      },
+      {
+        "relative": "review.py",
+        "sha256": "1439061c2648337906c255ac7d24e5f86f12381b22b6e716a2a0cd665c326deb",
+        "bytes": 5616
+      },
+      {
+        "relative": "review_log.json",
+        "sha256": "71720596c920b4c829d35f3d5d5d1cbf568dc6bd3aebbc11291f4a4641566c44",
+        "bytes": 3746
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\review_remaining_v001",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_remaining_v001",
+    "files": [
+      {
+        "relative": "back.jpg",
+        "sha256": "13fc25cf2845b4172540efead9bf28ea5b52f389fb8f6a523f6fdd762cdf89ae",
+        "bytes": 391431
+      },
+      {
+        "relative": "body.jpg",
+        "sha256": "03ed652ec0460b43aa192d2d3f044c0289445a6fafd26bf0299b92a8ee214267",
+        "bytes": 275935
+      },
+      {
+        "relative": "eyes.jpg",
+        "sha256": "f40be6a1b47d2efe84ccf4000c3fcf6c308764da2eadb6829eb25eb1ea9a80ab",
+        "bytes": 99020
+      },
+      {
+        "relative": "eye_alternatives.jpg",
+        "sha256": "3d9da73ffdb66f4dc5b6054e4a55dc7db0f68055567062faadfd23c4e0a1f985",
+        "bytes": 85382
+      },
+      {
+        "relative": "face_ears.jpg",
+        "sha256": "491a402d916934e83de5716057f5a34bf8724297385dc1798197e7a69e62215f",
+        "bytes": 97112
+      },
+      {
+        "relative": "face_only.png",
+        "sha256": "153a53cc57a6e2e93d136e47c90a7722a5fd30527accb9f981ac0ba916ea164a",
+        "bytes": 352444
+      },
+      {
+        "relative": "face_only_marked.jpg",
+        "sha256": "23faa30a8b2f8a6024d536d8bdcecb1342afc63322a1c83c811728a3cc10a4ec",
+        "bytes": 136790
+      },
+      {
+        "relative": "hair.jpg",
+        "sha256": "135d764867074b8f40482bb12d1e551e5a7e2fa533214bceb4b52b07205ac063",
+        "bytes": 131096
+      },
+      {
+        "relative": "head.png",
+        "sha256": "266481a422cfc4777b7d5e12713d4168fc63d8365c83778f919396ab37164bba",
+        "bytes": 673653
+      },
+      {
+        "relative": "head_marked.jpg",
+        "sha256": "9ade6180acbb016118482298a93db03e385f387edc8648ad04909949de97b6c7",
+        "bytes": 202640
+      },
+      {
+        "relative": "inventory.json",
+        "sha256": "1ea70eca3debb9a7f2396237c04bbac5e2b07303af1c981e7efa642910261af2",
+        "bytes": 21822
+      },
+      {
+        "relative": "nohair.png",
+        "sha256": "b6dd5bb1b4ccf7b9575dccabc5de4378165e8e3d862b3db9c85fde3c3179e8fb",
+        "bytes": 370388
+      },
+      {
+        "relative": "REVIEW.md",
+        "sha256": "5091612fe95152cc55a7648a7fbc7c2360e9aeb21aeea6b4c4cf250a4c52e3d1",
+        "bytes": 6150
+      },
+      {
+        "relative": "review.py",
+        "sha256": "5cc377cb86a57fb38a6ca16f73840e28fc8dd905f8ce1dba77453c4fe2e62725",
+        "bytes": 2976
+      },
+      {
+        "relative": "source_unchanged.json",
+        "sha256": "c888fc5bf492f375d3f6c683533007f98e1e344866a70d84568ca6df93b09f8c",
+        "bytes": 38
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\shirt_brow_recheck_v003",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\shirt_brow_recheck_v003",
+    "files": [
+      {
+        "relative": "brows_existing_placement.jpg",
+        "sha256": "c7c4f5354fff3bb4c492404fc5d9277d10983271bad90c9c68df59fa7df33588",
+        "bytes": 64817
+      },
+      {
+        "relative": "brow_lid_parts.jpg",
+        "sha256": "dc26228485a1c0698fb38cbec499c59232ae4df5d0ecfb11ae53df274f39ad14",
+        "bytes": 44431
+      },
+      {
+        "relative": "collar_actual.jpg",
+        "sha256": "59228a920c156fbf98e0071ce9431b4de433519d105dcf25abcebfc495b2d0da",
+        "bytes": 96896
+      },
+      {
+        "relative": "head_shirt.jpg",
+        "sha256": "bbf6393992744c53ed614cd369aa2ca57b2440f95d1b44773e120431b2e1ac85",
+        "bytes": 318384
+      },
+      {
+        "relative": "inventory.json",
+        "sha256": "31b1a4dc94d3b6132c82fdbe8f3b2f93a461d623dae082bf91588aa357233e4b",
+        "bytes": 1481
+      },
+      {
+        "relative": "placement_check.json",
+        "sha256": "92b04c40e7a7ffb516d934b7364e5c7ba3a85985c1b70c71568e3177df616ca4",
+        "bytes": 167
+      },
+      {
+        "relative": "REVIEW.md",
+        "sha256": "a8559e675176d6590c34d30a70d75df0bfe8fc905e6ca4541147ff3177fa9557",
+        "bytes": 1828
+      },
+      {
+        "relative": "review.py",
+        "sha256": "b66b2fb2e75350927bbbb9243b1c49e7e21cb547f8cf661c0fa9d25174543d3e",
+        "bytes": 4095
+      },
+      {
+        "relative": "source_unchanged.json",
+        "sha256": "c3de9f0a6a2f79e925cb52570e4f37e2024a0a6a600a1137d17ee9f9ca829c87",
+        "bytes": 108
+      },
+      {
+        "relative": "source_snapshot\\brow_L.png",
+        "sha256": "76d43654ae7b2a10781c918fa6c4b4d8f7c80f64f0b8459a7b6bef5a9437bdba",
+        "bytes": 4957
+      },
+      {
+        "relative": "source_snapshot\\brow_R.png",
+        "sha256": "ed3fac617c38c1a0a7f73bc416b100db94ec545a0ee7f5a1bc8131255ffe8f81",
+        "bytes": 5472
+      },
+      {
+        "relative": "source_snapshot\\shirt_torso.png",
+        "sha256": "b04c7139d749e5dd2500ca12ed97e78d2c9901cfc56d5374dde3d4268a2971d4",
+        "bytes": 533495
+      },
+      {
+        "relative": "source_snapshot\\Upper_eyelid_left.png",
+        "sha256": "e8605315566588690c8ac8c02b0e86b8f63c2f1e01e7c23f30351d6a93f2ae01",
+        "bytes": 20198
+      },
+      {
+        "relative": "source_snapshot\\Upper_eyelid_right.png",
+        "sha256": "86ff3f2b0ff1b0424ad44bc2f4f7ec78995abe46bff5adb5742d00f2a8820746",
+        "bytes": 20144
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art_assets\\eye_parts",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art_assets\\eye_parts",
+    "files": [
+      {
+        "relative": "blue-left-eyeball.png",
+        "sha256": "db74bb53decf3ed8a6935f4ba805b04376bd2e096dd405f848f85204fe03b279",
+        "bytes": 251135
+      },
+      {
+        "relative": "brown-right-eyeball.png",
+        "sha256": "d4786536b1e257869d3b53e2264599c9f8ec1e555d0849374b7478c292b5f60b",
+        "bytes": 262578
+      },
+      {
+        "relative": "left-eye.png",
+        "sha256": "a006e5669a6b4e58f5a62635a38cc51787f6b3dbba68d6035a07cb37a55a26c9",
+        "bytes": 461336
+      },
+      {
+        "relative": "right-eye.png",
+        "sha256": "9cb4862c6e3c6525a79691030c606a2c47144a4208dea7b22cc92824f76d4bc6",
+        "bytes": 478699
+      },
+      {
+        "relative": "Upper_left_eyelash.png",
+        "sha256": "e9a439ab7b4ab5662e638e28203f5f08adb461d916c6f1bb507cba920ce9b584",
+        "bytes": 84501
+      },
+      {
+        "relative": "Upper_right_eyelash.png",
+        "sha256": "8b6eb14fed73bd3541d9fbd7835871915e0cff91f82db31ae2e5b5a784315420",
+        "bytes": 102187
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ALT_mouth_interior.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ALT_mouth_interior.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "4e73a905fa043881dd645736190d214eb8ecf649e30f7d07218cba0937ed8338",
+        "bytes": 51167
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ALT_mouth_open_outline.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ALT_mouth_open_outline.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "3da055a88f641a2d43ac826d7969e53b43d435e9f262877fd52d7eb0199fffdc",
+        "bytes": 29452
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ALT_mouth_teeth_upper.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ALT_mouth_teeth_upper.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "43fab6e7e41ca68d73942c5f7d54d52793ad4f4df755773a44fd0ef8ff9255a4",
+        "bytes": 25362
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ALT_mouth_tongue.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ALT_mouth_tongue.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "1269bab796070ed8c6e85e1d6d58982a50a2b60b2cc12fdd075cba4a02cd36ee",
+        "bytes": 20435
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ALT_whole_eye_L.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ALT_whole_eye_L.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "d2ea54b9392ba8f8fc8330d60723719c27dd6bf6d4eb69efe9d2c93e6f1d7cbc",
+        "bytes": 61022
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ALT_whole_eye_R.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ALT_whole_eye_R.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "88596edfe14df6d78315c9b227af56211ec755f55ac333860053e0c4eac50159",
+        "bytes": 62219
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\brow_L.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\brow_L.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "76d43654ae7b2a10781c918fa6c4b4d8f7c80f64f0b8459a7b6bef5a9437bdba",
+        "bytes": 4957
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\brow_R.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\brow_R.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "ed3fac617c38c1a0a7f73bc416b100db94ec545a0ee7f5a1bc8131255ffe8f81",
+        "bytes": 5472
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ear_L.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ear_L.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "36920694df287404a374e17bc254aba116c3b69425aa24d67d56881f05826294",
+        "bytes": 34330
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ear_L_surface.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ear_L_surface.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "4e4dc7002775ecdfe4d4c9aa9e5268d0a7eb3596fa1fcabc6db48c93616618e2",
+        "bytes": 33108
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ear_R.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ear_R.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "efa8ebba850ebd5b956248a3bd39020d27e263e2a01d37dea3811ec4c066604a",
+        "bytes": 53491
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ear_R_surface.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ear_R_surface.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "772c55f7343ba69a4e38182f59af875e968f2885814b85660109e43b8b5c06d7",
+        "bytes": 31751
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\eyelash_upper_L_original.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\eyelash_upper_L_original.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "eba35c6c2ae813a25d63b795879a37762fa50daa819a44b45b74ab2ea41b49ed",
+        "bytes": 27168
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\eyelash_upper_R_original.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\eyelash_upper_R_original.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "32c03f01ee185b03434043db23cf123aa10712335c8503e053e2098437fdf745",
+        "bytes": 26380
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\eye_white_L.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\eye_white_L.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "d6fb664ff525c68366d43543101550a131c24e661984425fa2699926f20cd971",
+        "bytes": 11976
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\eye_white_R.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\eye_white_R.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "d03c3f5922a2152485f41d8dcdd5fe86cb2dc628bce388913f63e74edc2d13d0",
+        "bytes": 12795
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\face_surface.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\face_surface.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "fc2055b4d44ccbea652afeb107f38d647d8cf670d62b1de1058199715b96b63a",
+        "bytes": 198972
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\face_underfill.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\face_underfill.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "6a3a65422450842de98743f7f681b311fb476369cc39237ebb0a5671def581f7",
+        "bytes": 121313
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\FILL_eye_white_L.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\FILL_eye_white_L.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "e4543fbb8b94e36e329da7f3867009eb1e8b858ccf975e152bb3957e63e4a129",
+        "bytes": 21774
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\FILL_eye_white_R.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\FILL_eye_white_R.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "918f967d943f2dd2584032a59f93e517e118788223828acf2f99614c323fb1eb",
+        "bytes": 21948
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hair_ahoge.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\hair_ahoge.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "cf303c03f5fb86555d0d3f87cad1f5bc117dbc13416b1d69fbc784633399a582",
+        "bytes": 47278
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hair_back.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\hair_back.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "eaf39cf624c5db9514a43f90bcf7c7797c97e0032a58fe1e933abae09aa49ff8",
+        "bytes": 46627
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hair_front_C.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\hair_front_C.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "8d0f2ea1ec564881d2b2416a5b80e17e490cee4a209b9d051087bfdb5f74940f",
+        "bytes": 152586
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hair_front_L.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\hair_front_L.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "9021d9fc6e1bc695209ce0afbea32ebae8901641763a89c27ab6ce9ca3986f94",
+        "bytes": 130054
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hair_front_R.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\hair_front_R.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "459f9b5cf6a813b90f74767c02f77b1e3bfce3586aaacc1d4df9bd3c9aae2cab",
+        "bytes": 127957
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hair_side_L.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\hair_side_L.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "b290c6ca481fc43e11724b3760d45a2c66e18707562cb626852ecc9e20463179",
+        "bytes": 175646
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hair_side_R.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\hair_side_R.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "87713f22f7d5f73be82877072f88830a3752aea1279db20bccb3a19d7b87bcd9",
+        "bytes": 170511
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\iris_L_original.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\iris_L_original.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "4431a401f0f7f09afe6ba071a3dd91bffc5c3ecf06b947a905fb38d94da08b75",
+        "bytes": 13945
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\iris_R_original.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\iris_R_original.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "cab3cf00d937f86194fd6963054eb14f8931b9ad9f7c860ecd815e508ae6c87a",
+        "bytes": 14111
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\Upper_eyelid_left.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\Upper_eyelid_left.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "c78afa5927f9ee5c67a2c8dcbdcd91b10ea573da0e5edc048bd731d78efde66e",
+        "bytes": 19738
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\Upper_eyelid_right.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\Upper_eyelid_right.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "22024aa44f37215c285d27507b69cf253fc89db74885050bda35023a1b4e8767",
+        "bytes": 21073
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\buckup\\ALT_mouth_interior.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\ALT_mouth_interior.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "e183c2aabe626f00e21987ae7eb10bdd4f878d5516777664b9a39c0174a4c065",
+        "bytes": 41737
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\buckup\\ALT_mouth_open_outline.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\ALT_mouth_open_outline.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "36f3a891cca5446efa836cd06f139b204477053ea73156788ad269ab8fcb9b58",
+        "bytes": 13644
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\buckup\\ALT_mouth_tongue.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\ALT_mouth_tongue.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "2c940caeb1a0daee12bbf144bfe9f9565beed35044fb8c9e3aab8a8ba656c9f1",
+        "bytes": 11213
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\buckup\\eyelash_upper_L_original.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\eyelash_upper_L_original.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "16627fefbee13d0acdc74f51dd30b8d39c579a24188207ce5bf586e72ee19b3f",
+        "bytes": 10316
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\buckup\\eyelash_upper_R_original.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\eyelash_upper_R_original.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "8f835115457cd65717e262fba8e6ea10d3462e36e7bef75a2f8a1b91fecba229",
+        "bytes": 11605
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\buckup\\face_underfill.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\face_underfill.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "2eaffd811c741118fb0c9c9964e102ae1c0cc9bdb41932cb585f3b0721dc14fe",
+        "bytes": 336079
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\buckup\\mouth_closed.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\mouth_closed.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "88c4b5cf773197b019f99543797f142a827fe221236c4ab288b8f31068945971",
+        "bytes": 5679
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\buckup\\Upper_eyelid_left.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\Upper_eyelid_left.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "e8605315566588690c8ac8c02b0e86b8f63c2f1e01e7c23f30351d6a93f2ae01",
+        "bytes": 20198
+      }
+    ]
+  },
+  {
+    "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\buckup\\Upper_eyelid_right.png",
+    "destination": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\Upper_eyelid_right.png",
+    "files": [
+      {
+        "relative": ".",
+        "sha256": "86ff3f2b0ff1b0424ad44bc2f4f7ec78995abe46bff5adb5742d00f2a8820746",
+        "bytes": 20144
+      }
+    ]
+  }
+]

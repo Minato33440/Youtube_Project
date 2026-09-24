@@ -1,0 +1,121 @@
+{
+  "sourceUnchanged": true,
+  "sources": {
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\face_underfill.png": "f7d8727b5b2bfa2816bd4d21148cedba14ee1b6676058836b2a979d070dc07a0",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art_assets\\ren-stand-pony-front-4000x6000.png": "edf3b0317f981568b29f04fc1dbaeebae416b164741c2dee2499d0a6116a4817",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ALT_eyelash_upper_R.png": "951373a298d1ef24880862ccc660c29acb256639dbbf361b22712eb58365098e",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ALT_iris_R_brown.png": "6613780f59fbe80a304284071e730678b3742617df31125e51dc51ed02ecc8d8",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ALT_eyelash_upper_L.png": "b43c14807fc8450c0d7a75316222ba5f2b45cd47d5939c2ac411803a5f029c49",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ALT_iris_L_blue.png": "50907795ad7e5f45c5cd4e0bb190b79a28472577c3b54dfadcee8a15bd39bcbf",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\Upper_eyelid_left.png": "c78afa5927f9ee5c67a2c8dcbdcd91b10ea573da0e5edc048bd731d78efde66e",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\Upper_eyelid_right.png": "22024aa44f37215c285d27507b69cf253fc89db74885050bda35023a1b4e8767"
+  },
+  "eyes": [
+    {
+      "side": "R",
+      "iris_size": [
+        88,
+        92
+      ],
+      "iris_position": [
+        1818,
+        776
+      ],
+      "upper_lash_position": [
+        1750,
+        765
+      ],
+      "lower_edge_points": [
+        [
+          1778,
+          834
+        ],
+        [
+          1794,
+          849
+        ],
+        [
+          1815,
+          861
+        ],
+        [
+          1840,
+          874
+        ],
+        [
+          1865,
+          875
+        ],
+        [
+          1890,
+          870
+        ],
+        [
+          1910,
+          854
+        ],
+        [
+          1928,
+          836
+        ]
+      ],
+      "lower_lid_bbox": [
+        39,
+        93,
+        188,
+        139
+      ]
+    },
+    {
+      "side": "L",
+      "iris_size": [
+        88,
+        92
+      ],
+      "iris_position": [
+        2105,
+        773
+      ],
+      "upper_lash_position": [
+        2058,
+        762
+      ],
+      "lower_edge_points": [
+        [
+          2068,
+          837
+        ],
+        [
+          2090,
+          858
+        ],
+        [
+          2115,
+          873
+        ],
+        [
+          2140,
+          875
+        ],
+        [
+          2165,
+          869
+        ],
+        [
+          2190,
+          854
+        ],
+        [
+          2215,
+          828
+        ]
+      ],
+      "lower_lid_bbox": [
+        24,
+        88,
+        170,
+        138
+      ]
+    }
+  ]
+}

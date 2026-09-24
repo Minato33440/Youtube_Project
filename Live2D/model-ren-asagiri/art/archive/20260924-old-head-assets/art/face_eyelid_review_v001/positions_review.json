@@ -1,0 +1,40 @@
+{
+  "canvas": [
+    4000,
+    6000
+  ],
+  "positions": {
+    "face_underfill": {
+      "left": 1697,
+      "top": 303,
+      "size": [
+        609,
+        892
+      ]
+    },
+    "Upper_eyelid_left": {
+      "left": 2061,
+      "top": 748,
+      "size": [
+        149,
+        30
+      ]
+    },
+    "Upper_eyelid_right": {
+      "left": 1767,
+      "top": 749,
+      "size": [
+        160,
+        30
+      ]
+    }
+  },
+  "sideConvention": "left=character L/screen right/blue; right=character R/screen left/brown",
+  "status": "review placement; original manifest and PSD not changed",
+  "sourceHashes": {
+    "face_underfill": "f633bd84b484e60c406f30d30eedf90ef2d28aa55aba1d7f3f129946df0a8ec5",
+    "Upper_eyelid_left": "99238f31d5ef46f12e53e0e07af5bdf1f2c4691db4c9947b959251970383e638",
+    "Upper_eyelid_right": "63918c04979ba16ea513974c33b9d3c3f6859196fd0701277bf1cbec1ebaf7c2"
+  },
+  "sourceFilesUnchanged": true
+}

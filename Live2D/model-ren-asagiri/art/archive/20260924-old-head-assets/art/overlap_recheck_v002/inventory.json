@@ -1,0 +1,274 @@
+[
+  {
+    "name": "hair_front_C",
+    "size": [
+      567,
+      680
+    ],
+    "bbox": [
+      176,
+      73,
+      427,
+      654
+    ],
+    "sha256": "8d0f2ea1ec564881d2b2416a5b80e17e490cee4a209b9d051087bfdb5f74940f",
+    "previous": {
+      "name": "hair_front_C",
+      "size": [
+        283,
+        595
+      ],
+      "bbox": [
+        17,
+        12,
+        268,
+        582
+      ],
+      "sha256": "c964dcfcf6124dfdded0d59ec097b1f34967fd9aeb1d7524dcefe5f0f66cfcba",
+      "updated": "2026-09-21T17:56:04",
+      "changedSincePriorReview": false
+    },
+    "position": [
+      1717,
+      211
+    ]
+  },
+  {
+    "name": "hair_side_L",
+    "size": [
+      517,
+      468
+    ],
+    "bbox": [
+      0,
+      0,
+      502,
+      458
+    ],
+    "sha256": "b290c6ca481fc43e11724b3760d45a2c66e18707562cb626852ecc9e20463179",
+    "previous": {
+      "name": "hair_side_L",
+      "size": [
+        383,
+        486
+      ],
+      "bbox": [
+        0,
+        0,
+        372,
+        478
+      ],
+      "sha256": "1101ebfce5d9495497273a30660fa891d0e4c35ce980231f37ec7f7c9173392f",
+      "updated": "2026-09-21T18:10:43",
+      "changedSincePriorReview": false
+    },
+    "position": [
+      1984,
+      498
+    ]
+  },
+  {
+    "name": "hair_side_R",
+    "size": [
+      496,
+      481
+    ],
+    "bbox": [
+      0,
+      0,
+      496,
+      450
+    ],
+    "sha256": "87713f22f7d5f73be82877072f88830a3752aea1279db20bccb3a19d7b87bcd9",
+    "previous": {
+      "name": "hair_side_R",
+      "size": [
+        351,
+        441
+      ],
+      "bbox": [
+        8,
+        0,
+        351,
+        430
+      ],
+      "sha256": "5bbccb5653f704bc4d0d7bf39f6bc6b750a31cc44a8250e56ceca9bfdc3bf1ed",
+      "updated": "2026-09-21T18:10:07",
+      "changedSincePriorReview": false
+    },
+    "position": [
+      1514,
+      501
+    ]
+  },
+  {
+    "name": "hair_front_L",
+    "size": [
+      445,
+      349
+    ],
+    "bbox": [
+      0,
+      4,
+      431,
+      330
+    ],
+    "sha256": "9021d9fc6e1bc695209ce0afbea32ebae8901641763a89c27ab6ce9ca3986f94",
+    "previous": {
+      "name": "hair_front_L",
+      "size": [
+        412,
+        646
+      ],
+      "bbox": [
+        0,
+        0,
+        412,
+        646
+      ],
+      "sha256": "81201cb5e0f738430f5e92d59c2e4627cd899a7b741c488fa74d74f1227ef565",
+      "updated": "2026-09-21T17:58:17",
+      "changedSincePriorReview": false
+    },
+    "position": [
+      1987,
+      199
+    ]
+  },
+  {
+    "name": "hair_front_R",
+    "size": [
+      467,
+      353
+    ],
+    "bbox": [
+      24,
+      0,
+      467,
+      322
+    ],
+    "sha256": "459f9b5cf6a813b90f74767c02f77b1e3bfce3586aaacc1d4df9bd3c9aae2cab",
+    "previous": {
+      "name": "hair_front_R",
+      "size": [
+        420,
+        650
+      ],
+      "bbox": [
+        0,
+        0,
+        420,
+        321
+      ],
+      "sha256": "fcfa8b6431841bcc52685900ab5c7351def1f42e3f81f03049adaed2d3f77d62",
+      "updated": "2026-09-21T17:58:59",
+      "changedSincePriorReview": false
+    },
+    "position": [
+      1549,
+      205
+    ]
+  },
+  {
+    "name": "shirt_torso",
+    "size": [
+      1102,
+      1224
+    ],
+    "bbox": [
+      0,
+      0,
+      1102,
+      1224
+    ],
+    "sha256": "c3b15b62bca9ec09c3a64f3473d939217031a69161f362465a781097bc8d4889",
+    "previous": {
+      "name": "shirt_torso",
+      "size": [
+        1102,
+        1224
+      ],
+      "bbox": [
+        0,
+        0,
+        1102,
+        1224
+      ],
+      "sha256": "993ae17ea0920b9556eead9b805d37bce308a1ce59a80109864572814828c7f3",
+      "updated": "2026-09-21T12:38:41",
+      "changedSincePriorReview": false
+    },
+    "position": [
+      1447,
+      1256
+    ]
+  },
+  {
+    "name": "eyelash_upper_R_original",
+    "size": [
+      197,
+      55
+    ],
+    "bbox": [
+      0,
+      0,
+      197,
+      55
+    ],
+    "sha256": "32c03f01ee185b03434043db23cf123aa10712335c8503e053e2098437fdf745",
+    "previous": {
+      "name": "eyelash_upper_R_original",
+      "size": [
+        177,
+        74
+      ],
+      "bbox": [
+        0,
+        0,
+        177,
+        74
+      ],
+      "sha256": "8f835115457cd65717e262fba8e6ea10d3462e36e7bef75a2f8a1b91fecba229",
+      "updated": "2026-09-21T12:38:43",
+      "changedSincePriorReview": false
+    },
+    "position": [
+      1757,
+      752
+    ]
+  },
+  {
+    "name": "eyelash_upper_L_original",
+    "size": [
+      227,
+      85
+    ],
+    "bbox": [
+      21,
+      7,
+      218,
+      60
+    ],
+    "sha256": "eba35c6c2ae813a25d63b795879a37762fa50daa819a44b45b74ab2ea41b49ed",
+    "previous": {
+      "name": "eyelash_upper_L_original",
+      "size": [
+        181,
+        58
+      ],
+      "bbox": [
+        0,
+        0,
+        181,
+        58
+      ],
+      "sha256": "16627fefbee13d0acdc74f51dd30b8d39c579a24188207ce5bf586e72ee19b3f",
+      "updated": "2026-09-21T12:38:43",
+      "changedSincePriorReview": false
+    },
+    "position": [
+      2063,
+      752
+    ]
+  }
+]

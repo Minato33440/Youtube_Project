@@ -1,0 +1,318 @@
+{
+  "status": "pass",
+  "library": "ag-psd",
+  "psd": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_motion_v002\\small\\Ren_mouth_small_v002.psd",
+  "flattenedPng": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_motion_v002\\small\\assembled.png",
+  "previewPng": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_motion_v002\\small\\preview.png",
+  "canvas": {
+    "width": 760,
+    "height": 960
+  },
+  "layerCount": 13,
+  "inputOrder": "bottom-to-top",
+  "psdRecordOrder": "bottom-to-top (Cubism-compatible)",
+  "layers": [
+    {
+      "name": "face_underfill",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_motion_v002\\small\\parts\\face_underfill.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 77,
+        "top": 35,
+        "right": 685,
+        "bottom": 899
+      },
+      "alpha": {
+        "nonTransparentPixels": 391496,
+        "contentBounds": {
+          "left": 77,
+          "top": 35,
+          "right": 685,
+          "bottom": 899
+        }
+      }
+    },
+    {
+      "name": "eyes_context",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_motion_v002\\small\\parts\\eyes_context.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 127,
+        "top": 475,
+        "right": 635,
+        "bottom": 601
+      },
+      "alpha": {
+        "nonTransparentPixels": 29612,
+        "contentBounds": {
+          "left": 127,
+          "top": 475,
+          "right": 635,
+          "bottom": 601
+        }
+      }
+    },
+    {
+      "name": "mouth_cavity",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_motion_v002\\small\\parts\\mouth_cavity.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 327,
+        "top": 744,
+        "right": 441,
+        "bottom": 766
+      },
+      "alpha": {
+        "nonTransparentPixels": 1805,
+        "contentBounds": {
+          "left": 327,
+          "top": 744,
+          "right": 441,
+          "bottom": 766
+        }
+      }
+    },
+    {
+      "name": "mouth_teeth_upper",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_motion_v002\\small\\parts\\mouth_teeth_upper.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 333,
+        "top": 744,
+        "right": 434,
+        "bottom": 758
+      },
+      "alpha": {
+        "nonTransparentPixels": 1109,
+        "contentBounds": {
+          "left": 333,
+          "top": 744,
+          "right": 434,
+          "bottom": 758
+        }
+      }
+    },
+    {
+      "name": "mouth_tongue",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_motion_v002\\small\\parts\\mouth_tongue.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 359,
+        "top": 761,
+        "right": 410,
+        "bottom": 766
+      },
+      "alpha": {
+        "nonTransparentPixels": 176,
+        "contentBounds": {
+          "left": 359,
+          "top": 761,
+          "right": 410,
+          "bottom": 766
+        }
+      }
+    },
+    {
+      "name": "mouth_rim_upper",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_motion_v002\\small\\parts\\mouth_rim_upper.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 326,
+        "top": 742,
+        "right": 442,
+        "bottom": 755
+      },
+      "alpha": {
+        "nonTransparentPixels": 531,
+        "contentBounds": {
+          "left": 326,
+          "top": 742,
+          "right": 442,
+          "bottom": 755
+        }
+      }
+    },
+    {
+      "name": "mouth_rim_lower",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_motion_v002\\small\\parts\\mouth_rim_lower.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 334,
+        "top": 750,
+        "right": 434,
+        "bottom": 769
+      },
+      "alpha": {
+        "nonTransparentPixels": 473,
+        "contentBounds": {
+          "left": 334,
+          "top": 750,
+          "right": 434,
+          "bottom": 769
+        }
+      }
+    },
+    {
+      "name": "mouth_closed",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_motion_v002\\small\\parts\\mouth_closed.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 0,
+        "top": 0,
+        "right": 1,
+        "bottom": 1
+      },
+      "alpha": {
+        "nonTransparentPixels": 0,
+        "contentBounds": null
+      }
+    },
+    {
+      "name": "REF_mouth_cavity",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_motion_v002\\small\\parts\\REF_mouth_cavity.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 250,
+        "top": 700,
+        "right": 500,
+        "bottom": 900
+      },
+      "alpha": {
+        "nonTransparentPixels": 32147,
+        "contentBounds": {
+          "left": 253,
+          "top": 705,
+          "right": 488,
+          "bottom": 883
+        }
+      }
+    },
+    {
+      "name": "REF_mouth_tongue",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_motion_v002\\small\\parts\\REF_mouth_tongue.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 250,
+        "top": 700,
+        "right": 500,
+        "bottom": 900
+      },
+      "alpha": {
+        "nonTransparentPixels": 11460,
+        "contentBounds": {
+          "left": 287,
+          "top": 781,
+          "right": 451,
+          "bottom": 875
+        }
+      }
+    },
+    {
+      "name": "REF_mouth_rim_upper",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_motion_v002\\small\\parts\\REF_mouth_rim_upper.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 250,
+        "top": 700,
+        "right": 500,
+        "bottom": 900
+      },
+      "alpha": {
+        "nonTransparentPixels": 3020,
+        "contentBounds": {
+          "left": 250,
+          "top": 700,
+          "right": 492,
+          "bottom": 806
+        }
+      }
+    },
+    {
+      "name": "REF_mouth_rim_lower",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_motion_v002\\small\\parts\\REF_mouth_rim_lower.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 250,
+        "top": 700,
+        "right": 500,
+        "bottom": 900
+      },
+      "alpha": {
+        "nonTransparentPixels": 1855,
+        "contentBounds": {
+          "left": 266,
+          "top": 796,
+          "right": 473,
+          "bottom": 884
+        }
+      }
+    },
+    {
+      "name": "REF_mouth_teeth_upper",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_motion_v002\\small\\parts\\REF_mouth_teeth_upper.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 250,
+        "top": 700,
+        "right": 500,
+        "bottom": 900
+      },
+      "alpha": {
+        "nonTransparentPixels": 7148,
+        "contentBounds": {
+          "left": 264,
+          "top": 703,
+          "right": 475,
+          "bottom": 755
+        }
+      }
+    }
+  ],
+  "roundTrip": {
+    "verifiedWith": "ag-psd readPsd(useImageData)",
+    "colorMode": "RGB (3)",
+    "bitsPerChannel": 8,
+    "dimensions": true,
+    "names": true,
+    "positions": true,
+    "visibility": true,
+    "clipping": true,
+    "rgba": true,
+    "renderedLayerCompositeRgba": true,
+    "embeddedCompositeReadback": {
+      "exact": false,
+      "pixels": 2608,
+      "visiblePixels": 2608,
+      "transparentPixels": 0,
+      "alphaPixels": 0,
+      "maxChannelDelta": 253
+    },
+    "embeddedCompositeNote": "ag-psd applies its white-matte conversion to the separate merged preview. Layer RGBA is exact and recomposites exactly to the emitted flattened PNG; the diagnostic above is retained rather than treated as a transparent-pixel-only difference."
+  }
+}

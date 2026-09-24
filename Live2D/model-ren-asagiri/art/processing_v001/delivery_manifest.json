@@ -1,0 +1,29 @@
+{
+  "recordedAt": "2026-09-21T12:51:33.9089186+09:00",
+  "artifacts": [
+    {
+      "path": "art/processing_v001/front/Ren_front_parts_v001.psd",
+      "bytes": 25279393,
+      "lastWriteTime": "2026-09-21T12:38:58.1868725+09:00",
+      "sha256": "d2d02d109e6aa7be7c4166eaa434e5296c66c9b3a028f9b45f73418e8a29f920"
+    },
+    {
+      "path": "art/processing_v001/back/Ren_back_parts_v001.psd",
+      "bytes": 23513086,
+      "lastWriteTime": "2026-09-21T12:40:08.7178658+09:00",
+      "sha256": "d9cd523eeaacaa262aaa1943f321d6d13d41afea31a017ef9ffdbae7f98d28c2"
+    },
+    {
+      "path": "model/parts_v001/Ren_front_parts_v001.cmo3",
+      "bytes": 14331237,
+      "lastWriteTime": "2026-09-21T12:47:05.6360187+09:00",
+      "sha256": "913777b4ff2aff2afaf9735554a589fdeecda380e5fe0c1d77178fff69c236f7"
+    },
+    {
+      "path": "model/parts_v001/Ren_back_parts_v001.cmo3",
+      "bytes": 10606487,
+      "lastWriteTime": "2026-09-21T12:50:19.1441024+09:00",
+      "sha256": "f2b52bf3c8cf8119cc92402ee752097c206dc299a5f118ba49efec1c0780cf9d"
+    }
+  ]
+}

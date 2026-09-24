@@ -1,0 +1,104 @@
+{
+  "sourceHashes": {
+    "face_underfill": {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\face_underfill.png",
+      "sha256": "f7d8727b5b2bfa2816bd4d21148cedba14ee1b6676058836b2a979d070dc07a0",
+      "size": [
+        609,
+        892
+      ]
+    },
+    "mouth_closed": {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\mouth_closed.png",
+      "sha256": "86860b51c7498d50a5db053c530fa11a42a6723d0be576060cfd8206abcbd6f4",
+      "size": [
+        198,
+        142
+      ]
+    },
+    "mouth_teeth_upper": {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ALT_mouth_teeth_upper.png",
+      "sha256": "43fab6e7e41ca68d73942c5f7d54d52793ad4f4df755773a44fd0ef8ff9255a4",
+      "size": [
+        159,
+        39
+      ]
+    },
+    "mouth_cavity": {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_split_v002\\parts\\mouth_cavity.png",
+      "sha256": "f845f65ad41dd5049443fae32627404b4d0aa3bc3e5af70c761ee9d1ecaa35e2",
+      "size": [
+        239,
+        187
+      ]
+    },
+    "mouth_tongue": {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_split_v002\\parts\\mouth_tongue.png",
+      "sha256": "aaff8d6a86d6093e5b274016f49d2daa4290100ee50dd6aeab094ff1b6fd277a",
+      "size": [
+        239,
+        187
+      ]
+    },
+    "mouth_rim_upper": {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_split_v002\\parts\\mouth_rim_upper.png",
+      "sha256": "5fdd579737481dc78d5a2bbcd73ab8ec028f8300c63e472b8a0d003dc8571691",
+      "size": [
+        242,
+        106
+      ]
+    },
+    "mouth_rim_lower": {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\mouth_split_v002\\parts\\mouth_rim_lower.png",
+      "sha256": "78033b9291e3a7120f88cd525d3977c771ddfdf2d4910018c8d4866657bb1b29",
+      "size": [
+        207,
+        88
+      ]
+    }
+  },
+  "sourceUnchanged": true,
+  "states": {
+    "closed": {
+      "mouth_cavity": 0,
+      "mouth_teeth_upper": 0,
+      "mouth_tongue": 0,
+      "mouth_rim_upper": 0,
+      "mouth_rim_lower": 0,
+      "mouth_closed": 903
+    },
+    "small": {
+      "mouth_cavity": 3162,
+      "mouth_teeth_upper": 63,
+      "mouth_tongue": 18,
+      "mouth_rim_upper": 707,
+      "mouth_rim_lower": 605,
+      "mouth_closed": 0
+    },
+    "open": {
+      "mouth_cavity": 17112,
+      "mouth_teeth_upper": 3997,
+      "mouth_tongue": 6102,
+      "mouth_rim_upper": 1711,
+      "mouth_rim_lower": 1037,
+      "mouth_closed": 0
+    }
+  },
+  "donorLowerOffset": [
+    16,
+    96
+  ],
+  "donorLatestTeeth": {
+    "width": 212,
+    "offset": [
+      13,
+      3
+    ]
+  },
+  "globalOrigin": [
+    1620,
+    270
+  ],
+  "mouthCenterX": 2004,
+  "closedCenterY": 1022
+}

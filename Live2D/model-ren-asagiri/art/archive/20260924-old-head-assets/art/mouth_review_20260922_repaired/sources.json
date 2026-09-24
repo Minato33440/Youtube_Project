@@ -1,0 +1,44 @@
+[
+  {
+    "path": "Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\mouth_closed.png",
+    "size": [
+      198,
+      142
+    ],
+    "bbox": [
+      49,
+      63,
+      148,
+      79
+    ],
+    "sha256": "86860b51c7498d50a5db053c530fa11a42a6723d0be576060cfd8206abcbd6f4"
+  },
+  {
+    "path": "Live2D\\model-ren-asagiri\\art\\mouth_split_v002\\parts\\mouth_rim_lower.png",
+    "size": [
+      239,
+      187
+    ],
+    "bbox": [
+      20,
+      61,
+      218,
+      136
+    ],
+    "sha256": "137f0dfe3725ba9b6ace0885e80d90f2ed1193aadb84d8083227ef78396703ab"
+  },
+  {
+    "path": "Live2D\\model-ren-asagiri\\art\\mouth_split_v002\\parts\\mouth_rim_upper.png",
+    "size": [
+      244,
+      108
+    ],
+    "bbox": [
+      2,
+      2,
+      244,
+      108
+    ],
+    "sha256": "540d1846c3292c210fd9598f7ace08542e932132f6a07e771af8655c3fa3866b"
+  }
+]

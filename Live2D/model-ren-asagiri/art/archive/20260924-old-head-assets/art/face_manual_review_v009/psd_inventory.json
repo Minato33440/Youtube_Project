@@ -1,0 +1,162 @@
+{
+  "png_size": [
+    850,
+    1134
+  ],
+  "png_bbox": [
+    121,
+    135,
+    729,
+    999
+  ],
+  "psd_size": [
+    850,
+    1134
+  ],
+  "layers": [
+    {
+      "name": "レイヤー 0",
+      "bbox": [
+        121,
+        135,
+        729,
+        999
+      ],
+      "visible": true,
+      "kind": "pixel",
+      "opacity": 255
+    },
+    {
+      "name": "レイヤー 3",
+      "bbox": [
+        202,
+        603,
+        342,
+        704
+      ],
+      "visible": true,
+      "kind": "pixel",
+      "opacity": 255
+    },
+    {
+      "name": "ALT_iris_R_brown",
+      "bbox": [
+        243,
+        606,
+        321,
+        701
+      ],
+      "visible": true,
+      "kind": "smartobject",
+      "opacity": 255
+    },
+    {
+      "name": "lower_eyelid_right",
+      "bbox": [
+        202,
+        664,
+        342,
+        703
+      ],
+      "visible": true,
+      "kind": "smartobject",
+      "opacity": 255
+    },
+    {
+      "name": "ALT_eyelash_upper_R",
+      "bbox": [
+        165,
+        592,
+        346,
+        671
+      ],
+      "visible": true,
+      "kind": "smartobject",
+      "opacity": 255
+    },
+    {
+      "name": "レイヤー 4",
+      "bbox": [
+        495,
+        603,
+        654,
+        701
+      ],
+      "visible": true,
+      "kind": "pixel",
+      "opacity": 255
+    },
+    {
+      "name": "レイヤー 2",
+      "bbox": [
+        530,
+        606,
+        609,
+        701
+      ],
+      "visible": true,
+      "kind": "pixel",
+      "opacity": 255
+    },
+    {
+      "name": "レイヤー 5",
+      "bbox": [
+        504,
+        664,
+        641,
+        705
+      ],
+      "visible": true,
+      "kind": "pixel",
+      "opacity": 255
+    },
+    {
+      "name": "ALT_eyelash_upper_L",
+      "bbox": [
+        491,
+        593,
+        682,
+        671
+      ],
+      "visible": true,
+      "kind": "smartobject",
+      "opacity": 255
+    },
+    {
+      "name": "レイヤー 6",
+      "bbox": [
+        377,
+        852,
+        473,
+        866
+      ],
+      "visible": true,
+      "kind": "pixel",
+      "opacity": 255
+    },
+    {
+      "name": "レイヤー 9",
+      "bbox": [
+        489,
+        526,
+        683,
+        557
+      ],
+      "visible": true,
+      "kind": "pixel",
+      "opacity": 255
+    },
+    {
+      "name": "brow_R",
+      "bbox": [
+        181,
+        532,
+        362,
+        561
+      ],
+      "visible": true,
+      "kind": "smartobject",
+      "opacity": 255
+    }
+  ]
+}

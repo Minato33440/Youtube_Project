@@ -1,0 +1,30 @@
+{
+  "status": "pass",
+  "reader": "psd-tools 1.12.1",
+  "layerRecordOrder": "bottom-to-top",
+  "firstLayer": "face_underfill",
+  "lastLayer": "REF_eyelash_upper_R_original",
+  "layerCount": 21,
+  "clippingLayers": [],
+  "forceRenderedVsFlattenedRaw": {
+    "differentPixels": 337826,
+    "maxChannelDelta": 255,
+    "alphaDifferentPixels": 292
+  },
+  "forceRenderedVsFlattenedDisplay": {
+    "#F7F5F0": {
+      "visiblePixels": 393917,
+      "maxVisiblePerChannelDifference": 1.0,
+      "meanVisiblePerChannelDifference": 0.003046068179884814,
+      "pixelsWithAnyChannelDifferenceOver2": 0,
+      "over2Bounds": null
+    },
+    "#808080": {
+      "visiblePixels": 393917,
+      "maxVisiblePerChannelDifference": 1.4666666666666686,
+      "meanVisiblePerChannelDifference": 0.003150824662791427,
+      "pixelsWithAnyChannelDifferenceOver2": 0,
+      "over2Bounds": null
+    }
+  }
+}

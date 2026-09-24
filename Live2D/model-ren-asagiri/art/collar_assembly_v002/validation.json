@@ -1,0 +1,43 @@
+{
+  "sources": {
+    "shirt_inside": "1538e014562a97fbadda737aa0a4bbc35e9e9c6d7e9beb42f222ad9987e348c3",
+    "collar_R": "e40448560d40f6aabd0a3369869c954c3355e2b191d980afd847d5cd693048d8",
+    "collar_L": "61e15e2b564db93c3d20acf2d1ed4cb3e0bc45c7142e95c10116be93b8424e82"
+  },
+  "sourceSample": "C:\\Users\\Setona\\Pictures\\Screenshots\\\u30b9\u30af\u30ea\u30fc\u30f3\u30b7\u30e7\u30c3\u30c8 2026-09-21 203304.png",
+  "sampleSize": [
+    567,
+    453
+  ],
+  "canvas": [
+    567,
+    454
+  ],
+  "positions": {
+    "shirt_inside": [
+      1,
+      0
+    ],
+    "collar_R": [
+      9,
+      22
+    ],
+    "collar_L": [
+      248,
+      19
+    ]
+  },
+  "sourcePixelsPreserved": true,
+  "outsideCanvasVisiblePixels": 0,
+  "opaqueSampleComparison": {
+    "pixels": 140020,
+    "meanChannelDifference": 0.9245417321335048,
+    "p95ChannelDifference": 2.0
+  },
+  "notes": [
+    "PNG canvases and RGBA unchanged",
+    "Sample has checkerboard; transparency not inferred from screenshot",
+    "Sample is 567x453; output retains 567x454 so bottom alpha is not clipped",
+    "Local part assembly only; global PSD and cmo3 untouched"
+  ]
+}

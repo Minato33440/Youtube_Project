@@ -1,0 +1,94 @@
+{
+  "status": "accepted_front_head_png",
+  "label": "頭部前面・完成PNG",
+  "date": "2026-09-24",
+  "canonicalParts": "parts/",
+  "scope": "Front head, neutral open-eye closed-mouth static PNG artwork",
+  "approval": {
+    "face": "Previously accepted appearance; current face_underfill update included and visually checked",
+    "hair": "Boss repaired rear hair; translation adjusted for new canvas and both ear seams visually checked",
+    "ears": "Boss cleaned outer edges; assistant inspected isolated ears and composite before registration"
+  },
+  "partCount": 23,
+  "partHashes": {
+    "parts/hair_back.png": "c3a36f296372a2fa0a2d94beca33395a6f0151df3e2cb0ce543ed470eda7921f",
+    "parts/ear_R.png": "ad1332f78fa8f76aa4b88026453c9928674eb2e30881f896d574c49e8ade77cf",
+    "parts/ear_L.png": "2cb6db3af49979627445d582b6af3dc2a6a1a1c17bb0b98270f1091c5222f89b",
+    "parts/face_underfill.png": "27ddeb8dec0d6101e9ce05314406e7d8c6bafdaaa2bf0f840189b5e0da54e938",
+    "parts/mouth_closed.png": "5f0b8bc2594a58b935f2b4929e1c20e72a5ad35e649bc906d6d827ee73f10ca6",
+    "parts/FILL_eye_white_R.png": "0b6e3077fb2c2e0d93fa40a988bcced3e66b6949cd9849aaf4a032210ac87a7c",
+    "parts/ALT_iris_R_brown.png": "1912823fb0bc5d6b2994ec975e1cae61fb1d4ad53905d8d0d9adcfae03b96601",
+    "parts/ALT_eyelash_upper_R.png": "1dff844b9527fd4a1b2fb4587c10a6ce1047145f7fc63cc2a4746e3ccf1e6440",
+    "parts/lower_eyelid_right.png": "ffb3942db69111672964c0426051198a3cf6865f7d2fd31bf9b4b3077c064e92",
+    "parts/upper_crease_R.png": "b21b6161eadda172aae5911b7ef47d7a8b40b590907458517b2d8e657cee9390",
+    "parts/brow_R.png": "c84aa7bb7869b5bf633d1212296e52795d078f1b48eb856e85f6daf108c9cc74",
+    "parts/FILL_eye_white_L.png": "01c227543b1022dc4a8d61aab1483c7a94299a1e204d477c8e241594f4987726",
+    "parts/ALT_iris_L_blue.png": "f232f20d44def5e10c06f6957c50e74be99f0aae909b04c4b5b97ec180f9bc05",
+    "parts/ALT_eyelash_upper_L.png": "6a1e4070e6d2e06df01052b822f25ecd878d09269725291faac26fa365032e9e",
+    "parts/lower_eyelid_left.png": "11046d47e00e1b5930ab23d312dfda4b047ae61e3d548a59f5e4a0587ad24fe5",
+    "parts/upper_crease_L.png": "bd9d9b116d0a6346dca7485f5dbae57178a469274fc75d5009a0f71d0fbf0155",
+    "parts/brow_L.png": "1d259eb00870a694a6ddba562e9821babc5bf5dcec19c68b0a1f59ecf4d34dfb",
+    "parts/hair_side_R.png": "87713f22f7d5f73be82877072f88830a3752aea1279db20bccb3a19d7b87bcd9",
+    "parts/hair_side_L.png": "b290c6ca481fc43e11724b3760d45a2c66e18707562cb626852ecc9e20463179",
+    "parts/hair_front_R.png": "459f9b5cf6a813b90f74767c02f77b1e3bfce3586aaacc1d4df9bd3c9aae2cab",
+    "parts/hair_front_L.png": "9021d9fc6e1bc695209ce0afbea32ebae8901641763a89c27ab6ce9ca3986f94",
+    "parts/hair_front_C.png": "8d0f2ea1ec564881d2b2416a5b80e17e490cee4a209b9d051087bfdb5f74940f",
+    "parts/hair_ahoge.png": "cf303c03f5fb86555d0d3f87cad1f5bc117dbc13416b1d69fbc784633399a582"
+  },
+  "earChecks": [
+    {
+      "file": "ear_R.png",
+      "sizeUnchanged": true,
+      "interiorMeanAbsRgbChange": 0.0,
+      "before": {
+        "components": 5,
+        "opaquePixels": 16638,
+        "smallComponentsArea": 8
+      },
+      "after": {
+        "components": 1,
+        "opaquePixels": 15873,
+        "smallComponentsArea": 0
+      }
+    },
+    {
+      "file": "ear_L.png",
+      "sizeUnchanged": true,
+      "interiorMeanAbsRgbChange": 0.0,
+      "before": {
+        "components": 10,
+        "opaquePixels": 16384,
+        "smallComponentsArea": 27
+      },
+      "after": {
+        "components": 1,
+        "opaquePixels": 15622,
+        "smallComponentsArea": 0
+      }
+    }
+  ],
+  "validation": {
+    "nativeDimensionsPreserved": true,
+    "allPartsUnmodifiedDuringReview": true,
+    "isolatedEarDebrisAtAlphaAbove25": 0,
+    "earInteriorRgbUnchangedWhereBothVersionsOpaque": true,
+    "visualReview": "Passed for static front-head PNG scope",
+    "hairEarStaticSeams": "Passed on both sides after placement adjustment; independent deformation overlap not validated"
+  },
+  "preview": {
+    "comparison_face_detail.jpg": "1665f024574858fc3be60dd6615c79a7e6d38870680e2fd147a6e772015782b5",
+    "comparison_original.jpg": "22f662559484a38d8c6271cf219d49b0dd77fbbddb1484bd5591f379b8261f7e",
+    "head_sample.png": "d80867ffc14f1611e90928e73dd51619fc2d8a2600cb47657761cdd2c5a3833c",
+    "head_sample_gray.png": "3cea135b5c139823bf7335cf49378dcf904974d0b129f919c65356907bd507eb"
+  },
+  "notYetCompleted": [
+    "PSD integration",
+    "Cubism mesh creation",
+    "Blink and mouth motion on this final artwork",
+    "Angle and physics deformation validation",
+    "Body and back artwork approval"
+  ],
+  "reviewRevision": "20260924-hair-extension",
+  "reviewEvidence": "work/hair_check_20260924/",
+  "registrationHistoryNote": "Prior completion registration missed ear/rear-hair gaps; reopened after Boss feedback and rechecked with repaired hair and corrected placement."
+}

@@ -1,0 +1,54 @@
+{
+  "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\facial features.png",
+  "sampleSize": [
+    850,
+    1134
+  ],
+  "globalOrigin": [
+    1579,
+    169
+  ],
+  "placement": "Same as v009; no resizing or repositioning of individual facial parts",
+  "alphaIdenticalToPreviousReconstructedPSD": false,
+  "previousReconstructionMeanAbsRGBvsSavedJpeg": 0.4204783950617284,
+  "labels": [
+    "① 原画",
+    "② 旧 v008",
+    "③ 前回の手修正版",
+    "④ 今回：鼻筋の影＋upper_crease"
+  ],
+  "context": "Same verified old hair/neck/ear snapshots for comparison, not latest nape audit",
+  "sourceUnchanged": true,
+  "sourceHashes": {
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\facial features.png": "1d8f8e84c1e817e86bce771985af940a7a5b08df836d9e99ead9606d9ddc033f",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\face_manual_review_v009\\layer_00.png": "311085475d9556ff005e3f829a6d253c9cc279243639764105a1e84092e9f2f2",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\face_manual_review_v009\\layer_01.png": "c5869fcc3e75b45a79e21d1bb74c27ab0e3e6f6d3e7f1025629200d194ab233a",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\face_manual_review_v009\\layer_02.png": "37a37fda5a6ac04a27b311a0316a46d2f2d1166d742be51f8ef52dc3261618ca",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\face_manual_review_v009\\layer_03.png": "a556737a2312c9023e8ac0b5982cffebe974173ae23e1c78661860ae3a5bbf67",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\face_manual_review_v009\\layer_04.png": "7eeec9b4427c42d9c43b66b79b46f37f99d38cd8808e82af452d91936d171c08",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\face_manual_review_v009\\layer_05.png": "27101c3d55f81f6c46b021149abcdfadd5090984e8f9b34c6ebee1f720e7a4c6",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\face_manual_review_v009\\layer_06.png": "4fff93ec5ca6f7733992f04a8c13402353d50816f58c97db47a59ecc988c7395",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\face_manual_review_v009\\layer_07.png": "919491aa392c01fc5f35177a3ced53ae934d224d62298a2c768021c01c9caeaf",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\face_manual_review_v009\\layer_08.png": "4737073f451bb1e3a54d75806f9db246f84b6e23e824f4e98b237ea96582c682",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\face_manual_review_v009\\layer_09.png": "db46a876798e151695eef3824b2bf07ff5c4ea5f9679855f8afb2683332bbdc1",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\face_manual_review_v009\\layer_10.png": "debeb2cd31554a7deadbd45c278d3f1e1af510a97131efdfd44310994d0e8c6c",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\face_manual_review_v009\\layer_11.png": "8ec050c1c78c8b7ab56c1252b979909699d2120257b5f36735f45d5adacb2d20",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art_assets\\ren-stand-pony-front-4000x6000.png": "edf3b0317f981568b29f04fc1dbaeebae416b164741c2dee2499d0a6116a4817",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\pre_rig_review_20260922\\source_snapshot\\hair_back.png": "eaf39cf624c5db9514a43f90bcf7c7797c97e0032a58fe1e933abae09aa49ff8",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\pre_rig_review_20260922\\source_snapshot\\shirt_inside.png": "3740c1dde2c402583a9df205e497575672a2ebbd86ce92e6af5d019e6816ea63",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\pre_rig_review_20260922\\source_snapshot\\neck-clavicle.png": "1e77961e89c059d5b3d42f45525ebba61c8e078f7181f9f2139c40b51c0c5192",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\shirt_brow_recheck_v003\\source_snapshot\\shirt_torso.png": "b04c7139d749e5dd2500ca12ed97e78d2c9901cfc56d5374dde3d4268a2971d4",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\pre_rig_review_20260922\\source_snapshot\\collar_R.png": "e40448560d40f6aabd0a3369869c954c3355e2b191d980afd847d5cd693048d8",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\pre_rig_review_20260922\\source_snapshot\\collar_L.png": "61e15e2b564db93c3d20acf2d1ed4cb3e0bc45c7142e95c10116be93b8424e82",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\pre_rig_review_20260922\\source_snapshot\\ear_R.png": "efa8ebba850ebd5b956248a3bd39020d27e263e2a01d37dea3811ec4c066604a",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\pre_rig_review_20260922\\source_snapshot\\ear_L.png": "36920694df287404a374e17bc254aba116c3b69425aa24d67d56881f05826294",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\overlap_recheck_v002\\source_snapshot\\hair_side_R.png": "87713f22f7d5f73be82877072f88830a3752aea1279db20bccb3a19d7b87bcd9",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\overlap_recheck_v002\\source_snapshot\\hair_side_L.png": "b290c6ca481fc43e11724b3760d45a2c66e18707562cb626852ecc9e20463179",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\overlap_recheck_v002\\source_snapshot\\hair_front_R.png": "459f9b5cf6a813b90f74767c02f77b1e3bfce3586aaacc1d4df9bd3c9aae2cab",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\overlap_recheck_v002\\source_snapshot\\hair_front_L.png": "9021d9fc6e1bc695209ce0afbea32ebae8901641763a89c27ab6ce9ca3986f94",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\overlap_recheck_v002\\source_snapshot\\hair_front_C.png": "8d0f2ea1ec564881d2b2416a5b80e17e490cee4a209b9d051087bfdb5f74940f",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\pre_rig_review_20260922\\source_snapshot\\hair_ahoge.png": "cf303c03f5fb86555d0d3f87cad1f5bc117dbc13416b1d69fbc784633399a582",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v008\\face_sample.jpg": "23187e481031da4cb7bc3f0e824dc01aa1298d2922662334e07c706a7bb812dd",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\face_manual_review_v009\\current_with_hair.jpg": "16be9d1e56e9e9f6a78781be8b52b48d429ba777d8c62593592eae21245abbb6"
+  }
+}

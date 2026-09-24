@@ -1,0 +1,67 @@
+{
+  "mouth_cavity": {
+    "size": [
+      239,
+      187
+    ],
+    "bbox": [
+      3,
+      5,
+      238,
+      183
+    ],
+    "sha256": "f845f65ad41dd5049443fae32627404b4d0aa3bc3e5af70c761ee9d1ecaa35e2"
+  },
+  "mouth_teeth_upper": {
+    "size": [
+      239,
+      187
+    ],
+    "bbox": [
+      13,
+      4,
+      225,
+      52
+    ],
+    "sha256": "5c92a79e2992bf346f0ac3ba49cd07021d778e383806c30dcf3732e16d0d6406"
+  },
+  "mouth_tongue": {
+    "size": [
+      239,
+      187
+    ],
+    "bbox": [
+      37,
+      81,
+      201,
+      175
+    ],
+    "sha256": "aaff8d6a86d6093e5b274016f49d2daa4290100ee50dd6aeab094ff1b6fd277a"
+  },
+  "mouth_rim_upper": {
+    "size": [
+      242,
+      106
+    ],
+    "bbox": [
+      0,
+      0,
+      242,
+      106
+    ],
+    "sha256": "5fdd579737481dc78d5a2bbcd73ab8ec028f8300c63e472b8a0d003dc8571691"
+  },
+  "mouth_rim_lower": {
+    "size": [
+      207,
+      88
+    ],
+    "bbox": [
+      0,
+      0,
+      207,
+      88
+    ],
+    "sha256": "78033b9291e3a7120f88cd525d3977c771ddfdf2d4910018c8d4866657bb1b29"
+  }
+}

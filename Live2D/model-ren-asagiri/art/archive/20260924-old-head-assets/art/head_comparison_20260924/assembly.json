@@ -1,0 +1,250 @@
+{
+  "canvas": [
+    850,
+    1134
+  ],
+  "inputDirectory": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts",
+  "reference": "facial_feature.png",
+  "originalComparisonRegistration": {
+    "translation": [
+      1575,
+      161
+    ],
+    "noseTextureScore": 0.9213327765464783,
+    "note": "Comparison alignment only; not used to assemble parts"
+  },
+  "layers": [
+    {
+      "name": "face_underfill",
+      "source": "face_underfill.png",
+      "referenceLayer": 0,
+      "pos": [
+        121,
+        135
+      ],
+      "size": [
+        608,
+        864
+      ],
+      "flip": false,
+      "score": 2.589395364793745e-07
+    },
+    {
+      "name": "mouth_closed",
+      "source": "mouth_closed.png",
+      "referenceLayer": 1,
+      "pos": [
+        380,
+        854
+      ],
+      "size": [
+        96,
+        14
+      ],
+      "flip": false,
+      "score": 6.999444224220497e-08
+    },
+    {
+      "name": "FILL_eye_white_R",
+      "source": "FILL_eye_white_R.png",
+      "referenceLayer": 2,
+      "pos": [
+        189,
+        603
+      ],
+      "size": [
+        153,
+        101
+      ],
+      "flip": false,
+      "score": 0
+    },
+    {
+      "name": "ALT_iris_R_brown",
+      "source": "ALT_iris_R_brown.png",
+      "referenceLayer": 3,
+      "pos": [
+        243,
+        606
+      ],
+      "size": [
+        78,
+        95
+      ],
+      "flip": false,
+      "score": 0
+    },
+    {
+      "name": "ALT_eyelash_upper_R",
+      "source": "ALT_eyelash_upper_R.png",
+      "referenceLayer": 4,
+      "pos": [
+        163,
+        592
+      ],
+      "size": [
+        183,
+        79
+      ],
+      "flip": false,
+      "score": 3.354501743046967e-08
+    },
+    {
+      "name": "lower_eyelid_right",
+      "source": "lower_eyelid_right.png",
+      "referenceLayer": 5,
+      "pos": [
+        202,
+        671
+      ],
+      "size": [
+        132,
+        41
+      ],
+      "flip": false,
+      "score": 1.0614810008746645e-07
+    },
+    {
+      "name": "upper_crease_R",
+      "source": "upper_crease_R.png",
+      "referenceLayer": 6,
+      "pos": [
+        215,
+        584
+      ],
+      "size": [
+        132,
+        23
+      ],
+      "flip": false,
+      "score": 0.11761212348937988
+    },
+    {
+      "name": "brow_R",
+      "source": "brow_R.png",
+      "referenceLayer": 7,
+      "pos": [
+        181,
+        532
+      ],
+      "size": [
+        181,
+        29
+      ],
+      "flip": false,
+      "score": 3.65918211286953e-08
+    },
+    {
+      "name": "FILL_eye_white_L",
+      "source": "FILL_eye_white_L.png",
+      "referenceLayer": 8,
+      "pos": [
+        502,
+        602
+      ],
+      "size": [
+        153,
+        101
+      ],
+      "flip": true,
+      "score": 0.006175229325890541
+    },
+    {
+      "name": "ALT_iris_L_blue",
+      "source": "ALT_iris_L_blue.png",
+      "referenceLayer": 9,
+      "pos": [
+        523,
+        606
+      ],
+      "size": [
+        79,
+        95
+      ],
+      "flip": false,
+      "score": 0
+    },
+    {
+      "name": "ALT_eyelash_upper_L",
+      "source": "ALT_eyelash_upper_L.png",
+      "referenceLayer": 10,
+      "pos": [
+        491,
+        593
+      ],
+      "size": [
+        193,
+        81
+      ],
+      "flip": false,
+      "score": 0
+    },
+    {
+      "name": "lower_eyelid_left",
+      "source": "lower_eyelid_left.png",
+      "referenceLayer": 11,
+      "pos": [
+        511,
+        669
+      ],
+      "size": [
+        132,
+        41
+      ],
+      "flip": false,
+      "score": 1.0614810008746645e-07
+    },
+    {
+      "name": "upper_crease_L",
+      "source": "upper_crease_L.png",
+      "referenceLayer": 12,
+      "pos": [
+        493,
+        587
+      ],
+      "size": [
+        135,
+        30
+      ],
+      "flip": false,
+      "score": 0.04736487939953804
+    },
+    {
+      "name": "brow_L",
+      "source": "brow_L.png",
+      "referenceLayer": 13,
+      "pos": [
+        489,
+        526
+      ],
+      "size": [
+        194,
+        31
+      ],
+      "flip": false,
+      "score": 7.023608361578226e-08
+    }
+  ],
+  "sourceHashes": {
+    "facial_feature.png": "01dfe6507a95db1541790c0c3a4c81248803125a98afc6c932df6df0864b2361",
+    "facial_feature.psd": "3dbb594e7840b6f42a84a15e47d79b5dbe738090f3852ddafdd3074e14daff77",
+    "face_underfill.png": "01f1f19bd3d29e79df8e3cd40b4feeaa52a76964f947fd9a041eb829f213e5ee",
+    "mouth_closed.png": "5f0b8bc2594a58b935f2b4929e1c20e72a5ad35e649bc906d6d827ee73f10ca6",
+    "FILL_eye_white_R.png": "0b6e3077fb2c2e0d93fa40a988bcced3e66b6949cd9849aaf4a032210ac87a7c",
+    "ALT_iris_R_brown.png": "1912823fb0bc5d6b2994ec975e1cae61fb1d4ad53905d8d0d9adcfae03b96601",
+    "ALT_eyelash_upper_R.png": "1dff844b9527fd4a1b2fb4587c10a6ce1047145f7fc63cc2a4746e3ccf1e6440",
+    "lower_eyelid_right.png": "ffb3942db69111672964c0426051198a3cf6865f7d2fd31bf9b4b3077c064e92",
+    "upper_crease_R.png": "b21b6161eadda172aae5911b7ef47d7a8b40b590907458517b2d8e657cee9390",
+    "brow_R.png": "c84aa7bb7869b5bf633d1212296e52795d078f1b48eb856e85f6daf108c9cc74",
+    "FILL_eye_white_L.png": "01c227543b1022dc4a8d61aab1483c7a94299a1e204d477c8e241594f4987726",
+    "ALT_iris_L_blue.png": "f232f20d44def5e10c06f6957c50e74be99f0aae909b04c4b5b97ec180f9bc05",
+    "ALT_eyelash_upper_L.png": "6a1e4070e6d2e06df01052b822f25ecd878d09269725291faac26fa365032e9e",
+    "lower_eyelid_left.png": "11046d47e00e1b5930ab23d312dfda4b047ae61e3d548a59f5e4a0587ad24fe5",
+    "upper_crease_L.png": "bd9d9b116d0a6346dca7485f5dbae57178a469274fc75d5009a0f71d0fbf0155",
+    "brow_L.png": "1d259eb00870a694a6ddba562e9821babc5bf5dcec19c68b0a1f59ecf4d34dfb",
+    "ren-stand-pony-front-4000x6000.png": "edf3b0317f981568b29f04fc1dbaeebae416b164741c2dee2499d0a6116a4817"
+  },
+  "sourceUnchanged": true,
+  "meanAbsoluteRgbDifferenceToReference": 0.06408790676764534,
+  "maxAlphaDifference": 0
+}

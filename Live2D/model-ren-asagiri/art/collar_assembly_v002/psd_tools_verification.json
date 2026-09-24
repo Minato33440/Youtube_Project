@@ -1,0 +1,30 @@
+{
+  "status": "pass",
+  "reader": "psd-tools 1.12.1",
+  "layerRecordOrder": "bottom-to-top",
+  "firstLayer": "shirt_inside",
+  "lastLayer": "collar_L",
+  "layerCount": 3,
+  "clippingLayers": [],
+  "forceRenderedVsFlattenedRaw": {
+    "differentPixels": 114138,
+    "maxChannelDelta": 255,
+    "alphaDifferentPixels": 324
+  },
+  "forceRenderedVsFlattenedDisplay": {
+    "#F7F5F0": {
+      "visiblePixels": 144917,
+      "maxVisiblePerChannelDifference": 1.0549019607843206,
+      "meanVisiblePerChannelDifference": 0.005074331256823547,
+      "pixelsWithAnyChannelDifferenceOver2": 0,
+      "over2Bounds": null
+    },
+    "#808080": {
+      "visiblePixels": 144917,
+      "maxVisiblePerChannelDifference": 1.4941176470588289,
+      "meanVisiblePerChannelDifference": 0.005532362202732138,
+      "pixelsWithAnyChannelDifferenceOver2": 0,
+      "over2Bounds": null
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "canvas": {
+    "width": 760,
+    "height": 960
+  },
+  "globalOrigin": [
+    1620,
+    270
+  ],
+  "layers": [
+    {
+      "name": "face_underfill",
+      "path": "parts/face_underfill.png",
+      "left": 77,
+      "top": 33,
+      "visible": true
+    },
+    {
+      "name": "eye_white_R",
+      "path": "parts/eye_white_R.png",
+      "left": 120,
+      "top": 470,
+      "visible": true
+    },
+    {
+      "name": "iris_R",
+      "path": "parts/iris_R.png",
+      "left": 120,
+      "top": 470,
+      "visible": true
+    },
+    {
+      "name": "upper_lash_R",
+      "path": "parts/upper_lash_R.png",
+      "left": 130,
+      "top": 495,
+      "visible": true
+    },
+    {
+      "name": "lower_lid_R",
+      "path": "parts/lower_lid_R.png",
+      "left": 165,
+      "top": 556,
+      "visible": true
+    },
+    {
+      "name": "REF_lower_lid_source_R",
+      "path": "parts/REF_lower_lid_source_R.png",
+      "left": 120,
+      "top": 540,
+      "visible": false
+    },
+    {
+      "name": "REF_iris_full_R",
+      "path": "parts/REF_iris_full_R.png",
+      "left": 198,
+      "top": 506,
+      "visible": false
+    },
+    {
+      "name": "orbital_line_R",
+      "path": "parts/orbital_line_R.png",
+      "left": 170,
+      "top": 452,
+      "visible": true
+    },
+    {
+      "name": "eye_white_L",
+      "path": "parts/eye_white_L.png",
+      "left": 425,
+      "top": 470,
+      "visible": true
+    },
+    {
+      "name": "iris_L",
+      "path": "parts/iris_L.png",
+      "left": 425,
+      "top": 470,
+      "visible": true
+    },
+    {
+      "name": "upper_lash_L",
+      "path": "parts/upper_lash_L.png",
+      "left": 438,
+      "top": 492,
+      "visible": true
+    },
+    {
+      "name": "lower_lid_L",
+      "path": "parts/lower_lid_L.png",
+      "left": 470,
+      "top": 555,
+      "visible": true
+    },
+    {
+      "name": "REF_lower_lid_source_L",
+      "path": "parts/REF_lower_lid_source_L.png",
+      "left": 425,
+      "top": 540,
+      "visible": false
+    },
+    {
+      "name": "REF_iris_full_L",
+      "path": "parts/REF_iris_full_L.png",
+      "left": 485,
+      "top": 503,
+      "visible": false
+    },
+    {
+      "name": "orbital_line_L",
+      "path": "parts/orbital_line_L.png",
+      "left": 427,
+      "top": 451,
+      "visible": true
+    },
+    {
+      "name": "brow_L",
+      "path": "parts/brow_L.png",
+      "left": 423,
+      "top": 414,
+      "visible": true
+    },
+    {
+      "name": "brow_R",
+      "path": "parts/brow_R.png",
+      "left": 132,
+      "top": 417,
+      "visible": true
+    },
+    {
+      "name": "mouth_closed",
+      "path": "parts/mouth_closed.png",
+      "left": 334,
+      "top": 744,
+      "visible": true
+    }
+  ],
+  "output": {
+    "psd": "Ren_eyes_adjust_v008.psd",
+    "flattenedPng": "assembled.png",
+    "previewPng": "preview.png",
+    "verificationJson": "psd_verification.json",
+    "previewBackground": "#50696e"
+  }
+}

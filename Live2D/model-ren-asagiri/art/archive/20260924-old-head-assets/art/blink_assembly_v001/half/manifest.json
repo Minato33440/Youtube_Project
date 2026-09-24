@@ -1,0 +1,168 @@
+{
+  "canvas": {
+    "width": 760,
+    "height": 960
+  },
+  "globalOrigin": [
+    1620,
+    270
+  ],
+  "eyeOpen": 0.5,
+  "status": "Raster key-shape study; not Cubism parameter keys",
+  "layers": [
+    {
+      "name": "face_underfill",
+      "path": "parts/face_underfill.png",
+      "left": 77,
+      "top": 33,
+      "visible": true
+    },
+    {
+      "name": "eye_white_R",
+      "path": "parts/eye_white_R.png",
+      "left": 163,
+      "top": 525,
+      "visible": true
+    },
+    {
+      "name": "iris_R",
+      "path": "parts/iris_R.png",
+      "left": 198,
+      "top": 525,
+      "visible": true
+    },
+    {
+      "name": "upper_lash_R",
+      "path": "parts/upper_lash_R.png",
+      "left": 127,
+      "top": 498,
+      "visible": true
+    },
+    {
+      "name": "upper_crease_R",
+      "path": "parts/upper_crease_R.png",
+      "left": 154,
+      "top": 486,
+      "visible": true
+    },
+    {
+      "name": "eye_white_L",
+      "path": "parts/eye_white_L.png",
+      "left": 445,
+      "top": 524,
+      "visible": true
+    },
+    {
+      "name": "iris_L",
+      "path": "parts/iris_L.png",
+      "left": 486,
+      "top": 524,
+      "visible": true
+    },
+    {
+      "name": "upper_lash_L",
+      "path": "parts/upper_lash_L.png",
+      "left": 438,
+      "top": 497,
+      "visible": true
+    },
+    {
+      "name": "upper_crease_L",
+      "path": "parts/upper_crease_L.png",
+      "left": 441,
+      "top": 496,
+      "visible": true
+    },
+    {
+      "name": "REF_Upper_eyelid_left",
+      "path": "parts/REF_Upper_eyelid_left.png",
+      "left": 441,
+      "top": 478,
+      "visible": false
+    },
+    {
+      "name": "REF_Upper_eyelid_right",
+      "path": "parts/REF_Upper_eyelid_right.png",
+      "left": 147,
+      "top": 479,
+      "visible": false
+    },
+    {
+      "name": "REF_FILL_eye_white_L",
+      "path": "parts/REF_FILL_eye_white_L.png",
+      "left": 436,
+      "top": 482,
+      "visible": false
+    },
+    {
+      "name": "REF_ALT_eyelash_upper_L",
+      "path": "parts/REF_ALT_eyelash_upper_L.png",
+      "left": 438,
+      "top": 475,
+      "visible": false
+    },
+    {
+      "name": "REF_ALT_iris_L_blue",
+      "path": "parts/REF_ALT_iris_L_blue.png",
+      "left": 486,
+      "top": 490,
+      "visible": false
+    },
+    {
+      "name": "REF_iris_L_original",
+      "path": "parts/REF_iris_L_original.png",
+      "left": 485,
+      "top": 509,
+      "visible": false
+    },
+    {
+      "name": "REF_eyelash_upper_L_original",
+      "path": "parts/REF_eyelash_upper_L_original.png",
+      "left": 443,
+      "top": 482,
+      "visible": false
+    },
+    {
+      "name": "REF_FILL_eye_white_R",
+      "path": "parts/REF_FILL_eye_white_R.png",
+      "left": 137,
+      "top": 482,
+      "visible": false
+    },
+    {
+      "name": "REF_ALT_eyelash_upper_R",
+      "path": "parts/REF_ALT_eyelash_upper_R.png",
+      "left": 127,
+      "top": 475,
+      "visible": false
+    },
+    {
+      "name": "REF_ALT_iris_R_brown",
+      "path": "parts/REF_ALT_iris_R_brown.png",
+      "left": 198,
+      "top": 490,
+      "visible": false
+    },
+    {
+      "name": "REF_iris_R_original",
+      "path": "parts/REF_iris_R_original.png",
+      "left": 199,
+      "top": 512,
+      "visible": false
+    },
+    {
+      "name": "REF_eyelash_upper_R_original",
+      "path": "parts/REF_eyelash_upper_R_original.png",
+      "left": 137,
+      "top": 482,
+      "visible": false
+    }
+  ],
+  "output": {
+    "psd": "Ren_eyes_half_v001.psd",
+    "flattenedPng": "assembled.png",
+    "previewPng": "preview.png",
+    "verificationJson": "psd_verification.json",
+    "previewBackground": "#657078"
+  }
+}

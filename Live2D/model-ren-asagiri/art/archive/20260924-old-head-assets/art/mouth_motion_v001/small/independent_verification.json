@@ -1,0 +1,30 @@
+{
+  "status": "pass",
+  "reader": "psd-tools 1.12.1",
+  "layerRecordOrder": "bottom-to-top",
+  "firstLayer": "face_underfill",
+  "lastLayer": "REF_mouth_teeth_upper",
+  "layerCount": 13,
+  "clippingLayers": [],
+  "forceRenderedVsFlattenedRaw": {
+    "differentPixels": 341295,
+    "maxChannelDelta": 255,
+    "alphaDifferentPixels": 462
+  },
+  "forceRenderedVsFlattenedDisplay": {
+    "#F7F5F0": {
+      "visiblePixels": 391496,
+      "maxVisiblePerChannelDifference": 1.023529411764713,
+      "meanVisiblePerChannelDifference": 0.004394134996295759,
+      "pixelsWithAnyChannelDifferenceOver2": 0,
+      "over2Bounds": null
+    },
+    "#808080": {
+      "visiblePixels": 391496,
+      "maxVisiblePerChannelDifference": 1.4901960784313815,
+      "meanVisiblePerChannelDifference": 0.004593664576878288,
+      "pixelsWithAnyChannelDifferenceOver2": 0,
+      "over2Bounds": null
+    }
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "status": "provisional diagnostic, not approved rig or final registration",
+  "positions": {
+    "shoe_R": [
+      1357,
+      5232
+    ],
+    "shoe_L": [
+      2145,
+      5232
+    ],
+    "hand_R": [
+      721,
+      2738
+    ],
+    "hand_L": [
+      2969,
+      2720
+    ],
+    "forearm_R": [
+      953,
+      2144
+    ],
+    "forearm_L": [
+      2691,
+      2144
+    ],
+    "upper_arm_R": [
+      1189,
+      1850
+    ],
+    "upper_arm_L": [
+      2496,
+      1847
+    ],
+    "belt": [
+      1579,
+      2444
+    ],
+    "trousers_R": [
+      1504,
+      2593
+    ],
+    "trousers_L": [
+      1994,
+      2593
+    ],
+    "sleeve_R": [
+      1230,
+      1385
+    ],
+    "sleeve_L": [
+      2424,
+      1369
+    ],
+    "collar_R": [
+      1725,
+      1150
+    ],
+    "collar_L": [
+      1964,
+      1147
+    ],
+    "neck": [
+      1852,
+      1072
+    ],
+    "shirt_torso": [
+      1447,
+      1256
+    ],
+    "ear_R": [
+      1668,
+      718
+    ],
+    "ear_L": [
+      2206,
+      711
+    ],
+    "face_underfill": [
+      1697,
+      303
+    ],
+    "face_surface": [
+      1659,
+      524
+    ],
+    "ear_R_surface": [
+      1661,
+      837
+    ],
+    "ear_L_surface": [
+      2211,
+      828
+    ],
+    "FILL_eye_white_R": [
+      1757,
+      752
+    ],
+    "FILL_eye_white_L": [
+      2056,
+      752
+    ],
+    "brow_R": [
+      1782,
+      684
+    ],
+    "brow_L": [
+      2087,
+      681
+    ],
+    "eye_white_R": [
+      1765,
+      782
+    ],
+    "iris_R_original": [
+      1819,
+      782
+    ],
+    "eyelash_upper_R_original": [
+      1757,
+      752
+    ],
+    "eye_white_L": [
+      2056,
+      779
+    ],
+    "iris_L_original": [
+      2105,
+      779
+    ],
+    "eyelash_upper_L_original": [
+      2063,
+      752
+    ],
+    "mouth_closed": [
+      1941,
+      995
+    ],
+    "ALT_whole_eye_R": [
+      1731,
+      748
+    ],
+    "ALT_whole_eye_L": [
+      2058,
+      748
+    ],
+    "ALT_iris_R_brown": [
+      1818,
+      760
+    ],
+    "ALT_eyelash_upper_R": [
+      1731,
+      745
+    ],
+    "ALT_iris_L_blue": [
+      2106,
+      760
+    ],
+    "ALT_eyelash_upper_L": [
+      2058,
+      745
+    ],
+    "ALT_mouth_interior": [
+      1914,
+      963
+    ],
+    "ALT_mouth_tongue": [
+      1944,
+      1025
+    ],
+    "ALT_mouth_teeth_upper": [
+      1923,
+      964
+    ],
+    "ALT_mouth_open_outline": [
+      1910,
+      959
+    ],
+    "hair_back": [
+      1765,
+      963
+    ],
+    "hair_side_R": [
+      1506,
+      521
+    ],
+    "hair_side_L": [
+      2114,
+      478
+    ],
+    "hair_front_R": [
+      1580,
+      210
+    ],
+    "hair_front_L": [
+      2000,
+      201
+    ],
+    "hair_front_C": [
+      1876,
+      283
+    ],
+    "hair_ahoge": [
+      1621,
+      118
+    ],
+    "neck-clavicle": [
+      1822,
+      1044
+    ],
+    "shirt_inside": [
+      1717,
+      1128
+    ]
+  },
+  "probe": "head +25px X,-15px Y; center bang +20px Y; side hair +-20px X; ahoge -12px Y; not prescribed ranges"
+}

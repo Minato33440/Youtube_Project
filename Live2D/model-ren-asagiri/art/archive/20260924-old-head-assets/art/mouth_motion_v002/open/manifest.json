@@ -1,0 +1,112 @@
+{
+  "canvas": {
+    "width": 760,
+    "height": 960
+  },
+  "globalOrigin": [
+    1620,
+    270
+  ],
+  "mouthOpen": 1,
+  "status": "Raster shape study, not Cubism parameter keys",
+  "layers": [
+    {
+      "name": "face_underfill",
+      "path": "parts/face_underfill.png",
+      "left": 77,
+      "top": 35,
+      "visible": true
+    },
+    {
+      "name": "eyes_context",
+      "path": "parts/eyes_context.png",
+      "left": 127,
+      "top": 475,
+      "visible": true
+    },
+    {
+      "name": "mouth_cavity",
+      "path": "parts/mouth_cavity.png",
+      "left": 306,
+      "top": 727,
+      "visible": true
+    },
+    {
+      "name": "mouth_teeth_upper",
+      "path": "parts/mouth_teeth_upper.png",
+      "left": 313,
+      "top": 728,
+      "visible": true
+    },
+    {
+      "name": "mouth_tongue",
+      "path": "parts/mouth_tongue.png",
+      "left": 329,
+      "top": 759,
+      "visible": true
+    },
+    {
+      "name": "mouth_rim_upper",
+      "path": "parts/mouth_rim_upper.png",
+      "left": 304,
+      "top": 724,
+      "visible": true
+    },
+    {
+      "name": "mouth_rim_lower",
+      "path": "parts/mouth_rim_lower.png",
+      "left": 315,
+      "top": 765,
+      "visible": true
+    },
+    {
+      "name": "mouth_closed",
+      "path": "parts/mouth_closed.png",
+      "left": 0,
+      "top": 0,
+      "visible": true
+    },
+    {
+      "name": "REF_mouth_cavity",
+      "path": "parts/REF_mouth_cavity.png",
+      "left": 250,
+      "top": 700,
+      "visible": false
+    },
+    {
+      "name": "REF_mouth_tongue",
+      "path": "parts/REF_mouth_tongue.png",
+      "left": 250,
+      "top": 700,
+      "visible": false
+    },
+    {
+      "name": "REF_mouth_rim_upper",
+      "path": "parts/REF_mouth_rim_upper.png",
+      "left": 250,
+      "top": 700,
+      "visible": false
+    },
+    {
+      "name": "REF_mouth_rim_lower",
+      "path": "parts/REF_mouth_rim_lower.png",
+      "left": 250,
+      "top": 700,
+      "visible": false
+    },
+    {
+      "name": "REF_mouth_teeth_upper",
+      "path": "parts/REF_mouth_teeth_upper.png",
+      "left": 250,
+      "top": 700,
+      "visible": false
+    }
+  ],
+  "output": {
+    "psd": "Ren_mouth_open_v002.psd",
+    "flattenedPng": "assembled.png",
+    "previewPng": "preview.png",
+    "verificationJson": "psd_verification.json",
+    "previewBackground": "#657078"
+  }
+}

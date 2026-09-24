@@ -1,0 +1,23 @@
+{
+  "archivedMoves": 64,
+  "archivedFiles": 748,
+  "allArchivedHashesMatch": true,
+  "deletedFiles": 0,
+  "currentHeadParts": 23,
+  "currentHeadSourceHashesUnchanged": true,
+  "auxiliaryParts": 7,
+  "historicalFrontLayerPathsRedirected": 29,
+  "historicalFrontMissingLayerFiles": [
+    "parts/neck.png",
+    "parts/mouth_closed.png",
+    "parts/ALT_iris_R_brown.png",
+    "parts/ALT_eyelash_upper_R.png",
+    "parts/ALT_iris_L_blue.png",
+    "parts/ALT_eyelash_upper_L.png"
+  ],
+  "staticEarHairSeams": "visual_pass_both_sides",
+  "motionValidation": "not_performed",
+  "PSDandCubismModified": false,
+  "currentHeadRebuildMatchesPreview": true,
+  "historicalFrontMissingLayerFilesNote": "Pre-existing unresolved old manifest entries, not moved by this cleanup; never substitute current head into historical PSD validation."
+}

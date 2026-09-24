@@ -1,0 +1,669 @@
+{
+  "status": "accepted_front_head_png",
+  "canvas": [
+    1110,
+    1170
+  ],
+  "globalCrop": [
+    1450,
+    70,
+    2560,
+    1240
+  ],
+  "faceOrigin": [
+    1575,
+    161
+  ],
+  "layers": [
+    {
+      "name": "hair_back",
+      "file": "parts/hair_back.png",
+      "globalPosition": [
+        1753,
+        948
+      ],
+      "size": [
+        506,
+        202
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        303,
+        878
+      ]
+    },
+    {
+      "name": "ear_R",
+      "file": "parts/ear_R.png",
+      "globalPosition": [
+        1668,
+        718
+      ],
+      "size": [
+        137,
+        265
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        218,
+        648
+      ]
+    },
+    {
+      "name": "ear_L",
+      "file": "parts/ear_L.png",
+      "globalPosition": [
+        2206,
+        711
+      ],
+      "size": [
+        128,
+        272
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        756,
+        641
+      ]
+    },
+    {
+      "name": "face_underfill",
+      "file": "parts/face_underfill.png",
+      "globalPosition": [
+        1696,
+        296
+      ],
+      "size": [
+        608,
+        864
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        246,
+        226
+      ]
+    },
+    {
+      "name": "mouth_closed",
+      "file": "parts/mouth_closed.png",
+      "globalPosition": [
+        1955,
+        1015
+      ],
+      "size": [
+        96,
+        14
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        505,
+        945
+      ]
+    },
+    {
+      "name": "FILL_eye_white_R",
+      "file": "parts/FILL_eye_white_R.png",
+      "globalPosition": [
+        1764,
+        764
+      ],
+      "size": [
+        153,
+        101
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        314,
+        694
+      ]
+    },
+    {
+      "name": "ALT_iris_R_brown",
+      "file": "parts/ALT_iris_R_brown.png",
+      "globalPosition": [
+        1818,
+        767
+      ],
+      "size": [
+        78,
+        95
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        368,
+        697
+      ]
+    },
+    {
+      "name": "ALT_eyelash_upper_R",
+      "file": "parts/ALT_eyelash_upper_R.png",
+      "globalPosition": [
+        1738,
+        753
+      ],
+      "size": [
+        183,
+        79
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        288,
+        683
+      ]
+    },
+    {
+      "name": "lower_eyelid_right",
+      "file": "parts/lower_eyelid_right.png",
+      "globalPosition": [
+        1777,
+        832
+      ],
+      "size": [
+        132,
+        41
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        327,
+        762
+      ]
+    },
+    {
+      "name": "upper_crease_R",
+      "file": "parts/upper_crease_R.png",
+      "globalPosition": [
+        1790,
+        745
+      ],
+      "size": [
+        132,
+        23
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        340,
+        675
+      ]
+    },
+    {
+      "name": "brow_R",
+      "file": "parts/brow_R.png",
+      "globalPosition": [
+        1756,
+        693
+      ],
+      "size": [
+        181,
+        29
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        306,
+        623
+      ]
+    },
+    {
+      "name": "FILL_eye_white_L",
+      "file": "parts/FILL_eye_white_L.png",
+      "globalPosition": [
+        2077,
+        763
+      ],
+      "size": [
+        153,
+        101
+      ],
+      "flipHorizontal": true,
+      "previewPosition": [
+        627,
+        693
+      ]
+    },
+    {
+      "name": "ALT_iris_L_blue",
+      "file": "parts/ALT_iris_L_blue.png",
+      "globalPosition": [
+        2098,
+        767
+      ],
+      "size": [
+        79,
+        95
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        648,
+        697
+      ]
+    },
+    {
+      "name": "ALT_eyelash_upper_L",
+      "file": "parts/ALT_eyelash_upper_L.png",
+      "globalPosition": [
+        2066,
+        754
+      ],
+      "size": [
+        193,
+        81
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        616,
+        684
+      ]
+    },
+    {
+      "name": "lower_eyelid_left",
+      "file": "parts/lower_eyelid_left.png",
+      "globalPosition": [
+        2086,
+        830
+      ],
+      "size": [
+        132,
+        41
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        636,
+        760
+      ]
+    },
+    {
+      "name": "upper_crease_L",
+      "file": "parts/upper_crease_L.png",
+      "globalPosition": [
+        2068,
+        748
+      ],
+      "size": [
+        135,
+        30
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        618,
+        678
+      ]
+    },
+    {
+      "name": "brow_L",
+      "file": "parts/brow_L.png",
+      "globalPosition": [
+        2064,
+        687
+      ],
+      "size": [
+        194,
+        31
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        614,
+        617
+      ]
+    },
+    {
+      "name": "hair_side_R",
+      "file": "parts/hair_side_R.png",
+      "globalPosition": [
+        1514,
+        501
+      ],
+      "size": [
+        496,
+        481
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        64,
+        431
+      ]
+    },
+    {
+      "name": "hair_side_L",
+      "file": "parts/hair_side_L.png",
+      "globalPosition": [
+        1984,
+        498
+      ],
+      "size": [
+        517,
+        468
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        534,
+        428
+      ]
+    },
+    {
+      "name": "hair_front_R",
+      "file": "parts/hair_front_R.png",
+      "globalPosition": [
+        1549,
+        205
+      ],
+      "size": [
+        467,
+        353
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        99,
+        135
+      ]
+    },
+    {
+      "name": "hair_front_L",
+      "file": "parts/hair_front_L.png",
+      "globalPosition": [
+        1987,
+        199
+      ],
+      "size": [
+        445,
+        349
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        537,
+        129
+      ]
+    },
+    {
+      "name": "hair_front_C",
+      "file": "parts/hair_front_C.png",
+      "globalPosition": [
+        1717,
+        211
+      ],
+      "size": [
+        567,
+        680
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        267,
+        141
+      ]
+    },
+    {
+      "name": "hair_ahoge",
+      "file": "parts/hair_ahoge.png",
+      "globalPosition": [
+        1621,
+        118
+      ],
+      "size": [
+        427,
+        235
+      ],
+      "flipHorizontal": false,
+      "previewPosition": [
+        171,
+        48
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\face_underfill.png",
+      "file": "parts\\face_underfill.png",
+      "sha256": "01f1f19bd3d29e79df8e3cd40b4feeaa52a76964f947fd9a041eb829f213e5ee",
+      "role": "active_face"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\mouth_closed.png",
+      "file": "parts\\mouth_closed.png",
+      "sha256": "5f0b8bc2594a58b935f2b4929e1c20e72a5ad35e649bc906d6d827ee73f10ca6",
+      "role": "active_face"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\FILL_eye_white_R.png",
+      "file": "parts\\FILL_eye_white_R.png",
+      "sha256": "0b6e3077fb2c2e0d93fa40a988bcced3e66b6949cd9849aaf4a032210ac87a7c",
+      "role": "active_face"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\ALT_iris_R_brown.png",
+      "file": "parts\\ALT_iris_R_brown.png",
+      "sha256": "1912823fb0bc5d6b2994ec975e1cae61fb1d4ad53905d8d0d9adcfae03b96601",
+      "role": "active_face"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\ALT_eyelash_upper_R.png",
+      "file": "parts\\ALT_eyelash_upper_R.png",
+      "sha256": "1dff844b9527fd4a1b2fb4587c10a6ce1047145f7fc63cc2a4746e3ccf1e6440",
+      "role": "active_face"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\lower_eyelid_right.png",
+      "file": "parts\\lower_eyelid_right.png",
+      "sha256": "ffb3942db69111672964c0426051198a3cf6865f7d2fd31bf9b4b3077c064e92",
+      "role": "active_face"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\upper_crease_R.png",
+      "file": "parts\\upper_crease_R.png",
+      "sha256": "b21b6161eadda172aae5911b7ef47d7a8b40b590907458517b2d8e657cee9390",
+      "role": "active_face"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\brow_R.png",
+      "file": "parts\\brow_R.png",
+      "sha256": "c84aa7bb7869b5bf633d1212296e52795d078f1b48eb856e85f6daf108c9cc74",
+      "role": "active_face"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\FILL_eye_white_L.png",
+      "file": "parts\\FILL_eye_white_L.png",
+      "sha256": "01c227543b1022dc4a8d61aab1483c7a94299a1e204d477c8e241594f4987726",
+      "role": "active_face"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\ALT_iris_L_blue.png",
+      "file": "parts\\ALT_iris_L_blue.png",
+      "sha256": "f232f20d44def5e10c06f6957c50e74be99f0aae909b04c4b5b97ec180f9bc05",
+      "role": "active_face"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\ALT_eyelash_upper_L.png",
+      "file": "parts\\ALT_eyelash_upper_L.png",
+      "sha256": "6a1e4070e6d2e06df01052b822f25ecd878d09269725291faac26fa365032e9e",
+      "role": "active_face"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\lower_eyelid_left.png",
+      "file": "parts\\lower_eyelid_left.png",
+      "sha256": "11046d47e00e1b5930ab23d312dfda4b047ae61e3d548a59f5e4a0587ad24fe5",
+      "role": "active_face"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\upper_crease_L.png",
+      "file": "parts\\upper_crease_L.png",
+      "sha256": "bd9d9b116d0a6346dca7485f5dbae57178a469274fc75d5009a0f71d0fbf0155",
+      "role": "active_face"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\brow_L.png",
+      "file": "parts\\brow_L.png",
+      "sha256": "1d259eb00870a694a6ddba562e9821babc5bf5dcec19c68b0a1f59ecf4d34dfb",
+      "role": "active_face"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hair_back.png",
+      "file": "parts\\hair_back.png",
+      "sha256": "eaf39cf624c5db9514a43f90bcf7c7797c97e0032a58fe1e933abae09aa49ff8",
+      "role": "active_hair"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hair_side_R.png",
+      "file": "parts\\hair_side_R.png",
+      "sha256": "87713f22f7d5f73be82877072f88830a3752aea1279db20bccb3a19d7b87bcd9",
+      "role": "active_hair"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hair_side_L.png",
+      "file": "parts\\hair_side_L.png",
+      "sha256": "b290c6ca481fc43e11724b3760d45a2c66e18707562cb626852ecc9e20463179",
+      "role": "active_hair"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hair_front_R.png",
+      "file": "parts\\hair_front_R.png",
+      "sha256": "459f9b5cf6a813b90f74767c02f77b1e3bfce3586aaacc1d4df9bd3c9aae2cab",
+      "role": "active_hair"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hair_front_L.png",
+      "file": "parts\\hair_front_L.png",
+      "sha256": "9021d9fc6e1bc695209ce0afbea32ebae8901641763a89c27ab6ce9ca3986f94",
+      "role": "active_hair"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hair_front_C.png",
+      "file": "parts\\hair_front_C.png",
+      "sha256": "8d0f2ea1ec564881d2b2416a5b80e17e490cee4a209b9d051087bfdb5f74940f",
+      "role": "active_hair"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hair_ahoge.png",
+      "file": "parts\\hair_ahoge.png",
+      "sha256": "cf303c03f5fb86555d0d3f87cad1f5bc117dbc13416b1d69fbc784633399a582",
+      "role": "active_hair"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ear_R.png",
+      "file": "parts\\ear_R.png",
+      "sha256": "efa8ebba850ebd5b956248a3bd39020d27e263e2a01d37dea3811ec4c066604a",
+      "role": "active_ear"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ear_L.png",
+      "file": "parts\\ear_L.png",
+      "sha256": "36920694df287404a374e17bc254aba116c3b69425aa24d67d56881f05826294",
+      "role": "active_ear"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ear_L_surface.png",
+      "file": "reference\\ear_surface\\ear_L_surface.png",
+      "sha256": "4e4dc7002775ecdfe4d4c9aa9e5268d0a7eb3596fa1fcabc6db48c93616618e2",
+      "role": "alternate_not_composited"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\ear_R_surface.png",
+      "file": "reference\\ear_surface\\ear_R_surface.png",
+      "sha256": "772c55f7343ba69a4e38182f59af875e968f2885814b85660109e43b8b5c06d7",
+      "role": "alternate_not_composited"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\facial_feature.png",
+      "file": "reference\\facial_feature.png",
+      "sha256": "01dfe6507a95db1541790c0c3a4c81248803125a98afc6c932df6df0864b2361",
+      "role": "reference_only"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\facial_feature.psd",
+      "file": "reference\\facial_feature.psd",
+      "sha256": "3dbb594e7840b6f42a84a15e47d79b5dbe738090f3852ddafdd3074e14daff77",
+      "role": "reference_only"
+    },
+    {
+      "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\ren-stand-pony-front-4000x6000.png",
+      "file": "reference\\ren-stand-pony-front-4000x6000.png",
+      "sha256": "edf3b0317f981568b29f04fc1dbaeebae416b164741c2dee2499d0a6116a4817",
+      "role": "reference_only"
+    }
+  ],
+  "activePartCount": 23,
+  "referenceOnly": [
+    "reference/"
+  ],
+  "note": "Original drawing used only for visual comparison. Face from v007 latest 14 PNG; current hair/ears explicitly authorized. All scale and positions recorded.",
+  "collectionValidationAtInitialImport": {
+    "sourcesUnchanged": true,
+    "collectedFilesMatch": true
+  },
+  "acceptedOn": "2026-09-24",
+  "acceptance": "acceptance.json",
+  "currentPartHashes": {
+    "parts/hair_back.png": "c3a36f296372a2fa0a2d94beca33395a6f0151df3e2cb0ce543ed470eda7921f",
+    "parts/ear_R.png": "ad1332f78fa8f76aa4b88026453c9928674eb2e30881f896d574c49e8ade77cf",
+    "parts/ear_L.png": "2cb6db3af49979627445d582b6af3dc2a6a1a1c17bb0b98270f1091c5222f89b",
+    "parts/face_underfill.png": "27ddeb8dec0d6101e9ce05314406e7d8c6bafdaaa2bf0f840189b5e0da54e938",
+    "parts/mouth_closed.png": "5f0b8bc2594a58b935f2b4929e1c20e72a5ad35e649bc906d6d827ee73f10ca6",
+    "parts/FILL_eye_white_R.png": "0b6e3077fb2c2e0d93fa40a988bcced3e66b6949cd9849aaf4a032210ac87a7c",
+    "parts/ALT_iris_R_brown.png": "1912823fb0bc5d6b2994ec975e1cae61fb1d4ad53905d8d0d9adcfae03b96601",
+    "parts/ALT_eyelash_upper_R.png": "1dff844b9527fd4a1b2fb4587c10a6ce1047145f7fc63cc2a4746e3ccf1e6440",
+    "parts/lower_eyelid_right.png": "ffb3942db69111672964c0426051198a3cf6865f7d2fd31bf9b4b3077c064e92",
+    "parts/upper_crease_R.png": "b21b6161eadda172aae5911b7ef47d7a8b40b590907458517b2d8e657cee9390",
+    "parts/brow_R.png": "c84aa7bb7869b5bf633d1212296e52795d078f1b48eb856e85f6daf108c9cc74",
+    "parts/FILL_eye_white_L.png": "01c227543b1022dc4a8d61aab1483c7a94299a1e204d477c8e241594f4987726",
+    "parts/ALT_iris_L_blue.png": "f232f20d44def5e10c06f6957c50e74be99f0aae909b04c4b5b97ec180f9bc05",
+    "parts/ALT_eyelash_upper_L.png": "6a1e4070e6d2e06df01052b822f25ecd878d09269725291faac26fa365032e9e",
+    "parts/lower_eyelid_left.png": "11046d47e00e1b5930ab23d312dfda4b047ae61e3d548a59f5e4a0587ad24fe5",
+    "parts/upper_crease_L.png": "bd9d9b116d0a6346dca7485f5dbae57178a469274fc75d5009a0f71d0fbf0155",
+    "parts/brow_L.png": "1d259eb00870a694a6ddba562e9821babc5bf5dcec19c68b0a1f59ecf4d34dfb",
+    "parts/hair_side_R.png": "87713f22f7d5f73be82877072f88830a3752aea1279db20bccb3a19d7b87bcd9",
+    "parts/hair_side_L.png": "b290c6ca481fc43e11724b3760d45a2c66e18707562cb626852ecc9e20463179",
+    "parts/hair_front_R.png": "459f9b5cf6a813b90f74767c02f77b1e3bfce3586aaacc1d4df9bd3c9aae2cab",
+    "parts/hair_front_L.png": "9021d9fc6e1bc695209ce0afbea32ebae8901641763a89c27ab6ce9ca3986f94",
+    "parts/hair_front_C.png": "8d0f2ea1ec564881d2b2416a5b80e17e490cee4a209b9d051087bfdb5f74940f",
+    "parts/hair_ahoge.png": "cf303c03f5fb86555d0d3f87cad1f5bc117dbc13416b1d69fbc784633399a582"
+  },
+  "manualRevisions": [
+    {
+      "file": "parts/ear_R.png",
+      "sha256": "ad1332f78fa8f76aa4b88026453c9928674eb2e30881f896d574c49e8ade77cf",
+      "author": "Boss",
+      "change": "Outer-edge cleanup; native dimensions and original placement retained",
+      "date": "2026-09-24"
+    },
+    {
+      "file": "parts/ear_L.png",
+      "sha256": "2cb6db3af49979627445d582b6af3dc2a6a1a1c17bb0b98270f1091c5222f89b",
+      "author": "Boss",
+      "change": "Outer-edge cleanup; native dimensions and original placement retained",
+      "date": "2026-09-24"
+    },
+    {
+      "file": "parts/hair_back.png",
+      "sha256": "c3a36f296372a2fa0a2d94beca33395a6f0151df3e2cb0ce543ed470eda7921f",
+      "author": "Boss",
+      "change": "Rear-hair seam repair",
+      "date": "2026-09-24"
+    },
+    {
+      "file": "parts/face_underfill.png",
+      "sha256": "27ddeb8dec0d6101e9ce05314406e7d8c6bafdaaa2bf0f840189b5e0da54e938",
+      "author": "Boss",
+      "change": "Updated face base reflected without repaint",
+      "date": "2026-09-24"
+    }
+  ],
+  "sourcesNote": "Initial collection provenance is retained in sources. Current approved PNG bytes are identified by currentPartHashes, including Boss edits made directly in head/parts.",
+  "reviewedOn": "2026-09-24",
+  "hairPlacementReview": {
+    "previousPosition": [
+      1765,
+      963
+    ],
+    "currentPosition": [
+      1753,
+      948
+    ],
+    "previousSize": [
+      515,
+      208
+    ],
+    "currentSize": [
+      506,
+      202
+    ],
+    "reason": "User PNG dimensions changed; translation from retained hair texture followed by both ear-seam visual inspection; no scaling",
+    "staticSeams": "closed",
+    "motionValidation": "pending"
+  }
+}

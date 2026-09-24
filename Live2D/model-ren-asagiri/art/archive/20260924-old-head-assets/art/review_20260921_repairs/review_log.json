@@ -1,0 +1,282 @@
+[
+  {
+    "name": "shoe_L",
+    "before": [
+      461,
+      569
+    ],
+    "after": [
+      461,
+      569
+    ],
+    "manifest_xy": [
+      2145,
+      5232
+    ]
+  },
+  {
+    "name": "belt",
+    "before": [
+      847,
+      149
+    ],
+    "after": [
+      847,
+      149
+    ],
+    "manifest_xy": [
+      1579,
+      2444
+    ]
+  },
+  {
+    "name": "ear_R",
+    "before": [
+      137,
+      265
+    ],
+    "after": [
+      137,
+      265
+    ],
+    "manifest_xy": [
+      1668,
+      718
+    ]
+  },
+  {
+    "name": "face_underfill",
+    "before": [
+      609,
+      892
+    ],
+    "after": [
+      609,
+      892
+    ],
+    "manifest_xy": [
+      1697,
+      303
+    ]
+  },
+  {
+    "name": "ear_R_surface",
+    "before": [
+      131,
+      160
+    ],
+    "after": [
+      131,
+      160
+    ],
+    "manifest_xy": [
+      1661,
+      837
+    ]
+  },
+  {
+    "name": "ear_L_surface",
+    "before": [
+      137,
+      151
+    ],
+    "after": [
+      137,
+      151
+    ],
+    "manifest_xy": [
+      2211,
+      828
+    ]
+  },
+  {
+    "name": "mouth_closed",
+    "before": [
+      126,
+      49
+    ],
+    "after": [
+      198,
+      142
+    ],
+    "manifest_xy": [
+      1941,
+      995
+    ],
+    "estimated_placement_delta": [
+      -36,
+      -44
+    ],
+    "matching_error": 0.2872290015220642
+  },
+  {
+    "name": "ALT_mouth_interior",
+    "before": [
+      177,
+      141
+    ],
+    "after": [
+      239,
+      187
+    ],
+    "manifest_xy": [
+      1914,
+      963
+    ],
+    "estimated_placement_delta": [
+      -4,
+      -20
+    ],
+    "matching_error": 0.16405251622200012
+  },
+  {
+    "name": "ALT_mouth_tongue",
+    "before": [
+      117,
+      70
+    ],
+    "after": [
+      117,
+      70
+    ],
+    "manifest_xy": [
+      1944,
+      1025
+    ]
+  },
+  {
+    "name": "ALT_mouth_open_outline",
+    "before": [
+      185,
+      149
+    ],
+    "after": [
+      185,
+      149
+    ],
+    "manifest_xy": [
+      1910,
+      959
+    ]
+  },
+  {
+    "name": "hair_back",
+    "before": [
+      515,
+      208
+    ],
+    "after": [
+      515,
+      208
+    ],
+    "manifest_xy": [
+      1765,
+      963
+    ]
+  },
+  {
+    "name": "hair_side_R",
+    "before": [
+      336,
+      418
+    ],
+    "after": [
+      351,
+      441
+    ],
+    "manifest_xy": [
+      1514,
+      521
+    ],
+    "estimated_placement_delta": [
+      -8,
+      0
+    ],
+    "matching_error": 0.01587105542421341
+  },
+  {
+    "name": "hair_side_L",
+    "before": [
+      325,
+      442
+    ],
+    "after": [
+      383,
+      486
+    ],
+    "manifest_xy": [
+      2161,
+      521
+    ],
+    "estimated_placement_delta": [
+      -47,
+      -43
+    ],
+    "matching_error": 0.04042476788163185
+  },
+  {
+    "name": "hair_front_R",
+    "before": [
+      420,
+      650
+    ],
+    "after": [
+      420,
+      650
+    ],
+    "manifest_xy": [
+      1580,
+      210
+    ]
+  },
+  {
+    "name": "hair_front_L",
+    "before": [
+      412,
+      646
+    ],
+    "after": [
+      412,
+      646
+    ],
+    "manifest_xy": [
+      2000,
+      201
+    ]
+  },
+  {
+    "name": "hair_front_C",
+    "before": [
+      234,
+      567
+    ],
+    "after": [
+      283,
+      595
+    ],
+    "manifest_xy": [
+      1894,
+      285
+    ],
+    "estimated_placement_delta": [
+      -18,
+      -2
+    ],
+    "matching_error": 0.05305064097046852
+  },
+  {
+    "name": "hair_ahoge",
+    "before": [
+      427,
+      235
+    ],
+    "after": [
+      427,
+      235
+    ],
+    "manifest_xy": [
+      1621,
+      118
+    ]
+  }
+]

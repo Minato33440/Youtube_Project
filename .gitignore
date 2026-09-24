@@ -116,6 +116,9 @@ cache/
 # ドキュメント用の図版は docs/images/ に置けば追跡する
 !docs/images/**
 
+# Provider間で共有するレンの最新プレビュー（直下のPNGのみ）
+!/Live2D/model-ren-asagiri/latest_preview/*.png
+
 # Filmora / 編集ソフトのプロジェクト・キャッシュ
 *.wfp
 *.wfp.bak

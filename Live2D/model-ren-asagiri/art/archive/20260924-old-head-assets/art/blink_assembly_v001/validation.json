@@ -1,0 +1,43 @@
+{
+  "sourceHashes": {
+    "face_underfill": "9bbf85ab8991512673bd9f05f9310764dbc46ae781435dc23eb75519eb2ac1a3",
+    "Upper_eyelid_left": "2186849b3e12b7c0a9851bc1e9c68bb1ec56203a23ade3feec73a9e492ee4f5b",
+    "Upper_eyelid_right": "17fa79b30423834fa05072cee9b6897e0250bbcac4593a8544a4d38c49b82b97",
+    "FILL_eye_white_L": "db79003f6086861474f3fc838ca93b459a4ae894e3839572dfa0fbc376a0ba9f",
+    "ALT_eyelash_upper_L": "b43c14807fc8450c0d7a75316222ba5f2b45cd47d5939c2ac411803a5f029c49",
+    "ALT_iris_L_blue": "50907795ad7e5f45c5cd4e0bb190b79a28472577c3b54dfadcee8a15bd39bcbf",
+    "iris_L_original": "4431a401f0f7f09afe6ba071a3dd91bffc5c3ecf06b947a905fb38d94da08b75",
+    "eyelash_upper_L_original": "16627fefbee13d0acdc74f51dd30b8d39c579a24188207ce5bf586e72ee19b3f",
+    "FILL_eye_white_R": "f0f2b718464a894e8b63d3632211d3a69c191d697b2fda976cb12c755dc158c2",
+    "ALT_eyelash_upper_R": "951373a298d1ef24880862ccc660c29acb256639dbbf361b22712eb58365098e",
+    "ALT_iris_R_brown": "6613780f59fbe80a304284071e730678b3742617df31125e51dc51ed02ecc8d8",
+    "iris_R_original": "cab3cf00d937f86194fd6963054eb14f8931b9ad9f7c860ecd815e508ae6c87a",
+    "eyelash_upper_R_original": "8f835115457cd65717e262fba8e6ea10d3462e36e7bef75a2f8a1b91fecba229"
+  },
+  "sourceUnchanged": true,
+  "states": {
+    "open": {
+      "whitePixels": {
+        "eye_white_R": 11004,
+        "eye_white_L": 11347
+      }
+    },
+    "half": {
+      "whitePixels": {
+        "eye_white_R": 5644,
+        "eye_white_L": 5749
+      }
+    },
+    "closed": {
+      "whitePixels": {
+        "eye_white_R": 0,
+        "eye_white_L": 0
+      }
+    }
+  },
+  "globalOrigin": [
+    1620,
+    270
+  ],
+  "pipeline": "local raster deformation guide, 0 agents; not imported into Cubism"
+}

@@ -1,0 +1,33 @@
+{
+  "sourceHashes": {
+    "shirt_inside": "1538e014562a97fbadda737aa0a4bbc35e9e9c6d7e9beb42f222ad9987e348c3",
+    "neck-clavicle": "1e77961e89c059d5b3d42f45525ebba61c8e078f7181f9f2139c40b51c0c5192",
+    "collar_R": "e40448560d40f6aabd0a3369869c954c3355e2b191d980afd847d5cd693048d8",
+    "collar_L": "61e15e2b564db93c3d20acf2d1ed4cb3e0bc45c7142e95c10116be93b8424e82"
+  },
+  "sourceFilesUnchanged": true,
+  "globalPlacements": {
+    "shirt_inside": [
+      1717,
+      1128
+    ],
+    "neck-clavicle": [
+      1822,
+      1044
+    ],
+    "collar_R": [
+      1725,
+      1150
+    ],
+    "collar_L": [
+      1964,
+      1147
+    ]
+  },
+  "neckAlignment": "retained clavicle pixels matched previous source exactly; new transparent top padding accounted for",
+  "neckOpaqueBottomGlobal": 1536,
+  "visibleBackingBelowNeckPixels": 0,
+  "visibleBackingBelowNeckBoundsLocal": null,
+  "backingPixelsOutsideChestOpening": 711,
+  "status": "pass: static collar opening covered; dynamic deformation not tested"
+}

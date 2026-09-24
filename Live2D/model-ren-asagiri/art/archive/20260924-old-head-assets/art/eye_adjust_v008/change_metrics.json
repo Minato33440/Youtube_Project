@@ -1,0 +1,17 @@
+{
+  "eyes": [
+    {
+      "side": "R",
+      "old_opening_area": 9532,
+      "new_opening_area": 7506,
+      "bottom_raise_at_iris_center": 16
+    },
+    {
+      "side": "L",
+      "old_opening_area": 9993,
+      "new_opening_area": 7544,
+      "bottom_raise_at_iris_center": 16
+    }
+  ],
+  "four_user_parts_RGBA_unchanged": true
+}

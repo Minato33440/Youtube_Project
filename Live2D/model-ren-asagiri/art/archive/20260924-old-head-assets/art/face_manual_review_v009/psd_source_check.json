@@ -1,0 +1,266 @@
+[
+  {
+    "layer": 0,
+    "name": "face_underfill",
+    "psd_size": [
+      608,
+      864
+    ],
+    "source_size": [
+      608,
+      864
+    ],
+    "variants": [
+      {
+        "flip": false,
+        "mean_abs_error": 9.835424788823911e-05
+      },
+      {
+        "flip": true,
+        "mean_abs_error": 2.648619613994477
+      }
+    ]
+  },
+  {
+    "layer": 1,
+    "name": "FILL_eye_white_R",
+    "psd_size": [
+      140,
+      101
+    ],
+    "source_size": [
+      140,
+      101
+    ],
+    "variants": [
+      {
+        "flip": false,
+        "mean_abs_error": 0.49040546911834043
+      },
+      {
+        "flip": true,
+        "mean_abs_error": 12.104832626119755
+      }
+    ]
+  },
+  {
+    "layer": 2,
+    "name": "ALT_iris_R_brown",
+    "psd_size": [
+      78,
+      95
+    ],
+    "source_size": [
+      78,
+      95
+    ],
+    "variants": [
+      {
+        "flip": false,
+        "mean_abs_error": 0.0012595591542959965
+      },
+      {
+        "flip": true,
+        "mean_abs_error": 26.9493477282951
+      }
+    ]
+  },
+  {
+    "layer": 3,
+    "name": "lower_eyelid_right",
+    "psd_size": [
+      140,
+      39
+    ],
+    "source_size": [
+      140,
+      39
+    ],
+    "variants": [
+      {
+        "flip": false,
+        "mean_abs_error": 0.00231990231990232
+      },
+      {
+        "flip": true,
+        "mean_abs_error": 27.073382173382175
+      }
+    ]
+  },
+  {
+    "layer": 4,
+    "name": "ALT_eyelash_upper_R",
+    "psd_size": [
+      181,
+      79
+    ],
+    "source_size": [
+      181,
+      79
+    ],
+    "variants": [
+      {
+        "flip": false,
+        "mean_abs_error": 0.0009091544863277152
+      },
+      {
+        "flip": true,
+        "mean_abs_error": 16.700864862344687
+      }
+    ]
+  },
+  {
+    "layer": 5,
+    "name": "FILL_eye_white_L",
+    "psd_size": [
+      159,
+      98
+    ],
+    "source_size": [
+      159,
+      98
+    ],
+    "variants": [
+      {
+        "flip": false,
+        "mean_abs_error": 0.6117528772515295
+      },
+      {
+        "flip": true,
+        "mean_abs_error": 13.376481410174133
+      }
+    ]
+  },
+  {
+    "layer": 6,
+    "name": "ALT_iris_L_blue",
+    "psd_size": [
+      79,
+      95
+    ],
+    "source_size": [
+      79,
+      95
+    ],
+    "variants": [
+      {
+        "flip": false,
+        "mean_abs_error": 0.0008882966910948257
+      },
+      {
+        "flip": true,
+        "mean_abs_error": 25.025094381523427
+      }
+    ]
+  },
+  {
+    "layer": 7,
+    "name": "lower_eyelid_left",
+    "psd_size": [
+      137,
+      41
+    ],
+    "source_size": [
+      140,
+      39
+    ],
+    "variants": [
+      {
+        "flip": false,
+        "mean_abs_error": 26.3554091745297
+      },
+      {
+        "flip": true,
+        "mean_abs_error": 2.955610942970744
+      }
+    ]
+  },
+  {
+    "layer": 8,
+    "name": "ALT_eyelash_upper_L",
+    "psd_size": [
+      191,
+      78
+    ],
+    "source_size": [
+      189,
+      78
+    ],
+    "variants": [
+      {
+        "flip": false,
+        "mean_abs_error": 0.1581420324875822
+      },
+      {
+        "flip": true,
+        "mean_abs_error": 14.914664160737459
+      }
+    ]
+  },
+  {
+    "layer": 9,
+    "name": "mouth_closed",
+    "psd_size": [
+      96,
+      14
+    ],
+    "source_size": [
+      96,
+      14
+    ],
+    "variants": [
+      {
+        "flip": false,
+        "mean_abs_error": 0.005456349206349206
+      },
+      {
+        "flip": true,
+        "mean_abs_error": 4.657242063492063
+      }
+    ]
+  },
+  {
+    "layer": 10,
+    "name": "brow_L",
+    "psd_size": [
+      194,
+      31
+    ],
+    "source_size": [
+      192,
+      35
+    ],
+    "variants": [
+      {
+        "flip": false,
+        "mean_abs_error": 4.757399401396741
+      },
+      {
+        "flip": true,
+        "mean_abs_error": 12.898625429553265
+      }
+    ]
+  },
+  {
+    "layer": 11,
+    "name": "brow_R",
+    "psd_size": [
+      181,
+      29
+    ],
+    "source_size": [
+      181,
+      31
+    ],
+    "variants": [
+      {
+        "flip": false,
+        "mean_abs_error": 4.404521496157998
+      },
+      {
+        "flip": true,
+        "mean_abs_error": 17.187019749793613
+      }
+    ]
+  }
+]

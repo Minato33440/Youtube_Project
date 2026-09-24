@@ -1,0 +1,51 @@
+[
+  {
+    "file": "expression_sources/mouth/mouth_cavity.png",
+    "source": "art/mouth_split_v002/parts/mouth_cavity.png",
+    "sha256": "f845f65ad41dd5049443fae32627404b4d0aa3bc3e5af70c761ee9d1ecaa35e2",
+    "status": "source_for_future_reassembly_not_neutral_head_approved",
+    "archivedSource": "art/archive/20260924-old-head-assets/art/mouth_split_v002/parts/mouth_cavity.png"
+  },
+  {
+    "file": "expression_sources/mouth/mouth_rim_lower.png",
+    "source": "art/mouth_split_v002/parts/mouth_rim_lower.png",
+    "sha256": "78033b9291e3a7120f88cd525d3977c771ddfdf2d4910018c8d4866657bb1b29",
+    "status": "source_for_future_reassembly_not_neutral_head_approved",
+    "archivedSource": "art/archive/20260924-old-head-assets/art/mouth_split_v002/parts/mouth_rim_lower.png"
+  },
+  {
+    "file": "expression_sources/mouth/mouth_rim_upper.png",
+    "source": "art/mouth_split_v002/parts/mouth_rim_upper.png",
+    "sha256": "5fdd579737481dc78d5a2bbcd73ab8ec028f8300c63e472b8a0d003dc8571691",
+    "status": "source_for_future_reassembly_not_neutral_head_approved",
+    "archivedSource": "art/archive/20260924-old-head-assets/art/mouth_split_v002/parts/mouth_rim_upper.png"
+  },
+  {
+    "file": "expression_sources/mouth/mouth_teeth_upper.png",
+    "source": "art/mouth_split_v002/parts/mouth_teeth_upper.png",
+    "sha256": "5c92a79e2992bf346f0ac3ba49cd07021d778e383806c30dcf3732e16d0d6406",
+    "status": "source_for_future_reassembly_not_neutral_head_approved",
+    "archivedSource": "art/archive/20260924-old-head-assets/art/mouth_split_v002/parts/mouth_teeth_upper.png"
+  },
+  {
+    "file": "expression_sources/mouth/mouth_tongue.png",
+    "source": "art/mouth_split_v002/parts/mouth_tongue.png",
+    "sha256": "aaff8d6a86d6093e5b274016f49d2daa4290100ee50dd6aeab094ff1b6fd277a",
+    "status": "source_for_future_reassembly_not_neutral_head_approved",
+    "archivedSource": "art/archive/20260924-old-head-assets/art/mouth_split_v002/parts/mouth_tongue.png"
+  },
+  {
+    "file": "expression_sources/blink/eyelash_upper_L_original.png",
+    "source": "art/processing_v001/front/parts/eyelash_upper_L_original.png",
+    "sha256": "eba35c6c2ae813a25d63b795879a37762fa50daa819a44b45b74ab2ea41b49ed",
+    "status": "source_for_future_reassembly_not_neutral_head_approved",
+    "archivedSource": "art/archive/20260924-old-head-assets/art/processing_v001/front/parts/eyelash_upper_L_original.png"
+  },
+  {
+    "file": "expression_sources/blink/eyelash_upper_R_original.png",
+    "source": "art/processing_v001/front/parts/eyelash_upper_R_original.png",
+    "sha256": "32c03f01ee185b03434043db23cf123aa10712335c8503e053e2098437fdf745",
+    "status": "source_for_future_reassembly_not_neutral_head_approved",
+    "archivedSource": "art/archive/20260924-old-head-assets/art/processing_v001/front/parts/eyelash_upper_R_original.png"
+  }
+]

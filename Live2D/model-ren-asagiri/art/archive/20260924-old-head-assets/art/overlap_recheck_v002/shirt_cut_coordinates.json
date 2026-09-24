@@ -1,0 +1,88 @@
+{
+  "status": "unapplied draft; approximate, follow collar interior and retain underlap",
+  "shirt_size": [
+    1102,
+    1224
+  ],
+  "shirt_global_origin": [
+    1447,
+    1256
+  ],
+  "polygon_global": [
+    [
+      1850,
+      1256
+    ],
+    [
+      2155,
+      1256
+    ],
+    [
+      2140,
+      1320
+    ],
+    [
+      2100,
+      1400
+    ],
+    [
+      2050,
+      1480
+    ],
+    [
+      1995,
+      1550
+    ],
+    [
+      1940,
+      1480
+    ],
+    [
+      1890,
+      1400
+    ],
+    [
+      1860,
+      1320
+    ]
+  ],
+  "polygon_shirt_local": [
+    [
+      403,
+      0
+    ],
+    [
+      708,
+      0
+    ],
+    [
+      693,
+      64
+    ],
+    [
+      653,
+      144
+    ],
+    [
+      603,
+      224
+    ],
+    [
+      548,
+      294
+    ],
+    [
+      493,
+      224
+    ],
+    [
+      443,
+      144
+    ],
+    [
+      413,
+      64
+    ]
+  ],
+  "overlap_target_px": "approximately 10-20 under collar; do not cut along outside collar tips"
+}

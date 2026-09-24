@@ -1,0 +1,497 @@
+{
+  "registration": {
+    "origin": [
+      1579,
+      169
+    ],
+    "nose_texture_score": 0.9066271781921387,
+    "method": "Translation only, nose texture, original image; context hair is previous verified snapshot"
+  },
+  "psd_layers": [
+    {
+      "index": 0,
+      "name": "\u30ec\u30a4\u30e4\u30fc 0",
+      "bbox": [
+        121,
+        135,
+        729,
+        999
+      ],
+      "size": [
+        608,
+        864
+      ]
+    },
+    {
+      "index": 1,
+      "name": "\u30ec\u30a4\u30e4\u30fc 3",
+      "bbox": [
+        202,
+        603,
+        342,
+        704
+      ],
+      "size": [
+        140,
+        101
+      ]
+    },
+    {
+      "index": 2,
+      "name": "ALT_iris_R_brown",
+      "bbox": [
+        243,
+        606,
+        321,
+        701
+      ],
+      "size": [
+        78,
+        95
+      ]
+    },
+    {
+      "index": 3,
+      "name": "lower_eyelid_right",
+      "bbox": [
+        202,
+        664,
+        342,
+        703
+      ],
+      "size": [
+        140,
+        39
+      ]
+    },
+    {
+      "index": 4,
+      "name": "ALT_eyelash_upper_R",
+      "bbox": [
+        165,
+        592,
+        346,
+        671
+      ],
+      "size": [
+        181,
+        79
+      ]
+    },
+    {
+      "index": 5,
+      "name": "\u30ec\u30a4\u30e4\u30fc 4",
+      "bbox": [
+        495,
+        603,
+        654,
+        701
+      ],
+      "size": [
+        159,
+        98
+      ]
+    },
+    {
+      "index": 6,
+      "name": "\u30ec\u30a4\u30e4\u30fc 2",
+      "bbox": [
+        530,
+        606,
+        609,
+        701
+      ],
+      "size": [
+        79,
+        95
+      ]
+    },
+    {
+      "index": 7,
+      "name": "\u30ec\u30a4\u30e4\u30fc 5",
+      "bbox": [
+        504,
+        664,
+        641,
+        705
+      ],
+      "size": [
+        137,
+        41
+      ]
+    },
+    {
+      "index": 8,
+      "name": "ALT_eyelash_upper_L",
+      "bbox": [
+        491,
+        593,
+        682,
+        671
+      ],
+      "size": [
+        191,
+        78
+      ]
+    },
+    {
+      "index": 9,
+      "name": "\u30ec\u30a4\u30e4\u30fc 6",
+      "bbox": [
+        377,
+        852,
+        473,
+        866
+      ],
+      "size": [
+        96,
+        14
+      ]
+    },
+    {
+      "index": 10,
+      "name": "\u30ec\u30a4\u30e4\u30fc 9",
+      "bbox": [
+        489,
+        526,
+        683,
+        557
+      ],
+      "size": [
+        194,
+        31
+      ]
+    },
+    {
+      "index": 11,
+      "name": "brow_R",
+      "bbox": [
+        181,
+        532,
+        362,
+        561
+      ],
+      "size": [
+        181,
+        29
+      ]
+    }
+  ],
+  "parts": [
+    {
+      "name": "face_underfill",
+      "size": [
+        608,
+        864
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        608,
+        864
+      ],
+      "components_gt25": [
+        {
+          "bbox": [
+            0,
+            0,
+            608,
+            864
+          ],
+          "area": 390954
+        }
+      ]
+    },
+    {
+      "name": "ALT_eyelash_upper_L",
+      "size": [
+        197,
+        78
+      ],
+      "alpha_bbox": [
+        4,
+        0,
+        193,
+        78
+      ],
+      "components_gt25": [
+        {
+          "bbox": [
+            5,
+            2,
+            188,
+            74
+          ],
+          "area": 3073
+        }
+      ]
+    },
+    {
+      "name": "ALT_eyelash_upper_R",
+      "size": [
+        197,
+        79
+      ],
+      "alpha_bbox": [
+        8,
+        0,
+        189,
+        79
+      ],
+      "components_gt25": [
+        {
+          "bbox": [
+            9,
+            0,
+            178,
+            76
+          ],
+          "area": 3088
+        }
+      ]
+    },
+    {
+      "name": "ALT_iris_L_blue",
+      "size": [
+        79,
+        95
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        79,
+        95
+      ],
+      "components_gt25": [
+        {
+          "bbox": [
+            0,
+            0,
+            79,
+            95
+          ],
+          "area": 5958
+        }
+      ]
+    },
+    {
+      "name": "ALT_iris_R_brown",
+      "size": [
+        78,
+        95
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        78,
+        95
+      ],
+      "components_gt25": [
+        {
+          "bbox": [
+            0,
+            0,
+            78,
+            95
+          ],
+          "area": 6003
+        }
+      ]
+    },
+    {
+      "name": "brow_L",
+      "size": [
+        192,
+        35
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        192,
+        35
+      ],
+      "components_gt25": [
+        {
+          "bbox": [
+            0,
+            0,
+            191,
+            34
+          ],
+          "area": 1677
+        }
+      ]
+    },
+    {
+      "name": "brow_R",
+      "size": [
+        181,
+        34
+      ],
+      "alpha_bbox": [
+        0,
+        1,
+        181,
+        32
+      ],
+      "components_gt25": [
+        {
+          "bbox": [
+            0,
+            1,
+            180,
+            31
+          ],
+          "area": 1598
+        }
+      ]
+    },
+    {
+      "name": "FILL_eye_white_L",
+      "size": [
+        159,
+        98
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        159,
+        98
+      ],
+      "components_gt25": [
+        {
+          "bbox": [
+            0,
+            0,
+            159,
+            98
+          ],
+          "area": 11172
+        }
+      ]
+    },
+    {
+      "name": "FILL_eye_white_R",
+      "size": [
+        140,
+        101
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        140,
+        101
+      ],
+      "components_gt25": [
+        {
+          "bbox": [
+            0,
+            0,
+            140,
+            101
+          ],
+          "area": 10572
+        }
+      ]
+    },
+    {
+      "name": "lower_eyelid_left",
+      "size": [
+        140,
+        39
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        140,
+        39
+      ],
+      "components_gt25": [
+        {
+          "bbox": [
+            1,
+            1,
+            138,
+            38
+          ],
+          "area": 867
+        }
+      ]
+    },
+    {
+      "name": "lower_eyelid_right",
+      "size": [
+        140,
+        39
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        140,
+        39
+      ],
+      "components_gt25": [
+        {
+          "bbox": [
+            1,
+            1,
+            138,
+            38
+          ],
+          "area": 867
+        }
+      ]
+    },
+    {
+      "name": "mouth_closed",
+      "size": [
+        96,
+        14
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        96,
+        14
+      ],
+      "components_gt25": [
+        {
+          "bbox": [
+            0,
+            0,
+            96,
+            14
+          ],
+          "area": 436
+        }
+      ]
+    }
+  ],
+  "hashes": {
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\ALT_eyelash_upper_L.png": "14a07d08bee9df59fcbc18a5b5f78295f62d9e33d52ad1c00c2f759403129d63",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\ALT_eyelash_upper_R.png": "cbd43a79f90d8d8ba2e4c1b3e95be026b9d5508bfca844b7d6587d0b1eb3db05",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\ALT_iris_L_blue.png": "f232f20d44def5e10c06f6957c50e74be99f0aae909b04c4b5b97ec180f9bc05",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\ALT_iris_R_brown.png": "1912823fb0bc5d6b2994ec975e1cae61fb1d4ad53905d8d0d9adcfae03b96601",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\brow_L.png": "cc95d61dd7f8f1f0762c66fbf7f9f37abc00ca23fc10846479a577f8394784af",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\brow_R.png": "8e361a88599de1706aa0bfb718a1aa1bbbf5d50dd409b8f20bb46d59df070e5d",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\eye_white_L.png": "e584a3c984e037c3cd889e16946fe7d93251101c016e5756c28903c53730c225",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\eye_white_R.png": "bb581aa5ed9c0c2e3115405c2b73fa4a29f83435a22e1375a93b004dc319d043",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\face_underfill.png": "6a3a65422450842de98743f7f681b311fb476369cc39237ebb0a5671def581f7",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\facial features.png": "2f599aa9e1208c61f1b488233a26c3029820fe14d6bd9a007466027b9933f28f",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\facial features.psd": "813e5d94799d8c951138d9512f0384bfa48300899b4f5f188f3a24b2d876fe8f",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\FILL_eye_white_L.png": "5b7a1bcc5d67d29dc2fc3c935268a76ce1af422f3563af3a20504d8ad8e3e2e3",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\FILL_eye_white_R.png": "45681bc6a51f0044f88a127a5d22ee4e2f564ef478d21be08a30faf8025b0da9",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\iris_L.png": "bd29213fd352744830371c520dfe2dabfcf291588d958ec3caea636551675ef1",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\iris_R.png": "02d0e481f81d01d3757e1db8a5953dbec532647804abb07ac1dcaa00720a44aa",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\lower_eyelid_left.png": "1d85b07079561bf02c884548b1f399f9e0551b433b10550afe427a31f4ded938",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\lower_eyelid_right.png": "c0205f835c6234e6552e4d0d5cc926cde5fe608916b83eb4f68e5b0b1edecfd2",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\lower_lid_L.png": "2c0a1c10348a193cdb12c0a88c7195a780236f71cd84f72c80784494ce734476",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\lower_lid_R.png": "9210111c1632eff05225812ce11db7f7d08b7f54d2a6c3f1432d8c277e59ed46",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\mouth_closed.png": "5f0b8bc2594a58b935f2b4929e1c20e72a5ad35e649bc906d6d827ee73f10ca6",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\REF_lower_lid_source_L.png": "6ec2b78ace0c386306c79759a0b7821b677d9e6e69863077838a38a6bccc942d",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\REF_lower_lid_source_R.png": "1dba4f187e2a85d9186c4a30d2a9651c6f85461022e1f8adcb7c59621f7bb82f",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\upper_crease_L.png": "bd9d9b116d0a6346dca7485f5dbae57178a469274fc75d5009a0f71d0fbf0155",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\upper_crease_R.png": "5cabdd4dbca0f79d146745cb6aaf41977a733ec06aa638d866eef3c58160f404"
+  },
+  "sourceUnchanged": true
+}

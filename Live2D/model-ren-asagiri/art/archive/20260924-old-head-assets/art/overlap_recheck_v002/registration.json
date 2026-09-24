@@ -1,0 +1,80 @@
+{
+  "hair_front_C": {
+    "texture_offset_in_new": [
+      159,
+      72
+    ],
+    "position": [
+      1717,
+      211
+    ],
+    "matched_tiles": 101,
+    "candidates": 102,
+    "mean_similarity": 0.9988359177466666
+  },
+  "hair_side_L": {
+    "texture_offset_in_new": [
+      130,
+      -20
+    ],
+    "position": [
+      1984,
+      498
+    ],
+    "matched_tiles": 87,
+    "candidates": 87,
+    "mean_similarity": 0.9997956040261806
+  },
+  "hair_side_R": {
+    "texture_offset_in_new": [
+      -8,
+      20
+    ],
+    "position": [
+      1514,
+      501
+    ],
+    "matched_tiles": 64,
+    "candidates": 64,
+    "mean_similarity": 0.999980092048645
+  },
+  "hair_front_L": {
+    "texture_offset_in_new": [
+      13,
+      2
+    ],
+    "position": [
+      1987,
+      199
+    ],
+    "matched_tiles": 84,
+    "candidates": 84,
+    "mean_similarity": 0.9998932764643714
+  },
+  "hair_front_R": {
+    "texture_offset_in_new": [
+      31,
+      5
+    ],
+    "position": [
+      1549,
+      205
+    ],
+    "matched_tiles": 78,
+    "candidates": 78,
+    "mean_similarity": 0.9999897739826105
+  },
+  "shirt_torso": {
+    "texture_offset_in_new": [
+      0,
+      0
+    ],
+    "position": [
+      1447,
+      1256
+    ],
+    "matched_tiles": 369,
+    "candidates": 369,
+    "mean_similarity": 0.9998754356611712
+  }
+}

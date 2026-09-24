@@ -1,0 +1,499 @@
+{
+  "status": "pass",
+  "library": "ag-psd",
+  "psd": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\Ren_eyes_half_v001.psd",
+  "flattenedPng": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\assembled.png",
+  "previewPng": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\preview.png",
+  "canvas": {
+    "width": 760,
+    "height": 960
+  },
+  "layerCount": 21,
+  "inputOrder": "bottom-to-top",
+  "psdRecordOrder": "bottom-to-top (Cubism-compatible)",
+  "layers": [
+    {
+      "name": "face_underfill",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\parts\\face_underfill.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 77,
+        "top": 33,
+        "right": 686,
+        "bottom": 922
+      },
+      "alpha": {
+        "nonTransparentPixels": 393917,
+        "contentBounds": {
+          "left": 77,
+          "top": 33,
+          "right": 686,
+          "bottom": 922
+        }
+      }
+    },
+    {
+      "name": "eye_white_R",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\parts\\eye_white_R.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 163,
+        "top": 525,
+        "right": 312,
+        "bottom": 581
+      },
+      "alpha": {
+        "nonTransparentPixels": 5644,
+        "contentBounds": {
+          "left": 163,
+          "top": 525,
+          "right": 312,
+          "bottom": 581
+        }
+      }
+    },
+    {
+      "name": "iris_R",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\parts\\iris_R.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 198,
+        "top": 525,
+        "right": 286,
+        "bottom": 581
+      },
+      "alpha": {
+        "nonTransparentPixels": 4295,
+        "contentBounds": {
+          "left": 198,
+          "top": 525,
+          "right": 286,
+          "bottom": 581
+        }
+      }
+    },
+    {
+      "name": "upper_lash_R",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\parts\\upper_lash_R.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 127,
+        "top": 498,
+        "right": 324,
+        "bottom": 557
+      },
+      "alpha": {
+        "nonTransparentPixels": 2948,
+        "contentBounds": {
+          "left": 127,
+          "top": 498,
+          "right": 324,
+          "bottom": 557
+        }
+      }
+    },
+    {
+      "name": "upper_crease_R",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\parts\\upper_crease_R.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 154,
+        "top": 486,
+        "right": 306,
+        "bottom": 517
+      },
+      "alpha": {
+        "nonTransparentPixels": 939,
+        "contentBounds": {
+          "left": 154,
+          "top": 486,
+          "right": 306,
+          "bottom": 517
+        }
+      }
+    },
+    {
+      "name": "eye_white_L",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\parts\\eye_white_L.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 445,
+        "top": 524,
+        "right": 599,
+        "bottom": 581
+      },
+      "alpha": {
+        "nonTransparentPixels": 5749,
+        "contentBounds": {
+          "left": 445,
+          "top": 524,
+          "right": 599,
+          "bottom": 581
+        }
+      }
+    },
+    {
+      "name": "iris_L",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\parts\\iris_L.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 486,
+        "top": 524,
+        "right": 574,
+        "bottom": 581
+      },
+      "alpha": {
+        "nonTransparentPixels": 4325,
+        "contentBounds": {
+          "left": 486,
+          "top": 524,
+          "right": 574,
+          "bottom": 581
+        }
+      }
+    },
+    {
+      "name": "upper_lash_L",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\parts\\upper_lash_L.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 438,
+        "top": 497,
+        "right": 635,
+        "bottom": 557
+      },
+      "alpha": {
+        "nonTransparentPixels": 2846,
+        "contentBounds": {
+          "left": 438,
+          "top": 497,
+          "right": 635,
+          "bottom": 557
+        }
+      }
+    },
+    {
+      "name": "upper_crease_L",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\parts\\upper_crease_L.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 441,
+        "top": 496,
+        "right": 576,
+        "bottom": 512
+      },
+      "alpha": {
+        "nonTransparentPixels": 820,
+        "contentBounds": {
+          "left": 441,
+          "top": 496,
+          "right": 576,
+          "bottom": 512
+        }
+      }
+    },
+    {
+      "name": "REF_Upper_eyelid_left",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\parts\\REF_Upper_eyelid_left.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 441,
+        "top": 478,
+        "right": 590,
+        "bottom": 508
+      },
+      "alpha": {
+        "nonTransparentPixels": 740,
+        "contentBounds": {
+          "left": 441,
+          "top": 478,
+          "right": 576,
+          "bottom": 508
+        }
+      }
+    },
+    {
+      "name": "REF_Upper_eyelid_right",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\parts\\REF_Upper_eyelid_right.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 147,
+        "top": 479,
+        "right": 307,
+        "bottom": 509
+      },
+      "alpha": {
+        "nonTransparentPixels": 856,
+        "contentBounds": {
+          "left": 154,
+          "top": 479,
+          "right": 306,
+          "bottom": 509
+        }
+      }
+    },
+    {
+      "name": "REF_FILL_eye_white_L",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\parts\\REF_FILL_eye_white_L.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 436,
+        "top": 482,
+        "right": 624,
+        "bottom": 604
+      },
+      "alpha": {
+        "nonTransparentPixels": 17776,
+        "contentBounds": {
+          "left": 436,
+          "top": 482,
+          "right": 624,
+          "bottom": 604
+        }
+      }
+    },
+    {
+      "name": "REF_ALT_eyelash_upper_L",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\parts\\REF_ALT_eyelash_upper_L.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 438,
+        "top": 475,
+        "right": 635,
+        "bottom": 553
+      },
+      "alpha": {
+        "nonTransparentPixels": 3814,
+        "contentBounds": {
+          "left": 438,
+          "top": 475,
+          "right": 635,
+          "bottom": 553
+        }
+      }
+    },
+    {
+      "name": "REF_ALT_iris_L_blue",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\parts\\REF_ALT_iris_L_blue.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 486,
+        "top": 490,
+        "right": 574,
+        "bottom": 602
+      },
+      "alpha": {
+        "nonTransparentPixels": 8237,
+        "contentBounds": {
+          "left": 486,
+          "top": 490,
+          "right": 574,
+          "bottom": 602
+        }
+      }
+    },
+    {
+      "name": "REF_iris_L_original",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\parts\\REF_iris_L_original.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 485,
+        "top": 509,
+        "right": 572,
+        "bottom": 601
+      },
+      "alpha": {
+        "nonTransparentPixels": 6669,
+        "contentBounds": {
+          "left": 485,
+          "top": 509,
+          "right": 572,
+          "bottom": 601
+        }
+      }
+    },
+    {
+      "name": "REF_eyelash_upper_L_original",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\parts\\REF_eyelash_upper_L_original.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 443,
+        "top": 482,
+        "right": 624,
+        "bottom": 540
+      },
+      "alpha": {
+        "nonTransparentPixels": 4242,
+        "contentBounds": {
+          "left": 443,
+          "top": 482,
+          "right": 624,
+          "bottom": 540
+        }
+      }
+    },
+    {
+      "name": "REF_FILL_eye_white_R",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\parts\\REF_FILL_eye_white_R.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 137,
+        "top": 482,
+        "right": 318,
+        "bottom": 610
+      },
+      "alpha": {
+        "nonTransparentPixels": 18014,
+        "contentBounds": {
+          "left": 137,
+          "top": 482,
+          "right": 318,
+          "bottom": 610
+        }
+      }
+    },
+    {
+      "name": "REF_ALT_eyelash_upper_R",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\parts\\REF_ALT_eyelash_upper_R.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 127,
+        "top": 475,
+        "right": 324,
+        "bottom": 554
+      },
+      "alpha": {
+        "nonTransparentPixels": 3977,
+        "contentBounds": {
+          "left": 127,
+          "top": 475,
+          "right": 324,
+          "bottom": 554
+        }
+      }
+    },
+    {
+      "name": "REF_ALT_iris_R_brown",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\parts\\REF_ALT_iris_R_brown.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 198,
+        "top": 490,
+        "right": 286,
+        "bottom": 602
+      },
+      "alpha": {
+        "nonTransparentPixels": 8210,
+        "contentBounds": {
+          "left": 198,
+          "top": 490,
+          "right": 286,
+          "bottom": 602
+        }
+      }
+    },
+    {
+      "name": "REF_iris_R_original",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\parts\\REF_iris_R_original.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 199,
+        "top": 512,
+        "right": 286,
+        "bottom": 603
+      },
+      "alpha": {
+        "nonTransparentPixels": 6391,
+        "contentBounds": {
+          "left": 199,
+          "top": 512,
+          "right": 286,
+          "bottom": 603
+        }
+      }
+    },
+    {
+      "name": "REF_eyelash_upper_R_original",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\blink_assembly_v001\\half\\parts\\REF_eyelash_upper_R_original.png",
+      "visible": false,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 137,
+        "top": 482,
+        "right": 314,
+        "bottom": 556
+      },
+      "alpha": {
+        "nonTransparentPixels": 4904,
+        "contentBounds": {
+          "left": 137,
+          "top": 482,
+          "right": 314,
+          "bottom": 556
+        }
+      }
+    }
+  ],
+  "roundTrip": {
+    "verifiedWith": "ag-psd readPsd(useImageData)",
+    "colorMode": "RGB (3)",
+    "bitsPerChannel": 8,
+    "dimensions": true,
+    "names": true,
+    "positions": true,
+    "visibility": true,
+    "clipping": true,
+    "rgba": true,
+    "renderedLayerCompositeRgba": true,
+    "embeddedCompositeReadback": {
+      "exact": false,
+      "pixels": 1184,
+      "visiblePixels": 1184,
+      "transparentPixels": 0,
+      "alphaPixels": 0,
+      "maxChannelDelta": 247
+    },
+    "embeddedCompositeNote": "ag-psd applies its white-matte conversion to the separate merged preview. Layer RGBA is exact and recomposites exactly to the emitted flattened PNG; the diagnostic above is retained rather than treated as a transparent-pixel-only difference."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "v001": {
+    "mouthCavityBounds": [
+      1912,
+      1006,
+      2096,
+      1128
+    ],
+    "height": 122,
+    "centerY": 1067.0
+  },
+  "v002": {
+    "mouthCavityBounds": [
+      1926,
+      997,
+      2082,
+      1072
+    ],
+    "height": 75,
+    "centerY": 1034.5
+  }
+}

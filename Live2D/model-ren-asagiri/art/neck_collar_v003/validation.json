@@ -1,0 +1,37 @@
+{
+  "sourceHashes": {
+    "shirt_inside": "1538e014562a97fbadda737aa0a4bbc35e9e9c6d7e9beb42f222ad9987e348c3",
+    "neck-clavicle": "e14cf49edea6567d89824621ed06b17376fedac547803e7dafce7f4e08161b0f",
+    "collar_R": "e40448560d40f6aabd0a3369869c954c3355e2b191d980afd847d5cd693048d8",
+    "collar_L": "61e15e2b564db93c3d20acf2d1ed4cb3e0bc45c7142e95c10116be93b8424e82"
+  },
+  "sourceFilesUnchanged": true,
+  "globalPlacements": {
+    "shirt_inside": [
+      1717,
+      1128
+    ],
+    "neck-clavicle": [
+      1822,
+      1019
+    ],
+    "collar_R": [
+      1725,
+      1150
+    ],
+    "collar_L": [
+      1964,
+      1147
+    ]
+  },
+  "neckAlignment": "retained clavicle pixels matched previous source exactly; new transparent top padding accounted for",
+  "neckOpaqueBottomGlobal": 1473,
+  "visibleBackingBelowNeckPixels": 2851,
+  "visibleBackingBelowNeckBoundsLocal": [
+    224,
+    473,
+    341,
+    582
+  ],
+  "status": "review: chest still needs downward extension; do not mark full-body-ready"
+}

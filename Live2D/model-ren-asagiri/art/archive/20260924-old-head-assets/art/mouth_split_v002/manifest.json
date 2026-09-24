@@ -1,0 +1,50 @@
+{
+  "canvas": {
+    "width": 239,
+    "height": 187
+  },
+  "coordinateConvention": "donor-local; identical 239x187 PNG canvases, origin 0,0; global face registration pending",
+  "layers": [
+    {
+      "name": "mouth_cavity",
+      "path": "parts/mouth_cavity.png",
+      "left": 0,
+      "top": 0,
+      "visible": true
+    },
+    {
+      "name": "mouth_teeth_upper",
+      "path": "parts/mouth_teeth_upper.png",
+      "left": 0,
+      "top": 0,
+      "visible": true
+    },
+    {
+      "name": "mouth_tongue",
+      "path": "parts/mouth_tongue.png",
+      "left": 0,
+      "top": 0,
+      "visible": true
+    },
+    {
+      "name": "mouth_rim_upper",
+      "path": "parts/mouth_rim_upper.png",
+      "left": 0,
+      "top": 0,
+      "visible": true
+    },
+    {
+      "name": "mouth_rim_lower",
+      "path": "parts/mouth_rim_lower.png",
+      "left": 0,
+      "top": 0,
+      "visible": true
+    }
+  ],
+  "output": {
+    "psd": "Ren_mouth_split_v002.psd",
+    "flattenedPng": "mouth_psd_assembled.png",
+    "previewPng": "mouth_psd_preview.png",
+    "verificationJson": "psd_verification.json"
+  }
+}

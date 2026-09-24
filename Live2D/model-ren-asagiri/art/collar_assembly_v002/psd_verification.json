@@ -1,0 +1,103 @@
+{
+  "status": "pass",
+  "library": "ag-psd",
+  "psd": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\collar_assembly_v002\\Ren_collar_assembly_v002.psd",
+  "flattenedPng": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\collar_assembly_v002\\collar_psd_assembled.png",
+  "previewPng": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\collar_assembly_v002\\collar_psd_preview.png",
+  "canvas": {
+    "width": 567,
+    "height": 454
+  },
+  "layerCount": 3,
+  "inputOrder": "bottom-to-top",
+  "psdRecordOrder": "bottom-to-top (Cubism-compatible)",
+  "layers": [
+    {
+      "name": "shirt_inside",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\collar_assembly_v002\\parts\\shirt_inside.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1,
+        "top": 0,
+        "right": 568,
+        "bottom": 454
+      },
+      "alpha": {
+        "nonTransparentPixels": 101325,
+        "contentBounds": {
+          "left": 147,
+          "top": 13,
+          "right": 457,
+          "bottom": 454
+        }
+      }
+    },
+    {
+      "name": "collar_R",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\collar_assembly_v002\\parts\\collar_R.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 9,
+        "top": 22,
+        "right": 287,
+        "bottom": 433
+      },
+      "alpha": {
+        "nonTransparentPixels": 37560,
+        "contentBounds": {
+          "left": 9,
+          "top": 22,
+          "right": 287,
+          "bottom": 433
+        }
+      }
+    },
+    {
+      "name": "collar_L",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\collar_assembly_v002\\parts\\collar_L.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 248,
+        "top": 19,
+        "right": 555,
+        "bottom": 485
+      },
+      "alpha": {
+        "nonTransparentPixels": 37801,
+        "contentBounds": {
+          "left": 260,
+          "top": 22,
+          "right": 555,
+          "bottom": 454
+        }
+      }
+    }
+  ],
+  "roundTrip": {
+    "verifiedWith": "ag-psd readPsd(useImageData)",
+    "colorMode": "RGB (3)",
+    "bitsPerChannel": 8,
+    "dimensions": true,
+    "names": true,
+    "positions": true,
+    "visibility": true,
+    "clipping": true,
+    "rgba": true,
+    "renderedLayerCompositeRgba": true,
+    "embeddedCompositeReadback": {
+      "exact": false,
+      "pixels": 1973,
+      "visiblePixels": 1973,
+      "transparentPixels": 0,
+      "alphaPixels": 0,
+      "maxChannelDelta": 253
+    },
+    "embeddedCompositeNote": "ag-psd applies its white-matte conversion to the separate merged preview. Layer RGBA is exact and recomposites exactly to the emitted flattened PNG; the diagnostic above is retained rather than treated as a transparent-pixel-only difference."
+  }
+}

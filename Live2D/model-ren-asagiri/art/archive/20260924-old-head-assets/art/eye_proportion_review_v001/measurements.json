@@ -1,0 +1,92 @@
+{
+  "original_size": [
+    4000,
+    6000
+  ],
+  "sample_global_crop": [
+    1460,
+    80,
+    2540,
+    1700
+  ],
+  "parts": [
+    {
+      "name": "iris_R_original",
+      "size": [
+        87,
+        91
+      ],
+      "bbox": [
+        0,
+        0,
+        87,
+        91
+      ]
+    },
+    {
+      "name": "iris_L_original",
+      "size": [
+        87,
+        92
+      ],
+      "bbox": [
+        0,
+        0,
+        87,
+        92
+      ]
+    },
+    {
+      "name": "ALT_iris_R_brown",
+      "size": [
+        88,
+        112
+      ],
+      "bbox": [
+        0,
+        0,
+        88,
+        112
+      ]
+    },
+    {
+      "name": "ALT_iris_L_blue",
+      "size": [
+        88,
+        112
+      ],
+      "bbox": [
+        0,
+        0,
+        88,
+        112
+      ]
+    },
+    {
+      "name": "FILL_eye_white_R",
+      "size": [
+        181,
+        128
+      ],
+      "bbox": [
+        0,
+        0,
+        181,
+        128
+      ]
+    },
+    {
+      "name": "FILL_eye_white_L",
+      "size": [
+        188,
+        122
+      ],
+      "bbox": [
+        0,
+        0,
+        188,
+        122
+      ]
+    }
+  ]
+}

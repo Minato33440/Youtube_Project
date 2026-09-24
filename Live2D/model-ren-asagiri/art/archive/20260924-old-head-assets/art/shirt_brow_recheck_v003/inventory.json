@@ -1,0 +1,91 @@
+[
+  {
+    "name": "shirt_torso",
+    "size": [
+      1157,
+      1249
+    ],
+    "bbox": [
+      25,
+      25,
+      1127,
+      1249
+    ],
+    "sha256": "b04c7139d749e5dd2500ca12ed97e78d2c9901cfc56d5374dde3d4268a2971d4",
+    "changed": true,
+    "position": [
+      1422,
+      1231
+    ]
+  },
+  {
+    "name": "brow_L",
+    "size": [
+      101,
+      40
+    ],
+    "bbox": [
+      0,
+      0,
+      101,
+      40
+    ],
+    "sha256": "76d43654ae7b2a10781c918fa6c4b4d8f7c80f64f0b8459a7b6bef5a9437bdba",
+    "changed": false,
+    "position": [
+      2087,
+      681
+    ]
+  },
+  {
+    "name": "brow_R",
+    "size": [
+      120,
+      38
+    ],
+    "bbox": [
+      0,
+      0,
+      120,
+      38
+    ],
+    "sha256": "ed3fac617c38c1a0a7f73bc416b100db94ec545a0ee7f5a1bc8131255ffe8f81",
+    "changed": false,
+    "position": [
+      1782,
+      684
+    ]
+  },
+  {
+    "name": "Upper_eyelid_left",
+    "size": [
+      134,
+      30
+    ],
+    "bbox": [
+      0,
+      0,
+      130,
+      30
+    ],
+    "sha256": "e8605315566588690c8ac8c02b0e86b8f63c2f1e01e7c23f30351d6a93f2ae01",
+    "changed": true,
+    "position": null
+  },
+  {
+    "name": "Upper_eyelid_right",
+    "size": [
+      132,
+      27
+    ],
+    "bbox": [
+      3,
+      0,
+      132,
+      27
+    ],
+    "sha256": "86ff3f2b0ff1b0424ad44bc2f4f7ec78995abe46bff5adb5742d00f2a8820746",
+    "changed": true,
+    "position": null
+  }
+]

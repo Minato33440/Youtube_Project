@@ -1,0 +1,542 @@
+{
+  "canvas": {
+    "width": 4000,
+    "height": 6000
+  },
+  "coordinateConvention": "character sides; canvas top-left pixel origin",
+  "layers": [
+    {
+      "name": "shoe_R",
+      "path": "parts/shoe_R.png",
+      "left": 1357,
+      "top": 5232,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-front-4000x6000.png"
+    },
+    {
+      "name": "shoe_L",
+      "path": "parts/shoe_L.png",
+      "left": 2145,
+      "top": 5232,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-front-4000x6000.png"
+    },
+    {
+      "name": "hand_R",
+      "path": "parts/hand_R.png",
+      "left": 721,
+      "top": 2738,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-front-4000x6000.png"
+    },
+    {
+      "name": "hand_L",
+      "path": "parts/hand_L.png",
+      "left": 2969,
+      "top": 2720,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-front-4000x6000.png"
+    },
+    {
+      "name": "forearm_R",
+      "path": "parts/forearm_R.png",
+      "left": 953,
+      "top": 2144,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-front-4000x6000.png"
+    },
+    {
+      "name": "forearm_L",
+      "path": "parts/forearm_L.png",
+      "left": 2691,
+      "top": 2144,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-front-4000x6000.png"
+    },
+    {
+      "name": "upper_arm_R",
+      "path": "parts/upper_arm_R.png",
+      "left": 1189,
+      "top": 1850,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-front-4000x6000.png"
+    },
+    {
+      "name": "upper_arm_L",
+      "path": "parts/upper_arm_L.png",
+      "left": 2496,
+      "top": 1847,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-front-4000x6000.png"
+    },
+    {
+      "name": "belt",
+      "path": "parts/belt.png",
+      "left": 1579,
+      "top": 2444,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-front-4000x6000.png"
+    },
+    {
+      "name": "trousers_R",
+      "path": "parts/trousers_R.png",
+      "left": 1504,
+      "top": 2593,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-front-4000x6000.png"
+    },
+    {
+      "name": "trousers_L",
+      "path": "parts/trousers_L.png",
+      "left": 1994,
+      "top": 2593,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-front-4000x6000.png"
+    },
+    {
+      "name": "sleeve_R",
+      "path": "parts/sleeve_R.png",
+      "left": 1230,
+      "top": 1385,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-front-4000x6000.png"
+    },
+    {
+      "name": "sleeve_L",
+      "path": "parts/sleeve_L.png",
+      "left": 2424,
+      "top": 1369,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-front-4000x6000.png"
+    },
+    {
+      "name": "collar_R",
+      "path": "parts/collar_R.png",
+      "left": 1716,
+      "top": 1151,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-front-4000x6000.png"
+    },
+    {
+      "name": "collar_L",
+      "path": "parts/collar_L.png",
+      "left": 1990,
+      "top": 1128,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-front-4000x6000.png"
+    },
+    {
+      "name": "neck",
+      "path": "parts/neck.png",
+      "left": 1852,
+      "top": 1072,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-front-4000x6000.png"
+    },
+    {
+      "name": "shirt_torso",
+      "path": "parts/shirt_torso.png",
+      "left": 1447,
+      "top": 1256,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-front-4000x6000.png"
+    },
+    {
+      "name": "ear_R",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/ear_R.png",
+      "left": 1668,
+      "top": 718,
+      "visible": true,
+      "note": "No-hair donor aligned +45px Y; edge finishing required",
+      "source": "ren-stand-pony-nohair-4000x6000.png",
+      "preArchivePath": "parts/ear_R.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "ear_L",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/ear_L.png",
+      "left": 2206,
+      "top": 711,
+      "visible": true,
+      "note": "No-hair donor aligned +45px Y; edge finishing required",
+      "source": "ren-stand-pony-nohair-4000x6000.png",
+      "preArchivePath": "parts/ear_L.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "face_underfill",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/face_underfill.png",
+      "left": 1697,
+      "top": 303,
+      "visible": true,
+      "note": "Inpainted donor forehead/skin under source surface; inspect during deformation",
+      "source": "ren-stand-pony-nohair-4000x6000.png",
+      "preArchivePath": "parts/face_underfill.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "face_surface",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/face_surface.png",
+      "left": 1659,
+      "top": 524,
+      "visible": true,
+      "note": "Original skin, with eye/brow/mouth cavities inpainted; repaint review required",
+      "source": "front original",
+      "preArchivePath": "parts/face_surface.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "ear_R_surface",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/ear_R_surface.png",
+      "left": 1661,
+      "top": 837,
+      "visible": true,
+      "note": "",
+      "source": "front original",
+      "preArchivePath": "parts/ear_R_surface.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "ear_L_surface",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/ear_L_surface.png",
+      "left": 2211,
+      "top": 828,
+      "visible": true,
+      "note": "",
+      "source": "front original",
+      "preArchivePath": "parts/ear_L_surface.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "FILL_eye_white_R",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/FILL_eye_white_R.png",
+      "left": 1757,
+      "top": 752,
+      "visible": false,
+      "note": "Complete sclera fill for gaze rig; below all eye features, retouch shadow",
+      "source": "",
+      "preArchivePath": "parts/FILL_eye_white_R.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "FILL_eye_white_L",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/FILL_eye_white_L.png",
+      "left": 2056,
+      "top": 752,
+      "visible": false,
+      "note": "Complete sclera fill for gaze rig; below all eye features, retouch shadow",
+      "source": "",
+      "preArchivePath": "parts/FILL_eye_white_L.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "brow_R",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/brow_R.png",
+      "left": 1782,
+      "top": 684,
+      "visible": true,
+      "note": "",
+      "source": "front original",
+      "preArchivePath": "parts/brow_R.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "brow_L",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/brow_L.png",
+      "left": 2087,
+      "top": 681,
+      "visible": true,
+      "note": "",
+      "source": "front original",
+      "preArchivePath": "parts/brow_L.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "eye_white_R",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/eye_white_R.png",
+      "left": 1765,
+      "top": 782,
+      "visible": true,
+      "note": "",
+      "source": "front original",
+      "preArchivePath": "parts/eye_white_R.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "iris_R_original",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/iris_R_original.png",
+      "left": 1819,
+      "top": 782,
+      "visible": true,
+      "note": "",
+      "source": "front original",
+      "preArchivePath": "parts/iris_R_original.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "eyelash_upper_R_original",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/eyelash_upper_R_original.png",
+      "left": 1757,
+      "top": 752,
+      "visible": true,
+      "note": "",
+      "source": "front original",
+      "preArchivePath": "parts/eyelash_upper_R_original.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "eye_white_L",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/eye_white_L.png",
+      "left": 2056,
+      "top": 779,
+      "visible": true,
+      "note": "",
+      "source": "front original",
+      "preArchivePath": "parts/eye_white_L.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "iris_L_original",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/iris_L_original.png",
+      "left": 2105,
+      "top": 779,
+      "visible": true,
+      "note": "",
+      "source": "front original",
+      "preArchivePath": "parts/iris_L_original.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "eyelash_upper_L_original",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/eyelash_upper_L_original.png",
+      "left": 2063,
+      "top": 752,
+      "visible": true,
+      "note": "",
+      "source": "front original",
+      "preArchivePath": "parts/eyelash_upper_L_original.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "mouth_closed",
+      "path": "parts/mouth_closed.png",
+      "left": 1941,
+      "top": 995,
+      "visible": true,
+      "note": "",
+      "source": "front original"
+    },
+    {
+      "name": "ALT_whole_eye_R",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/ALT_whole_eye_R.png",
+      "left": 1731,
+      "top": 748,
+      "visible": false,
+      "note": "Aligned whole-eye reference; switch off original eye and other alternatives before enabling",
+      "source": "right-eye.png",
+      "preArchivePath": "parts/ALT_whole_eye_R.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "ALT_whole_eye_L",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/ALT_whole_eye_L.png",
+      "left": 2058,
+      "top": 748,
+      "visible": false,
+      "note": "Aligned whole-eye reference; switch off original eye and other alternatives before enabling",
+      "source": "left-eye.png",
+      "preArchivePath": "parts/ALT_whole_eye_L.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "ALT_iris_R_brown",
+      "path": "parts/ALT_iris_R_brown.png",
+      "left": 1818,
+      "top": 760,
+      "visible": false,
+      "note": "Full iris candidate, requires eye-white clipping when activated",
+      "source": "brown-right-eyeball.png"
+    },
+    {
+      "name": "ALT_eyelash_upper_R",
+      "path": "parts/ALT_eyelash_upper_R.png",
+      "left": 1731,
+      "top": 745,
+      "visible": false,
+      "note": "User composite candidate, aligned approximately; retain for editor adjustment",
+      "source": "Upper_right_eyelash.png"
+    },
+    {
+      "name": "ALT_iris_L_blue",
+      "path": "parts/ALT_iris_L_blue.png",
+      "left": 2106,
+      "top": 760,
+      "visible": false,
+      "note": "Full iris candidate, requires eye-white clipping when activated",
+      "source": "blue-left-eyeball.png"
+    },
+    {
+      "name": "ALT_eyelash_upper_L",
+      "path": "parts/ALT_eyelash_upper_L.png",
+      "left": 2058,
+      "top": 745,
+      "visible": false,
+      "note": "User composite candidate, aligned approximately; retain for editor adjustment",
+      "source": "Upper_left_eyelash.png"
+    },
+    {
+      "name": "ALT_mouth_interior",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/ALT_mouth_interior.png",
+      "left": 1914,
+      "top": 963,
+      "visible": false,
+      "note": "Mouth donor scaled 0.75; aligned to source mouth center, closed mouth must be hidden on use",
+      "source": "laugh",
+      "preArchivePath": "parts/ALT_mouth_interior.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "ALT_mouth_tongue",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/ALT_mouth_tongue.png",
+      "left": 1944,
+      "top": 1025,
+      "visible": false,
+      "note": "Mouth donor scaled 0.75; aligned to source mouth center, closed mouth must be hidden on use",
+      "source": "laugh",
+      "preArchivePath": "parts/ALT_mouth_tongue.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "ALT_mouth_teeth_upper",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/ALT_mouth_teeth_upper.png",
+      "left": 1923,
+      "top": 964,
+      "visible": false,
+      "note": "Mouth donor scaled 0.75; aligned to source mouth center, closed mouth must be hidden on use",
+      "source": "laugh",
+      "preArchivePath": "parts/ALT_mouth_teeth_upper.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "ALT_mouth_open_outline",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/ALT_mouth_open_outline.png",
+      "left": 1910,
+      "top": 959,
+      "visible": false,
+      "note": "Mouth donor scaled 0.75; aligned to source mouth center, closed mouth must be hidden on use",
+      "source": "laugh",
+      "preArchivePath": "parts/ALT_mouth_open_outline.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "hair_back",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/hair_back.png",
+      "left": 1765,
+      "top": 963,
+      "visible": true,
+      "note": "Source hair partition; roots/overlaps need deformation-specific finishing",
+      "source": "front original",
+      "preArchivePath": "parts/hair_back.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "hair_side_R",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/hair_side_R.png",
+      "left": 1514,
+      "top": 521,
+      "visible": true,
+      "note": "Source hair partition; roots/overlaps need deformation-specific finishing",
+      "source": "front original",
+      "preArchivePath": "parts/hair_side_R.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "hair_side_L",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/hair_side_L.png",
+      "left": 2161,
+      "top": 521,
+      "visible": true,
+      "note": "Source hair partition; roots/overlaps need deformation-specific finishing",
+      "source": "front original",
+      "preArchivePath": "parts/hair_side_L.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "hair_front_R",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/hair_front_R.png",
+      "left": 1580,
+      "top": 210,
+      "visible": true,
+      "note": "Source hair partition; roots/overlaps need deformation-specific finishing",
+      "source": "front original",
+      "preArchivePath": "parts/hair_front_R.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "hair_front_L",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/hair_front_L.png",
+      "left": 2000,
+      "top": 201,
+      "visible": true,
+      "note": "Source hair partition; roots/overlaps need deformation-specific finishing",
+      "source": "front original",
+      "preArchivePath": "parts/hair_front_L.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "hair_front_C",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/hair_front_C.png",
+      "left": 1894,
+      "top": 285,
+      "visible": true,
+      "note": "Source hair partition; roots/overlaps need deformation-specific finishing",
+      "source": "front original",
+      "preArchivePath": "parts/hair_front_C.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    },
+    {
+      "name": "hair_ahoge",
+      "path": "../../archive/20260924-old-head-assets/art/processing_v001/front/parts/hair_ahoge.png",
+      "left": 1621,
+      "top": 118,
+      "visible": true,
+      "note": "Source hair partition; roots/overlaps need deformation-specific finishing",
+      "source": "front original",
+      "preArchivePath": "parts/hair_ahoge.png",
+      "assetStatus": "historical_head_do_not_use_for_current_face"
+    }
+  ],
+  "output": {
+    "psd": "Ren_front_parts_v001.psd",
+    "flattenedPng": "Ren_front_parts_v001.png",
+    "previewPng": "Ren_front_preview.png",
+    "verificationJson": "psd_verification.json"
+  },
+  "status": "historical_fullbody_assembly_current_head_is_art_head",
+  "archiveMigration": "../../archive/20260924-old-head-assets/migration_manifest.json",
+  "missingLayerFilesAtArchiveReview": [
+    "parts/neck.png",
+    "parts/mouth_closed.png",
+    "parts/ALT_iris_R_brown.png",
+    "parts/ALT_eyelash_upper_R.png",
+    "parts/ALT_iris_L_blue.png",
+    "parts/ALT_eyelash_upper_L.png"
+  ]
+}

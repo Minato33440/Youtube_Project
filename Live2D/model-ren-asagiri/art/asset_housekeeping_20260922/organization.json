@@ -1,0 +1,100 @@
+{
+  "canonicalParts": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts",
+  "moved": [
+    {
+      "from": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\eye_white_L.png",
+      "to": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\archive\\20260922-initial-eye-layers\\eye_white_L.png",
+      "sha256": "e584a3c984e037c3cd889e16946fe7d93251101c016e5756c28903c53730c225",
+      "reason": "Superseded initial render or original-art reference; keep for comparison"
+    },
+    {
+      "from": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\eye_white_R.png",
+      "to": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\archive\\20260922-initial-eye-layers\\eye_white_R.png",
+      "sha256": "bb581aa5ed9c0c2e3115405c2b73fa4a29f83435a22e1375a93b004dc319d043",
+      "reason": "Superseded initial render or original-art reference; keep for comparison"
+    },
+    {
+      "from": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\iris_L.png",
+      "to": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\archive\\20260922-initial-eye-layers\\iris_L.png",
+      "sha256": "bd29213fd352744830371c520dfe2dabfcf291588d958ec3caea636551675ef1",
+      "reason": "Superseded initial render or original-art reference; keep for comparison"
+    },
+    {
+      "from": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\iris_R.png",
+      "to": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\archive\\20260922-initial-eye-layers\\iris_R.png",
+      "sha256": "02d0e481f81d01d3757e1db8a5953dbec532647804abb07ac1dcaa00720a44aa",
+      "reason": "Superseded initial render or original-art reference; keep for comparison"
+    },
+    {
+      "from": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\lower_lid_L.png",
+      "to": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\archive\\20260922-initial-eye-layers\\lower_lid_L.png",
+      "sha256": "2c0a1c10348a193cdb12c0a88c7195a780236f71cd84f72c80784494ce734476",
+      "reason": "Superseded initial render or original-art reference; keep for comparison"
+    },
+    {
+      "from": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\lower_lid_R.png",
+      "to": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\archive\\20260922-initial-eye-layers\\lower_lid_R.png",
+      "sha256": "9210111c1632eff05225812ce11db7f7d08b7f54d2a6c3f1432d8c277e59ed46",
+      "reason": "Superseded initial render or original-art reference; keep for comparison"
+    },
+    {
+      "from": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\REF_lower_lid_source_L.png",
+      "to": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\archive\\20260922-initial-eye-layers\\REF_lower_lid_source_L.png",
+      "sha256": "6ec2b78ace0c386306c79759a0b7821b677d9e6e69863077838a38a6bccc942d",
+      "reason": "Superseded initial render or original-art reference; keep for comparison"
+    },
+    {
+      "from": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\REF_lower_lid_source_R.png",
+      "to": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\archive\\20260922-initial-eye-layers\\REF_lower_lid_source_R.png",
+      "sha256": "1dba4f187e2a85d9186c4a30d2a9651c6f85461022e1f8adcb7c59621f7bb82f",
+      "reason": "Superseded initial render or original-art reference; keep for comparison"
+    }
+  ],
+  "deleted": [
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\eye_adjust_v007\\parts\\comparison_4_horizontal.jpg",
+      "retained": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\face_comparison_v010\\comparison_4_horizontal.jpg",
+      "sha256": "1cbb4104467444d941478a1f458d4ba4c5b716033d111dcf12a318e6176e995f",
+      "bytes": 459899,
+      "reason": "Exact duplicate preview; no parts-path references found in repository text search; independent retained copy verified again"
+    }
+  ],
+  "activeHashesBefore": {
+    "face_underfill.png": "1069ed376c2f642722cfd2038ffa6ece82436c9fc06ec1d7ec3c34ba1b1adf7f",
+    "brow_L.png": "cc95d61dd7f8f1f0762c66fbf7f9f37abc00ca23fc10846479a577f8394784af",
+    "brow_R.png": "8e361a88599de1706aa0bfb718a1aa1bbbf5d50dd409b8f20bb46d59df070e5d",
+    "ALT_eyelash_upper_L.png": "14a07d08bee9df59fcbc18a5b5f78295f62d9e33d52ad1c00c2f759403129d63",
+    "ALT_eyelash_upper_R.png": "cbd43a79f90d8d8ba2e4c1b3e95be026b9d5508bfca844b7d6587d0b1eb3db05",
+    "ALT_iris_L_blue.png": "f232f20d44def5e10c06f6957c50e74be99f0aae909b04c4b5b97ec180f9bc05",
+    "ALT_iris_R_brown.png": "1912823fb0bc5d6b2994ec975e1cae61fb1d4ad53905d8d0d9adcfae03b96601",
+    "FILL_eye_white_L.png": "5b7a1bcc5d67d29dc2fc3c935268a76ce1af422f3563af3a20504d8ad8e3e2e3",
+    "FILL_eye_white_R.png": "45681bc6a51f0044f88a127a5d22ee4e2f564ef478d21be08a30faf8025b0da9",
+    "lower_eyelid_left.png": "1d85b07079561bf02c884548b1f399f9e0551b433b10550afe427a31f4ded938",
+    "lower_eyelid_right.png": "c0205f835c6234e6552e4d0d5cc926cde5fe608916b83eb4f68e5b0b1edecfd2",
+    "upper_crease_L.png": "bd9d9b116d0a6346dca7485f5dbae57178a469274fc75d5009a0f71d0fbf0155",
+    "upper_crease_R.png": "b21b6161eadda172aae5911b7ef47d7a8b40b590907458517b2d8e657cee9390",
+    "mouth_closed.png": "5f0b8bc2594a58b935f2b4929e1c20e72a5ad35e649bc906d6d827ee73f10ca6",
+    "facial_feature.png": "850684bdd0cac1d4a928125f0a792563f9a5c52d03ee2e325788cc401353ef0d",
+    "facial_feature.psd": "bbe0869b8e6183270c63dd8faa60588f008451dc4c7314fa8e5635635f49fb75"
+  },
+  "activeHashesAfter": {
+    "face_underfill.png": "1069ed376c2f642722cfd2038ffa6ece82436c9fc06ec1d7ec3c34ba1b1adf7f",
+    "brow_L.png": "cc95d61dd7f8f1f0762c66fbf7f9f37abc00ca23fc10846479a577f8394784af",
+    "brow_R.png": "8e361a88599de1706aa0bfb718a1aa1bbbf5d50dd409b8f20bb46d59df070e5d",
+    "ALT_eyelash_upper_L.png": "14a07d08bee9df59fcbc18a5b5f78295f62d9e33d52ad1c00c2f759403129d63",
+    "ALT_eyelash_upper_R.png": "cbd43a79f90d8d8ba2e4c1b3e95be026b9d5508bfca844b7d6587d0b1eb3db05",
+    "ALT_iris_L_blue.png": "f232f20d44def5e10c06f6957c50e74be99f0aae909b04c4b5b97ec180f9bc05",
+    "ALT_iris_R_brown.png": "1912823fb0bc5d6b2994ec975e1cae61fb1d4ad53905d8d0d9adcfae03b96601",
+    "FILL_eye_white_L.png": "5b7a1bcc5d67d29dc2fc3c935268a76ce1af422f3563af3a20504d8ad8e3e2e3",
+    "FILL_eye_white_R.png": "45681bc6a51f0044f88a127a5d22ee4e2f564ef478d21be08a30faf8025b0da9",
+    "lower_eyelid_left.png": "1d85b07079561bf02c884548b1f399f9e0551b433b10550afe427a31f4ded938",
+    "lower_eyelid_right.png": "c0205f835c6234e6552e4d0d5cc926cde5fe608916b83eb4f68e5b0b1edecfd2",
+    "upper_crease_L.png": "bd9d9b116d0a6346dca7485f5dbae57178a469274fc75d5009a0f71d0fbf0155",
+    "upper_crease_R.png": "b21b6161eadda172aae5911b7ef47d7a8b40b590907458517b2d8e657cee9390",
+    "mouth_closed.png": "5f0b8bc2594a58b935f2b4929e1c20e72a5ad35e649bc906d6d827ee73f10ca6",
+    "facial_feature.png": "850684bdd0cac1d4a928125f0a792563f9a5c52d03ee2e325788cc401353ef0d",
+    "facial_feature.psd": "bbe0869b8e6183270c63dd8faa60588f008451dc4c7314fa8e5635635f49fb75"
+  },
+  "activeUnchanged": true,
+  "historicalManifestPathsExist": true
+}

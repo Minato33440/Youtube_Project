@@ -1,0 +1,147 @@
+{
+  "canvas": {
+    "width": 760,
+    "height": 960
+  },
+  "globalOrigin": [
+    1620,
+    270
+  ],
+  "layers": [
+    {
+      "name": "face_underfill",
+      "path": "parts/face_underfill.png",
+      "left": 77,
+      "top": 33,
+      "visible": true
+    },
+    {
+      "name": "eye_white_R",
+      "path": "parts/archive/20260922-initial-eye-layers/eye_white_R.png",
+      "left": 120,
+      "top": 470,
+      "visible": true
+    },
+    {
+      "name": "iris_R",
+      "path": "parts/archive/20260922-initial-eye-layers/iris_R.png",
+      "left": 120,
+      "top": 470,
+      "visible": true
+    },
+    {
+      "name": "upper_lash_R",
+      "path": "parts/backup/upper_lash_R.png",
+      "left": 130,
+      "top": 495,
+      "visible": true
+    },
+    {
+      "name": "lower_lid_R",
+      "path": "parts/archive/20260922-initial-eye-layers/lower_lid_R.png",
+      "left": 159,
+      "top": 563,
+      "visible": true
+    },
+    {
+      "name": "REF_lower_lid_source_R",
+      "path": "parts/archive/20260922-initial-eye-layers/REF_lower_lid_source_R.png",
+      "left": 120,
+      "top": 540,
+      "visible": false
+    },
+    {
+      "name": "REF_iris_full_R",
+      "path": "parts/backup/REF_iris_full_R.png",
+      "left": 198,
+      "top": 506,
+      "visible": false
+    },
+    {
+      "name": "upper_crease_R",
+      "path": "parts/upper_crease_R.png",
+      "left": 154,
+      "top": 496,
+      "visible": true
+    },
+    {
+      "name": "eye_white_L",
+      "path": "parts/archive/20260922-initial-eye-layers/eye_white_L.png",
+      "left": 425,
+      "top": 470,
+      "visible": true
+    },
+    {
+      "name": "iris_L",
+      "path": "parts/archive/20260922-initial-eye-layers/iris_L.png",
+      "left": 425,
+      "top": 470,
+      "visible": true
+    },
+    {
+      "name": "upper_lash_L",
+      "path": "parts/backup/upper_lash_L.png",
+      "left": 438,
+      "top": 492,
+      "visible": true
+    },
+    {
+      "name": "lower_lid_L",
+      "path": "parts/archive/20260922-initial-eye-layers/lower_lid_L.png",
+      "left": 449,
+      "top": 558,
+      "visible": true
+    },
+    {
+      "name": "REF_lower_lid_source_L",
+      "path": "parts/archive/20260922-initial-eye-layers/REF_lower_lid_source_L.png",
+      "left": 425,
+      "top": 540,
+      "visible": false
+    },
+    {
+      "name": "REF_iris_full_L",
+      "path": "parts/backup/REF_iris_full_L.png",
+      "left": 485,
+      "top": 503,
+      "visible": false
+    },
+    {
+      "name": "upper_crease_L",
+      "path": "parts/upper_crease_L.png",
+      "left": 441,
+      "top": 495,
+      "visible": true
+    },
+    {
+      "name": "brow_L",
+      "path": "parts/brow_L.png",
+      "left": 423,
+      "top": 414,
+      "visible": true
+    },
+    {
+      "name": "brow_R",
+      "path": "parts/brow_R.png",
+      "left": 132,
+      "top": 417,
+      "visible": true
+    },
+    {
+      "name": "mouth_closed",
+      "path": "parts/mouth_closed.png",
+      "left": 334,
+      "top": 744,
+      "visible": true
+    }
+  ],
+  "output": {
+    "psd": "Ren_eyes_adjust_v007.psd",
+    "flattenedPng": "assembled.png",
+    "previewPng": "preview.png",
+    "verificationJson": "psd_verification.json",
+    "previewBackground": "#50696e"
+  },
+  "status": "historical_initial_layout_not_current",
+  "note": "Paths repaired after organization. Shared filenames were manually revised; do not use this manifest as the current assembly. Use parts/current_parts.json and inspect facial_feature.psd transforms."
+}

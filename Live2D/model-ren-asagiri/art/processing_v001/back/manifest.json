@@ -1,0 +1,213 @@
+{
+  "canvas": {
+    "width": 4000,
+    "height": 6000
+  },
+  "coordinateConvention": "character sides; canvas top-left pixel origin",
+  "layers": [
+    {
+      "name": "shoe_L",
+      "path": "parts/shoe_L.png",
+      "left": 1417,
+      "top": 5232,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-back-4000x6000.png"
+    },
+    {
+      "name": "shoe_R",
+      "path": "parts/shoe_R.png",
+      "left": 2160,
+      "top": 5232,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-back-4000x6000.png"
+    },
+    {
+      "name": "hand_L",
+      "path": "parts/hand_L.png",
+      "left": 746,
+      "top": 2741,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-back-4000x6000.png"
+    },
+    {
+      "name": "hand_R",
+      "path": "parts/hand_R.png",
+      "left": 2942,
+      "top": 2733,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-back-4000x6000.png"
+    },
+    {
+      "name": "forearm_L",
+      "path": "parts/forearm_L.png",
+      "left": 959,
+      "top": 2144,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-back-4000x6000.png"
+    },
+    {
+      "name": "forearm_R",
+      "path": "parts/forearm_R.png",
+      "left": 2679,
+      "top": 2144,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-back-4000x6000.png"
+    },
+    {
+      "name": "upper_arm_L",
+      "path": "parts/upper_arm_L.png",
+      "left": 1191,
+      "top": 1851,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-back-4000x6000.png"
+    },
+    {
+      "name": "upper_arm_R",
+      "path": "parts/upper_arm_R.png",
+      "left": 2496,
+      "top": 1851,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-back-4000x6000.png"
+    },
+    {
+      "name": "belt",
+      "path": "parts/belt.png",
+      "left": 1588,
+      "top": 2444,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-back-4000x6000.png"
+    },
+    {
+      "name": "trousers_L",
+      "path": "parts/trousers_L.png",
+      "left": 1500,
+      "top": 2593,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-back-4000x6000.png"
+    },
+    {
+      "name": "trousers_R",
+      "path": "parts/trousers_R.png",
+      "left": 1994,
+      "top": 2593,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-back-4000x6000.png"
+    },
+    {
+      "name": "sleeve_L",
+      "path": "parts/sleeve_L.png",
+      "left": 1234,
+      "top": 1378,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-back-4000x6000.png"
+    },
+    {
+      "name": "sleeve_R",
+      "path": "parts/sleeve_R.png",
+      "left": 2424,
+      "top": 1366,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-back-4000x6000.png"
+    },
+    {
+      "name": "collar_back",
+      "path": "parts/collar_back.png",
+      "left": 1768,
+      "top": 1112,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-back-4000x6000.png"
+    },
+    {
+      "name": "shirt_torso",
+      "path": "parts/shirt_torso.png",
+      "left": 1445,
+      "top": 1256,
+      "visible": true,
+      "note": "",
+      "source": "ren-stand-pony-back-4000x6000.png"
+    },
+    {
+      "name": "ear_L",
+      "path": "parts/ear_L.png",
+      "left": 1658,
+      "top": 701,
+      "visible": true,
+      "note": "No-hair back donor; outline restricted to source silhouette",
+      "source": "ren-stand-pony-back-nohair-4000x6000.png"
+    },
+    {
+      "name": "ear_R",
+      "path": "parts/ear_R.png",
+      "left": 2190,
+      "top": 693,
+      "visible": true,
+      "note": "No-hair back donor; outline restricted to source silhouette",
+      "source": "ren-stand-pony-back-nohair-4000x6000.png"
+    },
+    {
+      "name": "head_neck_underfill",
+      "path": "parts/head_neck_underfill.png",
+      "left": 1690,
+      "top": 283,
+      "visible": true,
+      "note": "No-hair rear scalp/neck underfill",
+      "source": "ren-stand-pony-back-nohair-4000x6000.png"
+    },
+    {
+      "name": "hair_back_L",
+      "path": "parts/hair_back_L.png",
+      "left": 1518,
+      "top": 382,
+      "visible": true,
+      "note": "",
+      "source": "back original"
+    },
+    {
+      "name": "hair_back_R",
+      "path": "parts/hair_back_R.png",
+      "left": 2170,
+      "top": 369,
+      "visible": true,
+      "note": "",
+      "source": "back original"
+    },
+    {
+      "name": "hair_back_C",
+      "path": "parts/hair_back_C.png",
+      "left": 1681,
+      "top": 211,
+      "visible": true,
+      "note": "",
+      "source": "back original"
+    },
+    {
+      "name": "hair_ahoge",
+      "path": "parts/hair_ahoge.png",
+      "left": 1971,
+      "top": 115,
+      "visible": true,
+      "note": "",
+      "source": "back original"
+    }
+  ],
+  "output": {
+    "psd": "Ren_back_parts_v001.psd",
+    "flattenedPng": "Ren_back_parts_v001.png",
+    "previewPng": "Ren_back_preview.png",
+    "verificationJson": "psd_verification.json"
+  }
+}

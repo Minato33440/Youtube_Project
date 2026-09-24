@@ -1,0 +1,89 @@
+{
+  "sourceHashes": {
+    "ALT_mouth_interior.png": "4e73a905fa043881dd645736190d214eb8ecf649e30f7d07218cba0937ed8338",
+    "neck-clavicle.png": "8737a8fbe163fc0d674849d4e1c53a3ddc21bc496b4ec5b72092f0b53933bb25",
+    "collar_L.png": "a39100c8bc26e0454f8b54185d7ec1c6778a5e51aab12153c615784fca53c0dc",
+    "collar_R.png": "9687adac2e9c8758b6f3573300b0423bcb84e864efc3e14f69ce5f738dd1f971",
+    "shirt_inside.png": "8c18e3e2f73a62c3b7fb043ef8dd93583ce7dc9f976e1bdcdb570f4fa9d87603"
+  },
+  "sourceFilesUnchanged": true,
+  "canvas": [
+    239,
+    187
+  ],
+  "layers": [
+    "mouth_cavity",
+    "mouth_teeth_upper",
+    "mouth_tongue",
+    "mouth_rim_upper",
+    "mouth_rim_lower"
+  ],
+  "neckPlacementEstimates": {
+    "neck-clavicle": {
+      "left": 1822,
+      "top": 1045,
+      "matchingError": 0.0007841461338102818,
+      "status": "provisional review only"
+    },
+    "collar_L": {
+      "left": 1972,
+      "top": 1143,
+      "matchingError": 0.0,
+      "status": "provisional review only"
+    },
+    "collar_R": {
+      "left": 1725,
+      "top": 1150,
+      "matchingError": 0.0021404949948191643,
+      "status": "provisional review only"
+    },
+    "shirt_inside": {
+      "left": 1716,
+      "top": 1128,
+      "status": "manual review placement only; no global coordinates supplied"
+    }
+  },
+  "alphaBounds": {
+    "mouth_cavity": [
+      3,
+      5,
+      238,
+      183
+    ],
+    "mouth_teeth_upper": [
+      13,
+      4,
+      225,
+      52
+    ],
+    "mouth_tongue": [
+      37,
+      81,
+      201,
+      175
+    ],
+    "mouth_rim_upper": [
+      2,
+      15,
+      239,
+      108
+    ],
+    "mouth_rim_lower": [
+      22,
+      108,
+      222,
+      187
+    ]
+  },
+  "hiddenCavityFillRGB": [
+    100.0,
+    47.0,
+    44.0
+  ],
+  "limitations": [
+    "Cutout-resolution 239x187 retained; no artificial upscale",
+    "Global placement and Cubism rigging not changed",
+    "New cavity underpainting is flat source-sampled color",
+    "Lower white rim retained for Boss finishing"
+  ]
+}
