@@ -1,0 +1,321 @@
+{
+  "source": "Actual exported moc3 rendering",
+  "cases": [
+    {
+      "label": "Neutral",
+      "requested": {},
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 0
+    },
+    {
+      "label": "Mouth / jaw 0.5",
+      "requested": {
+        "ParamMouthOpenY": 0.5
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.5,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 1209
+    },
+    {
+      "label": "Mouth / jaw 1.0",
+      "requested": {
+        "ParamMouthOpenY": 1
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 1.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 2108
+    },
+    {
+      "label": "Tilt -",
+      "requested": {
+        "ParamAngleZ": -30
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": -30.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 46185
+    },
+    {
+      "label": "Tilt +",
+      "requested": {
+        "ParamAngleZ": 30
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 30.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 46194
+    },
+    {
+      "label": "Front hair -",
+      "requested": {
+        "ParamHairFront": -1
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": -1.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 4867
+    },
+    {
+      "label": "Front hair +",
+      "requested": {
+        "ParamHairFront": 1
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 1.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 5030
+    },
+    {
+      "label": "Side hair -",
+      "requested": {
+        "ParamHairSide": -1
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": -1.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 5512
+    },
+    {
+      "label": "Side hair +",
+      "requested": {
+        "ParamHairSide": 1
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 1.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 5497
+    },
+    {
+      "label": "Back hair -",
+      "requested": {
+        "ParamHairBack": -1
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": -1.0
+      },
+      "changed_pixels_over_8": 732
+    },
+    {
+      "label": "Back hair +",
+      "requested": {
+        "ParamHairBack": 1
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 1.0
+      },
+      "changed_pixels_over_8": 741
+    },
+    {
+      "label": "Tilt + blink",
+      "requested": {
+        "ParamAngleZ": 30,
+        "ParamEyeLOpen": 0,
+        "ParamEyeROpen": 0
+      },
+      "actual": {
+        "ParamEyeLOpen": 0.0,
+        "ParamEyeROpen": 0.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 30.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 46054
+    },
+    {
+      "label": "Tilt + speech",
+      "requested": {
+        "ParamAngleZ": -30,
+        "ParamMouthOpenY": 0.7
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.699999988079071,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": -30.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 46576
+    },
+    {
+      "label": "Combined",
+      "requested": {
+        "ParamAngleZ": 20,
+        "ParamMouthOpenY": 0.6,
+        "ParamHairFront": 0.5,
+        "ParamHairSide": -0.5,
+        "ParamHairBack": 0.5
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.6000000238418579,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 20.0,
+        "ParamHairFront": 0.5,
+        "ParamHairSide": -0.5,
+        "ParamHairBack": 0.5
+      },
+      "changed_pixels_over_8": 42010
+    }
+  ],
+  "drawable_count": 48,
+  "parameter_ids": [
+    "ParamAngleX",
+    "ParamAngleY",
+    "ParamAngleZ",
+    "ParamEyeLOpen",
+    "ParamEyeLSmile",
+    "ParamEyeROpen",
+    "ParamEyeRSmile",
+    "ParamEyeBallX",
+    "ParamEyeBallY",
+    "ParamBrowLY",
+    "ParamBrowRY",
+    "ParamBrowLX",
+    "ParamBrowRX",
+    "ParamBrowLAngle",
+    "ParamBrowRAngle",
+    "ParamBrowLForm",
+    "ParamBrowRForm",
+    "ParamMouthForm",
+    "ParamMouthOpenY",
+    "ParamCheek",
+    "ParamBodyAngleX",
+    "ParamBodyAngleY",
+    "ParamBodyAngleZ",
+    "ParamBreath",
+    "ParamHairFront",
+    "ParamHairSide",
+    "ParamHairBack"
+  ],
+  "neutral_vs_approved": {
+    "max_channel_difference": 1,
+    "pixels_over_8": 0
+  },
+  "frames": 360,
+  "fps": 30,
+  "duration_seconds": 12,
+  "preview_input": "AngleZ, blink, mouth driven by deterministic curves. Hair outputs generated only by exported Cubism physics.",
+  "physics_ranges": {
+    "ParamHairFront": [
+      -0.4811740219593048,
+      0.5169824957847595
+    ],
+    "ParamHairSide": [
+      -0.4677671194076538,
+      0.5146586894989014
+    ],
+    "ParamHairBack": [
+      -0.4186584949493408,
+      0.41865742206573486
+    ]
+  },
+  "runtime_hashes": {
+    "runtime\\Ren_front.cdi3.json": "795fe649836f904747d00d1d470a0b31779d0d93ea949a9c29bfbdda056c44c1",
+    "runtime\\Ren_front.moc3": "d71d8927ad0bbc240bbf67e3fc1c8bb2564b314848b755f9ef56524e0b16bf54",
+    "runtime\\Ren_front.model3.json": "16921c6c2d69ceee1f2fb29bf27e78bafe7534d9f4fc9a84eda98409ed6af640",
+    "runtime\\Ren_front.physics3.json": "0d91c3647cce05513d27ee5c20c12c25e838a67a7255263ca6bb25d1a6b84df9",
+    "runtime\\Ren_front.2048\\texture_00.png": "846be881fc3ee75bd68c6b7af572e83674e7b740acb2146367238d8b57700c32"
+  }
+}

@@ -4,11 +4,13 @@
 
 ## 現在地
 
-**9/24：Cubism取り込みと瞬き・口開閉の基本実装完了。** [現在の編集モデルと動作プレビュー](model/basic_expression/README.md)を入口にする。最新正面PSDの41層に口5枚・閉眼まつ毛2枚を追加し、48 ArtMeshの`Ren_front.cmo3`を保存・再読込。左右独立の瞬き、通常会話の開口を実モデルの12状態と10秒プレビューで確認した。Bossの仕上がり確認待ち。顎・顔と首の角度・髪の揺れは次工程。
+**9/24：顎・首の連動と髪揺れの初回実装完了。** [現在の編集モデルと12秒プレビュー](model/head_neck_hair/README.md)を入口にする。Boss了承済みの瞬き・会話口へ顎、左右傾斜に伴う首の追従、髪の物理演算を追加。48 ArtMeshのcmo3とSDK5.0 runtimeを保存し、実モデル14状態・動画で検査。正面中立は前回との差が最大1/255、元48PNGと基準モデルは保持。今回の動きはBoss確認待ち。左右向き・うなずき・大笑い専用の追加開口と配信アプリ設定は今後。
+
+**前工程：Cubism取り込みと瞬き・口開閉。** [basic_expression](model/basic_expression/README.md)はBoss了承済みの基準として保持。最新正面PSDの41層へ口5枚・閉眼まつ毛2枚を追加した48 ArtMeshモデル。今後の編集はhead_neck_hairから続ける。
 
 **9/24工程1完了：[最新の正面PSD](art/psd_front/README.md)を作成。** 頭部・首・襟の静止接続を確認し、4000×6000の41レイヤーへ統合。PSDを別の読み込み処理で再描画して検証済み。
 
-**9/24：頭部前面のPNG素材は完成登録済み。** [art/head](art/head/README.md) の顔14・髪7・耳2を採用。Bossの顔・髪了承、修正耳の外縁、後ろ髪修正後の両耳との隙間解消を確認した。旧頭部素材はarchiveへ整理済み。現在はPSD・Cubismへ反映済み。頭部角度や髪の動的検証は残る。
+**9/24：頭部前面のPNG素材は完成登録済み。** [art/head](art/head/README.md) の顔14・髪7・耳2を採用。Bossの顔・髪了承、修正耳の外縁、後ろ髪修正後の両耳との隙間解消を確認した。旧頭部素材はarchiveへ整理済み。現在はPSD・Cubismへ反映済み。小さな左右傾斜と髪揺れは動的確認済み、今後の横向き・上下角度は別途検証する。
 
 **朝霧レン — 穏やかな表情と仕草を楽しむLive2Dモデル。**
 
@@ -18,7 +20,8 @@
 
 | 資料 | 内容 |
 | --- | --- |
-| [現在のCubism基本表情](model/basic_expression/README.md) | 最新cmo3、瞬き・口開閉のGIF/MP4、検証と未実装範囲 |
+| [現在のCubismモデル](model/head_neck_hair/README.md) | 顎・首・髪の連動を追加したcmo3、12秒GIF/MP4、検証と未実装範囲 |
+| [了承済みの基本表情](model/basic_expression/README.md) | 前工程の瞬き・口開閉モデル。比較基準として保持 |
 | [パーツv001・編集の入口](art/processing_v001/README.md) | 正面/背面PSD、cmo3、座標manifest、補助素材切替、Bossの修正対象 |
 | [v001検証結果](art/processing_v001/test_report.md) | 原画保存・再合成・PSD読戻し・Cubism確認の範囲 |
 | [キャラクター・商品仕様](product_brief.md) | 決定事項、原案、追加候補、価格・販路の未決事項 |
@@ -40,7 +43,7 @@
 - 正面頭部：[head/parts](art/head/README.md)。後ろ髪修正・耳との隙間を再確認した23PNGが現行。表情補助はhead/expression_sources。
 - 他部位：processing_v001/front/partsに残した首・襟・胴体・四肢を最終比較。背面はprocessing_v001/back。
 - [旧頭部素材・比較資料](art/archive/20260924-old-head-assets/README.md)は履歴。eye_adjust_v007等の旧最新指定は廃止。
-- 原画はart_assets、旧モデルはmodel/parts_v001に保持。最新頭部を統合したPSDはart/psd_front、現在のCubism編集モデルはmodel/basic_expression/Ren_front.cmo3。次は角度・髪・首・顎の連動。
+- 原画はart_assets、旧モデルはmodel/parts_v001に保持。最新頭部を統合したPSDはart/psd_front、現在のCubism編集モデルはmodel/head_neck_hair/Ren_front.cmo3。次は今回の動きをBossと確認し、必要なら顎量・首傾斜・髪の強さを調整。その後、左右向き・上下向きの範囲を決める。
 
 ## 元資料
 
