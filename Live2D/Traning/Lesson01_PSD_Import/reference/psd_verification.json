@@ -1,0 +1,939 @@
+{
+  "status": "pass",
+  "library": "ag-psd",
+  "psd": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\Ren_front.psd",
+  "flattenedPng": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\Ren_front.png",
+  "previewPng": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\Ren_front_preview.png",
+  "canvas": {
+    "width": 4000,
+    "height": 6000
+  },
+  "layerCount": 41,
+  "inputOrder": "bottom-to-top",
+  "psdRecordOrder": "bottom-to-top (Cubism-compatible)",
+  "layers": [
+    {
+      "name": "shoe_R",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\shoe_R.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1357,
+        "top": 5232,
+        "right": 1833,
+        "bottom": 5798
+      },
+      "alpha": {
+        "nonTransparentPixels": 171611,
+        "contentBounds": {
+          "left": 1357,
+          "top": 5232,
+          "right": 1833,
+          "bottom": 5798
+        }
+      }
+    },
+    {
+      "name": "shoe_L",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\shoe_L.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 2145,
+        "top": 5232,
+        "right": 2606,
+        "bottom": 5801
+      },
+      "alpha": {
+        "nonTransparentPixels": 168335,
+        "contentBounds": {
+          "left": 2145,
+          "top": 5232,
+          "right": 2605,
+          "bottom": 5801
+        }
+      }
+    },
+    {
+      "name": "trousers_R",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\trousers_R.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1504,
+        "top": 2593,
+        "right": 2005,
+        "bottom": 5280
+      },
+      "alpha": {
+        "nonTransparentPixels": 1066181,
+        "contentBounds": {
+          "left": 1504,
+          "top": 2593,
+          "right": 2005,
+          "bottom": 5280
+        }
+      }
+    },
+    {
+      "name": "trousers_L",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\trousers_L.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1994,
+        "top": 2593,
+        "right": 2490,
+        "bottom": 5266
+      },
+      "alpha": {
+        "nonTransparentPixels": 1063726,
+        "contentBounds": {
+          "left": 1994,
+          "top": 2593,
+          "right": 2490,
+          "bottom": 5266
+        }
+      }
+    },
+    {
+      "name": "hand_R",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hand_R.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 721,
+        "top": 2738,
+        "right": 1070,
+        "bottom": 3209
+      },
+      "alpha": {
+        "nonTransparentPixels": 72854,
+        "contentBounds": {
+          "left": 721,
+          "top": 2738,
+          "right": 1070,
+          "bottom": 3209
+        }
+      }
+    },
+    {
+      "name": "hand_L",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hand_L.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 2969,
+        "top": 2720,
+        "right": 3316,
+        "bottom": 3199
+      },
+      "alpha": {
+        "nonTransparentPixels": 74648,
+        "contentBounds": {
+          "left": 2969,
+          "top": 2720,
+          "right": 3316,
+          "bottom": 3199
+        }
+      }
+    },
+    {
+      "name": "forearm_R",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\forearm_R.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 953,
+        "top": 2144,
+        "right": 1327,
+        "bottom": 2794
+      },
+      "alpha": {
+        "nonTransparentPixels": 97993,
+        "contentBounds": {
+          "left": 953,
+          "top": 2144,
+          "right": 1327,
+          "bottom": 2794
+        }
+      }
+    },
+    {
+      "name": "forearm_L",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\forearm_L.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 2691,
+        "top": 2144,
+        "right": 3079,
+        "bottom": 2767
+      },
+      "alpha": {
+        "nonTransparentPixels": 97001,
+        "contentBounds": {
+          "left": 2691,
+          "top": 2144,
+          "right": 3079,
+          "bottom": 2767
+        }
+      }
+    },
+    {
+      "name": "upper_arm_R",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\upper_arm_R.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1189,
+        "top": 1850,
+        "right": 1502,
+        "bottom": 2306
+      },
+      "alpha": {
+        "nonTransparentPixels": 67915,
+        "contentBounds": {
+          "left": 1189,
+          "top": 1850,
+          "right": 1502,
+          "bottom": 2306
+        }
+      }
+    },
+    {
+      "name": "upper_arm_L",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\upper_arm_L.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 2496,
+        "top": 1847,
+        "right": 2837,
+        "bottom": 2285
+      },
+      "alpha": {
+        "nonTransparentPixels": 68030,
+        "contentBounds": {
+          "left": 2496,
+          "top": 1847,
+          "right": 2837,
+          "bottom": 2285
+        }
+      }
+    },
+    {
+      "name": "shirt_inside",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\shirt_inside.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1717,
+        "top": 1128,
+        "right": 2284,
+        "bottom": 1582
+      },
+      "alpha": {
+        "nonTransparentPixels": 101085,
+        "contentBounds": {
+          "left": 1863,
+          "top": 1141,
+          "right": 2143,
+          "bottom": 1582
+        }
+      }
+    },
+    {
+      "name": "neck-clavicle",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\neck-clavicle.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1822,
+        "top": 1044,
+        "right": 2190,
+        "bottom": 1536
+      },
+      "alpha": {
+        "nonTransparentPixels": 152920,
+        "contentBounds": {
+          "left": 1822,
+          "top": 1044,
+          "right": 2190,
+          "bottom": 1536
+        }
+      }
+    },
+    {
+      "name": "shirt_torso",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\shirt_torso.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1422,
+        "top": 1231,
+        "right": 2579,
+        "bottom": 2480
+      },
+      "alpha": {
+        "nonTransparentPixels": 1032883,
+        "contentBounds": {
+          "left": 1447,
+          "top": 1256,
+          "right": 2549,
+          "bottom": 2480
+        }
+      }
+    },
+    {
+      "name": "sleeve_R",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\sleeve_R.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1230,
+        "top": 1385,
+        "right": 1581,
+        "bottom": 2018
+      },
+      "alpha": {
+        "nonTransparentPixels": 93299,
+        "contentBounds": {
+          "left": 1230,
+          "top": 1385,
+          "right": 1581,
+          "bottom": 2018
+        }
+      }
+    },
+    {
+      "name": "sleeve_L",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\sleeve_L.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 2424,
+        "top": 1369,
+        "right": 2789,
+        "bottom": 2015
+      },
+      "alpha": {
+        "nonTransparentPixels": 100391,
+        "contentBounds": {
+          "left": 2424,
+          "top": 1369,
+          "right": 2789,
+          "bottom": 2015
+        }
+      }
+    },
+    {
+      "name": "belt",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\belt.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1579,
+        "top": 2444,
+        "right": 2426,
+        "bottom": 2593
+      },
+      "alpha": {
+        "nonTransparentPixels": 100893,
+        "contentBounds": {
+          "left": 1579,
+          "top": 2444,
+          "right": 2426,
+          "bottom": 2593
+        }
+      }
+    },
+    {
+      "name": "collar_R",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\collar_R.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1725,
+        "top": 1150,
+        "right": 2003,
+        "bottom": 1561
+      },
+      "alpha": {
+        "nonTransparentPixels": 37560,
+        "contentBounds": {
+          "left": 1725,
+          "top": 1150,
+          "right": 2003,
+          "bottom": 1561
+        }
+      }
+    },
+    {
+      "name": "collar_L",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\collar_L.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1964,
+        "top": 1147,
+        "right": 2271,
+        "bottom": 1613
+      },
+      "alpha": {
+        "nonTransparentPixels": 37801,
+        "contentBounds": {
+          "left": 1976,
+          "top": 1150,
+          "right": 2271,
+          "bottom": 1582
+        }
+      }
+    },
+    {
+      "name": "hair_back",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_back.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1753,
+        "top": 948,
+        "right": 2259,
+        "bottom": 1150
+      },
+      "alpha": {
+        "nonTransparentPixels": 14373,
+        "contentBounds": {
+          "left": 1753,
+          "top": 948,
+          "right": 2259,
+          "bottom": 1150
+        }
+      }
+    },
+    {
+      "name": "ear_R",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ear_R.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1668,
+        "top": 718,
+        "right": 1805,
+        "bottom": 983
+      },
+      "alpha": {
+        "nonTransparentPixels": 15961,
+        "contentBounds": {
+          "left": 1670,
+          "top": 718,
+          "right": 1805,
+          "bottom": 982
+        }
+      }
+    },
+    {
+      "name": "ear_L",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ear_L.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 2206,
+        "top": 711,
+        "right": 2334,
+        "bottom": 983
+      },
+      "alpha": {
+        "nonTransparentPixels": 15703,
+        "contentBounds": {
+          "left": 2206,
+          "top": 711,
+          "right": 2330,
+          "bottom": 979
+        }
+      }
+    },
+    {
+      "name": "face_underfill",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\face_underfill.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1696,
+        "top": 296,
+        "right": 2304,
+        "bottom": 1160
+      },
+      "alpha": {
+        "nonTransparentPixels": 391496,
+        "contentBounds": {
+          "left": 1696,
+          "top": 296,
+          "right": 2304,
+          "bottom": 1160
+        }
+      }
+    },
+    {
+      "name": "mouth_closed",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\mouth_closed.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1955,
+        "top": 1015,
+        "right": 2051,
+        "bottom": 1029
+      },
+      "alpha": {
+        "nonTransparentPixels": 468,
+        "contentBounds": {
+          "left": 1955,
+          "top": 1015,
+          "right": 2051,
+          "bottom": 1029
+        }
+      }
+    },
+    {
+      "name": "FILL_eye_white_R",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\FILL_eye_white_R.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1764,
+        "top": 764,
+        "right": 1917,
+        "bottom": 865
+      },
+      "alpha": {
+        "nonTransparentPixels": 10952,
+        "contentBounds": {
+          "left": 1764,
+          "top": 764,
+          "right": 1917,
+          "bottom": 865
+        }
+      }
+    },
+    {
+      "name": "ALT_iris_R_brown",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_iris_R_brown.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1818,
+        "top": 767,
+        "right": 1896,
+        "bottom": 862
+      },
+      "alpha": {
+        "nonTransparentPixels": 6196,
+        "contentBounds": {
+          "left": 1818,
+          "top": 767,
+          "right": 1896,
+          "bottom": 862
+        }
+      }
+    },
+    {
+      "name": "ALT_eyelash_upper_R",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_eyelash_upper_R.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1738,
+        "top": 753,
+        "right": 1921,
+        "bottom": 832
+      },
+      "alpha": {
+        "nonTransparentPixels": 4042,
+        "contentBounds": {
+          "left": 1738,
+          "top": 755,
+          "right": 1921,
+          "bottom": 832
+        }
+      }
+    },
+    {
+      "name": "lower_eyelid_right",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\lower_eyelid_right.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1777,
+        "top": 832,
+        "right": 1909,
+        "bottom": 873
+      },
+      "alpha": {
+        "nonTransparentPixels": 1218,
+        "contentBounds": {
+          "left": 1777,
+          "top": 832,
+          "right": 1909,
+          "bottom": 873
+        }
+      }
+    },
+    {
+      "name": "upper_crease_R",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\upper_crease_R.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1790,
+        "top": 745,
+        "right": 1922,
+        "bottom": 768
+      },
+      "alpha": {
+        "nonTransparentPixels": 798,
+        "contentBounds": {
+          "left": 1791,
+          "top": 746,
+          "right": 1919,
+          "bottom": 763
+        }
+      }
+    },
+    {
+      "name": "brow_R",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\brow_R.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1756,
+        "top": 693,
+        "right": 1937,
+        "bottom": 722
+      },
+      "alpha": {
+        "nonTransparentPixels": 1778,
+        "contentBounds": {
+          "left": 1756,
+          "top": 693,
+          "right": 1937,
+          "bottom": 722
+        }
+      }
+    },
+    {
+      "name": "FILL_eye_white_L",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\FILL_eye_white_L.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 2070,
+        "top": 763,
+        "right": 2229,
+        "bottom": 864
+      },
+      "alpha": {
+        "nonTransparentPixels": 11554,
+        "contentBounds": {
+          "left": 2070,
+          "top": 763,
+          "right": 2229,
+          "bottom": 864
+        }
+      }
+    },
+    {
+      "name": "ALT_iris_L_blue",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_iris_L_blue.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 2098,
+        "top": 767,
+        "right": 2177,
+        "bottom": 862
+      },
+      "alpha": {
+        "nonTransparentPixels": 6021,
+        "contentBounds": {
+          "left": 2098,
+          "top": 767,
+          "right": 2177,
+          "bottom": 862
+        }
+      }
+    },
+    {
+      "name": "ALT_eyelash_upper_L",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_eyelash_upper_L.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 2066,
+        "top": 754,
+        "right": 2259,
+        "bottom": 835
+      },
+      "alpha": {
+        "nonTransparentPixels": 4395,
+        "contentBounds": {
+          "left": 2066,
+          "top": 754,
+          "right": 2259,
+          "bottom": 835
+        }
+      }
+    },
+    {
+      "name": "lower_eyelid_left",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\lower_eyelid_left.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 2086,
+        "top": 830,
+        "right": 2218,
+        "bottom": 871
+      },
+      "alpha": {
+        "nonTransparentPixels": 1218,
+        "contentBounds": {
+          "left": 2086,
+          "top": 830,
+          "right": 2218,
+          "bottom": 871
+        }
+      }
+    },
+    {
+      "name": "upper_crease_L",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\upper_crease_L.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 2068,
+        "top": 748,
+        "right": 2203,
+        "bottom": 778
+      },
+      "alpha": {
+        "nonTransparentPixels": 740,
+        "contentBounds": {
+          "left": 2068,
+          "top": 748,
+          "right": 2203,
+          "bottom": 778
+        }
+      }
+    },
+    {
+      "name": "brow_L",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\brow_L.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 2064,
+        "top": 687,
+        "right": 2258,
+        "bottom": 718
+      },
+      "alpha": {
+        "nonTransparentPixels": 1882,
+        "contentBounds": {
+          "left": 2064,
+          "top": 687,
+          "right": 2258,
+          "bottom": 718
+        }
+      }
+    },
+    {
+      "name": "hair_side_R",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_side_R.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1514,
+        "top": 501,
+        "right": 2010,
+        "bottom": 982
+      },
+      "alpha": {
+        "nonTransparentPixels": 87650,
+        "contentBounds": {
+          "left": 1514,
+          "top": 501,
+          "right": 2010,
+          "bottom": 951
+        }
+      }
+    },
+    {
+      "name": "hair_side_L",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_side_L.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1984,
+        "top": 498,
+        "right": 2501,
+        "bottom": 966
+      },
+      "alpha": {
+        "nonTransparentPixels": 96632,
+        "contentBounds": {
+          "left": 1984,
+          "top": 498,
+          "right": 2486,
+          "bottom": 956
+        }
+      }
+    },
+    {
+      "name": "hair_front_R",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_front_R.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1549,
+        "top": 205,
+        "right": 2016,
+        "bottom": 558
+      },
+      "alpha": {
+        "nonTransparentPixels": 99203,
+        "contentBounds": {
+          "left": 1573,
+          "top": 205,
+          "right": 2016,
+          "bottom": 527
+        }
+      }
+    },
+    {
+      "name": "hair_front_L",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_front_L.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1987,
+        "top": 199,
+        "right": 2432,
+        "bottom": 548
+      },
+      "alpha": {
+        "nonTransparentPixels": 104465,
+        "contentBounds": {
+          "left": 1987,
+          "top": 203,
+          "right": 2418,
+          "bottom": 529
+        }
+      }
+    },
+    {
+      "name": "hair_front_C",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_front_C.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1717,
+        "top": 211,
+        "right": 2284,
+        "bottom": 891
+      },
+      "alpha": {
+        "nonTransparentPixels": 97504,
+        "contentBounds": {
+          "left": 1893,
+          "top": 284,
+          "right": 2144,
+          "bottom": 865
+        }
+      }
+    },
+    {
+      "name": "hair_ahoge",
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_ahoge.png",
+      "visible": true,
+      "clipTo": null,
+      "clipping": false,
+      "bounds": {
+        "left": 1621,
+        "top": 118,
+        "right": 2048,
+        "bottom": 353
+      },
+      "alpha": {
+        "nonTransparentPixels": 10445,
+        "contentBounds": {
+          "left": 1621,
+          "top": 118,
+          "right": 2048,
+          "bottom": 353
+        }
+      }
+    }
+  ],
+  "roundTrip": {
+    "verifiedWith": "ag-psd readPsd(useImageData)",
+    "colorMode": "RGB (3)",
+    "bitsPerChannel": 8,
+    "dimensions": true,
+    "names": true,
+    "positions": true,
+    "visibility": true,
+    "clipping": true,
+    "rgba": true,
+    "renderedLayerCompositeRgba": true,
+    "embeddedCompositeReadback": {
+      "exact": false,
+      "pixels": 33479,
+      "visiblePixels": 33479,
+      "transparentPixels": 0,
+      "alphaPixels": 0,
+      "maxChannelDelta": 254
+    },
+    "embeddedCompositeNote": "ag-psd applies its white-matte conversion to the separate merged preview. Layer RGBA is exact and recomposites exactly to the emitted flattened PNG; the diagnostic above is retained rather than treated as a transparent-pixel-only difference."
+  }
+}
