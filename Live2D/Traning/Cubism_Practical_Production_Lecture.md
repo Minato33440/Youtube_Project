@@ -1,6 +1,6 @@
 # Cubism Practical Production Lecture
 
-更新: 2026-09-28
+更新: 2026-09-29
 
 ## 目的
 
@@ -393,6 +393,351 @@ Mouth FormとMouth Openを重ねることで、閉口表情だけでなく会話
 
 ---
 
+---
+
+# Lesson 08 — Physics
+
+## 目的
+
+手動で作った揺れParameterを、別Parameterの変化から時間差付きで自動駆動するPhysicsの仕組みを理解する。
+
+## 1. 前髪の出力Parameterを準備
+
+階層を整理した。
+
+~~~text
+Face_Rotation_Practice
+└─ Hair_Base_Warp
+   └─ HairFrontC_Warp
+      └─ hair_front_C
+~~~
+
+HairSwing_Front_Practice を -1 / 0 / +1 で作成し、根元をなるべく固定、毛先ほど大きく動く左右揺れを作った。
+
+この時点ではPhysicsを使わず、手動スライダーで滑らかに往復できることを確認した。
+
+## 2. Physicsグループ作成
+
+Physics_HairFrontC_Practice を作成。
+
+~~~text
+入力：Angle Z
+種別：角度
+影響度：100%
+    ↓
+Physics
+    ↓
+出力：HairSwing_Front_Practice
+振り子：No.1
+倍率：1.0
+~~~
+
+前髪では「髪（短い）」プリセットを起点にした。
+
+Angle Zをゆっくり動かすと揺れは小さく、速く動かすと前髪が遅れて揺れ、行き過ぎてから収束することを確認した。
+
+## 3. 振り子パラメータの感触
+
+数値を変えて比較した。
+
+- 長さを伸ばす → ゆったり大きい揺れ
+- 反応速度を下げる → 入力に遅れて追従
+- 収束を遅くする → 余韻が長く残る
+
+ここから、Physicsは「揺らす/揺らさない」ではなく、遅れ・慣性・収束で部位の質感を設計する機能と理解した。
+
+## 4. アホ毛を別Physicsへ分離
+
+アホ毛専用に、
+
+~~~text
+Hair_Base_Warp
+└─ Hair_ahoge_Warp
+   └─ hair_ahoge
+~~~
+
+を作り、前髪とは別Parameter・別Physicsグループへ分離した。
+
+同じAngle Z入力でも、
+
+- 前髪：短く比較的安定
+- アホ毛：軽く大きめに揺れ、余韻を残す
+
+という別の物理特性を作れることを確認した。
+
+## 5. Parameterレンジ変更で起きた失敗
+
+アホ毛Parameterを最初 -30 / 0 / +30 で作成したため、Physics出力が可動範囲に対して小さく、見た目の揺れが分かりにくかった。
+
+Keyform形状を維持したまま -1 / 0 / +1 へ変更し、Parameter本体の最小・最大も -1 / +1 へ修正した。
+
+その際、親Deformer側のParameterを変更した後、hair_ahoge ArtMesh側のKeyform紐づけが消え、途中で画像が表示されなくなる症状が出た。
+
+ArtMesh側にも -1 / 0 / +1 のKeyformを作り直すと復旧した。
+
+## Lesson 08の結論
+
+- Physicsの前に出力Parameterの手動変形を完成させる
+- 同じ入力でも部位ごとに別Physicsを持たせられる
+- Parameterレンジ変更時はDeformerとArtMeshの両方を確認する
+- Physicsは形状設計ではなく時間応答設計である
+
+---
+
+# Lesson 09 — Texture Atlas
+
+## 目的
+
+Runtime用Texture Atlasが、モデル画像をどのように再配置・縮小し、最終画質へ影響するかを確認する。
+
+## 1. Atlas作成
+
+FREE版環境で 2048 × 2048 / 1枚 を作成。
+
+自動レイアウト後、全ArtMeshは概ね 57.82% の倍率で配置された。
+
+hand_L など一部はAtlas内の空間効率のため90°回転して配置されたが、これはAtlas上の格納方向でありモデル上の表示方向とは別。
+
+## 2. 配置検証
+
+- 重なりを検出
+- 枠からのはみ出しを検出
+
+を実施し、該当ArtMeshが選択されなかったため自動配置に問題なしと判断した。
+
+## 3. 画質確認
+
+Atlas確定後にモデリング画面へ戻り、虹彩などを拡大確認。
+
+元画像100%に対して約57.82%へ縮小されたことで、特に虹彩の細線や高周波ディテールに解像感低下が目視できた。
+
+## Lesson 09の結論
+
+Texture Atlasは単なる画像の詰め合わせではなく、限られた解像度をどのパーツへ配分するかという画質設計である。
+
+本番では顔・目・口・前髪を高優先とし、2048一枚で不足する場合は4096等の大きいAtlasや複数Atlasを検討する。
+
+---
+
+# Lesson 10 — Runtime Export / VTube Studio
+
+## 目的
+
+Cubism Editorの編集モデルをRuntime用一式へ書き出し、外部アプリで実際にロードできることを確認する。
+
+## 1. 書き出し設定
+
+既存レン環境との互換性を優先し、SDK 5.0形式で書き出した。
+
+有効化した主な項目：
+
+- physics3.json
+- physics3.jsonへ計算FPS
+- cdi3.json
+- テクスチャ色漏れ防止
+- 書き出しターゲット：1/1（2048px）
+
+## 2. 出力結果
+
+~~~text
+Ren_training_L10_deformer01.moc3
+Ren_training_L10_deformer01.model3.json
+Ren_training_L10_deformer01.physics3.json
+Ren_training_L10_deformer01.cdi3.json
+Ren_training_L10_deformer01.2048/
+└─ texture_00.png
+~~~
+
+## 3. model3.json確認
+
+model3.json がRuntime一式の入口になっていることを確認。
+
+~~~text
+Moc      → .moc3
+Textures → .2048/texture_00.png
+Physics  → .physics3.json
+DisplayInfo → .cdi3.json
+~~~
+
+EyeBlink / LipSync Groupsは空配列だったため、本番では標準Groupやアプリ側Parameter mappingを別途確認する。
+
+## 4. VTube Studioで実機確認
+
+model3.json をVTube Studioへ読み込み、モデル表示に成功。
+
+Live2D Itemとしても読み込み、
+
+- Angle Z
+- Keyformを持つ表情・目・口
+- 前髪Physics
+- アホ毛Physics
+
+がRuntime側で反映されることを確認した。
+
+VTube Studioでは、通常モデルの設定とLive2D Item化後の設定は別系統として扱われることも確認した。
+
+## Lesson 10の結論
+
+書き出し成功だけでは完成ではない。model3.jsonの参照確認と、実Runtimeアプリでのロード・Parameter・Physics確認までをRuntime exportの受入条件とする。
+
+---
+
+# 全体総括 — PSDからRuntimeまで一周して得たこと
+
+今回の講義では、朝霧レンの教材コピーを使い、以下を実際に一周した。
+
+~~~text
+PNG原画
+↓
+分離PSD / Cubism Import PSD
+↓
+ArtMesh / Mesh
+↓
+Deformer階層
+↓
+Parameter / Keyform
+↓
+Deformer + ArtMesh多層補正
+↓
+複数Parameter / 表情
+↓
+Physics
+↓
+Texture Atlas
+↓
+moc3 / model3.json / physics3.json
+↓
+VTube Studio
+~~~
+
+最も大きな学びは、Live2D制作を「終点画像へ形を合わせる作業」ではなく、階層と責務を設計し、連続変形・複合状態・Runtimeまで含めて成立させる工程として理解できたこと。
+
+## 技術的に整理できた責務
+
+- Mesh：局所変形の網
+- Rotation Deformer：大きな回転・傾き
+- Warp Deformer：面全体の柔らかい補正
+- 局所Deformer：目・口・髪など部位単位
+- Parameter：状態軸
+- Keyform：その軸上の形
+- ArtMesh：最後の局所補正
+- Physics：別Parameterの変化から時間差付きで出力を駆動
+- Texture Atlas：Runtime画質の配分
+- model3.json：Runtime一式の入口
+
+## 制作判断として得たこと
+
+1. 静止原画への完全一致より、0→中間→終点の自然さを優先する
+2. 参照原画は正解輪郭ではなく演技方向のガイド
+3. 大きな変形から小さな補正へ降りる
+4. 中間が自然ならKeyformを増やさない
+5. 非線形部分だけ中間Keyformを追加する
+6. 単独Parameterだけでなく、実用上多い複合状態を確認する
+7. Physicsは部位ごとに分け、質感を設計する
+8. Editor内の成立とRuntimeの成立を別に検証する
+
+---
+
+# Astraとの協働ガイド
+
+今回の目的はBossが全工程を手作業することではなく、Astraへ正しい単位で仕事を渡し、結果を監督できる状態になることだった。
+
+## Astraに任せやすい
+
+- コードによる初期パーツ分離
+- PSD組立・座標・manifest
+- Mesh自動生成
+- Deformer階層作成
+- Parameter / Keyformの定型登録
+- 指定値での端点作成
+- Physics入出力グループ作成
+- Texture Atlas自動配置・検証
+- Runtime export
+- JSON参照検査
+- スクリーンショット・比較画像・テストログ作成
+
+## Bossが主導する
+
+- 原画らしさ
+- 輪郭・髪・耳・目・口の最終品質
+- Deformer支点
+- どこまで動かすか
+- 中間姿勢の自然さ
+- 感情表現
+- 複合Parameterの採否
+- Physicsの質感
+- Atlas画質配分
+- 商品としての最終受入
+
+## Astraへの指示テンプレート
+
+~~~text
+Goal:
+  対象動作を実装する
+
+対象:
+  Deformer / ArtMesh / Parameter
+
+階層:
+  親 → 子
+
+Parameter:
+  名前 / min / default / max
+
+変更可:
+  明示する
+
+変更禁止:
+  PSD差替え / Mesh再生成 / 他Parameter等
+
+参照:
+  原画 / 既存Keyform / comparison
+
+確認:
+  端点 / 中間 / 複合Parameter / Runtime
+
+合格条件:
+  自然さ / 隙間なし / 跳ねなし / 指定Runtimeで再現
+~~~
+
+## Computer Useの使い分け
+
+Computer Useへ細かな輪郭トレースや大量の頂点選定を丸投げしない。
+
+向く作業：
+
+- Deformer作成
+- 親子階層
+- Parameter / Keyform
+- 物理演算設定
+- Atlas
+- export
+- 定型確認
+
+人間レビューを残す作業：
+
+- 数px単位の頂点
+- 輪郭
+- 表情
+- 原画の印象
+- 演技の自然さ
+
+---
+
+# 今回の失敗から残すチェックポイント
+
+- 完成原画PSDとパーツ分離PSDを混同しない
+- Mesh編集モードと通常頂点変形を混同しない
+- Deformer枠内にあることと親子関係を混同しない
+- Parameter値と実際のDeformer角度を同一視しない
+- Keyform値とParameter本体のmin/maxは別設定
+- Parameterレンジ変更後は子ArtMeshのKeyformも確認する
+- Physicsは出力Parameterの手動動作を先に完成させる
+- Atlas倍率を見ずに画質合格にしない
+- export成功だけでRuntime合格にしない
+
+---
+
 # Lesson進捗
 
 - [x] Lesson 01 — PSD Import
@@ -402,18 +747,10 @@ Mouth FormとMouth Openを重ねることで、閉口表情だけでなく会話
 - [x] Lesson 05 — Keyform
 - [x] Lesson 06 — Keyform上でのDeformer + ArtMesh補正
 - [x] Lesson 07 — 複数Parameterの組み合わせ
-- [ ] Lesson 08 — Physics
-- [ ] Lesson 09 — Texture Atlas
-- [ ] Lesson 10 — Runtime Export
+- [x] Lesson 08 — Physics
+- [x] Lesson 09 — Texture Atlas
+- [x] Lesson 10 — Runtime Export / VTube Studio
 
-## 次回
+## 修了時点
 
-Lesson 08では、髪揺れ等を題材に、
-
-- Physicsの入力Parameter
-- 出力Parameter
-- 振り子設定
-- 揺れの収束
-- 手動Parameter操作と実Physicsの違い
-
-を確認する。
+Boss自身でPSD ImportからVTube Studio実機確認までを一周し、Astraへ任せる作業と人間が判断すべき作業の境界を具体的に説明・監督できる状態まで到達した。
