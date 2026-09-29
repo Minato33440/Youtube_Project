@@ -1,6 +1,6 @@
-# キャラクター制作ワークフロー v2.3
+# キャラクター制作ワークフロー v2.4
 
-更新：2026-09-28。リサのパーツ制作・PSD検証・段階的な動作確認を、レンでの原画再現とBossとの分業、Cubism Practical Production Lecture Lesson 01〜07で得た再利用可能な知見を蒸留して更新した現行手順。実習の操作記録・失敗・画面上の試行は Traning/Cubism_Practical_Production_Lecture.md に分離する。
+更新：2026-09-29。レンを教材にしたCubism Practical Production Lecture Lesson 01〜10を完走し、PSD ImportからRuntime/VTube Studio確認までの実作業で得た再利用可能な知見を蒸留して更新した現行手順。実習の操作記録・失敗・画面上の試行は Traning/Cubism_Practical_Production_Lecture.md に分離する。
 
 **Cubismへ入れる前に、可動単位ごとの見た目・隠れ部分・重なりを完成させ、その採用版をPSDへ組み、Cubismで動きを一段ずつ追加する。** 自動化するのは初期分離・配置・組立・比較・検査を中心とし、原画らしさの判断と細かな作画はBossとすり合わせる。
 
@@ -10,7 +10,7 @@
 
 ## 1. リサから引き継ぐ点とレンで更新した点
 
-| 項目 | リサの実績 | v2.3での扱い |
+| 項目 | リサの実績 | v2.4での扱い |
 | --- | --- | --- |
 | 原画とパーツ | 生成・描き足しを含む23層の試作。原画との差を許容して動作検証へ | 切り出しを基準とし、生成は隠れる箇所や口内などの補助。PNG合成で同一性を先に確認 |
 | 作画の担当 | 生成と配置を中心に試作 | Bossの手作業による補修・原画再現と、Agentの配置・比較・実装を反復 |
@@ -266,6 +266,123 @@ Angle Z = +30
 **評価の優先順位は、単独終点の美しさより、実運用で多用するParameter帯域の自然な連続性と複合時の安定性を上位に置く。**
 
 
+
+### 8.6 Physics・Texture Atlas・Runtimeの製造原則
+
+#### Physicsは形ではなく時間差を設計する
+
+Physicsを設定する前に、出力先Parameterを手動操作して目的の変形が成立していることを確認する。
+
+~~~text
+入力Parameter
+    ↓
+Physics（遅れ・慣性・収束）
+    ↓
+出力Parameter
+    ↓
+局所Deformer
+    ↓
+ArtMesh
+~~~
+
+髪では、前髪とアホ毛を別Deformer・別出力Parameter・別Physicsグループに分け、同じAngle Z入力でも異なる物理特性を持たせる。
+
+- 短い前髪：反応を早め、収束も比較的早め
+- 長い横髪・後ろ髪：反応を遅め、余韻を長め
+- アホ毛：軽く反応させつつ少し余韻を残す
+
+振り子の長さ、揺れやすさ、反応速度、収束速度は、部位の質感と時間的な性格を決める。
+
+Physics用の独自Parameterは -1 / 0 / +1 のように管理しやすい正規化範囲を基本とする。Parameterレンジを後から変更した場合は、親Deformerだけでなく、そのParameterを使用する子ArtMeshのKeyformが維持されているか必ず確認する。
+
+#### Texture Atlasは画質予算の配分
+
+Texture Atlas上の座標はモデル上の座標とは別で、ArtMeshはUVを介してAtlas上の担当画像を参照する。
+
+Atlas生成後は次を確認する。
+
+1. 重なり検出
+2. 枠外はみ出し検出
+3. 各ArtMeshの倍率
+4. Runtime相当表示での顔・目・口・細線の画質
+
+2048×2048・1枚で全パーツが一律約57.82%へ縮小された実例では、虹彩など高精細パーツの解像感低下が目視できた。販売用では顔・目・口・前髪を高優先とし、脚・靴・胴体下部などは必要に応じて低優先とする。
+
+#### Runtime exportは一式で検証する
+
+編集用 cmo3 とRuntime用データを分けて扱う。
+
+~~~text
+cmo3
+  ↓ export
+moc3
+model3.json
+physics3.json
+texture_00.png
+cdi3.json
+~~~
+
+- moc3：モデル本体
+- model3.json：Runtime一式の入口・参照関係
+- physics3.json：物理演算設定
+- Texture：Atlas画像
+- cdi3.json：表示名などの補助情報
+
+書き出し成功だけで合格にせず、model3.json 内のMoc / Textures / Physics / DisplayInfo参照を確認し、VTube Studio等の実Runtimeでロードする。
+
+Runtime側では少なくとも、Angle系Parameter、Eye Blink / Eye Smile、Mouth Open / Mouth Form、Physics出力、Texture表示品質、標準Groupやアプリ側Parameter mappingを確認する。
+
+Editorで成立していてもRuntimeで同じ挙動になるとは限らない。最終受入はRuntime実機確認まで含める。
+
+### 8.7 Astraとの協働原則
+
+今回の講義で、Astra/Agentへ任せる作業とBossが判断すべき作業の境界を次のように整理した。
+
+| 領域 | Astra / Agentに向く | Bossが判断する |
+| --- | --- | --- |
+| 原画分離 | コード分離、座標、レイヤー生成、manifest、差分比較 | 輪郭、髪、耳、目、口、陰影、塗り広げ |
+| PSD | 組立、読戻し検査、ハッシュ、重ね順 | 原画らしさ、隙間、接続、採否 |
+| Mesh | 自動生成、頂点数・形状の機械確認 | 特徴点、密度、実変形時の自然さ |
+| Deformer | 階層作成、命名、親子登録、定型操作 | どの単位をまとめるか、支点、可動量 |
+| Parameter / Keyform | 標準Parameter登録、端点作成、反復確認 | 中間Key追加の要否、キャラらしい形 |
+| 表情 | 組合せ列挙、比較画像、破綻候補抽出 | 感情方向、優先帯域、最終表情 |
+| Physics | 入出力接続、グループ作成、値の反復テスト | 部位ごとの質感、揺れの性格 |
+| Atlas / Runtime | 自動配置、検証、export、参照検査 | 画質優先順位、商品品質、実機受入 |
+
+Astraへは、終点原画へ輪郭を合わせる、のような曖昧なGoalではなく、階層・対象・Parameter・変更禁止範囲・合格条件を明示する。
+
+~~~text
+Goal:
+  対象動作を実装する
+
+対象:
+  Deformer / ArtMesh / Parameter
+
+階層:
+  親 → 子
+
+Parameter:
+  名前 / min / default / max
+
+変更可:
+  明示する
+
+変更禁止:
+  PSD差替え / Mesh再生成 / 他Parameter等
+
+参照:
+  原画 / 既存Keyform / comparison
+
+確認:
+  端点 / 中間 / 複合Parameter / Runtime
+
+合格条件:
+  自然さ / 隙間なし / 跳ねなし / 指定Runtimeで再現
+~~~
+
+Computer Useは定型UI操作、階層作成、Parameter/Keyform登録、export、スクリーンショット取得に向く。一方、輪郭トレース、数px単位の頂点選定、原画らしさ、感情の自然さなどは人間のレビューを前提とする。
+
+
 ## 9. 瞬き → 会話口 → 顎・首 → 髪の順で実装
 
 | 段階 | 実装 | 比較する状態・合格条件 |
@@ -324,3 +441,5 @@ Editor保存後にcmo3が変われば、それ以前のruntimeと同じ内容と
 2026-09-27：Cubism Practical Production Lecture Lesson 02で、PSD Import直後のArtMeshは最小Meshを持つだけで、実用変形用Meshは用途別に設計する必要があることを確認。大きな姿勢変化はDeformer主体、ArtMeshは局所補正、参照原画は終点輪郭の完全トレースではなく演技方向・特徴点のガイドとする方針を追加した。終点補正はCubismの補間対象となるため否定せず、中立→中間→終点の自然な連続性とキャラクターらしさを優先する。
 
 2026-09-28：Cubism Practical Production Lecture Lesson 01〜07の実習ログを Traning/Cubism_Practical_Production_Lecture.md に分離し、本書には別キャラへ再利用できる製造原則だけを残す構成へ変更。Deformer階層、Rotation支点、Parameter/Keyform、多層補正、Blink/Smile/Mouthの責務分離、複数Parameterの複合確認を§8.5へ蒸留した。
+
+2026-09-29：Cubism Practical Production Lecture Lesson 08〜10を完走。Physicsの部位別設計、Parameterレンジ変更時のKeyform確認、Texture Atlasの画質配分、Runtime一式とVTube Studio実機確認を製造原則へ追加し、Astra/AgentとBossの分業境界を§8.7へ整理した。
