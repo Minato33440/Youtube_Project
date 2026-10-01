@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-28",
+  "scope": "Live2D excluding Traning",
+  "baseline_head": "6caff72ae0ff25424e61a0e1c10f333c65e1ab16",
+  "policy": "No deletion; no Git index changes; preserve source paths",
+  "moves": [
+    {
+      "source": "Live2D/model-ren-asagiri/model/basic_expression/preview/case_00.png",
+      "destination": "Live2D/archive/20260928-generated-previews/model-ren-asagiri/model/basic_expression/preview/case_00.png",
+      "size": 151857,
+      "sha256": "cf511bec16ed1d39eab7df26e2ca7fbaf3e4ff6bfebb6c33219342862a10cab5",
+      "reason": "Re-renderable individual frame; keep contact sheets and motion samples"
+    },
+    {
+      "source": "Live2D/model-ren-asagiri/model/basic_expression/preview/case_01.png",
+      "destination": "Live2D/archive/20260928-generated-previews/model-ren-asagiri/model/basic_expression/preview/case_01.png",
+      "size": 151297,
+      "sha256": "3607529452c3a4eed794258b6b4cccfbe5b0f9d3043f4083d8e0d9ced45caae3",
+      "reason": "Re-renderable individual frame; keep contact sheets and motion samples"
+    },
+    {
+      "source": "Live2D/model-ren-asagiri/model/basic_expression/preview/case_02.png",
+      "destination": "Live2D/archive/20260928-generated-previews/model-ren-asagiri/model/basic_expression/preview/case_02.png",
+      "size": 150144,
+      "sha256": "2c6bfecdfc33eee9cc960909c60b11b4356d10da0e2139eced755dab56d7cd1c",
+      "reason": "Re-renderable individual frame; keep contact sheets and motion samples"
+    },
+    {
+      "source": "Live2D/model-ren-asagiri/model/basic_expression/preview/case_03.png",
+      "destination": "Live2D/archive/20260928-generated-previews/model-ren-asagiri/model/basic_expression/preview/case_03.png",
+      "size": 148650,
+      "sha256": "4fc4d02d785cdbf7fa2aec1e645c5b1f584b04aa821d656ef416e4bba2658199",
+      "reason": "Re-renderable individual frame; keep contact sheets and motion samples"
+    },
+    {
+      "source": "Live2D/model-ren-asagiri/model/basic_expression/preview/case_04.png",
+      "destination": "Live2D/archive/20260928-generated-previews/model-ren-asagiri/model/basic_expression/preview/case_04.png",
+      "size": 147248,
+      "sha256": "344fcfe951bb2f599cd6be5d010373784c46b579b452cdf3ee660c2116c9eb75",
+      "reason": "Re-renderable individual frame; keep contact sheets and motion samples"
+    },
+    {
+      "source": "Live2D/model-ren-asagiri/model/basic_expression/preview/case_05.png",
+      "destination": "Live2D/archive/20260928-generated-previews/model-ren-asagiri/model/basic_expression/preview/case_05.png",
+      "size": 149615,
+      "sha256": "99db0a7fa8b61df1265ec93462511da6516ad0ef7fb491ecb00b9776d93c7ba0",
+      "reason": "Re-renderable individual frame; keep contact sheets and motion samples"
+    },
+    {
+      "source": "Live2D/model-ren-asagiri/model/basic_expression/preview/case_06.png",
+      "destination": "Live2D/archive/20260928-generated-previews/model-ren-asagiri/model/basic_expression/preview/case_06.png",
+      "size": 149671,
+      "sha256": "21cb69e6116f53e446cb565d27c28020e52e2ffa205de66907ec99f3b4130e91",
+      "reason": "Re-renderable individual frame; keep contact sheets and motion samples"
+    },
+    {
+      "source": "Live2D/model-ren-asagiri/model/basic_expression/preview/case_07.png",
+      "destination": "Live2D/archive/20260928-generated-previews/model-ren-asagiri/model/basic_expression/preview/case_07.png",
+      "size": 151681,
+      "sha256": "0a3a3b664aa702a873432e5388c78b41028b0b6da01c480adf061796f01bc4bb",
+      "reason": "Re-renderable individual frame; keep contact sheets and motion samples"
+    },
+    {
+      "source": "Live2D/model-ren-asagiri/model/basic_expression/preview/case_08.png",
+      "destination": "Live2D/archive/20260928-generated-previews/model-ren-asagiri/model/basic_expression/preview/case_08.png",
+      "size": 152063,
+      "sha256": "e178578108e82e883d41317a2e3951455ff4c9ae980b9b4369a601be54a62878",
+      "reason": "Re-renderable individual frame; keep contact sheets and motion samples"
+    },
+    {
+      "source": "Live2D/model-ren-asagiri/model/basic_expression/preview/case_09.png",
+      "destination": "Live2D/archive/20260928-generated-previews/model-ren-asagiri/model/basic_expression/preview/case_09.png",
+      "size": 152593,
+      "sha256": "29b70234cd62578b571e09cdca17e4584b221d8377fd9c576e48ee0dd5be2354",
+      "reason": "Re-renderable individual frame; keep contact sheets and motion samples"
+    },
+    {
+      "source": "Live2D/model-ren-asagiri/model/basic_expression/preview/case_10.png",
+      "destination": "Live2D/archive/20260928-generated-previews/model-ren-asagiri/model/basic_expression/preview/case_10.png",
+      "size": 153050,
+      "sha256": "82f49a5e798e3de2e7b40d81ecdd251779e6752617ee30d4b0c555b30e19cf8e",
+      "reason": "Re-renderable individual frame; keep contact sheets and motion samples"
+    },
+    {
+      "source": "Live2D/model-ren-asagiri/model/basic_expression/preview/case_11.png",
+      "destination": "Live2D/archive/20260928-generated-previews/model-ren-asagiri/model/basic_expression/preview/case_11.png",
+      "size": 153416,
+      "sha256": "bc3b81568dfa7a38baff1f95d31f6cca441c9efd882e4a09ac44f1e8a795310e",
+      "reason": "Re-renderable individual frame; keep contact sheets and motion samples"
+    },
+    {
+      "source": "Live2D/model-ren-asagiri/model/head_angles/preview/render.log",
+      "destination": "Live2D/archive/20260928-generated-previews/model-ren-asagiri/model/head_angles/preview/render.log",
+      "size": 5164,
+      "sha256": "a604b53289b6d717739c3c16da7769927ac56efea266d86839827fc09b7ad30b",
+      "reason": "Superseded render console log; structured verification retained"
+    },
+    {
+      "source": "Live2D/model-ren-asagiri/model/head_angles/preview/render_oblique.log",
+      "destination": "Live2D/archive/20260928-generated-previews/model-ren-asagiri/model/head_angles/preview/render_oblique.log",
+      "size": 4623,
+      "sha256": "f6cb26ef9c0e154ec2f6000c8ff8421c335b88ef367e6f22bb379e631f64ed68",
+      "reason": "Superseded render console log; structured verification retained"
+    },
+    {
+      "source": "Live2D/model-ren-asagiri/model/head_neck_hair/preview/video_frame_000.png",
+      "destination": "Live2D/archive/20260928-generated-previews/model-ren-asagiri/model/head_neck_hair/preview/video_frame_000.png",
+      "size": 151487,
+      "sha256": "6821070646609212d9b49081b24bddb78f4f887d5297939ca6da52e7ca181859",
+      "reason": "Re-renderable individual frame; keep contact sheets and motion samples"
+    },
+    {
+      "source": "Live2D/model-ren-asagiri/model/head_neck_hair/preview/video_frame_290.png",
+      "destination": "Live2D/archive/20260928-generated-previews/model-ren-asagiri/model/head_neck_hair/preview/video_frame_290.png",
+      "size": 162263,
+      "sha256": "ac463bcb220214517675adea76237856e7733dd0fd73d23d092184d6d13afa73",
+      "reason": "Re-renderable individual frame; keep contact sheets and motion samples"
+    }
+  ],
+  "restored_verifier_dependencies": [
+    "Live2D/model-ren-asagiri/model/head_angles/preview/case_00.png",
+    "Live2D/model-ren-asagiri/model/head_angles/preview/case_02.png",
+    "Live2D/model-ren-asagiri/model/head_angles/preview/case_04.png",
+    "Live2D/model-ren-asagiri/model/head_angles/preview/case_05.png",
+    "Live2D/model-ren-asagiri/model/head_angles/preview/case_06.png",
+    "Live2D/model-ren-asagiri/model/head_angles/preview/case_07.png",
+    "Live2D/model-ren-asagiri/model/head_angles/preview/case_08.png",
+    "Live2D/model-ren-asagiri/model/head_angles/preview/case_09.png",
+    "Live2D/model-ren-asagiri/model/head_angles/preview/case_10.png",
+    "Live2D/model-ren-asagiri/model/head_angles/preview/case_11.png",
+    "Live2D/model-ren-asagiri/model/head_angles/preview/case_12.png",
+    "Live2D/model-ren-asagiri/model/head_angles/preview/case_13.png",
+    "Live2D/model-ren-asagiri/model/head_angles/preview/case_14.png",
+    "Live2D/model-ren-asagiri/model/head_angles/preview/case_15.png",
+    "Live2D/model-ren-asagiri/model/head_neck_hair/preview/case_00.png",
+    "Live2D/model-ren-asagiri/model/head_neck_hair/preview/case_01.png",
+    "Live2D/model-ren-asagiri/model/head_neck_hair/preview/case_02.png",
+    "Live2D/model-ren-asagiri/model/head_neck_hair/preview/case_03.png",
+    "Live2D/model-ren-asagiri/model/head_neck_hair/preview/case_04.png",
+    "Live2D/model-ren-asagiri/model/head_neck_hair/preview/case_05.png",
+    "Live2D/model-ren-asagiri/model/head_neck_hair/preview/case_06.png",
+    "Live2D/model-ren-asagiri/model/head_neck_hair/preview/case_07.png",
+    "Live2D/model-ren-asagiri/model/head_neck_hair/preview/case_08.png",
+    "Live2D/model-ren-asagiri/model/head_neck_hair/preview/case_09.png",
+    "Live2D/model-ren-asagiri/model/head_neck_hair/preview/case_10.png",
+    "Live2D/model-ren-asagiri/model/head_neck_hair/preview/case_11.png",
+    "Live2D/model-ren-asagiri/model/head_neck_hair/preview/case_12.png",
+    "Live2D/model-ren-asagiri/model/head_neck_hair/preview/case_13.png"
+  ],
+  "git_preparation": "After file organization, selected new assets/evidence/docs and maintenance files were staged; preexisting tracked changes and Traning were excluded; no commit/push."
+}

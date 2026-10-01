@@ -1,0 +1,629 @@
+{
+  "checked_at_utc": "2026-10-01T07:09:04.539409+00:00",
+  "source_sha256": "3eb81f7187ae3d5be9d2ad51e6d6dc7c552bce7e4ddfb6912e587345519d4647",
+  "counts": {
+    "meshes": 48,
+    "deformers": 14,
+    "parameters": 28,
+    "parts": 14,
+    "physics_groups": 4
+  },
+  "active_png_matches": 48,
+  "parameter_bindings": {
+    "ParamAngleX": [],
+    "ParamAngleY": [],
+    "ParamAngleZ": [
+      "Hair_Base_Warp",
+      "Neck_Follow",
+      "Face_Rotation_Practice"
+    ],
+    "ParamEyeLOpen": [
+      "upper_crease_L",
+      "lower_eyelid_left",
+      "ALT_eyelash_upper_L",
+      "ALT_iris_L_blue",
+      "FILL_eye_white_L",
+      "eyelash_closed_L",
+      "Left_Eye"
+    ],
+    "ParamEyeLSmile": [
+      "upper_crease_L",
+      "lower_eyelid_left",
+      "FILL_eye_white_L",
+      "Left_Eye"
+    ],
+    "ParamEyeROpen": [
+      "upper_crease_R",
+      "lower_eyelid_right",
+      "ALT_eyelash_upper_R",
+      "ALT_iris_R_brown",
+      "FILL_eye_white_R",
+      "eyelash_closed_L",
+      "eyelash_closed_R",
+      "Right_Eye"
+    ],
+    "ParamEyeRSmile": [
+      "upper_crease_R",
+      "lower_eyelid_right",
+      "ALT_eyelash_upper_R",
+      "FILL_eye_white_R",
+      "Right_Eye"
+    ],
+    "ParamEyeBallX": [],
+    "ParamEyeBallY": [],
+    "ParamBrowLY": [],
+    "ParamBrowRY": [],
+    "ParamBrowLX": [],
+    "ParamBrowRX": [],
+    "ParamBrowLAngle": [],
+    "ParamBrowRAngle": [],
+    "ParamBrowLForm": [],
+    "ParamBrowRForm": [],
+    "ParamMouthForm": [
+      "mouth_closed",
+      "mouth_cavity",
+      "mouth_tongue",
+      "mouth_rim_lower",
+      "mouth_teeth_upper",
+      "mouth_rim_upper",
+      "Mouth_Warp"
+    ],
+    "ParamMouthOpenY": [
+      "mouth_closed",
+      "mouth_cavity",
+      "mouth_tongue",
+      "mouth_rim_lower",
+      "mouth_teeth_upper",
+      "mouth_rim_upper",
+      "Mouth_Warp",
+      "Jaw_Open"
+    ],
+    "ParamCheek": [],
+    "ParamBodyAngleX": [],
+    "ParamBodyAngleY": [],
+    "ParamBodyAngleZ": [],
+    "ParamBreath": [],
+    "ParamHairFront": [
+      "HairFrontC_Warp"
+    ],
+    "ParamHairSide": [
+      "Hair_Side_L_Sway",
+      "Hair_Side_R_Sway"
+    ],
+    "ParamHairBack": [
+      "Hair_Back_Sway"
+    ],
+    "Param": [
+      "hair_ahoge",
+      "HairFrontC_Warp",
+      "Hair_ahoge_wrap"
+    ]
+  },
+  "unbound_parameters": [
+    "ParamAngleX",
+    "ParamAngleY",
+    "ParamEyeBallX",
+    "ParamEyeBallY",
+    "ParamBrowLY",
+    "ParamBrowRY",
+    "ParamBrowLX",
+    "ParamBrowRX",
+    "ParamBrowLAngle",
+    "ParamBrowRAngle",
+    "ParamBrowLForm",
+    "ParamBrowRForm",
+    "ParamCheek",
+    "ParamBodyAngleX",
+    "ParamBodyAngleY",
+    "ParamBodyAngleZ",
+    "ParamBreath"
+  ],
+  "grid_checks": [
+    {
+      "name": "hair_front_C",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "hair_front_L",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "hair_front_R",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "hair_side_L",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "hair_side_R",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "upper_crease_L",
+      "expected": 30,
+      "actual": 30,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "lower_eyelid_left",
+      "expected": 25,
+      "actual": 25,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "ALT_eyelash_upper_L",
+      "expected": 6,
+      "actual": 6,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "ALT_iris_L_blue",
+      "expected": 6,
+      "actual": 6,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "FILL_eye_white_L",
+      "expected": 30,
+      "actual": 30,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "upper_crease_R",
+      "expected": 30,
+      "actual": 30,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "lower_eyelid_right",
+      "expected": 25,
+      "actual": 25,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "ALT_eyelash_upper_R",
+      "expected": 35,
+      "actual": 35,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "ALT_iris_R_brown",
+      "expected": 6,
+      "actual": 6,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "FILL_eye_white_R",
+      "expected": 30,
+      "actual": 30,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "mouth_closed",
+      "expected": 6,
+      "actual": 6,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "hair_back",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "collar_L",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "collar_R",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "belt",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "sleeve_L",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "sleeve_R",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "shirt_torso",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "neck-clavicle",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "shirt_inside",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "upper_arm_L",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "upper_arm_R",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "forearm_L",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "forearm_R",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "hand_L",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "hand_R",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "trousers_L",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "trousers_R",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "shoe_L",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "shoe_R",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "mouth_cavity",
+      "expected": 15,
+      "actual": 15,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "mouth_tongue",
+      "expected": 9,
+      "actual": 9,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "mouth_rim_lower",
+      "expected": 15,
+      "actual": 15,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "mouth_teeth_upper",
+      "expected": 15,
+      "actual": 15,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "mouth_rim_upper",
+      "expected": 15,
+      "actual": 15,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "ear_R",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "ear_L",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "brow_R",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "brow_L",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "hair_ahoge",
+      "expected": 3,
+      "actual": 3,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "eyelash_closed_L",
+      "expected": 8,
+      "actual": 8,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "eyelash_closed_R",
+      "expected": 2,
+      "actual": 2,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "face_underfill",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "Face_Warp",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "Hair_Base_Warp",
+      "expected": 3,
+      "actual": 3,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "Mouth_Warp",
+      "expected": 15,
+      "actual": 15,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "HairFrontC_Warp",
+      "expected": 9,
+      "actual": 9,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "Right_Eye",
+      "expected": 25,
+      "actual": 25,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "Left_Eye",
+      "expected": 25,
+      "actual": 25,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "Hair_ahoge_wrap",
+      "expected": 3,
+      "actual": 3,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "Head_XY_Base",
+      "expected": 1,
+      "actual": 1,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "Jaw_Open",
+      "expected": 2,
+      "actual": 2,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "Neck_Follow",
+      "expected": 3,
+      "actual": 3,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "Hair_Side_L_Sway",
+      "expected": 3,
+      "actual": 3,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "Hair_Side_R_Sway",
+      "expected": 3,
+      "actual": 3,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "Hair_Back_Sway",
+      "expected": 3,
+      "actual": 3,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    },
+    {
+      "name": "Face_Rotation_Practice",
+      "expected": 3,
+      "actual": 3,
+      "missing": [],
+      "duplicate_count": 0,
+      "unresolved_forms": []
+    }
+  ],
+  "actual_cubism_render_completed": false,
+  "local_diagnostic_only": true,
+  "official_key_range_reference": "https://docs.live2d.com/cubism-editor-manual/clipping-mask/",
+  "preservation": {
+    "source_sha256_at_end": "3eb81f7187ae3d5be9d2ad51e6d6dc7c552bce7e4ddfb6912e587345519d4647",
+    "snapshot_unchanged": true,
+    "index_bytes_unchanged": true,
+    "index_entries_unchanged": true,
+    "changed_protected_pngs": []
+  }
+}

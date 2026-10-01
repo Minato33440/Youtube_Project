@@ -1,0 +1,44 @@
+{
+  "candidate": {
+    "sha256": "9c0523275e20652c69b325e74182d01ca67ff33efd765ac9348c70d42dbca019",
+    "meshes": 46,
+    "deformers": 8,
+    "parameters": 28,
+    "physics_groups": 2
+  },
+  "candidate0": {
+    "sha256": "a7a848a6f4472d766030264d57d44929b7a37b207784f81d09ea2dd616e3ca47",
+    "meshes": 46,
+    "deformers": 8,
+    "parameters": 28,
+    "physics_groups": 2
+  },
+  "lesson09_pre_atlas": {
+    "sha256": "77ffe14dd9b6acbd195ff5e388951cfcf404abd0d72421735ebb68ed72936750",
+    "meshes": 46,
+    "deformers": 8,
+    "parameters": 28,
+    "physics_groups": 2
+  },
+  "accepted_reference": {
+    "sha256": "4618c15467b43d44f3de4415d72382b469ab9e80749a197bf09ee6911acb9e9c",
+    "meshes": 48,
+    "deformers": 8,
+    "parameters": 27,
+    "physics_groups": 3
+  },
+  "head_neck_hair_working": {
+    "sha256": "fb153e5d1946fe4b7bbb1f0573a7d2b3d144b8f121196c2283002601504d8b7e",
+    "meshes": 48,
+    "deformers": 8,
+    "parameters": 27,
+    "physics_groups": 3
+  },
+  "basic_expression": {
+    "sha256": "293e779ee860359b50420b26b0da97f1fa1795db49affb7157cb92dbdf6bf221",
+    "meshes": 48,
+    "deformers": 0,
+    "parameters": 27,
+    "physics_groups": 0
+  }
+}

@@ -6,7 +6,7 @@
 
 - `parts/`：顔14・髪7・耳2の23PNG。頭部前面の正本はここだけ。
 - `assembly.json`：画像寸法・原画座標・重ね順・反転と現行ハッシュ。
-- `acceptance.json`：静止PNGの承認範囲と確認記録。PSD化・Cubism取り込み済み。動作実装の現在地は`../../model/basic_expression/README.md`。
+- `acceptance.json`：静止PNGの承認範囲と確認記録。PSD化・Cubism取り込み済み。動作実装の現在地は[head_neck_hair](../../model/head_neck_hair/README.md)。初期動作プレビューは2026-09-25にBoss了承済み。以下の静止検査と動作検査は範囲を区別する。
 - `preview/`：最新23PNGから作った頭部透明画像、背景付き画像、原画比較。
 - `expression_sources/`：口内5PNG・閉眼移行用上まつ毛2PNG。今後の表情実装用であり、現行の通常頭部には合成していない。
 - `reference/`：配置見本と原画。非表示の耳surface2点もここに保存。見本内の素材より個別PNGを優先。

@@ -1,0 +1,245 @@
+{
+  "checked_at_utc": "2026-10-01T08:12:50.088500+00:00",
+  "model_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\base_motion\\Ren_base3.cmo3",
+  "model_sha256_before": "3eb81f7187ae3d5be9d2ad51e6d6dc7c552bce7e4ddfb6912e587345519d4647",
+  "model_sha256_after": "3eb81f7187ae3d5be9d2ad51e6d6dc7c552bce7e4ddfb6912e587345519d4647",
+  "model_unchanged": true,
+  "screenshots": [
+    {
+      "file": "01_right_open025_smile0.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "258152733adfe0b1d53514a25d5207b4c9a17281b0025622f06e9c47e1679c5a",
+      "bytes": 235100
+    },
+    {
+      "file": "02_right_open015_smile0.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "016871ed17754da15511a8e68144809604237660ddd2dcb1b2762fdd52f7bc1d",
+      "bytes": 235046
+    },
+    {
+      "file": "03_right_closed_smile0.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "eaa60e167c87ef79f9560e1395e1e4235de581e968d2b8b2a41c70703114e038",
+      "bytes": 236199
+    },
+    {
+      "file": "04_right_closed_smile05.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "812a7f505b2a86169a8cb88bf8d59f6679d3167e85426ae6cbe6664427f2a745",
+      "bytes": 234975
+    },
+    {
+      "file": "05_right_closed_smile1.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "bca7444e2d14d5361bd62308c9f222fb8be32bf1ff0cb2a0eea1a33ad78bbaa0",
+      "bytes": 234966
+    },
+    {
+      "file": "06_right_open005_smile1.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "42453cc0d194ae4955412d970f259bb44d356a3eb3b42d66142c8698bde87767",
+      "bytes": 234853
+    },
+    {
+      "file": "07_left_closed_smile0_right005_smile1.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "d81da96364b181f5d850dd218b57aa136d9fc129079a105006b6059a640c91cf",
+      "bytes": 235671
+    },
+    {
+      "file": "08_left_wink_right_open1_smile1.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "ca7006740b2f879953c5892c01ffc770a48bea34f6962f870670a57abcbf7976",
+      "bytes": 235089
+    },
+    {
+      "file": "09_left_half_smile0.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "645964b87af70980097a30264c496767c454b79c59a7cd3065d7dec811580e60",
+      "bytes": 235729
+    },
+    {
+      "file": "10_left_half_smile1.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "df1816090d9678821f6524a9265ace8e96c705934b08cafe379c4191f47a5a2a",
+      "bytes": 235813
+    },
+    {
+      "file": "11_left_half_smile05.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "19f5dd54c649bf4b73aa797ea2d7644dbce6b228130e0142a750f660013d6508",
+      "bytes": 235773
+    },
+    {
+      "file": "12_both_half.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "b253b3bf86ab472dd5d2877a743a01a6cb786b7ebfaf84e7cc559fc6aa6affda",
+      "bytes": 235364
+    },
+    {
+      "file": "13_gaze_xplus.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "ffc34d6b4a00463ee3a2bad8d50b9ead52ff46c8ef17a931d05f113450451cfc",
+      "bytes": 235653
+    },
+    {
+      "file": "14_gaze_xminus.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "007c22c611bc526aca7091f5dffbf1154392862b1e81c2d6bf1e427cb5b4dc78",
+      "bytes": 235713
+    },
+    {
+      "file": "15_gaze_yplus.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "3a9dcf841df28138fd8d66cc4f00059364be52e0583a69832d0c071c0ede01c1",
+      "bytes": 235410
+    },
+    {
+      "file": "16_gaze_yminus.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "49549814a074fb25b5af2b3b40985d645fbdb1ebc1bc035e2aeacf0febe382b4",
+      "bytes": 235535
+    },
+    {
+      "file": "17_front_default.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "038b3a9a0c15006a9e9125374db8e42bd52dab823789d598c41aa7575b2f5caa",
+      "bytes": 234988
+    },
+    {
+      "file": "18_mouth_open025_form0.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "9c7f714d1c232ff84c98335fcdd61f03b51c86eba33557054c9ac828902e5391",
+      "bytes": 234933
+    },
+    {
+      "file": "19_mouth_open025_formplus.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "8b27955fd3dcc47f12860fb777307c52482892fdcbd47abb5978dbe442bf5222",
+      "bytes": 234567
+    },
+    {
+      "file": "20_mouth_open1_formplus.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "05169c17bee7cd02cc52189b9446824544aefa6a5b5a934c76d6a7ce29d99c55",
+      "bytes": 235479
+    },
+    {
+      "file": "21_mouth_open1_formminus.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "ce2b91c3d09115908b4fd8afd5a30f2a8f53be5b2a7de1cdc24216351e069b92",
+      "bytes": 234972
+    },
+    {
+      "file": "22_mouth_open05_formminus.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "aafedd8aa4cb120319c4e02f28a43917f5761416b3dc5e6100f5778abc2f073a",
+      "bytes": 235258
+    },
+    {
+      "file": "23_mouth_closed_formminus.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "fae1c7d71ef44cc1ceee2b68a0e46c8ee8174210ef29eb8d97be5e0e6841439e",
+      "bytes": 234980
+    },
+    {
+      "file": "24_hair_neutral.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "397b56dd063b0ef68eef9d00cb697432cb02badd5b6519e1afefe95936927580",
+      "bytes": 239103
+    },
+    {
+      "file": "25_hairfront_plus_ahoge0.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "2609d5e2024d759735bcfbcaeab11894683d068e25c9cd51739369361863830a",
+      "bytes": 239374
+    },
+    {
+      "file": "26_hairfront_plus_ahogeplus.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "5d4bd48d87f9c89f7338c7d73992ac7217d0ee9548af66cfe2a0bc1430ea17da",
+      "bytes": 239177
+    },
+    {
+      "file": "27_hairfront_plus_ahogeminus.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "f71d480d873bc374a84c5bd9d9236876f657c413725b82d49d61ef7404f3b089",
+      "bytes": 239181
+    },
+    {
+      "file": "28_hairfront_minus_ahogeminus.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "98c5d4da5c54f18ade75aa8bce3b89bf5f9df27b956b67fa4265973a25cfa971",
+      "bytes": 239641
+    },
+    {
+      "file": "29_hairfront_minus_ahogeplus.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "d1556826a9386743b11c1aae7d7e581431c2bd01953e70d6c35e5484b029a08c",
+      "bytes": 239417
+    },
+    {
+      "file": "30_hairside_plus.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "e8a8fab243271ac1dafe0d6a64bcbcce9b42fcf3f1d367d75668be112800cedc",
+      "bytes": 239291
+    },
+    {
+      "file": "31_hairside_minus.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "47d9e985cde88fc36c9ae6899ffe082634d1be91a36032ec2eaac9a35ce5bb09",
+      "bytes": 239216
+    },
+    {
+      "file": "32_hairback_plus.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "1ddb1d8383117e91964fbd78447c7784cbf7a66668fd46914d079b40ed213f5b",
+      "bytes": 239000
+    },
+    {
+      "file": "33_hairback_minus.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "9c16fe2e2122101e09ae452cc26d23ccc9117ed28dcf935c3ea0371fa4a2d557",
+      "bytes": 239091
+    },
+    {
+      "file": "34_default_restored.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "dcc46bf9c786de9d9aceb9e440c6f1206ac3bff65f38254ca525e15417171fe6",
+      "bytes": 238584
+    },
+    {
+      "file": "35_physics_settings_neutral.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "c900bc1963255525a3ed78e7060ff1f51dea8a123edebf671861a90040f501db",
+      "bytes": 265442
+    },
+    {
+      "file": "36_physics_zplus_response.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "046a685e19e9971f185216415ae74ed0e24a36ba26fb64eb8e8fb73e31a172d4",
+      "bytes": 265459
+    },
+    {
+      "file": "37_physics_zminus_response.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "bda817ddb32cc51030a37e050e558f4e1b54063c9449c5e122065c0fb065836d",
+      "bytes": 265416
+    },
+    {
+      "file": "38_physics_return_neutral.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "c6d32a4413e6d8352fa34476bde67e97ff8b58aa4341010d1f19380db31c3e0e",
+      "bytes": 265310
+    },
+    {
+      "file": "39_final_editor_state.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "04d0204069924b0f53ba810f2674fb8707000d0b1880503993d6034f28546cd4",
+      "bytes": 238679
+    }
+  ],
+  "scope": "GUI representative states, not exhaustive combinations or runtime acceptance",
+  "evidence_format": "Original tool-returned JPEG bytes, saved without pixel modification"
+}

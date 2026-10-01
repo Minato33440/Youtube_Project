@@ -1,10 +1,16 @@
 # Live2D — 制作・再利用拠点
 
-更新: 2026-09-16。Bossとの合意を残す入口。現在は `Youtube_Project` 内の仮運用であり、独立リポジトリ化・素材移管は未実施。
+2026-09-28素材整理：[現在のGit保存方針](maintenance/20261001_git_policy/README.md)。`Traning/` はBoss管理のため変更対象外。完成素材・編集元と、未採用の輪郭トレース実験、ローカル限定archiveを区別した。モデルの巻き戻しや次工程の実装は今回行っていない。
+
+更新: 2026-09-25。Bossとの合意を残す入口。現在は `Youtube_Project` 内の仮運用であり、独立リポジトリ化・素材移管は未実施。
+
+## 現行のキャラクター制作手順
+
+[キャラクター制作ワークフロー v2.0](CHARACTER_PRODUCTION_WORKFLOW.md)を新規制作の入口にする。リサの既存手順へ、レンでのBossによる作画・原画再現とAgentによる配置・比較・実装の分業を反映。PNGの見た目確定からPSD検証、Cubismの初期動作確認までを整理した。[制作記録テンプレート](templates/character_production_record.md)で入力・採用版・担当・検査・受入を残す。既存リサ資料は当時の実績として保持する。
 
 ## 2026-09-19の制作入口
 
-当面は同一リポ内でYouTube制作とLive2D制作を分類する。[配置・分離方針](repository_layout.md)を参照。下記のリサの記録・既存素材の場所は保持する。
+当面は同一リポ内でYouTube制作とLive2D制作を分類する。[配置・分離方針](model-ren-asagiri/repository_layout.md)を参照。下記のリサの記録・既存素材の場所は保持する。
 
 - [朝霧レン本体](model-ren-asagiri/README.md)：仕様、未決事項、リサから始める実装計画。
 - [共通プリセット](presets/README.md)：暫定採用値と再利用の限界。

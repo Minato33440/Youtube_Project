@@ -1,0 +1,103 @@
+{
+  "checked_at": "2026-09-30",
+  "method": "Read-only CAFF/XML inspection after the final Save As. The atlas-free editor file was compared with both the archived temporary-atlas save and the pristine pre-foundation archive. No CMO3 was modified by this audit.",
+  "current": {
+    "path": "C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/model/base_motion/Ren_base.cmo3",
+    "sha256": "26731bcdaef0b87277d9f25ab53979e0b7663f143821c50fef7bfc5a870fc5d2",
+    "bytes": 7121388,
+    "meshes": 46,
+    "deformers": 14,
+    "parameters": 28,
+    "physics_groups_saved_in_cmo3": 4,
+    "texture_atlas_count": 0,
+    "source_image_mode": true
+  },
+  "comparison_sources": {
+    "temporary_atlas": {
+      "path": "C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/model/base_motion/archive/temporary_atlas_20260930/Ren_base.cmo3",
+      "sha256": "770985232cbfe7ad22c03ca215576adf5a05ea619b070fd57b88f790e6942e93",
+      "bytes": 10385825,
+      "texture_atlas_count": 1
+    },
+    "pristine_pre_foundation": {
+      "path": "C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/model/base_motion/archive/before_foundation_20260930/Ren_deformer1.cmo3",
+      "sha256": "b0fd5db8b604262a4111e3c2213d6c29ab47d6fbb5bb2c6b53fd15f11998eae5"
+    }
+  },
+  "temporary_atlas_removal": {
+    "atlas_count_before": 1,
+    "atlas_count_after": 0,
+    "parameters_equal": true,
+    "mesh_topology_forms_bindings_and_hierarchy_equal": true,
+    "deformers_equal": true,
+    "physics_equal": true,
+    "layered_sources_equal": true
+  },
+  "motion_connections": {
+    "Neck_Follow": {
+      "id": "Warp10",
+      "parent": "ROOT",
+      "parameter": "ParamAngleZ",
+      "keys": [-30.0, 0.0, 30.0],
+      "children": ["neck-clavicle"]
+    },
+    "Hair_Side_L_Sway": {
+      "id": "Warp11",
+      "parent": "Hair_Base_Warp",
+      "parameter": "ParamHairSide",
+      "keys": [-1.0, 0.0, 1.0],
+      "children": ["hair_side_L"]
+    },
+    "Hair_Side_R_Sway": {
+      "id": "Warp12",
+      "parent": "Hair_Base_Warp",
+      "parameter": "ParamHairSide",
+      "keys": [-1.0, 0.0, 1.0],
+      "children": ["hair_side_R"]
+    },
+    "Hair_Back_Sway": {
+      "id": "Warp13",
+      "parent": "Hair_Base_Warp",
+      "parameter": "ParamHairBack",
+      "keys": [-1.0, 0.0, 1.0],
+      "children": ["hair_back"]
+    }
+  },
+  "parameter_usage": {
+    "ParamHairSide": ["Hair_Side_L_Sway/Warp11", "Hair_Side_R_Sway/Warp12"],
+    "ParamHairBack": ["Hair_Back_Sway/Warp13"]
+  },
+  "physics_saved_in_cmo3": [
+    {"name": "Physics_HairFrontC_Practice", "input": "ParamAngleZ", "output": "ParamHairFront"},
+    {"name": "Physics_Hair_ahoge_practice", "input": "ParamAngleZ", "output": "Param"},
+    {"name": "Side hair", "input": "ParamAngleZ", "output": "ParamHairSide"},
+    {"name": "Back hair", "input": "ParamAngleZ", "output": "ParamHairBack"}
+  ],
+  "foundation_retained": {
+    "z_angles": {"-30": -15.0, "0": 0.0, "30": 15.0},
+    "clips": {
+      "ALT_iris_L_blue": "FILL_eye_white_L",
+      "ALT_iris_R_brown": "FILL_eye_white_R",
+      "mouth_tongue": "mouth_cavity",
+      "mouth_teeth_upper": "mouth_cavity"
+    },
+    "Face_Rotation_Practice_children": ["Head_XY_Base"],
+    "Head_XY_Base_children": ["Face_Warp", "Hair_Base_Warp", "Mouth_Warp"],
+    "Jaw_Open_children": ["face_underfill"]
+  },
+  "mesh_preservation": {
+    "all_46_active_image_rgba_hashes_equal_to_pristine": true,
+    "editable_mesh_content_changed_only": ["hair_back", "neck-clavicle"],
+    "hair_side_L_topology": {"vertices": 92, "triangles": 143},
+    "hair_side_R_topology": {"vertices": 122, "triangles": 189},
+    "hair_back_topology": {"before_vertices": 4, "before_triangles": 2, "current_vertices": 52, "current_triangles": 70},
+    "neck_clavicle_topology": {"before_vertices": 4, "before_triangles": 2, "current_vertices": 65, "current_triangles": 103},
+    "face_underfill_topology": {"vertices": 332, "triangles": 573}
+  },
+  "conclusion": "The final editor file has no texture atlas and retains all four physics groups. Warp12 is connected only to ParamHairSide, while Warp13 alone uses ParamHairBack. Atlas removal preserved parameter definitions, mesh topology/forms/bindings/hierarchy, all deformers, all physics settings, and layered sources. Compared with the pristine archive, the only editable-mesh changes are the intended hair_back and neck-clavicle remeshes; all 46 active image RGBA hashes are unchanged.",
+  "limits": [
+    "Runtime export and runtime rendering were deferred, so motion appearance, physics response, and final atlas quality remain unverified.",
+    "The intended hair_back and neck-clavicle auto meshes still require visual review in the editor and after the later 4096 atlas export.",
+    "The ahoge remains the known no-op training implementation and was not changed."
+  ]
+}

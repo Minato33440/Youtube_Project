@@ -1,0 +1,4 @@
+# Reproducible inspection intermediates and an unchanged GUI test copy.
+/candidate.xml
+/Ren_deformer_audit.cmo3
+/__pycache__/

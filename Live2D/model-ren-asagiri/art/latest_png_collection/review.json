@@ -1,0 +1,1882 @@
+{
+  "scope": "Flags for review only; not deletion or obsolescence decisions",
+  "unresolved_active_images": [],
+  "unmatched_to_any_embedded_image": [
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\eye_white_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\eye_white_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\iris_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\iris_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_ALT_eyelash_upper_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_ALT_eyelash_upper_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_ALT_iris_L_blue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_ALT_iris_R_brown.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_eyelash_upper_L_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_eyelash_upper_R_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_FILL_eye_white_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_FILL_eye_white_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_iris_L_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_iris_R_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_Upper_eyelid_left.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_Upper_eyelid_right.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\upper_crease_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\upper_crease_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\upper_lash_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\upper_lash_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\python_composite.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\eye_white_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\eye_white_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\iris_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\iris_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_ALT_eyelash_upper_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_ALT_eyelash_upper_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_ALT_iris_L_blue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_ALT_iris_R_brown.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_eyelash_upper_L_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_eyelash_upper_R_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_FILL_eye_white_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_FILL_eye_white_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_iris_L_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_iris_R_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_Upper_eyelid_left.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_Upper_eyelid_right.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\upper_crease_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\upper_crease_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\upper_lash_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\upper_lash_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\python_composite.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\eye_white_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\eye_white_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\iris_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\iris_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_ALT_eyelash_upper_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_ALT_eyelash_upper_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_ALT_iris_L_blue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_ALT_iris_R_brown.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_eyelash_upper_L_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_eyelash_upper_R_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_FILL_eye_white_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_FILL_eye_white_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_iris_L_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_iris_R_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_Upper_eyelid_left.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_Upper_eyelid_right.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\upper_crease_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\upper_lash_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\upper_lash_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\python_composite.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\ALT_eyelash_upper_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\ALT_eyelash_upper_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\ALT_iris_L_blue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\ALT_iris_R_brown.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\eyelash_upper_L_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\eyelash_upper_R_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\FILL_eye_white_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\FILL_eye_white_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\iris_L_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\iris_R_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\Upper_eyelid_left.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\Upper_eyelid_right.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\brow_confirm_v005\\source_snapshot\\Upper_eyelid_left.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\brow_confirm_v005\\source_snapshot\\Upper_eyelid_right.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\ALT_eyelash_upper_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\ALT_eyelash_upper_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\archive\\20260922-initial-eye-layers\\eye_white_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\archive\\20260922-initial-eye-layers\\eye_white_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\archive\\20260922-initial-eye-layers\\iris_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\archive\\20260922-initial-eye-layers\\iris_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\archive\\20260922-initial-eye-layers\\lower_lid_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\archive\\20260922-initial-eye-layers\\lower_lid_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\archive\\20260922-initial-eye-layers\\REF_lower_lid_source_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\archive\\20260922-initial-eye-layers\\REF_lower_lid_source_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\backup\\face_underfill-2.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\backup\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\backup\\lower_eyelid_left.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\backup\\lower_eyelid_right.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\backup\\mouth_closed.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\backup\\REF_iris_full_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\backup\\REF_iris_full_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\backup\\upper_lash_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\backup\\upper_lash_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\python_composite.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\ALT_eyelash_upper_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\ALT_eyelash_upper_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\ALT_iris_L_blue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\ALT_iris_R_brown.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\ear_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\ear_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\hair_back.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\hair_side_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\hair_side_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\Upper_eyelid_left.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\Upper_eyelid_right.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\brow_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\brow_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\eye_white_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\eye_white_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\iris_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\iris_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\lower_lid_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\lower_lid_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\mouth_closed.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\orbital_line_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\REF_iris_full_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\REF_iris_full_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\REF_lower_lid_source_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\REF_lower_lid_source_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\upper_lash_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\upper_lash_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\python_composite.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\ALT_eyelash_upper_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\ALT_eyelash_upper_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\ALT_iris_L_blue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\ALT_iris_R_brown.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\lower_eyelid_left.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\lower_eyelid_right.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\upper_crease_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\Upper_eyelid_left.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\Upper_eyelid_right.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_proportion_review_v001\\raw_detail.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_style_v006\\source_snapshot\\Upper_eyelid_left.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_style_v006\\source_snapshot\\Upper_eyelid_right.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\face_sample.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\face_sample_gray.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\placement_reference_gray.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\reference_layer_00.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\reference_layer_01.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\reference_layer_02.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\reference_layer_03.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\reference_layer_04.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\reference_layer_05.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\reference_layer_06.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\reference_layer_07.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\reference_layer_08.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\reference_layer_09.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\reference_layer_10.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\reference_layer_11.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\reference_layer_12.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\reference_layer_13.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\ALT_eyelash_upper_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\ALT_eyelash_upper_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\facial_feature.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\lower_eyelid_right.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\ren-stand-pony-front-4000x6000.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_v010\\face_01.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_v010\\face_02.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_v010\\face_03.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_v010\\face_04.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_v010\\facial_features_source.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_v010\\previous_face_reconstructed.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_eyelid_review_v001\\face_notes.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_eyelid_review_v001\\face_underfill_review.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_eyelid_review_v001\\face_with_eyes.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_eyelid_review_v001\\original_eyes.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_eyelid_review_v001\\source_snapshot\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_eyelid_review_v001\\source_snapshot\\Upper_eyelid_left.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_eyelid_review_v001\\source_snapshot\\Upper_eyelid_right.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_eyelid_review_v001\\Upper_eyelid_left_review.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_eyelid_review_v001\\Upper_eyelid_right_review.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_manual_review_v009\\layer_00.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_manual_review_v009\\layer_01.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_manual_review_v009\\layer_02.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_manual_review_v009\\layer_03.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_manual_review_v009\\layer_04.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_manual_review_v009\\layer_05.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_manual_review_v009\\layer_06.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_manual_review_v009\\layer_07.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_manual_review_v009\\layer_08.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_manual_review_v009\\layer_09.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_manual_review_v009\\layer_10.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_manual_review_v009\\layer_11.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\face_sample.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\face_sample_gray.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\placement_reference_gray.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\ALT_eyelash_upper_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\ALT_eyelash_upper_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\facial_feature.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\ren-stand-pony-front-4000x6000.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\eyes_context.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\mouth_cavity.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\mouth_closed.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\mouth_rim_lower.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\mouth_rim_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\mouth_teeth_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\mouth_tongue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\REF_mouth_cavity.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\REF_mouth_rim_lower.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\REF_mouth_rim_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\REF_mouth_teeth_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\REF_mouth_tongue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\python_composite.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\eyes_context.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\mouth_cavity.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\mouth_closed.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\mouth_rim_lower.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\mouth_rim_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\mouth_teeth_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\mouth_tongue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\REF_mouth_cavity.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\REF_mouth_rim_lower.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\REF_mouth_rim_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\REF_mouth_teeth_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\REF_mouth_tongue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\python_composite.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\eyes_context.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\mouth_cavity.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\mouth_closed.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\mouth_rim_lower.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\mouth_rim_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\mouth_teeth_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\mouth_tongue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\REF_mouth_cavity.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\REF_mouth_rim_lower.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\REF_mouth_rim_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\REF_mouth_teeth_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\REF_mouth_tongue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\python_composite.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\source_snapshot\\approved_open_eyes_context.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\source_snapshot\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\source_snapshot\\mouth_cavity.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\source_snapshot\\mouth_closed.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\source_snapshot\\mouth_rim_lower.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\source_snapshot\\mouth_rim_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\source_snapshot\\mouth_teeth_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\source_snapshot\\mouth_tongue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\eyes_context.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\mouth_cavity.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\mouth_closed.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\mouth_rim_lower.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\mouth_rim_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\mouth_teeth_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\mouth_tongue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\REF_mouth_cavity.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\REF_mouth_rim_lower.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\REF_mouth_rim_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\REF_mouth_teeth_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\REF_mouth_tongue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\python_composite.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\eyes_context.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\mouth_cavity.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\mouth_closed.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\mouth_rim_lower.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\mouth_rim_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\mouth_teeth_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\mouth_tongue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\REF_mouth_cavity.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\REF_mouth_rim_lower.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\REF_mouth_rim_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\REF_mouth_teeth_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\REF_mouth_tongue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\python_composite.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\eyes_context.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\mouth_closed.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\mouth_teeth_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\mouth_tongue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\REF_mouth_cavity.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\REF_mouth_rim_lower.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\REF_mouth_rim_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\REF_mouth_teeth_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\REF_mouth_tongue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\python_composite.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\eyes_context.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\mouth_cavity.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\mouth_closed.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\mouth_rim_lower.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\mouth_rim_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\mouth_teeth_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\mouth_tongue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\REF_mouth_cavity.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\REF_mouth_rim_lower.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\REF_mouth_rim_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\REF_mouth_teeth_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\REF_mouth_tongue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\python_composite.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\source_snapshot\\approved_open_eyes_context.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\source_snapshot\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\source_snapshot\\mouth_cavity.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\source_snapshot\\mouth_closed.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\source_snapshot\\mouth_rim_lower.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\source_snapshot\\mouth_rim_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\source_snapshot\\mouth_teeth_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\source_snapshot\\mouth_tongue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\mouth_assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\mouth_grid.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\mouth_psd_assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\mouth_psd_preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\mouth_toggle_check.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\neck_collar_overlay.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\neck_collar_with_shirt.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\neck_extension_review.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\parts\\mouth_cavity.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\parts\\mouth_rim_lower.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\parts\\mouth_rim_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\parts\\mouth_teeth_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\parts\\mouth_tongue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\source_snapshot\\ALT_mouth_interior.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\source_snapshot\\collar_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\source_snapshot\\collar_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\source_snapshot\\neck-clavicle-before-201122.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\source_snapshot\\neck-clavicle.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\source_snapshot\\shirt_inside.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\overlap_recheck_v002\\shirt_cut_mask_DRAFT.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\overlap_recheck_v002\\source_snapshot\\eyelash_upper_L_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\overlap_recheck_v002\\source_snapshot\\eyelash_upper_R_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\overlap_recheck_v002\\source_snapshot\\hair_side_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\overlap_recheck_v002\\source_snapshot\\hair_side_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\overlap_recheck_v002\\source_snapshot\\shirt_torso.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\ALT_whole_eye_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\ALT_whole_eye_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\brow_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\brow_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\ear_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\ear_L_surface.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\ear_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\ear_R_surface.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\face_surface.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\FILL_eye_white_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\FILL_eye_white_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\hair_back.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\hair_front_C.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\hair_front_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\hair_front_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\hair_side_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\hair_side_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\shirt_torso.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\Upper_eyelid_left.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\Upper_eyelid_right.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ALT_mouth_interior.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ALT_mouth_open_outline.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ALT_mouth_teeth_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ALT_mouth_tongue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ALT_whole_eye_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ALT_whole_eye_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\brow_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\brow_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\ALT_mouth_interior.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\ALT_mouth_open_outline.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\ALT_mouth_tongue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\eyelash_upper_L_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\eyelash_upper_R_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\mouth_closed.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\Upper_eyelid_left.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\Upper_eyelid_right.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ear_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ear_L_surface.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ear_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ear_R_surface.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\eye_white_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\eye_white_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\eyelash_upper_L_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\eyelash_upper_R_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\face_surface.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\FILL_eye_white_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\FILL_eye_white_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\hair_back.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\hair_side_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\hair_side_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\iris_L_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\iris_R_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\Upper_eyelid_left.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\Upper_eyelid_right.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_20260921_repairs\\findings.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_20260921_repairs\\mouth_backup.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_20260921_repairs\\mouth_current.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_20260921_repairs\\mouth_single_fit.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_20260921_repairs\\neck_current.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_20260921_repairs\\nohair_current.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_20260921_repairs\\normal_aligned_estimate.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_20260921_repairs\\normal_current.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_20260921_repairs\\open_aligned_estimate.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_20260921_repairs\\open_current.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_remaining_v001\\face_only.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_remaining_v001\\head.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_remaining_v001\\nohair.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\shirt_brow_recheck_v003\\source_snapshot\\brow_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\shirt_brow_recheck_v003\\source_snapshot\\brow_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\shirt_brow_recheck_v003\\source_snapshot\\Upper_eyelid_left.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\shirt_brow_recheck_v003\\source_snapshot\\Upper_eyelid_right.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art_assets\\eye_parts\\blue-left-eyeball.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art_assets\\eye_parts\\brown-right-eyeball.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art_assets\\eye_parts\\left-eye.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art_assets\\eye_parts\\right-eye.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art_assets\\eye_parts\\Upper_left_eyelash.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art_assets\\eye_parts\\Upper_right_eyelash.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\collar_assembly_v002\\collar_assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\collar_assembly_v002\\collar_psd_assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\collar_assembly_v002\\collar_psd_preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\collar_assembly_v002\\parts\\shirt_inside.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\blink_layer_composite.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\blink_layer_preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\mouth_layer_composite.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\mouth_layer_preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\anime-boy\\anime-boy-1.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\anime-boy\\anime-boy-2.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\anime-boy\\anime-boy-3.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\anime-boy\\anime-boy-4.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\anime-boy\\anime-boy-5.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\anime-boy\\anime-boy-6.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\anime-boy\\anime-boy-7.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\b\\b-1.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\b\\b-2.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\black-belt\\black-belt-1.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\black-belt\\black-belt-2.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\black-belt\\black-belt-3.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\black-belt\\black-belt-4.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\black-belt\\black-belt-5.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\black-loafers\\black-loafers-1.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\black-loafers\\black-loafers-2.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\black-loafers\\black-loafers-3.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\black-loafers\\black-loafers-4.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\black-loafers\\black-loafers-5.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\black-loafers\\black-loafers-6.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\blue-eye\\blue-eye-1.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\blue-eye\\blue-eye-2.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\blue-eye\\blue-eye-3.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\blue-eye\\blue-eye-4.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-belt\\close-up-belt-1.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-belt\\close-up-belt-2.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-belt\\close-up-belt-3.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-belt\\close-up-belt-4.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-belt\\close-up-belt-5.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-belt\\close-up-belt-6.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-face\\close-up-face-1.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-face\\close-up-face-2.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-face\\close-up-face-3.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-shirt\\close-up-shirt-1.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-shirt\\close-up-shirt-2.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-shirt\\close-up-shirt-3.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-shirt\\close-up-shirt-4.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-shirt\\close-up-shirt-5.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-shirt\\close-up-shirt-6.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-shirt\\close-up-shirt-7.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-shoes\\close-up-shoes-1.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-shoes\\close-up-shoes-2.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-shoes\\close-up-shoes-3.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-shoes\\close-up-shoes-4.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-shoes\\close-up-shoes-5.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\close-up-shoes\\close-up-shoes-6.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\dark-socks\\dark-socks-1.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\dark-socks\\dark-socks-2.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\dark-socks\\dark-socks-3.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\dark-socks\\dark-socks-4.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\dark-socks\\dark-socks-5.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\gray-trousers\\gray-trousers-1.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\gray-trousers\\gray-trousers-2.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\gray-trousers\\gray-trousers-3.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\gray-trousers\\gray-trousers-4.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\gray-trousers\\gray-trousers-5.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\shirt-pocket\\shirt-pocket-1.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\shirt-pocket\\shirt-pocket-2.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\short-dark-blue-hair\\short-dark-blue-hair-1.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\short-dark-blue-hair\\short-dark-blue-hair-2.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\short-dark-blue-hair\\short-dark-blue-hair-3.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\silver-belt-buckle\\silver-belt-buckle-1.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\silver-belt-buckle\\silver-belt-buckle-2.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\white-short-sleeve-shirt\\white-short-sleeve-shirt-1.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\white-short-sleeve-shirt\\white-short-sleeve-shirt-2.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\white-short-sleeve-shirt\\white-short-sleeve-shirt-3.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\white-short-sleeve-shirt\\white-short-sleeve-shirt-4.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\white-short-sleeve-shirt\\white-short-sleeve-shirt-5.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\white-short-sleeve-shirt\\white-short-sleeve-shirt-6.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\full_body_side_view\\white-short-sleeve-shirt\\white-short-sleeve-shirt-7.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-ear-cleanup\\preview\\head_sample.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-ear-cleanup\\preview\\head_sample_gray.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-hair-extension-review\\parts\\face_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-hair-extension-review\\parts\\hair_back.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-hair-extension-review\\preview\\head_sample.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-hair-extension-review\\preview\\head_sample_gray.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-psd-integration\\preview\\head_sample.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-psd-integration\\preview\\head_sample_gray.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\editor_data\\facial_feature.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\editor_data\\ren-stand-pony-front-4000x6000.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\blink\\eyelash_upper_L_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\blink\\eyelash_upper_R_original.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_cavity.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_rim_lower.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_rim_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_teeth_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_tongue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\preview\\head_sample.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\preview\\head_sample_gray.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\reference\\ear_surface\\ear_L_surface.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\reference\\ear_surface\\ear_R_surface.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\reference\\facial_feature.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\reference\\ren-stand-pony-front-4000x6000.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\ear_check_20260924\\head_sample.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\ear_check_20260924\\head_sample_gray.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\hair_check_20260924\\final_preview\\head_sample.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\hair_check_20260924\\final_preview\\head_sample_gray.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\hair_check_20260924\\hair_before_after.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\hair_check_20260924\\original_position.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\hair_check_20260924\\original_position_gray.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\hair_check_20260924\\registered_position.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\hair_check_20260924\\registered_position_gray.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\render_current\\head_sample.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\render_current\\head_sample_gray.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head_side_view\\blue-eye\\blue-eye-1.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head_side_view\\blue-eye\\blue-eye-2.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head_side_view\\brown-eye\\brown-eye-1.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head_side_view\\brown-eye\\brown-eye-2.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head_side_view\\dark-blue-hair\\dark-blue-hair-1.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head_side_view\\dark-blue-hair\\dark-blue-hair-2.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head_side_view\\person\\person-1.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head_side_view\\person\\person-2.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head_side_view\\white-collared-shirt\\white-collared-shirt-1.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head_side_view\\white-collared-shirt\\white-collared-shirt-2.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (1).png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (2)-base.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (2)-outline.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (2)-Rough.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (2).png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (3).png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v003\\context_preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v003\\neck_collar_assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v003\\neck_collar_psd_assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v003\\neck_collar_psd_preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v003\\neck_collar_review.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v003\\parts\\neck-clavicle.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v003\\parts\\shirt_inside.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v004\\neck_collar_assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v004\\neck_collar_psd_assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v004\\neck_collar_psd_preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v004\\neck_collar_review.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v004\\parts\\shirt_inside.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\belt.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\collar_back.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\ear_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\ear_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\forearm_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\forearm_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\hair_ahoge.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\hair_back_C.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\hair_back_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\hair_back_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\hand_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\hand_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\head_neck_underfill.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\shirt_torso.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\shoe_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\shoe_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\sleeve_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\sleeve_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\trousers_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\trousers_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\upper_arm_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\parts\\upper_arm_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\Ren_back_parts_v001.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\Ren_back_preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\assembled.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\buckup\\collar_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\buckup\\collar_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\buckup\\neck.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\buckup\\shirt_torso.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\Ren_front_parts_v001.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\Ren_front_preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\inspection\\back_1000.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\inspection\\back_assembled_head.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\inspection\\back_head.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\inspection\\back_nohair_head.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\inspection\\front_1000.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\inspection\\front_assembled_head.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\inspection\\front_eye_candidates.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\inspection\\front_hair_mask.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\inspection\\front_head.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\inspection\\front_open_mouth.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\inspection\\front_under_hair.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\inspection\\laugh_head.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\inspection\\nohair_head.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\Ren_front.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\Ren_front_preview.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\review\\eyes.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\review\\head_neck.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\review\\neck_collar.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\review\\psd_readback_head_neck.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\review\\python_composite.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\review\\white_latest.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\review\\white_old.png"
+  ],
+  "matches_only_unused_embedded_images": [
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\archive\\face_underfill0.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\archive\\face_underfill2.png"
+  ],
+  "active_equivalent_alternatives": [
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\upper_crease_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\ALT_iris_L_blue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\ALT_iris_R_brown.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\brow_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\brow_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\FILL_eye_white_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\FILL_eye_white_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\lower_eyelid_left.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\lower_eyelid_right.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\mouth_closed.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\upper_crease_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\upper_crease_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\collar_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\collar_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\hair_ahoge.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\hair_front_C.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\hair_front_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\hair_front_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\neck-clavicle.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\shirt_inside.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\shirt_torso.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\orbital_line_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\upper_crease_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\ALT_iris_L_blue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\ALT_iris_R_brown.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\brow_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\brow_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\FILL_eye_white_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\FILL_eye_white_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\lower_eyelid_left.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\mouth_closed.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\upper_crease_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\upper_crease_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\ALT_iris_L_blue.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\ALT_iris_R_brown.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\brow_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\brow_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\FILL_eye_white_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\FILL_eye_white_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\lower_eyelid_left.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\lower_eyelid_right.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\mouth_closed.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\upper_crease_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\upper_crease_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\mouth_cavity.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\mouth_rim_lower.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\mouth_rim_upper.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\overlap_recheck_v002\\source_snapshot\\hair_front_C.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\overlap_recheck_v002\\source_snapshot\\hair_front_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\overlap_recheck_v002\\source_snapshot\\hair_front_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\collar_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\collar_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\hair_ahoge.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\neck-clavicle.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\shirt_inside.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\hair_ahoge.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\hair_front_C.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\hair_front_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\hair_front_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\shirt_brow_recheck_v003\\source_snapshot\\shirt_torso.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\collar_assembly_v002\\parts\\collar_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\collar_assembly_v002\\parts\\collar_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v003\\parts\\collar_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v003\\parts\\collar_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v004\\parts\\collar_L.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v004\\parts\\collar_R.png",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v004\\parts\\neck-clavicle.png"
+  ],
+  "alpha_review": [
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\eye_white_L.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_transparent"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\eye_white_R.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_transparent"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\iris_L.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_transparent"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\iris_R.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_transparent"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\archive\\20260922-initial-eye-layers\\REF_lower_lid_source_L.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\archive\\20260922-initial-eye-layers\\REF_lower_lid_source_R.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\REF_lower_lid_source_L.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\REF_lower_lid_source_R.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_proportion_review_v001\\raw_detail.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\face_sample_gray.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\placement_reference_gray.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_v010\\face_01.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_v010\\face_02.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_v010\\face_03.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_v010\\face_04.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_eyelid_review_v001\\face_notes.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_eyelid_review_v001\\face_underfill_review.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_eyelid_review_v001\\face_with_eyes.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_eyelid_review_v001\\Upper_eyelid_left_review.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_eyelid_review_v001\\Upper_eyelid_right_review.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\face_sample_gray.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\placement_reference_gray.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\mouth_cavity.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_transparent"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\mouth_rim_lower.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_transparent"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\mouth_rim_upper.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_transparent"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\mouth_teeth_upper.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_transparent"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\mouth_tongue.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_transparent"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\mouth_closed.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_transparent"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\mouth_closed.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_transparent"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\mouth_cavity.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_transparent"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\mouth_rim_lower.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_transparent"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\mouth_rim_upper.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_transparent"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\mouth_teeth_upper.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_transparent"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\mouth_tongue.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_transparent"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\mouth_closed.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_transparent"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\mouth_closed.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_transparent"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\mouth_closed.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_transparent"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\mouth_psd_preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\mouth_toggle_check.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\neck_extension_review.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\overlap_recheck_v002\\shirt_cut_mask_DRAFT.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_20260921_repairs\\findings.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_20260921_repairs\\mouth_backup.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_20260921_repairs\\mouth_current.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_20260921_repairs\\mouth_single_fit.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_20260921_repairs\\neck_current.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_20260921_repairs\\nohair_current.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_20260921_repairs\\normal_aligned_estimate.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_20260921_repairs\\normal_current.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_20260921_repairs\\open_aligned_estimate.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_20260921_repairs\\open_current.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_remaining_v001\\face_only.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_remaining_v001\\head.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\review_remaining_v001\\nohair.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\collar_assembly_v002\\collar_psd_preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\blink_layer_preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\mouth_layer_preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-ear-cleanup\\preview\\head_sample_gray.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-hair-extension-review\\preview\\head_sample_gray.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-psd-integration\\preview\\head_sample_gray.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\preview\\head_sample_gray.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\ear_check_20260924\\head_sample_gray.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\hair_check_20260924\\final_preview\\head_sample_gray.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\hair_check_20260924\\hair_before_after.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\hair_check_20260924\\original_position_gray.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\hair_check_20260924\\registered_position_gray.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\render_current\\head_sample_gray.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v003\\context_preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v003\\neck_collar_psd_preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v003\\neck_collar_review.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v004\\neck_collar_psd_preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v004\\neck_collar_review.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\Ren_back_preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\Ren_front_preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\inspection\\back_nohair_head.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\inspection\\front_hair_mask.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\inspection\\laugh_head.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\inspection\\nohair_head.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\Ren_front_preview.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\review\\eyes.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\review\\head_neck.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\review\\neck_collar.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\review\\psd_readback_head_neck.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\review\\white_latest.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    },
+    {
+      "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\review\\white_old.png",
+      "classification": "no_exact_match_to_model_images",
+      "reasons": [
+        "fully_opaque_review_if_cutout"
+      ]
+    }
+  ],
+  "name_equal_pixels_different": [
+    {
+      "image_guid": "63e18703-2d4c-4efa-b280-b2109d66c8b1",
+      "image_name": "hair_front_C",
+      "paths": [
+        "archive/20260924-old-head-assets/art/pre_rig_review_20260922/source_snapshot/hair_front_C.png"
+      ]
+    },
+    {
+      "image_guid": "7bcdf5a1-2a2e-40d6-a684-2a179a62da58",
+      "image_name": "hair_front_L",
+      "paths": [
+        "archive/20260924-old-head-assets/art/pre_rig_review_20260922/source_snapshot/hair_front_L.png"
+      ]
+    },
+    {
+      "image_guid": "0e0f62a3-8753-42d2-8c96-24ac5bba8fc8",
+      "image_name": "hair_front_R",
+      "paths": [
+        "archive/20260924-old-head-assets/art/pre_rig_review_20260922/source_snapshot/hair_front_R.png"
+      ]
+    },
+    {
+      "image_guid": "d500fffc-c452-46aa-8df1-50b508808364",
+      "image_name": "hair_side_L",
+      "paths": [
+        "archive/20260924-old-head-assets/art/eye_adjust_v007/source_snapshot/hair_side_L.png",
+        "archive/20260924-old-head-assets/art/overlap_recheck_v002/source_snapshot/hair_side_L.png",
+        "archive/20260924-old-head-assets/art/pre_rig_review_20260922/source_snapshot/hair_side_L.png",
+        "archive/20260924-old-head-assets/art/processing_v001/front/parts/hair_side_L.png"
+      ]
+    },
+    {
+      "image_guid": "20e7142c-025b-4039-abea-56e0a6a8ebe1",
+      "image_name": "hair_side_R",
+      "paths": [
+        "archive/20260924-old-head-assets/art/eye_adjust_v007/source_snapshot/hair_side_R.png",
+        "archive/20260924-old-head-assets/art/overlap_recheck_v002/source_snapshot/hair_side_R.png",
+        "archive/20260924-old-head-assets/art/pre_rig_review_20260922/source_snapshot/hair_side_R.png",
+        "archive/20260924-old-head-assets/art/processing_v001/front/parts/hair_side_R.png"
+      ]
+    },
+    {
+      "image_guid": "24f2cc3a-f8da-4ca5-8da4-bdcb6ea41a0e",
+      "image_name": "brow_L",
+      "paths": [
+        "archive/20260924-old-head-assets/art/eye_adjust_v008/parts/brow_L.png",
+        "archive/20260924-old-head-assets/art/pre_rig_review_20260922/source_snapshot/brow_L.png",
+        "archive/20260924-old-head-assets/art/processing_v001/front/parts/brow_L.png",
+        "archive/20260924-old-head-assets/art/shirt_brow_recheck_v003/source_snapshot/brow_L.png"
+      ]
+    },
+    {
+      "image_guid": "fc36ef65-9a49-4fdf-80ba-1e6fec82b3d0",
+      "image_name": "upper_crease_L",
+      "paths": [
+        "archive/20260924-old-head-assets/art/blink_assembly_v001/closed/parts/upper_crease_L.png",
+        "archive/20260924-old-head-assets/art/blink_assembly_v001/half/parts/upper_crease_L.png"
+      ]
+    },
+    {
+      "image_guid": "1384b4fc-1fb1-4104-9b8e-a0096d7f1ef3",
+      "image_name": "lower_eyelid_left",
+      "paths": [
+        "archive/20260924-old-head-assets/art/eye_adjust_v007/parts/backup/lower_eyelid_left.png",
+        "archive/20260924-old-head-assets/art/eye_adjust_v008/source_snapshot/lower_eyelid_left.png",
+        "archive/20260924-old-head-assets/art/face_comparison_20260924/source_snapshot/lower_eyelid_left.png"
+      ]
+    },
+    {
+      "image_guid": "c0f11fd9-7fd5-4f06-97a6-849e8258b89e",
+      "image_name": "ALT_eyelash_upper_L",
+      "paths": [
+        "archive/20260924-old-head-assets/art/blink_assembly_v001/source_snapshot/ALT_eyelash_upper_L.png",
+        "archive/20260924-old-head-assets/art/eye_adjust_v007/parts/ALT_eyelash_upper_L.png",
+        "archive/20260924-old-head-assets/art/eye_adjust_v007/source_snapshot/ALT_eyelash_upper_L.png",
+        "archive/20260924-old-head-assets/art/eye_adjust_v008/source_snapshot/ALT_eyelash_upper_L.png",
+        "archive/20260924-old-head-assets/art/face_comparison_20260924/source_snapshot/ALT_eyelash_upper_L.png",
+        "archive/20260924-old-head-assets/art/head_comparison_20260924/source_snapshot/ALT_eyelash_upper_L.png"
+      ]
+    },
+    {
+      "image_guid": "28622b33-d53d-46ba-acb9-823b80e19fb9",
+      "image_name": "ALT_iris_L_blue",
+      "paths": [
+        "archive/20260924-old-head-assets/art/blink_assembly_v001/source_snapshot/ALT_iris_L_blue.png",
+        "archive/20260924-old-head-assets/art/eye_adjust_v007/source_snapshot/ALT_iris_L_blue.png",
+        "archive/20260924-old-head-assets/art/eye_adjust_v008/source_snapshot/ALT_iris_L_blue.png"
+      ]
+    },
+    {
+      "image_guid": "98dcae52-8530-476a-a5c0-219346826a8e",
+      "image_name": "FILL_eye_white_L",
+      "paths": [
+        "archive/20260924-old-head-assets/art/blink_assembly_v001/source_snapshot/FILL_eye_white_L.png",
+        "archive/20260924-old-head-assets/art/eye_adjust_v007/parts/FILL_eye_white_L.png",
+        "archive/20260924-old-head-assets/art/face_comparison_20260924/source_snapshot/FILL_eye_white_L.png",
+        "archive/20260924-old-head-assets/art/head_comparison_20260924/source_snapshot/FILL_eye_white_L.png",
+        "archive/20260924-old-head-assets/art/pre_rig_review_20260922/source_snapshot/FILL_eye_white_L.png",
+        "archive/20260924-old-head-assets/art/processing_v001/front/parts/FILL_eye_white_L.png"
+      ]
+    },
+    {
+      "image_guid": "5dfc52d0-e611-4c36-884a-2054d94a3bce",
+      "image_name": "brow_R",
+      "paths": [
+        "archive/20260924-old-head-assets/art/eye_adjust_v008/parts/brow_R.png",
+        "archive/20260924-old-head-assets/art/pre_rig_review_20260922/source_snapshot/brow_R.png",
+        "archive/20260924-old-head-assets/art/processing_v001/front/parts/brow_R.png",
+        "archive/20260924-old-head-assets/art/shirt_brow_recheck_v003/source_snapshot/brow_R.png"
+      ]
+    },
+    {
+      "image_guid": "1d7b5bed-01e2-4e33-bcbc-fa157fd5e3a5",
+      "image_name": "upper_crease_R",
+      "paths": [
+        "archive/20260924-old-head-assets/art/blink_assembly_v001/closed/parts/upper_crease_R.png",
+        "archive/20260924-old-head-assets/art/blink_assembly_v001/half/parts/upper_crease_R.png",
+        "archive/20260924-old-head-assets/art/blink_assembly_v001/open/parts/upper_crease_R.png",
+        "archive/20260924-old-head-assets/art/eye_adjust_v008/source_snapshot/upper_crease_R.png"
+      ]
+    },
+    {
+      "image_guid": "d527df64-425f-49b9-9358-f9e3121dcb3d",
+      "image_name": "lower_eyelid_right",
+      "paths": [
+        "archive/20260924-old-head-assets/art/eye_adjust_v007/parts/backup/lower_eyelid_right.png",
+        "archive/20260924-old-head-assets/art/eye_adjust_v008/source_snapshot/lower_eyelid_right.png",
+        "archive/20260924-old-head-assets/art/face_comparison_20260924/source_snapshot/lower_eyelid_right.png"
+      ]
+    },
+    {
+      "image_guid": "2079a871-4657-4c68-b076-3cfbe7feb41a",
+      "image_name": "ALT_eyelash_upper_R",
+      "paths": [
+        "archive/20260924-old-head-assets/art/blink_assembly_v001/source_snapshot/ALT_eyelash_upper_R.png",
+        "archive/20260924-old-head-assets/art/eye_adjust_v007/parts/ALT_eyelash_upper_R.png",
+        "archive/20260924-old-head-assets/art/eye_adjust_v007/source_snapshot/ALT_eyelash_upper_R.png",
+        "archive/20260924-old-head-assets/art/eye_adjust_v008/source_snapshot/ALT_eyelash_upper_R.png",
+        "archive/20260924-old-head-assets/art/face_comparison_20260924/source_snapshot/ALT_eyelash_upper_R.png",
+        "archive/20260924-old-head-assets/art/head_comparison_20260924/source_snapshot/ALT_eyelash_upper_R.png"
+      ]
+    },
+    {
+      "image_guid": "619466ba-a1e2-46f3-a415-b0e8a3e15026",
+      "image_name": "ALT_iris_R_brown",
+      "paths": [
+        "archive/20260924-old-head-assets/art/blink_assembly_v001/source_snapshot/ALT_iris_R_brown.png",
+        "archive/20260924-old-head-assets/art/eye_adjust_v007/source_snapshot/ALT_iris_R_brown.png",
+        "archive/20260924-old-head-assets/art/eye_adjust_v008/source_snapshot/ALT_iris_R_brown.png"
+      ]
+    },
+    {
+      "image_guid": "fc9f6c39-3e0b-4a87-83dc-1c7311c57928",
+      "image_name": "FILL_eye_white_R",
+      "paths": [
+        "archive/20260924-old-head-assets/art/blink_assembly_v001/source_snapshot/FILL_eye_white_R.png",
+        "archive/20260924-old-head-assets/art/pre_rig_review_20260922/source_snapshot/FILL_eye_white_R.png",
+        "archive/20260924-old-head-assets/art/processing_v001/front/parts/FILL_eye_white_R.png"
+      ]
+    },
+    {
+      "image_guid": "c345b7a1-60de-4126-b08e-448b209480ff",
+      "image_name": "mouth_closed",
+      "paths": [
+        "archive/20260924-old-head-assets/art/eye_adjust_v007/parts/backup/mouth_closed.png",
+        "archive/20260924-old-head-assets/art/eye_adjust_v008/parts/mouth_closed.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/closed/parts/mouth_closed.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/open/parts/mouth_closed.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/small/parts/mouth_closed.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/source_snapshot/mouth_closed.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/closed/parts/mouth_closed.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/medium/parts/mouth_closed.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/open/parts/mouth_closed.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/small/parts/mouth_closed.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/source_snapshot/mouth_closed.png",
+        "archive/20260924-old-head-assets/art/processing_v001/front/parts/buckup/mouth_closed.png"
+      ]
+    },
+    {
+      "image_guid": "f8507b27-ad77-400f-bf2c-a0bbebff24d2",
+      "image_name": "ear_L",
+      "paths": [
+        "archive/20260924-old-head-assets/art/eye_adjust_v007/source_snapshot/ear_L.png",
+        "archive/20260924-old-head-assets/art/pre_rig_review_20260922/source_snapshot/ear_L.png",
+        "archive/20260924-old-head-assets/art/processing_v001/front/parts/ear_L.png",
+        "processing_v001/back/parts/ear_L.png"
+      ]
+    },
+    {
+      "image_guid": "61b4c560-dfdc-458e-972c-3bea22cd744e",
+      "image_name": "ear_R",
+      "paths": [
+        "archive/20260924-old-head-assets/art/eye_adjust_v007/source_snapshot/ear_R.png",
+        "archive/20260924-old-head-assets/art/pre_rig_review_20260922/source_snapshot/ear_R.png",
+        "archive/20260924-old-head-assets/art/processing_v001/front/parts/ear_R.png",
+        "processing_v001/back/parts/ear_R.png"
+      ]
+    },
+    {
+      "image_guid": "074dbfd0-6420-42e2-9617-8a16c19e5867",
+      "image_name": "hair_back",
+      "paths": [
+        "archive/20260924-old-head-assets/art/eye_adjust_v007/source_snapshot/hair_back.png",
+        "archive/20260924-old-head-assets/art/pre_rig_review_20260922/source_snapshot/hair_back.png",
+        "archive/20260924-old-head-assets/art/processing_v001/front/parts/hair_back.png",
+        "head/archive/20260924-before-hair-extension-review/parts/hair_back.png"
+      ]
+    },
+    {
+      "image_guid": "8a0602ff-ad92-445f-a6c5-5c4daed4d8d2",
+      "image_name": "collar_L",
+      "paths": [
+        "archive/20260924-old-head-assets/art/mouth_split_v002/source_snapshot/collar_L.png",
+        "processing_v001/front/parts/buckup/collar_L.png"
+      ]
+    },
+    {
+      "image_guid": "1d4a19da-d9f1-4d2d-b127-00a4f7924741",
+      "image_name": "collar_R",
+      "paths": [
+        "archive/20260924-old-head-assets/art/mouth_split_v002/source_snapshot/collar_R.png",
+        "processing_v001/front/parts/buckup/collar_R.png"
+      ]
+    },
+    {
+      "image_guid": "00f95d53-6127-4d71-9396-a751bb9e9484",
+      "image_name": "belt",
+      "paths": [
+        "processing_v001/back/parts/belt.png"
+      ]
+    },
+    {
+      "image_guid": "dbd6ea5f-fdea-4d50-9d90-a3dcc6f7a086",
+      "image_name": "sleeve_L",
+      "paths": [
+        "processing_v001/back/parts/sleeve_L.png"
+      ]
+    },
+    {
+      "image_guid": "3045f44c-2e8c-4a71-83fb-6379ed9f3a63",
+      "image_name": "sleeve_R",
+      "paths": [
+        "processing_v001/back/parts/sleeve_R.png"
+      ]
+    },
+    {
+      "image_guid": "e41e762b-29b7-4766-8c75-0a8e76bfc6c4",
+      "image_name": "shirt_torso",
+      "paths": [
+        "archive/20260924-old-head-assets/art/overlap_recheck_v002/source_snapshot/shirt_torso.png",
+        "archive/20260924-old-head-assets/art/pre_rig_review_20260922/source_snapshot/shirt_torso.png",
+        "processing_v001/back/parts/shirt_torso.png",
+        "processing_v001/front/parts/buckup/shirt_torso.png"
+      ]
+    },
+    {
+      "image_guid": "bb46c1fb-0835-44ff-90f1-b086218e6b8c",
+      "image_name": "neck-clavicle",
+      "paths": [
+        "archive/20260924-old-head-assets/art/mouth_split_v002/source_snapshot/neck-clavicle.png",
+        "neck_collar_v003/parts/neck-clavicle.png"
+      ]
+    },
+    {
+      "image_guid": "757d5171-5dc8-4a9b-bfda-da0b5a6e0028",
+      "image_name": "shirt_inside",
+      "paths": [
+        "archive/20260924-old-head-assets/art/mouth_split_v002/source_snapshot/shirt_inside.png",
+        "collar_assembly_v002/parts/shirt_inside.png",
+        "neck_collar_v003/parts/shirt_inside.png",
+        "neck_collar_v004/parts/shirt_inside.png"
+      ]
+    },
+    {
+      "image_guid": "6b580659-be6f-4f55-aed8-a655c163487f",
+      "image_name": "upper_arm_L",
+      "paths": [
+        "processing_v001/back/parts/upper_arm_L.png"
+      ]
+    },
+    {
+      "image_guid": "ef06811c-507c-4f4b-9d2d-c5aebadb1e4f",
+      "image_name": "upper_arm_R",
+      "paths": [
+        "processing_v001/back/parts/upper_arm_R.png"
+      ]
+    },
+    {
+      "image_guid": "5da4d19f-b2fe-488a-b7a0-d68042fcf22f",
+      "image_name": "forearm_L",
+      "paths": [
+        "processing_v001/back/parts/forearm_L.png"
+      ]
+    },
+    {
+      "image_guid": "5b88882f-f0e4-48ed-b95d-e4b6db892434",
+      "image_name": "forearm_R",
+      "paths": [
+        "processing_v001/back/parts/forearm_R.png"
+      ]
+    },
+    {
+      "image_guid": "e4c0c323-de9c-4d58-a29b-7efbbe5f6afe",
+      "image_name": "hand_L",
+      "paths": [
+        "processing_v001/back/parts/hand_L.png"
+      ]
+    },
+    {
+      "image_guid": "241ee9e0-11d2-4172-a5b9-3f923106bc10",
+      "image_name": "hand_R",
+      "paths": [
+        "processing_v001/back/parts/hand_R.png"
+      ]
+    },
+    {
+      "image_guid": "29487e03-7984-4c17-9ea4-655160c4690e",
+      "image_name": "trousers_L",
+      "paths": [
+        "processing_v001/back/parts/trousers_L.png"
+      ]
+    },
+    {
+      "image_guid": "6f082fba-492b-4750-a7ff-091fc9cefc14",
+      "image_name": "trousers_R",
+      "paths": [
+        "processing_v001/back/parts/trousers_R.png"
+      ]
+    },
+    {
+      "image_guid": "53d07afa-9243-4027-a399-fae44fa130ba",
+      "image_name": "shoe_L",
+      "paths": [
+        "processing_v001/back/parts/shoe_L.png"
+      ]
+    },
+    {
+      "image_guid": "b7d5350e-ac21-4d81-8820-095f70a60906",
+      "image_name": "shoe_R",
+      "paths": [
+        "processing_v001/back/parts/shoe_R.png"
+      ]
+    },
+    {
+      "image_guid": "17ffbfc7-da54-451a-a108-055e84304ba7",
+      "image_name": "mouth_cavity",
+      "paths": [
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/closed/parts/mouth_cavity.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/open/parts/mouth_cavity.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/small/parts/mouth_cavity.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/source_snapshot/mouth_cavity.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/closed/parts/mouth_cavity.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/medium/parts/mouth_cavity.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/small/parts/mouth_cavity.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/source_snapshot/mouth_cavity.png",
+        "archive/20260924-old-head-assets/art/mouth_split_v002/parts/mouth_cavity.png",
+        "head/expression_sources/mouth/mouth_cavity.png"
+      ]
+    },
+    {
+      "image_guid": "400ec56f-4fc6-4da9-a4a3-a14bd95694b5",
+      "image_name": "mouth_tongue",
+      "paths": [
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/closed/parts/mouth_tongue.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/open/parts/mouth_tongue.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/small/parts/mouth_tongue.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/source_snapshot/mouth_tongue.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/closed/parts/mouth_tongue.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/medium/parts/mouth_tongue.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/open/parts/mouth_tongue.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/small/parts/mouth_tongue.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/source_snapshot/mouth_tongue.png",
+        "archive/20260924-old-head-assets/art/mouth_split_v002/parts/mouth_tongue.png",
+        "head/expression_sources/mouth/mouth_tongue.png"
+      ]
+    },
+    {
+      "image_guid": "d82761b3-6841-43ff-b4e5-f9285b61f2f1",
+      "image_name": "mouth_rim_lower",
+      "paths": [
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/closed/parts/mouth_rim_lower.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/open/parts/mouth_rim_lower.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/small/parts/mouth_rim_lower.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/source_snapshot/mouth_rim_lower.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/closed/parts/mouth_rim_lower.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/medium/parts/mouth_rim_lower.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/small/parts/mouth_rim_lower.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/source_snapshot/mouth_rim_lower.png",
+        "archive/20260924-old-head-assets/art/mouth_split_v002/parts/mouth_rim_lower.png",
+        "head/expression_sources/mouth/mouth_rim_lower.png"
+      ]
+    },
+    {
+      "image_guid": "55500d8b-5a56-4096-af47-fee92591a70e",
+      "image_name": "mouth_teeth_upper",
+      "paths": [
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/closed/parts/mouth_teeth_upper.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/open/parts/mouth_teeth_upper.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/small/parts/mouth_teeth_upper.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/source_snapshot/mouth_teeth_upper.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/closed/parts/mouth_teeth_upper.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/medium/parts/mouth_teeth_upper.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/open/parts/mouth_teeth_upper.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/small/parts/mouth_teeth_upper.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/source_snapshot/mouth_teeth_upper.png",
+        "archive/20260924-old-head-assets/art/mouth_split_v002/parts/mouth_teeth_upper.png",
+        "head/expression_sources/mouth/mouth_teeth_upper.png"
+      ]
+    },
+    {
+      "image_guid": "fc160d2b-8cd9-4f55-bc51-5249b0946bf6",
+      "image_name": "mouth_rim_upper",
+      "paths": [
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/closed/parts/mouth_rim_upper.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/open/parts/mouth_rim_upper.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/small/parts/mouth_rim_upper.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/source_snapshot/mouth_rim_upper.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/closed/parts/mouth_rim_upper.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/medium/parts/mouth_rim_upper.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/small/parts/mouth_rim_upper.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/source_snapshot/mouth_rim_upper.png",
+        "archive/20260924-old-head-assets/art/mouth_split_v002/parts/mouth_rim_upper.png",
+        "head/expression_sources/mouth/mouth_rim_upper.png"
+      ]
+    },
+    {
+      "image_guid": "d5bf2d2f-bd05-4933-ada8-a9af9ae86e66",
+      "image_name": "hair_ahoge",
+      "paths": [
+        "processing_v001/back/parts/hair_ahoge.png"
+      ]
+    },
+    {
+      "image_guid": "61bd3f64-d13a-41b6-9c82-9814e44b4b31",
+      "image_name": "face_underfill",
+      "paths": [
+        "archive/20260924-old-head-assets/art/blink_assembly_v001/closed/parts/face_underfill.png",
+        "archive/20260924-old-head-assets/art/blink_assembly_v001/half/parts/face_underfill.png",
+        "archive/20260924-old-head-assets/art/blink_assembly_v001/open/parts/face_underfill.png",
+        "archive/20260924-old-head-assets/art/blink_assembly_v001/source_snapshot/face_underfill.png",
+        "archive/20260924-old-head-assets/art/eye_adjust_v007/parts/backup/face_underfill.png",
+        "archive/20260924-old-head-assets/art/eye_adjust_v007/parts/face_underfill.png",
+        "archive/20260924-old-head-assets/art/eye_adjust_v007/source_snapshot/face_underfill.png",
+        "archive/20260924-old-head-assets/art/eye_adjust_v008/parts/face_underfill.png",
+        "archive/20260924-old-head-assets/art/eye_adjust_v008/source_snapshot/face_underfill.png",
+        "archive/20260924-old-head-assets/art/face_comparison_20260924/source_snapshot/face_underfill.png",
+        "archive/20260924-old-head-assets/art/face_eyelid_review_v001/source_snapshot/face_underfill.png",
+        "archive/20260924-old-head-assets/art/head_comparison_20260924/source_snapshot/face_underfill.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/closed/parts/face_underfill.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/open/parts/face_underfill.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/small/parts/face_underfill.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v001/source_snapshot/face_underfill.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/closed/parts/face_underfill.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/medium/parts/face_underfill.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/open/parts/face_underfill.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/small/parts/face_underfill.png",
+        "archive/20260924-old-head-assets/art/mouth_motion_v002/source_snapshot/face_underfill.png",
+        "archive/20260924-old-head-assets/art/pre_rig_review_20260922/source_snapshot/face_underfill.png",
+        "archive/20260924-old-head-assets/art/processing_v001/front/parts/buckup/face_underfill.png",
+        "archive/20260924-old-head-assets/art/processing_v001/front/parts/face_underfill.png",
+        "head/archive/20260924-before-hair-extension-review/parts/face_underfill.png"
+      ]
+    }
+  ],
+  "visible_equal_but_hidden_RGB_different": [],
+  "external_or_missing_import_references": [
+    {
+      "name": "Ren_front_training_L01.psd",
+      "memo": "",
+      "psdFile": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\Traning\\Lesson01_PSD_Import\\work\\Ren_front_training_L01.psd",
+      "description": "",
+      "exists_now": false,
+      "inside_art": false,
+      "historical_import_reference_not_live_link": true
+    }
+  ],
+  "visual_check": {
+    "scope": "Two contact sheets of all 48 active images and full-size face PNG composited on white and gray",
+    "finding": "No gross blank/full-opaque or checkerboard-background defect seen in copied images; fine edge quality, mesh clipping and deformed display not accepted by this check",
+    "artifacts": [
+      "qa_active_1.jpg",
+      "qa_active_2.jpg",
+      "qa_face_alpha.jpg"
+    ]
+  }
+}

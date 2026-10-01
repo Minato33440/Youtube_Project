@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-01",
+  "old_root": "art/png_collection_base3_20261001_130414",
+  "new_root": "art/latest_png_collection",
+  "path_mapping_rule": "Replace old_root/ prefix with new_root/; preserve suffix",
+  "reference_updates": {
+    "art/png_collection_base3_20261001_130414/copies.json": {
+      "current_path": "art/latest_png_collection/copies.json",
+      "before_sha256": "ed471ceff68438102ae24f76866247655d1dda85313f277c138cc9316381782c",
+      "after_sha256": "8e7a2db9548df98ef5056018b8292cc364e262f7caf0489f167bdf14103ec5cf"
+    },
+    "art/png_collection_base3_20261001_130414/inventory.json": {
+      "current_path": "art/latest_png_collection/inventory.json",
+      "before_sha256": "a8242555305bc32d999fe381141d31dec3fbc6814818ab7870f9aa1d448919fd",
+      "after_sha256": "6f1d24a253d7efea7ebda8b531b70a2bfdc94e3d467a6a3ade9298f6ed583c8a"
+    },
+    "art/png_collection_base3_20261001_130414/README.md": {
+      "current_path": "art/latest_png_collection/README.md",
+      "before_sha256": "5becaf557329ae0edd73ad9cbba5c4ae56964e75c9048ffa8a036a37cc0ce342",
+      "after_sha256": "33e9cc1998464b6fccf691ab3583e9562bf66a23aab211e729d4f18837f25cef"
+    },
+    "README.md": {
+      "current_path": "README.md",
+      "before_sha256": "14aece2856bf33cb50a668e4aef1ba50a04caf9cb2a442cf09b84e6bdcbac103",
+      "after_sha256": "af58492abe3de1ad0f993d1ccda27354501f632a5765dd1190e48979726221e0"
+    },
+    "model/base_motion/README.md": {
+      "current_path": "model/base_motion/README.md",
+      "before_sha256": "7d43222735e357bc4ffe8d94e8e5e2a49f1fc0f43e8f71ace2abe5a67281425d",
+      "after_sha256": "1588834f5f25c5d54cf4684a6ecd8c1094cecbee425f1dbb30e58b85da492b6d"
+    },
+    "test_png_20261001_132300/organize.py": {
+      "current_path": "test_png_20261001_132300/organize.py",
+      "before_sha256": "9e5344cb190a435dcd7f3d1bd6d3e74c104632d0ccfd3278af5bf7c3ff857ffa",
+      "after_sha256": "8194d0135ab2cfe0120c67ff50b0401d70905924b427da34ff28e37a2aa6a883"
+    },
+    "test_png_20261001_132300/README.md": {
+      "current_path": "test_png_20261001_132300/README.md",
+      "before_sha256": "064319cd6c633001bca5a0364d742b222cf78bc3e5cff5365856d104fbca69c2",
+      "after_sha256": "7bd63c97ea772c30f494eb0613cd424ddd6c9fd0ccb31c7bbaa0739ee67759b7"
+    },
+    "../.gitignore": {
+      "current_path": "../.gitignore",
+      "before_sha256": "30856c9a68af03f55c52fc4afa920093ed6a734ab90a74bbfa0e4f2ff719e387",
+      "after_sha256": "1b95e35537b9436eeee5bdf1b84d6f933a0a09a5ac532e20ee855eec32ed651f"
+    }
+  },
+  "canonical_copy_manifest": "copies.json",
+  "model_sha256": "d0a91695a107fbcd61142c7a55f7df83562f70cc66a9c9c409ab3ae71ac6a7d0",
+  "copied_png_count": 48,
+  "all_48_direct_RGBA_checks_passed": true,
+  "index_logical_sha256_before": "6607cd60a3f9a188e9fdd7d4d15048130849ad1d48b8fc65a2773ee796398337",
+  "index_byte_sha256_before": "dc27048fedbfe430119554cdae71dc98e70c195ae7947d862420f1489faeb07f",
+  "historical_records_unchanged": [
+    "test_png_20261001_132300/preservation_before.json",
+    "test_png_20261001_132300/reference_audit.json"
+  ],
+  "git_add_commit_push": false,
+  "all_original_assets_preserved": true,
+  "original_files_checked": 1732,
+  "index_logical_unchanged": true,
+  "index_byte_sha256_after": "dc27048fedbfe430119554cdae71dc98e70c195ae7947d862420f1489faeb07f",
+  "old_root_absent": true,
+  "validation": {
+    "all_48_png_trackable": true,
+    "all_48_visible_as_untracked": true,
+    "unrelated_ignore_controls": [
+      "Live2D/model-ren-asagiri/art/head/parts/eyelash_closed_L.png",
+      "Live2D/model-ren-asagiri/art/unrelated_probe.jpg",
+      "Live2D/model-ren-asagiri/art/unrelated_probe.jpeg",
+      "Live2D/model-ren-asagiri/art/unrelated_probe.psd",
+      "Live2D/model-ren-asagiri/art/unrelated_probe.gif",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/not_enabled.mp4",
+      "Live2D/model-ren-asagiri/model/base_motion/archive/before_foundation_20260930/Ren_deformer1.cmo3"
+    ],
+    "controls_all_still_ignored": true,
+    "all_48_copy_source_bytes_equal": true,
+    "test_png_historical_snapshot_resolves": true,
+    "test_png_historical_files_checked": 1664,
+    "broken_links": [],
+    "index_logical_unchanged": true,
+    "index_byte_sha256_end": "dc27048fedbfe430119554cdae71dc98e70c195ae7947d862420f1489faeb07f",
+    "recursive_extensions": [
+      "png",
+      "jpg",
+      "jpeg",
+      "psd",
+      "gif"
+    ],
+    "case_policy": "all combinations via bracket patterns",
+    "hypothetical_path_probes": [
+      "Live2D/model-ren-asagiri/art/latest_png_collection/probe.png",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/probe.PNG",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/probe.PnG",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/probe.jpg",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/probe.JPG",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/probe.jpeg",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/probe.JPEG",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/probe.psd",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/probe.PSD",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/probe.gif",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/probe.GIF",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/parts/probe.png",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/parts/probe.PNG",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/parts/probe.PnG",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/parts/probe.jpg",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/parts/probe.JPG",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/parts/probe.jpeg",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/parts/probe.JPEG",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/parts/probe.psd",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/parts/probe.PSD",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/parts/probe.gif",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/parts/probe.GIF",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/archive/probe.png",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/archive/probe.PNG",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/archive/probe.PnG",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/archive/probe.jpg",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/archive/probe.JPG",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/archive/probe.jpeg",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/archive/probe.JPEG",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/archive/probe.psd",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/archive/probe.PSD",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/archive/probe.gif",
+      "Live2D/model-ren-asagiri/art/latest_png_collection/nested/archive/probe.GIF"
+    ],
+    "all_33_extension_probes_trackable": true
+  }
+}

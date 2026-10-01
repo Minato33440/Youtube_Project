@@ -1,0 +1,38 @@
+{
+  "already_tracked": {
+    "files": 243,
+    "bytes": 54262601
+  },
+  "archive_generated_frame": {
+    "files": 14,
+    "bytes": 2125035
+  },
+  "archive_generated_log": {
+    "files": 2,
+    "bytes": 9787
+  },
+  "git_asset": {
+    "files": 221,
+    "bytes": 172611934
+  },
+  "git_document_or_project": {
+    "files": 5,
+    "bytes": 45314
+  },
+  "git_experiment": {
+    "files": 249,
+    "bytes": 177796034
+  },
+  "local_archive": {
+    "files": 778,
+    "bytes": 149583360
+  },
+  "local_dependency_or_cache": {
+    "files": 70,
+    "bytes": 117649339
+  },
+  "local_generated_or_history": {
+    "files": 83,
+    "bytes": 58908845
+  }
+}

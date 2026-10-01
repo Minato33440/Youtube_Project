@@ -1,0 +1,1352 @@
+[
+  {
+    "side": "L",
+    "open": 0,
+    "smile": 0,
+    "eyelash_closed_L": 1.0,
+    "ALT_eyelash_upper_L": 0.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.025,
+    "smile": 0,
+    "eyelash_closed_L": 1.0,
+    "ALT_eyelash_upper_L": 0.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.0499,
+    "smile": 0,
+    "eyelash_closed_L": 1.0,
+    "ALT_eyelash_upper_L": 0.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.05,
+    "smile": 0,
+    "eyelash_closed_L": 1.0,
+    "ALT_eyelash_upper_L": 0.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.0501,
+    "smile": 0,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.0009999999999999593,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.075,
+    "smile": 0,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.24999999999999997,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.1,
+    "smile": 0,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.5000000000000001,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.125,
+    "smile": 0,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.75,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.1499,
+    "smile": 0,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.9990000000000001,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.15,
+    "smile": 0,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.1501,
+    "smile": 0,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.25,
+    "smile": 0,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.5,
+    "smile": 0,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.75,
+    "smile": 0,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 1,
+    "smile": 0,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0,
+    "smile": 0.25,
+    "eyelash_closed_L": 1.0,
+    "ALT_eyelash_upper_L": 0.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.025,
+    "smile": 0.25,
+    "eyelash_closed_L": 1.0,
+    "ALT_eyelash_upper_L": 0.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.0499,
+    "smile": 0.25,
+    "eyelash_closed_L": 1.0,
+    "ALT_eyelash_upper_L": 0.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.05,
+    "smile": 0.25,
+    "eyelash_closed_L": 1.0,
+    "ALT_eyelash_upper_L": 0.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.0501,
+    "smile": 0.25,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.0009999999999999593,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.075,
+    "smile": 0.25,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.24999999999999997,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.1,
+    "smile": 0.25,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.5000000000000001,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.125,
+    "smile": 0.25,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.75,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.1499,
+    "smile": 0.25,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.9990000000000001,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.15,
+    "smile": 0.25,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.1501,
+    "smile": 0.25,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.25,
+    "smile": 0.25,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.5,
+    "smile": 0.25,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.75,
+    "smile": 0.25,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 1,
+    "smile": 0.25,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0,
+    "smile": 0.5,
+    "eyelash_closed_L": 1.0,
+    "ALT_eyelash_upper_L": 0.0,
+    "FILL_eye_white_L": 0.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.025,
+    "smile": 0.5,
+    "eyelash_closed_L": 1.0,
+    "ALT_eyelash_upper_L": 0.0,
+    "FILL_eye_white_L": 0.16666666666666669,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.0499,
+    "smile": 0.5,
+    "eyelash_closed_L": 1.0,
+    "ALT_eyelash_upper_L": 0.0,
+    "FILL_eye_white_L": 0.33266666666666667,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.05,
+    "smile": 0.5,
+    "eyelash_closed_L": 1.0,
+    "ALT_eyelash_upper_L": 0.0,
+    "FILL_eye_white_L": 0.33333333333333337,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.0501,
+    "smile": 0.5,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.0009999999999999593,
+    "FILL_eye_white_L": 0.334,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.075,
+    "smile": 0.5,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.24999999999999997,
+    "FILL_eye_white_L": 0.5,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.1,
+    "smile": 0.5,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.5000000000000001,
+    "FILL_eye_white_L": 0.6666666666666667,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.125,
+    "smile": 0.5,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.75,
+    "FILL_eye_white_L": 0.8333333333333334,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.1499,
+    "smile": 0.5,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.9990000000000001,
+    "FILL_eye_white_L": 0.9993333333333334,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.15,
+    "smile": 0.5,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.1501,
+    "smile": 0.5,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.25,
+    "smile": 0.5,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.5,
+    "smile": 0.5,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.75,
+    "smile": 0.5,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 1,
+    "smile": 0.5,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0,
+    "smile": 0.75,
+    "eyelash_closed_L": 1.0,
+    "ALT_eyelash_upper_L": 0.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.025,
+    "smile": 0.75,
+    "eyelash_closed_L": 1.0,
+    "ALT_eyelash_upper_L": 0.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.0499,
+    "smile": 0.75,
+    "eyelash_closed_L": 1.0,
+    "ALT_eyelash_upper_L": 0.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.05,
+    "smile": 0.75,
+    "eyelash_closed_L": 1.0,
+    "ALT_eyelash_upper_L": 0.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.0501,
+    "smile": 0.75,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.0009999999999999593,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.075,
+    "smile": 0.75,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.24999999999999997,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.1,
+    "smile": 0.75,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.5000000000000001,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.125,
+    "smile": 0.75,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.75,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.1499,
+    "smile": 0.75,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.9990000000000001,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.15,
+    "smile": 0.75,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.1501,
+    "smile": 0.75,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.25,
+    "smile": 0.75,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.5,
+    "smile": 0.75,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.75,
+    "smile": 0.75,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 1,
+    "smile": 0.75,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0,
+    "smile": 1,
+    "eyelash_closed_L": 1.0,
+    "ALT_eyelash_upper_L": 0.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.025,
+    "smile": 1,
+    "eyelash_closed_L": 1.0,
+    "ALT_eyelash_upper_L": 0.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.0499,
+    "smile": 1,
+    "eyelash_closed_L": 1.0,
+    "ALT_eyelash_upper_L": 0.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.05,
+    "smile": 1,
+    "eyelash_closed_L": 1.0,
+    "ALT_eyelash_upper_L": 0.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.0501,
+    "smile": 1,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.0009999999999999593,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.075,
+    "smile": 1,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.24999999999999997,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.1,
+    "smile": 1,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.5000000000000001,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.125,
+    "smile": 1,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.75,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.1499,
+    "smile": 1,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 0.9990000000000001,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.15,
+    "smile": 1,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.1501,
+    "smile": 1,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.25,
+    "smile": 1,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.5,
+    "smile": 1,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 0.75,
+    "smile": 1,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "L",
+    "open": 1,
+    "smile": 1,
+    "eyelash_closed_L": 0,
+    "ALT_eyelash_upper_L": 1.0,
+    "FILL_eye_white_L": 1.0,
+    "lower_eyelid_left": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0,
+    "smile": 0,
+    "eyelash_closed_R": 1.0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.025,
+    "smile": 0,
+    "eyelash_closed_R": 1.0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.0499,
+    "smile": 0,
+    "eyelash_closed_R": 1.0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.05,
+    "smile": 0,
+    "eyelash_closed_R": 1.0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.0501,
+    "smile": 0,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.075,
+    "smile": 0,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.1,
+    "smile": 0,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.125,
+    "smile": 0,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.1499,
+    "smile": 0,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.15,
+    "smile": 0,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.1501,
+    "smile": 0,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.25,
+    "smile": 0,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.5,
+    "smile": 0,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.75,
+    "smile": 0,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 1,
+    "smile": 0,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0,
+    "smile": 0.25,
+    "eyelash_closed_R": 1.0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.025,
+    "smile": 0.25,
+    "eyelash_closed_R": 1.0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.0499,
+    "smile": 0.25,
+    "eyelash_closed_R": 1.0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.05,
+    "smile": 0.25,
+    "eyelash_closed_R": 1.0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.0501,
+    "smile": 0.25,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.075,
+    "smile": 0.25,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.1,
+    "smile": 0.25,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.125,
+    "smile": 0.25,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.1499,
+    "smile": 0.25,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.15,
+    "smile": 0.25,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.1501,
+    "smile": 0.25,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.25,
+    "smile": 0.25,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.5,
+    "smile": 0.25,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.75,
+    "smile": 0.25,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 1,
+    "smile": 0.25,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0,
+    "smile": 0.5,
+    "eyelash_closed_R": 1.0,
+    "ALT_eyelash_upper_R": 0.0,
+    "FILL_eye_white_R": 0.0,
+    "lower_eyelid_right": 0.0
+  },
+  {
+    "side": "R",
+    "open": 0.025,
+    "smile": 0.5,
+    "eyelash_closed_R": 1.0,
+    "ALT_eyelash_upper_R": 0.0,
+    "FILL_eye_white_R": 0.16666666666666669,
+    "lower_eyelid_right": 0.1
+  },
+  {
+    "side": "R",
+    "open": 0.0499,
+    "smile": 0.5,
+    "eyelash_closed_R": 1.0,
+    "ALT_eyelash_upper_R": 0.0,
+    "FILL_eye_white_R": 0.33266666666666667,
+    "lower_eyelid_right": 0.1996
+  },
+  {
+    "side": "R",
+    "open": 0.05,
+    "smile": 0.5,
+    "eyelash_closed_R": 1.0,
+    "ALT_eyelash_upper_R": 0.0,
+    "FILL_eye_white_R": 0.33333333333333337,
+    "lower_eyelid_right": 0.2
+  },
+  {
+    "side": "R",
+    "open": 0.0501,
+    "smile": 0.5,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 0.0009999999999999593,
+    "FILL_eye_white_R": 0.334,
+    "lower_eyelid_right": 0.2004
+  },
+  {
+    "side": "R",
+    "open": 0.075,
+    "smile": 0.5,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 0.24999999999999997,
+    "FILL_eye_white_R": 0.5,
+    "lower_eyelid_right": 0.3
+  },
+  {
+    "side": "R",
+    "open": 0.1,
+    "smile": 0.5,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 0.5000000000000001,
+    "FILL_eye_white_R": 0.6666666666666667,
+    "lower_eyelid_right": 0.4
+  },
+  {
+    "side": "R",
+    "open": 0.125,
+    "smile": 0.5,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 0.75,
+    "FILL_eye_white_R": 0.8333333333333334,
+    "lower_eyelid_right": 0.5
+  },
+  {
+    "side": "R",
+    "open": 0.1499,
+    "smile": 0.5,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 0.9990000000000001,
+    "FILL_eye_white_R": 0.9993333333333334,
+    "lower_eyelid_right": 0.5996
+  },
+  {
+    "side": "R",
+    "open": 0.15,
+    "smile": 0.5,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 0.6
+  },
+  {
+    "side": "R",
+    "open": 0.1501,
+    "smile": 0.5,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 0.6004
+  },
+  {
+    "side": "R",
+    "open": 0.25,
+    "smile": 0.5,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.5,
+    "smile": 0.5,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.75,
+    "smile": 0.5,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 1,
+    "smile": 0.5,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0,
+    "smile": 0.75,
+    "eyelash_closed_R": 1.0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.025,
+    "smile": 0.75,
+    "eyelash_closed_R": 1.0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.0499,
+    "smile": 0.75,
+    "eyelash_closed_R": 1.0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.05,
+    "smile": 0.75,
+    "eyelash_closed_R": 1.0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.0501,
+    "smile": 0.75,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.075,
+    "smile": 0.75,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.1,
+    "smile": 0.75,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.125,
+    "smile": 0.75,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.1499,
+    "smile": 0.75,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.15,
+    "smile": 0.75,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.1501,
+    "smile": 0.75,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.25,
+    "smile": 0.75,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.5,
+    "smile": 0.75,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.75,
+    "smile": 0.75,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 1,
+    "smile": 0.75,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0,
+    "smile": 1,
+    "eyelash_closed_R": 1.0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.025,
+    "smile": 1,
+    "eyelash_closed_R": 1.0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.0499,
+    "smile": 1,
+    "eyelash_closed_R": 1.0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.05,
+    "smile": 1,
+    "eyelash_closed_R": 1.0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.0501,
+    "smile": 1,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.075,
+    "smile": 1,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.1,
+    "smile": 1,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.125,
+    "smile": 1,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.1499,
+    "smile": 1,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.15,
+    "smile": 1,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.1501,
+    "smile": 1,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.25,
+    "smile": 1,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.5,
+    "smile": 1,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 0.75,
+    "smile": 1,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  },
+  {
+    "side": "R",
+    "open": 1,
+    "smile": 1,
+    "eyelash_closed_R": 0,
+    "ALT_eyelash_upper_R": 1.0,
+    "FILL_eye_white_R": 1.0,
+    "lower_eyelid_right": 1.0
+  }
+]

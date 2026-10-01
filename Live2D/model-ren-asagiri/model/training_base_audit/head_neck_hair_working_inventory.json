@@ -1,0 +1,3644 @@
+{
+  "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_neck_hair\\Ren_front.cmo3",
+  "file_sha256": "fb153e5d1946fe4b7bbb1f0573a7d2b3d144b8f121196c2283002601504d8b7e",
+  "xml_sha256": "05cd7351eba5103a6cd09af99f0841c1a6ccd8295416d61c34bf63852e9fbd8a",
+  "parameters": {
+    "ParamAngleX": {
+      "id": "ParamAngleX",
+      "name": "角度 X",
+      "min": -30.0,
+      "max": 30.0,
+      "default": 0.0
+    },
+    "ParamAngleY": {
+      "id": "ParamAngleY",
+      "name": "角度 Y",
+      "min": -30.0,
+      "max": 30.0,
+      "default": 0.0
+    },
+    "ParamAngleZ": {
+      "id": "ParamAngleZ",
+      "name": "角度 Z",
+      "min": -30.0,
+      "max": 30.0,
+      "default": 0.0
+    },
+    "ParamEyeLOpen": {
+      "id": "ParamEyeLOpen",
+      "name": "左目　開閉",
+      "min": 0.0,
+      "max": 1.0,
+      "default": 1.0
+    },
+    "ParamEyeLSmile": {
+      "id": "ParamEyeLSmile",
+      "name": "左目　笑顔",
+      "min": 0.0,
+      "max": 1.0,
+      "default": 0.0
+    },
+    "ParamEyeROpen": {
+      "id": "ParamEyeROpen",
+      "name": "右目　開閉",
+      "min": 0.0,
+      "max": 1.0,
+      "default": 1.0
+    },
+    "ParamEyeRSmile": {
+      "id": "ParamEyeRSmile",
+      "name": "右目　笑顔",
+      "min": 0.0,
+      "max": 1.0,
+      "default": 0.0
+    },
+    "ParamEyeBallX": {
+      "id": "ParamEyeBallX",
+      "name": "目玉 X",
+      "min": -1.0,
+      "max": 1.0,
+      "default": 0.0
+    },
+    "ParamEyeBallY": {
+      "id": "ParamEyeBallY",
+      "name": "目玉 Y",
+      "min": -1.0,
+      "max": 1.0,
+      "default": 0.0
+    },
+    "ParamBrowLY": {
+      "id": "ParamBrowLY",
+      "name": "左眉　上下",
+      "min": -1.0,
+      "max": 1.0,
+      "default": 0.0
+    },
+    "ParamBrowRY": {
+      "id": "ParamBrowRY",
+      "name": "右眉　上下",
+      "min": -1.0,
+      "max": 1.0,
+      "default": 0.0
+    },
+    "ParamBrowLX": {
+      "id": "ParamBrowLX",
+      "name": "左眉　左右",
+      "min": -1.0,
+      "max": 1.0,
+      "default": 0.0
+    },
+    "ParamBrowRX": {
+      "id": "ParamBrowRX",
+      "name": "右眉　左右",
+      "min": -1.0,
+      "max": 1.0,
+      "default": 0.0
+    },
+    "ParamBrowLAngle": {
+      "id": "ParamBrowLAngle",
+      "name": "左眉　角度",
+      "min": -1.0,
+      "max": 1.0,
+      "default": 0.0
+    },
+    "ParamBrowRAngle": {
+      "id": "ParamBrowRAngle",
+      "name": "右眉　角度",
+      "min": -1.0,
+      "max": 1.0,
+      "default": 0.0
+    },
+    "ParamBrowLForm": {
+      "id": "ParamBrowLForm",
+      "name": "左眉　変形",
+      "min": -1.0,
+      "max": 1.0,
+      "default": 0.0
+    },
+    "ParamBrowRForm": {
+      "id": "ParamBrowRForm",
+      "name": "右眉　変形",
+      "min": -1.0,
+      "max": 1.0,
+      "default": 0.0
+    },
+    "ParamMouthForm": {
+      "id": "ParamMouthForm",
+      "name": "口　変形",
+      "min": -1.0,
+      "max": 1.0,
+      "default": 0.0
+    },
+    "ParamMouthOpenY": {
+      "id": "ParamMouthOpenY",
+      "name": "口　開閉",
+      "min": 0.0,
+      "max": 1.0,
+      "default": 0.0
+    },
+    "ParamCheek": {
+      "id": "ParamCheek",
+      "name": "照れ",
+      "min": 0.0,
+      "max": 1.0,
+      "default": 0.0
+    },
+    "ParamBodyAngleX": {
+      "id": "ParamBodyAngleX",
+      "name": "体の回転 X",
+      "min": -10.0,
+      "max": 10.0,
+      "default": 0.0
+    },
+    "ParamBodyAngleY": {
+      "id": "ParamBodyAngleY",
+      "name": "体の回転 Y",
+      "min": -10.0,
+      "max": 10.0,
+      "default": 0.0
+    },
+    "ParamBodyAngleZ": {
+      "id": "ParamBodyAngleZ",
+      "name": "体の回転 Z",
+      "min": -10.0,
+      "max": 10.0,
+      "default": 0.0
+    },
+    "ParamBreath": {
+      "id": "ParamBreath",
+      "name": "呼吸",
+      "min": 0.0,
+      "max": 1.0,
+      "default": 0.0
+    },
+    "ParamHairFront": {
+      "id": "ParamHairFront",
+      "name": "髪揺れ　前",
+      "min": -1.0,
+      "max": 1.0,
+      "default": 0.0
+    },
+    "ParamHairSide": {
+      "id": "ParamHairSide",
+      "name": "髪揺れ　横",
+      "min": -1.0,
+      "max": 1.0,
+      "default": 0.0
+    },
+    "ParamHairBack": {
+      "id": "ParamHairBack",
+      "name": "髪揺れ　後",
+      "min": -1.0,
+      "max": 1.0,
+      "default": 0.0
+    }
+  },
+  "meshes": [
+    {
+      "name": "hair_ahoge",
+      "id": "hair_ahoge",
+      "type": "CArtMeshSource",
+      "parent": "Ahoge_Sway",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "c44d7412-6977-4a26-a53e-0ef3a91b656c",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 501,
+          "opacity": 1.0,
+          "positions_sha256": "f4a80f8ea78a9b39b383ea1d2eb669784107ecd1d261b0f0471eba6c232d42a6",
+          "positions_count": 60,
+          "positions_bbox": [
+            0.04545451,
+            0.04545447,
+            0.9545454,
+            0.9545454
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "c44d7412-6977-4a26-a53e-0ef3a91b656c"
+        }
+      ],
+      "vertices": 60,
+      "editable_mesh_sha256": "462bc588c1f8ce55a559efe3081d9b458ac06619943942b3603771867db1b24c",
+      "triangles": 83,
+      "clips": []
+    },
+    {
+      "name": "hair_front_C",
+      "id": "hair_front_C",
+      "type": "CArtMeshSource",
+      "parent": "Hair_Front_Sway",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "51bc3284-e179-4699-a775-9f5239afe328",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 501,
+          "opacity": 1.0,
+          "positions_sha256": "f398935c4d24a74ce5bcd4f074987cc954a6d515cc631f8633e918e1e21bcf27",
+          "positions_count": 60,
+          "positions_bbox": [
+            0.045454495,
+            0.045454614,
+            0.9545454,
+            0.9545456
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "51bc3284-e179-4699-a775-9f5239afe328"
+        }
+      ],
+      "vertices": 60,
+      "editable_mesh_sha256": "618bb6e54ff916b850750f68358008f3603bd504a5f3d6e1c03f28e4ba63ba2f",
+      "triangles": 90,
+      "clips": []
+    },
+    {
+      "name": "hair_front_L",
+      "id": "hair_front_L",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "79b5b411-c8a1-44ef-be2a-28e7f89edda4",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 501,
+          "opacity": 1.0,
+          "positions_sha256": "48fc4a935b11f973c1253a53cef0e5556de7cea58b7653df7461ca8db5187c21",
+          "positions_count": 93,
+          "positions_bbox": [
+            -31.281128,
+            -1074.1465,
+            429.75488,
+            -717.3447
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "79b5b411-c8a1-44ef-be2a-28e7f89edda4"
+        }
+      ],
+      "vertices": 93,
+      "editable_mesh_sha256": "6fe3ac562269c23a03c7102961430a849601947d92a274976e85bc654961bd43",
+      "triangles": 151,
+      "clips": []
+    },
+    {
+      "name": "hair_front_R",
+      "id": "hair_front_R",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "fa32055c-f223-45cb-b78a-c1deb232c194",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 501,
+          "opacity": 1.0,
+          "positions_sha256": "73ab7f9615cf56f42ffe52e15bdcc1c015f648421cf94de354aa6d92c54b1832",
+          "positions_count": 92,
+          "positions_bbox": [
+            -445.2279,
+            -1072.1538,
+            27.784912,
+            -719.39844
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "fa32055c-f223-45cb-b78a-c1deb232c194"
+        }
+      ],
+      "vertices": 92,
+      "editable_mesh_sha256": "a836addff65f416717fc380fbdbcc4cf195399ba50c5b8dc7cfedd2b32057115",
+      "triangles": 147,
+      "clips": []
+    },
+    {
+      "name": "hair_side_L",
+      "id": "hair_side_L",
+      "type": "CArtMeshSource",
+      "parent": "Hair_Side_L_Sway",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "0efc6a48-5918-4a3b-a5f5-6b8439f2db40",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 501,
+          "opacity": 1.0,
+          "positions_sha256": "cd45cd27cf30796598855a1858f350e51d4fd1d0b7fb864b511e50ec4f0b8b37",
+          "positions_count": 92,
+          "positions_bbox": [
+            0.045454524,
+            0.045454554,
+            0.9545453,
+            0.9545454
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "0efc6a48-5918-4a3b-a5f5-6b8439f2db40"
+        }
+      ],
+      "vertices": 92,
+      "editable_mesh_sha256": "d3d7efa68d360b470931d3ec68f66dd5eb3bc2a0dc6daac0e362e3f4efdc4c5e",
+      "triangles": 143,
+      "clips": []
+    },
+    {
+      "name": "hair_side_R",
+      "id": "hair_side_R",
+      "type": "CArtMeshSource",
+      "parent": "Hair_Side_R_Sway",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "04b8d142-d556-4549-bfed-6a438f3eb2c5",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 501,
+          "opacity": 1.0,
+          "positions_sha256": "2f606dae7625f4c36841912269769635dd9e3b51f140530bb4adee98b919439e",
+          "positions_count": 122,
+          "positions_bbox": [
+            0.045454517,
+            0.045454554,
+            0.9545453,
+            0.9545454
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "04b8d142-d556-4549-bfed-6a438f3eb2c5"
+        }
+      ],
+      "vertices": 122,
+      "editable_mesh_sha256": "b4ffc72e691f8ce6ad415f18f2f6a8620a0bbb10abbe96b59d46ff7cdd40742f",
+      "triangles": 189,
+      "clips": []
+    },
+    {
+      "name": "brow_L",
+      "id": "brow_L",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "7b0fd5f8-a867-4249-9447-6e4a0be93d80",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "05e6653c7b17997d37b3490bd5fce38d372891f14596a43643ae1d7fbb84ea25",
+          "positions_count": 31,
+          "positions_bbox": [
+            48.754883,
+            -583.76776,
+            265.75488,
+            -536.0898
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "7b0fd5f8-a867-4249-9447-6e4a0be93d80"
+        }
+      ],
+      "vertices": 31,
+      "editable_mesh_sha256": "217d614252d52d0007dfd027e061bf619fa06ddfcfa1fa35c4090e41c53af771",
+      "triangles": 38,
+      "clips": []
+    },
+    {
+      "name": "upper_crease_L",
+      "id": "upper_crease_L",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "a421d523-f9ba-4d5c-9ee2-2459d77329fc",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "54f4dd339d36650208759adadd5b9f86dda92c7b4a41412fb0a23d0641de8446",
+          "positions_count": 22,
+          "positions_bbox": [
+            52.65796,
+            -523.1001,
+            210.82959,
+            -477.5354
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "a421d523-f9ba-4d5c-9ee2-2459d77329fc"
+        }
+      ],
+      "vertices": 22,
+      "editable_mesh_sha256": "0b167a036b8adcc2205296f5cd3174f4e11b45d170af06c09942095de0318659",
+      "triangles": 26,
+      "clips": []
+    },
+    {
+      "name": "lower_eyelid_left",
+      "id": "lower_eyelid_left",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamEyeLOpen",
+          "keys": [
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "085558be-6859-47f7-892f-58ca2b28ddc0",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 0.0,
+          "positions_sha256": "b4cd78463d9c0cf2c27b0cdbec6c41a7ef27cf489f7d51ff661ed55c79c863c4",
+          "positions_count": 22,
+          "positions_bbox": [
+            69.75488,
+            -441.1128,
+            223.75488,
+            -387.9895
+          ]
+        },
+        {
+          "guid": "e7d287da-2c20-4432-a6a1-c033703049df",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "b4cd78463d9c0cf2c27b0cdbec6c41a7ef27cf489f7d51ff661ed55c79c863c4",
+          "positions_count": 22,
+          "positions_bbox": [
+            69.75488,
+            -441.1128,
+            223.75488,
+            -387.9895
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamEyeLOpen",
+              0.0
+            ]
+          ],
+          "form": "085558be-6859-47f7-892f-58ca2b28ddc0"
+        },
+        {
+          "keys": [
+            [
+              "ParamEyeLOpen",
+              1.0
+            ]
+          ],
+          "form": "e7d287da-2c20-4432-a6a1-c033703049df"
+        }
+      ],
+      "vertices": 22,
+      "editable_mesh_sha256": "2fe9061cee509e69d3756fb73ddb031774886e368f8a51d130fa3814beec0a09",
+      "triangles": 26,
+      "clips": []
+    },
+    {
+      "name": "ALT_eyelash_upper_L",
+      "id": "ALT_eyelash_upper_L",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamEyeLOpen",
+          "keys": [
+            0.0,
+            0.5,
+            1.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "4ad69ae5-2b2e-49c2-8534-06e8989b046f",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 0.0,
+          "positions_sha256": "1913c9bc4064ea7209033596d83fa91fe780a9139b2af6bbfa0c53ad65bb69d7",
+          "positions_count": 25,
+          "positions_bbox": [
+            47.67163,
+            -442.43756,
+            270.82788,
+            -405.4687
+          ]
+        },
+        {
+          "guid": "eb2bd83b-9e52-4ff5-ad3a-8df0a7ab5abb",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "d578f2eae1cabd81b7af8883bac7a2a5975197fcb9ed8de68403a86cee7af3fd",
+          "positions_count": 25,
+          "positions_bbox": [
+            47.67163,
+            -523.2028,
+            270.82788,
+            -412.62994
+          ]
+        },
+        {
+          "guid": "481be42d-5cb2-4d78-925f-c406ad0d2c76",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "bf31b30200d109c40ad06fa596aa285f22605d6e4285f216c8644d68434ea4ef",
+          "positions_count": 25,
+          "positions_bbox": [
+            47.67163,
+            -464.33575,
+            270.82788,
+            -427.53375
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamEyeLOpen",
+              0.0
+            ]
+          ],
+          "form": "4ad69ae5-2b2e-49c2-8534-06e8989b046f"
+        },
+        {
+          "keys": [
+            [
+              "ParamEyeLOpen",
+              0.5
+            ]
+          ],
+          "form": "481be42d-5cb2-4d78-925f-c406ad0d2c76"
+        },
+        {
+          "keys": [
+            [
+              "ParamEyeLOpen",
+              1.0
+            ]
+          ],
+          "form": "eb2bd83b-9e52-4ff5-ad3a-8df0a7ab5abb"
+        }
+      ],
+      "vertices": 25,
+      "editable_mesh_sha256": "b19a5575374901e89fe0d03f41c190b7b926edb73eddbae44f20c57f842bf329",
+      "triangles": 33,
+      "clips": []
+    },
+    {
+      "name": "ALT_iris_L_blue",
+      "id": "ALT_iris_L_blue",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "fb753747-0f4b-472b-a99c-8eee425ab661",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "858d159be3f2d269d3f2ca33f45a264cefc6b6d9752794c04ec9130f4f8f464a",
+          "positions_count": 20,
+          "positions_bbox": [
+            79.58472,
+            -510.28973,
+            188.73364,
+            -386.99182
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "fb753747-0f4b-472b-a99c-8eee425ab661"
+        }
+      ],
+      "vertices": 20,
+      "editable_mesh_sha256": "64a5457589454edcbd8df7854874aa5e17a93d21365b729c267c8f9fb0baae3f",
+      "triangles": 28,
+      "clips": [
+        "68212ca6-0551-4333-ae0b-376c1a5e7f7f"
+      ]
+    },
+    {
+      "name": "FILL_eye_white_L",
+      "id": "FILL_eye_white_L",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamEyeLOpen",
+          "keys": [
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "85655495-3285-4ddc-91fe-e26cb921698d",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "66274c85c94536b29b54ad21b0122d1884cafa73fb8fc9efd4ff11c3719e7005",
+          "positions_count": 21,
+          "positions_bbox": [
+            51.653564,
+            -417.27032,
+            240.8435,
+            -415.4195
+          ]
+        },
+        {
+          "guid": "ea1a7cfa-eec8-469c-9d17-524ccb51173d",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "0d877ec9a16b381ca3372c044e64c45bd16994c1ed4cb31a5f9743d440a90a4c",
+          "positions_count": 21,
+          "positions_bbox": [
+            51.653564,
+            -514.22076,
+            240.8435,
+            -383.398
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamEyeLOpen",
+              0.0
+            ]
+          ],
+          "form": "85655495-3285-4ddc-91fe-e26cb921698d"
+        },
+        {
+          "keys": [
+            [
+              "ParamEyeLOpen",
+              1.0
+            ]
+          ],
+          "form": "ea1a7cfa-eec8-469c-9d17-524ccb51173d"
+        }
+      ],
+      "vertices": 21,
+      "editable_mesh_sha256": "e512c6e8214a9beb633dff7800cf4333cfec7b72eac9a7f76760ebdff5545b06",
+      "triangles": 29,
+      "clips": []
+    },
+    {
+      "name": "brow_R",
+      "id": "brow_R",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "727083f4-4c49-44ec-b912-35e1197b0468",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "7cc0cbc2b1f0da440454a92fea3570ce02e338e619ebe6c61936abb875f0f893",
+          "positions_count": 28,
+          "positions_bbox": [
+            -259.31738,
+            -578.8084,
+            -53.178467,
+            -532.58923
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "727083f4-4c49-44ec-b912-35e1197b0468"
+        }
+      ],
+      "vertices": 28,
+      "editable_mesh_sha256": "4191113434a6725948293e84d8124ab42ef74a82b899271dd55dd4320f8b1df2",
+      "triangles": 34,
+      "clips": []
+    },
+    {
+      "name": "upper_crease_R",
+      "id": "upper_crease_R",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "071a3499-7f1e-41bb-8112-c33c229fdad3",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "66864afbedf1bb6e779a8877d5346af987484265f312f3a9bbc8f1e5e3820dd4",
+          "positions_count": 22,
+          "positions_bbox": [
+            -226.24512,
+            -525.7375,
+            -73.24512,
+            -490.1327
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "071a3499-7f1e-41bb-8112-c33c229fdad3"
+        }
+      ],
+      "vertices": 22,
+      "editable_mesh_sha256": "fe40e0e11c4ef56ba1022652f7fc7b8e350ccda25a8df3b7e92769f275a545b6",
+      "triangles": 26,
+      "clips": []
+    },
+    {
+      "name": "lower_eyelid_right",
+      "id": "lower_eyelid_right",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamEyeROpen",
+          "keys": [
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "c24127c1-ba4c-4622-9a42-1e9ab9372200",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 0.0,
+          "positions_sha256": "d41db6653d67259610173c3687ca2b13f1b08ae1aaf2485621ce6d80ee77f37d",
+          "positions_count": 22,
+          "positions_bbox": [
+            -238.24512,
+            -439.01495,
+            -82.24512,
+            -386.6217
+          ]
+        },
+        {
+          "guid": "68b61198-1e2a-4508-b7cd-c03fafbd5a4d",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "d41db6653d67259610173c3687ca2b13f1b08ae1aaf2485621ce6d80ee77f37d",
+          "positions_count": 22,
+          "positions_bbox": [
+            -238.24512,
+            -439.01495,
+            -82.24512,
+            -386.6217
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamEyeROpen",
+              0.0
+            ]
+          ],
+          "form": "c24127c1-ba4c-4622-9a42-1e9ab9372200"
+        },
+        {
+          "keys": [
+            [
+              "ParamEyeROpen",
+              1.0
+            ]
+          ],
+          "form": "68b61198-1e2a-4508-b7cd-c03fafbd5a4d"
+        }
+      ],
+      "vertices": 22,
+      "editable_mesh_sha256": "e3533aaca90395a89cd15e3272899f23844f314eab828d346311bc65a945e281",
+      "triangles": 26,
+      "clips": []
+    },
+    {
+      "name": "ALT_eyelash_upper_R",
+      "id": "ALT_eyelash_upper_R",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamEyeROpen",
+          "keys": [
+            0.0,
+            0.5,
+            1.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "d410e238-d790-41e9-9c7c-0a315d41cc09",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 0.0,
+          "positions_sha256": "290f305713dab4ebc244e6dc7d5deff0fffb1330f0dc002cf78e6f6b2dfc4942",
+          "positions_count": 27,
+          "positions_bbox": [
+            -280.333,
+            -441.9702,
+            -69.1792,
+            -408.0904
+          ]
+        },
+        {
+          "guid": "908b80f5-d1f7-4575-b1af-283af4a86ea6",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "e5bb07ca0aa376967e76e8dfb77ff4fa85585b2890ad3c4f0f607bed414f08fb",
+          "positions_count": 27,
+          "positions_bbox": [
+            -280.333,
+            -522.1964,
+            -69.1792,
+            -421.64697
+          ]
+        },
+        {
+          "guid": "8008e45b-0bec-4ec8-ab06-b616ad337535",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "5c8b4abd3b4d5f556776ec5fc46e6e8205bc68b8a44632a4a3f87831c689e2e7",
+          "positions_count": 27,
+          "positions_bbox": [
+            -280.333,
+            -465.14343,
+            -69.1792,
+            -431.8086
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamEyeROpen",
+              0.0
+            ]
+          ],
+          "form": "d410e238-d790-41e9-9c7c-0a315d41cc09"
+        },
+        {
+          "keys": [
+            [
+              "ParamEyeROpen",
+              0.5
+            ]
+          ],
+          "form": "8008e45b-0bec-4ec8-ab06-b616ad337535"
+        },
+        {
+          "keys": [
+            [
+              "ParamEyeROpen",
+              1.0
+            ]
+          ],
+          "form": "908b80f5-d1f7-4575-b1af-283af4a86ea6"
+        }
+      ],
+      "vertices": 27,
+      "editable_mesh_sha256": "29b683853290865aaa6c7019c5167008500690cf1a7ad182ad83c02d7b65038b",
+      "triangles": 38,
+      "clips": []
+    },
+    {
+      "name": "ALT_iris_R_brown",
+      "id": "ALT_iris_R_brown",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "b5c4fea5-d5eb-4f94-82a6-ee7de3d604c1",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "fbb5c450778d71c5583a9db099a8231aa528c718c019f45324d96388ee3e13fb",
+          "positions_count": 16,
+          "positions_bbox": [
+            -200.41528,
+            -510.28973,
+            -91.26636,
+            -384.97058
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "b5c4fea5-d5eb-4f94-82a6-ee7de3d604c1"
+        }
+      ],
+      "vertices": 16,
+      "editable_mesh_sha256": "4adb108ae209f7e5c69c88ccb1774452b19370de71afa0ab9580a9318fef22fe",
+      "triangles": 22,
+      "clips": [
+        "b543d206-8ca1-403e-b3df-cf1cc2776642"
+      ]
+    },
+    {
+      "name": "FILL_eye_white_R",
+      "id": "FILL_eye_white_R",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamEyeROpen",
+          "keys": [
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "da592499-4cf6-4d4b-9005-fe2558b8e995",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "52c98dbd2c2f84e0351c08b36b04704bbde78dfec4bb8477a98841d0fb564a80",
+          "positions_count": 21,
+          "positions_bbox": [
+            -254.35034,
+            -417.59656,
+            -71.152954,
+            -416.6847
+          ]
+        },
+        {
+          "guid": "4588d729-bf4f-439f-a5e7-3b89fd627438",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "288800faddfe0584a31130ece4263a78105f8e646cf03db811b2c6bf83abe31c",
+          "positions_count": 21,
+          "positions_bbox": [
+            -254.35034,
+            -513.2248,
+            -71.152954,
+            -382.3695
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamEyeROpen",
+              0.0
+            ]
+          ],
+          "form": "da592499-4cf6-4d4b-9005-fe2558b8e995"
+        },
+        {
+          "keys": [
+            [
+              "ParamEyeROpen",
+              1.0
+            ]
+          ],
+          "form": "4588d729-bf4f-439f-a5e7-3b89fd627438"
+        }
+      ],
+      "vertices": 21,
+      "editable_mesh_sha256": "a7602b1d036308afdc30651ffe8a714c4f86a79e7d1ec3014a27909b9f43b4e0",
+      "triangles": 29,
+      "clips": []
+    },
+    {
+      "name": "mouth_closed",
+      "id": "mouth_closed",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamMouthOpenY",
+          "keys": [
+            0.0,
+            0.1,
+            1.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "6e1646f1-d825-4062-b8dd-e84291e26175",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "2cd5540cda04f52d10db0eac17c6a97a1aba54adecd5e320c773a8db35597e9d",
+          "positions_count": 16,
+          "positions_bbox": [
+            -62.245117,
+            -256.34766,
+            61.754883,
+            -226.51111
+          ]
+        },
+        {
+          "guid": "4094c780-a412-4455-b284-06e862451266",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 0.0,
+          "positions_sha256": "2cd5540cda04f52d10db0eac17c6a97a1aba54adecd5e320c773a8db35597e9d",
+          "positions_count": 16,
+          "positions_bbox": [
+            -62.245117,
+            -256.34766,
+            61.754883,
+            -226.51111
+          ]
+        },
+        {
+          "guid": "cee38587-7575-430d-8aeb-6ab152428702",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 0.0,
+          "positions_sha256": "f131805de3fcf90a1ae40a2e1a747c8810a7ffad7d60de912307ab6954241634",
+          "positions_count": 16,
+          "positions_bbox": [
+            -62.245117,
+            -256.34772,
+            61.754883,
+            -226.51111
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamMouthOpenY",
+              0.0
+            ]
+          ],
+          "form": "6e1646f1-d825-4062-b8dd-e84291e26175"
+        },
+        {
+          "keys": [
+            [
+              "ParamMouthOpenY",
+              0.1
+            ]
+          ],
+          "form": "cee38587-7575-430d-8aeb-6ab152428702"
+        },
+        {
+          "keys": [
+            [
+              "ParamMouthOpenY",
+              1.0
+            ]
+          ],
+          "form": "4094c780-a412-4455-b284-06e862451266"
+        }
+      ],
+      "vertices": 16,
+      "editable_mesh_sha256": "115976145599efc30210b272396a45047636b8f69542c84f02b715f35aa11441",
+      "triangles": 18,
+      "clips": []
+    },
+    {
+      "name": "face_underfill",
+      "id": "face_underfill",
+      "type": "CArtMeshSource",
+      "parent": "Jaw_Open",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "872bc87b-dd98-4cdd-b4fc-e8e4294c89d2",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "599f5fc686d016da9dbb9c02dee423bdb81d5f9a571d60e3ca117cf6fc881ef9",
+          "positions_count": 78,
+          "positions_bbox": [
+            0.04545451,
+            0.045454536,
+            0.9545454,
+            0.9545454
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "872bc87b-dd98-4cdd-b4fc-e8e4294c89d2"
+        }
+      ],
+      "vertices": 78,
+      "editable_mesh_sha256": "29476e2549ada80b0a94e31202ada58e17712c65d3317c8f9c149c4fa16bcbb3",
+      "triangles": 129,
+      "clips": []
+    },
+    {
+      "name": "ear_L",
+      "id": "ear_L",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "d91590f6-be01-4c14-9e6c-75cb90afa1da",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "5424fb870a637c2ae35199d0729f50a623ea7c8f825e95ece10de739f3ac6168",
+          "positions_count": 31,
+          "positions_bbox": [
+            187.75488,
+            -566.1195,
+            339.75488,
+            -268.1195
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "d91590f6-be01-4c14-9e6c-75cb90afa1da"
+        }
+      ],
+      "vertices": 31,
+      "editable_mesh_sha256": "18006956de583ff5889fa2a6cc54069f00916c8fe637d477063bf3b904e68116",
+      "triangles": 43,
+      "clips": []
+    },
+    {
+      "name": "ear_R",
+      "id": "ear_R",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "07790790-760c-46dd-9b48-c703907c1ea2",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "8ef7aa0c0869d6b3d8ec95a65b0be5b4fb2ae1762856054f2c25eae7361b1aab",
+          "positions_count": 32,
+          "positions_bbox": [
+            -348.2981,
+            -559.1801,
+            -183.67688,
+            -266.07404
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "07790790-760c-46dd-9b48-c703907c1ea2"
+        }
+      ],
+      "vertices": 32,
+      "editable_mesh_sha256": "05ddda7ed00d389bd29cf18c04023b14bf10e2ed43759c34b83153f0893482fe",
+      "triangles": 44,
+      "clips": []
+    },
+    {
+      "name": "hair_back",
+      "id": "hair_back",
+      "type": "CArtMeshSource",
+      "parent": "Hair_Back_Sway",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "c8e6bf30-825e-49f6-8181-d3824194aa0e",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "259a9e9e7a8b08ca1bc212a37c4318caf5fe132e99a27b4f1d1c745d2e2b288f",
+          "positions_count": 65,
+          "positions_bbox": [
+            0.045454614,
+            0.04545457,
+            0.9545454,
+            0.9545454
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "c8e6bf30-825e-49f6-8181-d3824194aa0e"
+        }
+      ],
+      "vertices": 65,
+      "editable_mesh_sha256": "8e430c1b10e937d293588e4755e3c39bb76b3b53ae5eaf368e4b4f14bf663d41",
+      "triangles": 91,
+      "clips": []
+    },
+    {
+      "name": "collar_L",
+      "id": "collar_L",
+      "type": "CArtMeshSource",
+      "parent": "ROOT",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "97053dc0-8c82-487c-b6a0-710892d6e6c7",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "053cd36642b6b6b1fc6c0b2308b78e4a19840d9f54d3e1aa14821d6c5ca3df82",
+          "positions_count": 61,
+          "positions_bbox": [
+            1960.0,
+            1133.0,
+            2284.0,
+            1595.0
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "97053dc0-8c82-487c-b6a0-710892d6e6c7"
+        }
+      ],
+      "vertices": 61,
+      "editable_mesh_sha256": "e420d9cbe445ab9f5b9fd51e35d6b584a22b1d5bb4baef9a68c939a84899b36f",
+      "triangles": 90,
+      "clips": []
+    },
+    {
+      "name": "collar_R",
+      "id": "collar_R",
+      "type": "CArtMeshSource",
+      "parent": "ROOT",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "91b2fad7-b73c-457f-979d-8c56e5b6ccd9",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "b5ca4f81afca57e4f57be872afaf2098c22dc2f8d6976ee787e93410b04b4f7d",
+          "positions_count": 61,
+          "positions_bbox": [
+            1708.9609,
+            1133.9609,
+            2017.7122,
+            1571.0244
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "91b2fad7-b73c-457f-979d-8c56e5b6ccd9"
+        }
+      ],
+      "vertices": 61,
+      "editable_mesh_sha256": "b08f713691c5cfdd0d2bda808a7a35c044c5f387ca5f09bd2df3880020bae366",
+      "triangles": 90,
+      "clips": []
+    },
+    {
+      "name": "belt",
+      "id": "belt",
+      "type": "CArtMeshSource",
+      "parent": "ROOT",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "f459fe85-c020-4600-8dde-0f4a353f55a4",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "a0f3aa4e765dc5676aaa44f5a51b2dd6b899e64ae2a18c493796f8611e274154",
+          "positions_count": 49,
+          "positions_bbox": [
+            1547.6296,
+            2412.6296,
+            2445.6064,
+            2616.537
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "f459fe85-c020-4600-8dde-0f4a353f55a4"
+        }
+      ],
+      "vertices": 49,
+      "editable_mesh_sha256": "f5a55234732b815aabda70a6c6f6eabf6b7d4bb73039392df1fb2af817602b89",
+      "triangles": 70,
+      "clips": []
+    },
+    {
+      "name": "sleeve_L",
+      "id": "sleeve_L",
+      "type": "CArtMeshSource",
+      "parent": "ROOT",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "29bbf5ce-7b8e-4b8c-8253-4913f395851e",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "6de6bb4f6f27943edb32405f44b67c843ea1d9cbf84cf81066e93f0f1fbd85c1",
+          "positions_count": 55,
+          "positions_bbox": [
+            2398.9126,
+            1343.9126,
+            2806.5825,
+            2036.9514
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "29bbf5ce-7b8e-4b8c-8253-4913f395851e"
+        }
+      ],
+      "vertices": 55,
+      "editable_mesh_sha256": "0622df732fd72ae383b46743ee7452b338c4e741b8e2b44f9e341a8752e1b712",
+      "triangles": 83,
+      "clips": []
+    },
+    {
+      "name": "sleeve_R",
+      "id": "sleeve_R",
+      "type": "CArtMeshSource",
+      "parent": "ROOT",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "c58aa253-19d0-4925-ad33-0c39658845f5",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "a9557eb623f45b3d94616a7b43aa6b35eb675f3233a2703423243f14b5122e48",
+          "positions_count": 68,
+          "positions_bbox": [
+            1209.9048,
+            1364.9048,
+            1599.25,
+            2035.5833
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "c58aa253-19d0-4925-ad33-0c39658845f5"
+        }
+      ],
+      "vertices": 68,
+      "editable_mesh_sha256": "7ac8503534e50433ba30ea192751395877a1db6fecd0bde83fc31cf27b4fc1c6",
+      "triangles": 104,
+      "clips": []
+    },
+    {
+      "name": "shirt_torso",
+      "id": "shirt_torso",
+      "type": "CArtMeshSource",
+      "parent": "ROOT",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "dc86f1c6-dd79-40a9-8aae-46625e067e71",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "7b4a34276d83ccbbc084f9ac8e3fb6820183eb7bd34d33e0d17d835c0a762d71",
+          "positions_count": 138,
+          "positions_bbox": [
+            1412.204,
+            1216.3059,
+            2582.8352,
+            2504.4902
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "dc86f1c6-dd79-40a9-8aae-46625e067e71"
+        }
+      ],
+      "vertices": 138,
+      "editable_mesh_sha256": "c90c910693e79edbde41d6ee0659f8e7fb3573329de6c33d6b2219da9402049f",
+      "triangles": 232,
+      "clips": []
+    },
+    {
+      "name": "neck-clavicle",
+      "id": "ArtMesh",
+      "type": "CArtMeshSource",
+      "parent": "Neck_Follow",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "bb469898-caf2-4bd0-84af-758ec519c5b6",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "f6dc6c7c0c8f20e1ef92ba20b428d15d39869fad30c71142c8925542526cc09c",
+          "positions_count": 119,
+          "positions_bbox": [
+            0.045454632,
+            0.045454517,
+            0.9545457,
+            0.9545453
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "bb469898-caf2-4bd0-84af-758ec519c5b6"
+        }
+      ],
+      "vertices": 119,
+      "editable_mesh_sha256": "e1208c10e248d9b6b16a8907ab75744a796f03a523dbc3c52868677ab9aeb840",
+      "triangles": 198,
+      "clips": []
+    },
+    {
+      "name": "shirt_inside",
+      "id": "shirt_inside",
+      "type": "CArtMeshSource",
+      "parent": "ROOT",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "e9f30d6b-f3fd-4bc3-b7d4-9a86df67ec3a",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "26d26ae15d766c9bbba6ef6927eb833ca5f17881807eea88e6e73b2d56c461f1",
+          "positions_count": 65,
+          "positions_bbox": [
+            1844.9513,
+            1120.4735,
+            2161.0664,
+            1599.6637
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "e9f30d6b-f3fd-4bc3-b7d4-9a86df67ec3a"
+        }
+      ],
+      "vertices": 65,
+      "editable_mesh_sha256": "c9f6898185ead61d2dc40ccbf76a97ec940d87fa99020121c41b1d679e11edcc",
+      "triangles": 105,
+      "clips": []
+    },
+    {
+      "name": "upper_arm_L",
+      "id": "upper_arm_L",
+      "type": "CArtMeshSource",
+      "parent": "ROOT",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "85fdea34-cd23-4a39-954b-a576b4a81f99",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "2d702522b6e4efcc9bbc43460f8bad4d91889f973ba12e0e8fc74d260b2bef0c",
+          "positions_count": 73,
+          "positions_bbox": [
+            2480.0,
+            1831.0,
+            2848.0,
+            2299.0
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "85fdea34-cd23-4a39-954b-a576b4a81f99"
+        }
+      ],
+      "vertices": 73,
+      "editable_mesh_sha256": "e90febafbda83b68915fc8356812e973d69f7e0ac2c7dce543c94e4bf905e508",
+      "triangles": 113,
+      "clips": []
+    },
+    {
+      "name": "upper_arm_R",
+      "id": "upper_arm_R",
+      "type": "CArtMeshSource",
+      "parent": "ROOT",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "fe3052bc-a386-4844-aefb-f31d7aa3cb02",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "60ae9b4a062d87c7aa593e54ab1bd582f5167d860f10a213162a6f152f57b259",
+          "positions_count": 77,
+          "positions_bbox": [
+            1177.0,
+            1834.0,
+            1515.0,
+            2320.0
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "fe3052bc-a386-4844-aefb-f31d7aa3cb02"
+        }
+      ],
+      "vertices": 77,
+      "editable_mesh_sha256": "89c0efec7e27ec70eb18956fbe8c29e7858b8123665917b5f38418948eaf9b42",
+      "triangles": 119,
+      "clips": []
+    },
+    {
+      "name": "forearm_L",
+      "id": "forearm_L",
+      "type": "CArtMeshSource",
+      "parent": "ROOT",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "ee17a44f-7f78-4eb5-9686-72f929921473",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "ff09c61be61005ba6353d7ca733ccb7ba9cba221d61037784134da6699ac6677",
+          "positions_count": 64,
+          "positions_bbox": [
+            2670.9033,
+            2123.9033,
+            3092.9355,
+            2784.5847
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "ee17a44f-7f78-4eb5-9686-72f929921473"
+        }
+      ],
+      "vertices": 64,
+      "editable_mesh_sha256": "60a2ec02199e515b31495def33c5efd7c211a041663f7e81da9cf865aa2ebfc9",
+      "triangles": 98,
+      "clips": []
+    },
+    {
+      "name": "forearm_R",
+      "id": "forearm_R",
+      "type": "CArtMeshSource",
+      "parent": "ROOT",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "41fa8bd1-fc30-4487-9bc5-a1a28732a9e1",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "ff07fcddf6a56506cad90eb902204b761fad9d33d3abbe6784a0529609ec5947",
+          "positions_count": 49,
+          "positions_bbox": [
+            928.0,
+            2122.125,
+            1346.75,
+            2815.875
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "41fa8bd1-fc30-4487-9bc5-a1a28732a9e1"
+        }
+      ],
+      "vertices": 49,
+      "editable_mesh_sha256": "fa305f7196a3c47b6f1d98c22a93c745c64814e3fb75d15a4e348e82b41e96b8",
+      "triangles": 72,
+      "clips": []
+    },
+    {
+      "name": "hand_L",
+      "id": "hand_L",
+      "type": "CArtMeshSource",
+      "parent": "ROOT",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "e1771a2b-bee4-4d04-8669-6c792dea3e1b",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "f8d892a88ffd6a8429a3157782ad5ad6fa3798acdf7d92bcadbb5c9114fb538b",
+          "positions_count": 87,
+          "positions_bbox": [
+            2952.9666,
+            2703.9666,
+            3329.7532,
+            3211.0251
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "e1771a2b-bee4-4d04-8669-6c792dea3e1b"
+        }
+      ],
+      "vertices": 87,
+      "editable_mesh_sha256": "dbcddfc71323b9d2cc5baaa71ea515d9ec6ad668eecb8ad1ce1d4f5a85dd3bfe",
+      "triangles": 132,
+      "clips": []
+    },
+    {
+      "name": "hand_R",
+      "id": "hand_R",
+      "type": "CArtMeshSource",
+      "parent": "ROOT",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "75d4c244-cfbc-426c-bad4-fdf210237225",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "4e59e879de9a77f5c01538b9b95ce22fd82b4ac3fe7f5da96d4485bac77d1dd4",
+          "positions_count": 86,
+          "positions_bbox": [
+            704.96594,
+            2721.966,
+            1083.7703,
+            3223.0298
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "75d4c244-cfbc-426c-bad4-fdf210237225"
+        }
+      ],
+      "vertices": 86,
+      "editable_mesh_sha256": "8890be1f703918fec01795ec84149ae7a6a3196e13690a3679acbe1a76cc6959",
+      "triangles": 131,
+      "clips": []
+    },
+    {
+      "name": "trousers_L",
+      "id": "trousers_L",
+      "type": "CArtMeshSource",
+      "parent": "ROOT",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "346a372e-dbd4-4d00-b9eb-393fe4d249c9",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "b6335ec2aa840de8236db0de0ff67a90530c8f3abf6bb87343812741d2375052",
+          "positions_count": 72,
+          "positions_bbox": [
+            1957.8784,
+            2556.8784,
+            2511.7432,
+            5290.081
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "346a372e-dbd4-4d00-b9eb-393fe4d249c9"
+        }
+      ],
+      "vertices": 72,
+      "editable_mesh_sha256": "81c72206b63c99f0b05c17997453146fdac68365f406c61c256e89fc80cfc9eb",
+      "triangles": 101,
+      "clips": []
+    },
+    {
+      "name": "trousers_R",
+      "id": "trousers_R",
+      "type": "CArtMeshSource",
+      "parent": "ROOT",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "dc43b32b-e727-4ed2-a51b-95b467b7d9b0",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "2db178a5b866b8f76119bb0a8360543bd147269d52062a4aa02cdee8ec8ab586",
+          "positions_count": 78,
+          "positions_bbox": [
+            1468.0134,
+            2557.0134,
+            2019.8081,
+            5303.991
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "dc43b32b-e727-4ed2-a51b-95b467b7d9b0"
+        }
+      ],
+      "vertices": 78,
+      "editable_mesh_sha256": "948b9853512388cf242ca2a680c062f30b7d04d05b6ab84fe3f18431e47c5962",
+      "triangles": 111,
+      "clips": []
+    },
+    {
+      "name": "shoe_L",
+      "id": "shoe_L",
+      "type": "CArtMeshSource",
+      "parent": "ROOT",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "15745c5a-1d25-4cf3-9074-62dc120abe54",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "2af4c7a0eff264db4e722f1341fc7366e0ef3c7cfe29bcc801dd5302cf6a5056",
+          "positions_count": 103,
+          "positions_bbox": [
+            2124.947,
+            5211.9473,
+            2621.2556,
+            5818.5464
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "15745c5a-1d25-4cf3-9074-62dc120abe54"
+        }
+      ],
+      "vertices": 103,
+      "editable_mesh_sha256": "25843d52b7dc920efb45696a269ab1f3d8b91bab1dcc4ec7540acd4a8eac74b5",
+      "triangles": 166,
+      "clips": []
+    },
+    {
+      "name": "shoe_R",
+      "id": "shoe_R",
+      "type": "CArtMeshSource",
+      "parent": "ROOT",
+      "visible": true,
+      "bindings": [],
+      "forms": [
+        {
+          "guid": "5337a033-ed3f-4821-a320-884467bf3d24",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "35674adf08e527bcfd18496ebdef953eefe7486ad5c07ca2fbefefc9ef1dcf84",
+          "positions_count": 100,
+          "positions_bbox": [
+            1336.9646,
+            5211.965,
+            1850.3717,
+            5815.531
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [],
+          "form": "5337a033-ed3f-4821-a320-884467bf3d24"
+        }
+      ],
+      "vertices": 100,
+      "editable_mesh_sha256": "99ba950ca5a36a48296826aee3a1e3a33936e8fa2a479c9fb57e40cc076acc26",
+      "triangles": 161,
+      "clips": []
+    },
+    {
+      "name": "mouth_rim_lower",
+      "id": "mouth_rim_lower",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamMouthOpenY",
+          "keys": [
+            0.0,
+            0.1,
+            1.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "df4ee5b3-18d1-4f1d-b53b-d614ca796090",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 0.0,
+          "positions_sha256": "dfee8cdd1697527f4e2dd3336dfb5fb1b96ab121bcecff6bb0139da37e5cedd2",
+          "positions_count": 25,
+          "positions_bbox": [
+            -49.13867,
+            -242.14429,
+            47.237305,
+            -238.57434
+          ]
+        },
+        {
+          "guid": "7c983671-22bf-4c31-9ee8-9c27b9827c58",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "356bd38a206d6af3aaa58c3ba46e550195906ddd33b71d9f9e446f57bfb8a625",
+          "positions_count": 25,
+          "positions_bbox": [
+            -76.20398,
+            -237.20038,
+            77.87109,
+            -181.78296
+          ]
+        },
+        {
+          "guid": "5a89176e-ec26-4e78-b761-610bc11b0a04",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "b55c6638d12cfa4db97cb281d8eefd94185488f048223628351077f81d536e61",
+          "positions_count": 25,
+          "positions_bbox": [
+            -51.845215,
+            -238.43695,
+            50.30078,
+            -236.10815
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamMouthOpenY",
+              0.0
+            ]
+          ],
+          "form": "df4ee5b3-18d1-4f1d-b53b-d614ca796090"
+        },
+        {
+          "keys": [
+            [
+              "ParamMouthOpenY",
+              0.1
+            ]
+          ],
+          "form": "5a89176e-ec26-4e78-b761-610bc11b0a04"
+        },
+        {
+          "keys": [
+            [
+              "ParamMouthOpenY",
+              1.0
+            ]
+          ],
+          "form": "7c983671-22bf-4c31-9ee8-9c27b9827c58"
+        }
+      ],
+      "vertices": 25,
+      "editable_mesh_sha256": "eb45e01a7193064afd8ff13aebe5baca4e2c68685efa90fe0e7aea2f04584e22",
+      "triangles": 30,
+      "clips": []
+    },
+    {
+      "name": "mouth_rim_upper",
+      "id": "mouth_rim_upper",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamMouthOpenY",
+          "keys": [
+            0.0,
+            0.1,
+            1.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "acf8737f-d288-442b-9895-707af1c9a767",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 0.0,
+          "positions_sha256": "45112f1fb7e377fe31dbbdeff6021559b79c4543452ff6c84d9421547313a061",
+          "positions_count": 34,
+          "positions_bbox": [
+            -53.716553,
+            -240.70544,
+            50.46582,
+            -235.96155
+          ]
+        },
+        {
+          "guid": "b3a50ea0-38e9-49bd-8d9b-3678e2c468e3",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "aca6aa4879459d98099df7b28e2d8b35f40239abf1d6a8d4c42ec9ce704d2245",
+          "positions_count": 34,
+          "positions_bbox": [
+            -83.52258,
+            -277.76056,
+            83.03247,
+            -204.1195
+          ]
+        },
+        {
+          "guid": "f5d1600d-c0b2-4716-b9b3-1c077df78d86",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "7ad1fc7f3c3dcf1e3e2aaec8630c82961e3a0b7b59017f7ac99d4acdcf581918",
+          "positions_count": 34,
+          "positions_bbox": [
+            -56.697266,
+            -240.14148,
+            53.722412,
+            -237.04688
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamMouthOpenY",
+              0.0
+            ]
+          ],
+          "form": "acf8737f-d288-442b-9895-707af1c9a767"
+        },
+        {
+          "keys": [
+            [
+              "ParamMouthOpenY",
+              0.1
+            ]
+          ],
+          "form": "f5d1600d-c0b2-4716-b9b3-1c077df78d86"
+        },
+        {
+          "keys": [
+            [
+              "ParamMouthOpenY",
+              1.0
+            ]
+          ],
+          "form": "b3a50ea0-38e9-49bd-8d9b-3678e2c468e3"
+        }
+      ],
+      "vertices": 34,
+      "editable_mesh_sha256": "93862fcabd584d448f02dc454fe3946f49dbbe5b45182f54be019a9903fcec16",
+      "triangles": 42,
+      "clips": []
+    },
+    {
+      "name": "mouth_tongue",
+      "id": "mouth_tongue",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamMouthOpenY",
+          "keys": [
+            0.0,
+            0.1,
+            1.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "827b9d6b-d370-4f37-9ac7-030a39268879",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 0.0,
+          "positions_sha256": "427b12ed623f56b513e7f9ef0f564ece8fdc27f69c40d1577bad00fd1da804b2",
+          "positions_count": 12,
+          "positions_bbox": [
+            -44.785767,
+            -242.38037,
+            41.534912,
+            -237.87097
+          ]
+        },
+        {
+          "guid": "aa7d1bb4-8615-473d-aa94-00678e35e520",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "313f5b45320445bdb88518a5636c81fb94f29b2e37ad49d94d853f757a9eb12f",
+          "positions_count": 12,
+          "positions_bbox": [
+            -69.24512,
+            -248.1195,
+            68.75488,
+            -178.1195
+          ]
+        },
+        {
+          "guid": "76e9214c-a843-4f10-ade4-96e01bc4315c",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "4bb510ae9a9b0dfdd2b7a5a304133d78445c782368aca3c90b2c611b342ad399",
+          "positions_count": 12,
+          "positions_bbox": [
+            -47.23169,
+            -238.89587,
+            44.256836,
+            -235.95435
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamMouthOpenY",
+              0.0
+            ]
+          ],
+          "form": "827b9d6b-d370-4f37-9ac7-030a39268879"
+        },
+        {
+          "keys": [
+            [
+              "ParamMouthOpenY",
+              0.1
+            ]
+          ],
+          "form": "76e9214c-a843-4f10-ade4-96e01bc4315c"
+        },
+        {
+          "keys": [
+            [
+              "ParamMouthOpenY",
+              1.0
+            ]
+          ],
+          "form": "aa7d1bb4-8615-473d-aa94-00678e35e520"
+        }
+      ],
+      "vertices": 12,
+      "editable_mesh_sha256": "bd9d7da5af8b7a243486df3a5de7c49fd3cc5cce849449aea954d2dbd71274cb",
+      "triangles": 15,
+      "clips": [
+        "9a0c1a60-8710-4a44-8109-9fb5d5733af6"
+      ]
+    },
+    {
+      "name": "mouth_teeth_upper",
+      "id": "mouth_teeth_upper",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamMouthOpenY",
+          "keys": [
+            0.0,
+            0.1,
+            1.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "42a111ae-9fe9-44c7-89ab-c9af1568b865",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 0.0,
+          "positions_sha256": "c341df2d2fb59aef9732b3af67ff30a385ff1762bdd9ee7f0a2c253bd8083565",
+          "positions_count": 22,
+          "positions_bbox": [
+            -52.291992,
+            -238.9607,
+            50.292236,
+            -236.19861
+          ]
+        },
+        {
+          "guid": "8ca34426-634f-44d5-8c5e-af42cdacdc83",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "f862ced87eac077f3cd5d20e640039a95466b69f557b6cb66cf54c27b24d0ef3",
+          "positions_count": 22,
+          "positions_bbox": [
+            -81.24512,
+            -274.08038,
+            82.75488,
+            -231.2024
+          ]
+        },
+        {
+          "guid": "ae9aac29-c921-4d70-9121-60a14b1b0589",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "80f48577f5bf0db5de38e6a86f6639d6e79ed3ce7da70c120bac11a913241219",
+          "positions_count": 22,
+          "positions_bbox": [
+            -55.187378,
+            -239.98682,
+            53.538574,
+            -238.18488
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamMouthOpenY",
+              0.0
+            ]
+          ],
+          "form": "42a111ae-9fe9-44c7-89ab-c9af1568b865"
+        },
+        {
+          "keys": [
+            [
+              "ParamMouthOpenY",
+              0.1
+            ]
+          ],
+          "form": "ae9aac29-c921-4d70-9121-60a14b1b0589"
+        },
+        {
+          "keys": [
+            [
+              "ParamMouthOpenY",
+              1.0
+            ]
+          ],
+          "form": "8ca34426-634f-44d5-8c5e-af42cdacdc83"
+        }
+      ],
+      "vertices": 22,
+      "editable_mesh_sha256": "d5dc29e27c3147ed05ed9926e7a96a737adf2d61bd7efff1d7ab676691004bef",
+      "triangles": 26,
+      "clips": [
+        "9a0c1a60-8710-4a44-8109-9fb5d5733af6"
+      ]
+    },
+    {
+      "name": "mouth_cavity",
+      "id": "mouth_cavity",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamMouthOpenY",
+          "keys": [
+            0.0,
+            0.1,
+            1.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "fa711cc3-d74b-4b77-af12-f216b871fdfb",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 0.0,
+          "positions_sha256": "e713a3f81b4b65b35aadf72cb69c152bcb13a72bd1b7c3a5aeb9382a7e07771b",
+          "positions_count": 20,
+          "positions_bbox": [
+            -57.92151,
+            -242.50916,
+            57.17285,
+            -235.80957
+          ]
+        },
+        {
+          "guid": "f6911444-e4b7-4cff-9780-95974d6e34e5",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "d2644143df851c337ff266b2e78fed7a67edfe54df1848bb4318c9cd5e73de5c",
+          "positions_count": 20,
+          "positions_bbox": [
+            -90.24512,
+            -280.1195,
+            93.75488,
+            -176.1195
+          ]
+        },
+        {
+          "guid": "907aee70-bb04-40ea-9165-e5eb523c6cf9",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "5f8a6285162c3afec4c19eab75a6975ca7036c24489b06a6ac628e541d725c1e",
+          "positions_count": 20,
+          "positions_bbox": [
+            -61.15393,
+            -240.2406,
+            60.831055,
+            -235.87024
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamMouthOpenY",
+              0.0
+            ]
+          ],
+          "form": "fa711cc3-d74b-4b77-af12-f216b871fdfb"
+        },
+        {
+          "keys": [
+            [
+              "ParamMouthOpenY",
+              0.1
+            ]
+          ],
+          "form": "907aee70-bb04-40ea-9165-e5eb523c6cf9"
+        },
+        {
+          "keys": [
+            [
+              "ParamMouthOpenY",
+              1.0
+            ]
+          ],
+          "form": "f6911444-e4b7-4cff-9780-95974d6e34e5"
+        }
+      ],
+      "vertices": 20,
+      "editable_mesh_sha256": "4e9d4d09c4376ef184f95a093bb8bd9e9d21fb59679b6cc2dbea03edd221bd16",
+      "triangles": 27,
+      "clips": []
+    },
+    {
+      "name": "eyelash_closed_R",
+      "id": "eyelash_closed_R",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamEyeROpen",
+          "keys": [
+            0.0,
+            0.25,
+            0.5,
+            1.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "dbaf1cbc-429a-45c0-91a0-093ff8f027d4",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "618fe1193ef8da4b8ee8189937a2a10a7c1c8313e9b776c2f3403a7c303b6ee3",
+          "positions_count": 17,
+          "positions_bbox": [
+            -278.32202,
+            -448.36853,
+            -67.16821,
+            -396.08282
+          ]
+        },
+        {
+          "guid": "d2c5c0b4-beee-4bc2-824a-dd1894a3dfff",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 0.0,
+          "positions_sha256": "a57d758f4031e2afe60f6b3d0245aa730669eb9b39c25e5931f77a92d3d18e57",
+          "positions_count": 17,
+          "positions_bbox": [
+            -278.32202,
+            -482.24084,
+            -67.16821,
+            -429.95514
+          ]
+        },
+        {
+          "guid": "819a44bf-733f-47b4-83f8-51704f7831ff",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 0.0,
+          "positions_sha256": "618fe1193ef8da4b8ee8189937a2a10a7c1c8313e9b776c2f3403a7c303b6ee3",
+          "positions_count": 17,
+          "positions_bbox": [
+            -278.32202,
+            -448.36853,
+            -67.16821,
+            -396.08282
+          ]
+        },
+        {
+          "guid": "886c6172-032c-45e2-8d05-2d787ef55c04",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "2003e8e74d6acfeff422f890034618c124060c9f618a077bdad5b5cabfdf8af1",
+          "positions_count": 17,
+          "positions_bbox": [
+            -278.32202,
+            -465.3047,
+            -67.16821,
+            -413.01898
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamEyeROpen",
+              0.0
+            ]
+          ],
+          "form": "dbaf1cbc-429a-45c0-91a0-093ff8f027d4"
+        },
+        {
+          "keys": [
+            [
+              "ParamEyeROpen",
+              0.25
+            ]
+          ],
+          "form": "886c6172-032c-45e2-8d05-2d787ef55c04"
+        },
+        {
+          "keys": [
+            [
+              "ParamEyeROpen",
+              0.5
+            ]
+          ],
+          "form": "d2c5c0b4-beee-4bc2-824a-dd1894a3dfff"
+        },
+        {
+          "keys": [
+            [
+              "ParamEyeROpen",
+              1.0
+            ]
+          ],
+          "form": "819a44bf-733f-47b4-83f8-51704f7831ff"
+        }
+      ],
+      "vertices": 17,
+      "editable_mesh_sha256": "5f40bcba3979733c06d0590c726cbef985818342d7a3ab233cc4a301f6554fb6",
+      "triangles": 21,
+      "clips": []
+    },
+    {
+      "name": "eyelash_closed_L",
+      "id": "eyelash_closed_L",
+      "type": "CArtMeshSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamEyeLOpen",
+          "keys": [
+            0.0,
+            0.25,
+            0.5,
+            1.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "6a3e1133-e63a-41de-8f83-65e83b260db1",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "e1d38f1b570de6ea5385f3ed4ad1d554ab168c44a2df8814e3315e0fe85b3da9",
+          "positions_count": 20,
+          "positions_bbox": [
+            49.681885,
+            -446.35358,
+            270.82788,
+            -396.09314
+          ]
+        },
+        {
+          "guid": "6cdde04e-8675-4b9f-86f3-63f6aa437576",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 0.0,
+          "positions_sha256": "e1d38f1b570de6ea5385f3ed4ad1d554ab168c44a2df8814e3315e0fe85b3da9",
+          "positions_count": 20,
+          "positions_bbox": [
+            49.681885,
+            -446.35358,
+            270.82788,
+            -396.09314
+          ]
+        },
+        {
+          "guid": "4183bd68-2139-4a87-8cbb-5627b688ae03",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 0.0,
+          "positions_sha256": "a0344e16835e09444ea2807f4f19d40aee65cd2c86945969bb548d6a909ada4b",
+          "positions_count": 20,
+          "positions_bbox": [
+            49.681885,
+            -477.51617,
+            270.82788,
+            -427.25574
+          ]
+        },
+        {
+          "guid": "4ee636df-5f60-4441-8cd9-83b85615ec62",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "drawOrder": 500,
+          "opacity": 1.0,
+          "positions_sha256": "43f5af6f59ff79cda98d8eee77b0a50efeb5d4aacd9bb21c0b6dec08e68fd827",
+          "positions_count": 20,
+          "positions_bbox": [
+            49.681885,
+            -461.93488,
+            270.82788,
+            -411.67444
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamEyeLOpen",
+              0.0
+            ]
+          ],
+          "form": "6a3e1133-e63a-41de-8f83-65e83b260db1"
+        },
+        {
+          "keys": [
+            [
+              "ParamEyeLOpen",
+              0.25
+            ]
+          ],
+          "form": "4ee636df-5f60-4441-8cd9-83b85615ec62"
+        },
+        {
+          "keys": [
+            [
+              "ParamEyeLOpen",
+              0.5
+            ]
+          ],
+          "form": "4183bd68-2139-4a87-8cbb-5627b688ae03"
+        },
+        {
+          "keys": [
+            [
+              "ParamEyeLOpen",
+              1.0
+            ]
+          ],
+          "form": "6cdde04e-8675-4b9f-86f3-63f6aa437576"
+        }
+      ],
+      "vertices": 20,
+      "editable_mesh_sha256": "1895d0de28c728dd7ec7db0b7954d2debf24f8e271a507a2c3cbba880ea5e9ee",
+      "triangles": 26,
+      "clips": []
+    }
+  ],
+  "deformers": [
+    {
+      "name": "Jaw_Open",
+      "id": "Warp",
+      "type": "CWarpDeformerSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamMouthOpenY",
+          "keys": [
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "6b546909-77c7-48c6-a115-b9d37675c25a",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0,
+          "positions_sha256": "568829f56deb01692a8603324bece61880284fa24593411b87bff0cdd3ca3cac",
+          "positions_count": 36,
+          "positions_bbox": [
+            -370.84875,
+            -1042.6831,
+            359.2312,
+            -27.483154
+          ]
+        },
+        {
+          "guid": "784e1213-69c1-4300-b75c-41c466959f66",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0,
+          "positions_sha256": "7f185e89abc5f964c47ef1c6ebb4b59dc3139e3c5d8ebd76b1706e72dc58c425",
+          "positions_count": 36,
+          "positions_bbox": [
+            -370.84888,
+            -1042.6831,
+            359.2317,
+            -1.4691162
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamMouthOpenY",
+              0.0
+            ]
+          ],
+          "form": "6b546909-77c7-48c6-a115-b9d37675c25a"
+        },
+        {
+          "keys": [
+            [
+              "ParamMouthOpenY",
+              1.0
+            ]
+          ],
+          "form": "784e1213-69c1-4300-b75c-41c466959f66"
+        }
+      ],
+      "cols": 5,
+      "rows": 5
+    },
+    {
+      "name": "Neck_Follow",
+      "id": "Warp2",
+      "type": "CWarpDeformerSource",
+      "parent": "ROOT",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamAngleZ",
+          "keys": [
+            -30.0,
+            0.0,
+            30.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "6e937b58-6cb0-49c7-8a5c-1d48d733a5a8",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0,
+          "positions_sha256": "2dd3a32ded58edf807f9509b395befd3cccc492f9d53e5fddccd0d0f973b4b58",
+          "positions_count": 36,
+          "positions_bbox": [
+            1759.0021,
+            980.2218,
+            2223.9,
+            1576.1003
+          ]
+        },
+        {
+          "guid": "68ee6551-9df7-4d7e-8b85-8661ba902ec3",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0,
+          "positions_sha256": "7ce39e1d76e608ae154298907eb6985fecde69b6b118e695d534e8f685d86db7",
+          "positions_count": 36,
+          "positions_bbox": [
+            1786.1,
+            1001.9,
+            2223.9,
+            1576.1001
+          ]
+        },
+        {
+          "guid": "dd5c9874-9a0e-49c0-9551-2ddc22e45815",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0,
+          "positions_sha256": "db880821ac5024c38da5cf56227db66243d3bf3450fe07d78804d9fb69c4a094",
+          "positions_count": 36,
+          "positions_bbox": [
+            1786.1,
+            980.2218,
+            2250.9976,
+            1576.1003
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamAngleZ",
+              -30.0
+            ]
+          ],
+          "form": "6e937b58-6cb0-49c7-8a5c-1d48d733a5a8"
+        },
+        {
+          "keys": [
+            [
+              "ParamAngleZ",
+              0.0
+            ]
+          ],
+          "form": "68ee6551-9df7-4d7e-8b85-8661ba902ec3"
+        },
+        {
+          "keys": [
+            [
+              "ParamAngleZ",
+              30.0
+            ]
+          ],
+          "form": "dd5c9874-9a0e-49c0-9551-2ddc22e45815"
+        }
+      ],
+      "cols": 5,
+      "rows": 5
+    },
+    {
+      "name": "Hair_Front_Sway",
+      "id": "Warp3",
+      "type": "CWarpDeformerSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamHairFront",
+          "keys": [
+            -1.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "ff3a79d9-6e88-454b-a0d8-05ada02311be",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0,
+          "positions_sha256": "02c4d5317d1b10c672e70c63549f9872ff706f5e6024de3aa7e00baf19e89592",
+          "positions_count": 36,
+          "positions_bbox": [
+            -172.01038,
+            -1027.5574,
+            177.75024,
+            -349.10687
+          ]
+        },
+        {
+          "guid": "3025bdcc-74b5-4fd7-82a6-272cd887a013",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0,
+          "positions_sha256": "35fb2d49cb434f9a389ae60102dd336e7d45bb9b04d4282fd70fd449f3b28cda",
+          "positions_count": 36,
+          "positions_bbox": [
+            -149.71512,
+            -1027.5574,
+            177.75027,
+            -351.94446
+          ]
+        },
+        {
+          "guid": "2b09e561-a1ce-49d9-bb89-d87bedc81077",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0,
+          "positions_sha256": "5f2cd22bdfb39719cf295bf1e823facd8e0f0335528bdd73b3bb9edda84bf79f",
+          "positions_count": 36,
+          "positions_bbox": [
+            -149.71509,
+            -1027.5574,
+            200.04541,
+            -349.10687
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamHairFront",
+              -1.0
+            ]
+          ],
+          "form": "ff3a79d9-6e88-454b-a0d8-05ada02311be"
+        },
+        {
+          "keys": [
+            [
+              "ParamHairFront",
+              0.0
+            ]
+          ],
+          "form": "3025bdcc-74b5-4fd7-82a6-272cd887a013"
+        },
+        {
+          "keys": [
+            [
+              "ParamHairFront",
+              1.0
+            ]
+          ],
+          "form": "2b09e561-a1ce-49d9-bb89-d87bedc81077"
+        }
+      ],
+      "cols": 5,
+      "rows": 5
+    },
+    {
+      "name": "Hair_Side_L_Sway",
+      "id": "Warp4",
+      "type": "CWarpDeformerSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamHairSide",
+          "keys": [
+            -1.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "24b5bff8-c98a-4edc-a618-f0d40916d53b",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0,
+          "positions_sha256": "a0060dadce69841da77a74b07b94e294f61dd2542c33663e7512a663b95cbe88",
+          "positions_count": 36,
+          "positions_bbox": [
+            -75.1051,
+            -807.6668,
+            527.99316,
+            -268.12305
+          ]
+        },
+        {
+          "guid": "d20111cb-eba0-415e-81b6-06f82185b9fd",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0,
+          "positions_sha256": "96897293f5fd314419a11b3f8dcd4d554ef6ab34dce33b7334c4590311f31522",
+          "positions_count": 36,
+          "positions_bbox": [
+            -60.031746,
+            -807.6668,
+            527.99304,
+            -269.3343
+          ]
+        },
+        {
+          "guid": "59b8a6aa-7593-4724-9acd-f859c9f4d63a",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0,
+          "positions_sha256": "a6e84688cc8fecc9443920199621867b396803036999b74c1145a77ac9e086e7",
+          "positions_count": 36,
+          "positions_bbox": [
+            -60.03174,
+            -807.6668,
+            543.0664,
+            -268.12305
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamHairSide",
+              -1.0
+            ]
+          ],
+          "form": "24b5bff8-c98a-4edc-a618-f0d40916d53b"
+        },
+        {
+          "keys": [
+            [
+              "ParamHairSide",
+              0.0
+            ]
+          ],
+          "form": "d20111cb-eba0-415e-81b6-06f82185b9fd"
+        },
+        {
+          "keys": [
+            [
+              "ParamHairSide",
+              1.0
+            ]
+          ],
+          "form": "59b8a6aa-7593-4724-9acd-f859c9f4d63a"
+        }
+      ],
+      "cols": 5,
+      "rows": 5
+    },
+    {
+      "name": "Hair_Side_R_Sway",
+      "id": "Warp5",
+      "type": "CWarpDeformerSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamHairSide",
+          "keys": [
+            -1.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "408b9749-95c1-466a-9056-2d3de98bf86a",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0,
+          "positions_sha256": "2bd1c3918683db21ded9b042a08f7cfde500e39cdd7ec3dc402f64d1ff2c6ec5",
+          "positions_count": 36,
+          "positions_bbox": [
+            -544.94434,
+            -799.8195,
+            43.85498,
+            -277.24634
+          ]
+        },
+        {
+          "guid": "6db927d0-fc06-4d1d-9270-ba3114eb38ef",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0,
+          "positions_sha256": "2fe1cdac514c240a31c60176fdf0de9b69fde275ad1ccae9857f32fc66ea567e",
+          "positions_count": 36,
+          "positions_bbox": [
+            -530.3451,
+            -799.8195,
+            43.85492,
+            -278.4195
+          ]
+        },
+        {
+          "guid": "512222e9-cc64-4a1b-9060-ba8020095ed2",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0,
+          "positions_sha256": "84d34a97a0ebf00daf7fc49424c1c8144fb91acb4fdb2151c1714764c6c0ee7c",
+          "positions_count": 36,
+          "positions_bbox": [
+            -530.3451,
+            -799.8195,
+            58.4541,
+            -277.24634
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamHairSide",
+              -1.0
+            ]
+          ],
+          "form": "408b9749-95c1-466a-9056-2d3de98bf86a"
+        },
+        {
+          "keys": [
+            [
+              "ParamHairSide",
+              0.0
+            ]
+          ],
+          "form": "6db927d0-fc06-4d1d-9270-ba3114eb38ef"
+        },
+        {
+          "keys": [
+            [
+              "ParamHairSide",
+              1.0
+            ]
+          ],
+          "form": "512222e9-cc64-4a1b-9060-ba8020095ed2"
+        }
+      ],
+      "cols": 5,
+      "rows": 5
+    },
+    {
+      "name": "Hair_Back_Sway",
+      "id": "Warp6",
+      "type": "CWarpDeformerSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamHairBack",
+          "keys": [
+            -1.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "03551649-6700-497e-ba94-b903b5ea7e40",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0,
+          "positions_sha256": "a7b99ad561ad5dcd63888727bc111aff415d351ba70e079849855d4198e016f9",
+          "positions_count": 36,
+          "positions_bbox": [
+            -297.04517,
+            -340.6195,
+            297.55493,
+            -87.23999
+          ]
+        },
+        {
+          "guid": "7a574e12-e67f-4635-b5c4-b525d975210d",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0,
+          "positions_sha256": "a8b2140a8da73ea7b44cd595a6d526ae901f4c281e7292ed51546693398f392e",
+          "positions_count": 36,
+          "positions_bbox": [
+            -292.0451,
+            -340.6195,
+            297.55487,
+            -87.61951
+          ]
+        },
+        {
+          "guid": "d87a6935-0435-4be9-a3c5-4f40b92fc9c3",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0,
+          "positions_sha256": "82ecc43a759fdd9c129e412192dd634bd43d92251e9e42dfd35c54381f354785",
+          "positions_count": 36,
+          "positions_bbox": [
+            -292.04517,
+            -340.6195,
+            302.55493,
+            -87.23999
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamHairBack",
+              -1.0
+            ]
+          ],
+          "form": "03551649-6700-497e-ba94-b903b5ea7e40"
+        },
+        {
+          "keys": [
+            [
+              "ParamHairBack",
+              0.0
+            ]
+          ],
+          "form": "7a574e12-e67f-4635-b5c4-b525d975210d"
+        },
+        {
+          "keys": [
+            [
+              "ParamHairBack",
+              1.0
+            ]
+          ],
+          "form": "d87a6935-0435-4be9-a3c5-4f40b92fc9c3"
+        }
+      ],
+      "cols": 5,
+      "rows": 5
+    },
+    {
+      "name": "Ahoge_Sway",
+      "id": "Warp7",
+      "type": "CWarpDeformerSource",
+      "parent": "Head_Tilt",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamHairFront",
+          "keys": [
+            -1.0,
+            0.0,
+            1.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "b838510e-8974-4cf1-b3e8-7b22dbb6425f",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0,
+          "positions_sha256": "9d5c25f1a07cd35e5f5ed30749521f54bfa164b8b691be694ea7cdd3ef2a5a6a",
+          "positions_count": 36,
+          "positions_bbox": [
+            -422.32336,
+            -1194.5103,
+            82.64136,
+            -881.30634
+          ]
+        },
+        {
+          "guid": "af946705-1a1a-49fe-b499-628878d120a7",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0,
+          "positions_sha256": "6cac38e234fc810c4822c686a7c11022b93e275b5802ab1ac858c195d3562a75",
+          "positions_count": 36,
+          "positions_bbox": [
+            -420.13623,
+            -1172.3881,
+            82.64142,
+            -881.30634
+          ]
+        },
+        {
+          "guid": "6465ee1c-2b16-4148-b89f-cec859d09bf1",
+          "form_attributes": {},
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0,
+          "positions_sha256": "cecabe1147db3051d2db5f7e0558a27bf9404067d7a3b2fc3d1eb3e7de433fcf",
+          "positions_count": 36,
+          "positions_bbox": [
+            -422.32336,
+            -1172.3881,
+            82.64136,
+            -859.1841
+          ]
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamHairFront",
+              -1.0
+            ]
+          ],
+          "form": "b838510e-8974-4cf1-b3e8-7b22dbb6425f"
+        },
+        {
+          "keys": [
+            [
+              "ParamHairFront",
+              0.0
+            ]
+          ],
+          "form": "af946705-1a1a-49fe-b499-628878d120a7"
+        },
+        {
+          "keys": [
+            [
+              "ParamHairFront",
+              1.0
+            ]
+          ],
+          "form": "6465ee1c-2b16-4148-b89f-cec859d09bf1"
+        }
+      ],
+      "cols": 5,
+      "rows": 5
+    },
+    {
+      "name": "Head_Tilt",
+      "id": "Rotation",
+      "type": "CRotationDeformerSource",
+      "parent": "ROOT",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamAngleZ",
+          "keys": [
+            -30.0,
+            0.0,
+            30.0
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "guid": "f5d5b61a-a680-4116-ba08-430be884da54",
+          "form_attributes": {
+            "angle": "-6.0",
+            "originX": "2002.2451",
+            "originY": "1261.1195",
+            "scale": "1.0",
+            "isReflectX": "false",
+            "isReflectY": "false"
+          },
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0
+        },
+        {
+          "guid": "b2220255-709a-4679-a505-b3d4da5360bd",
+          "form_attributes": {
+            "angle": "0.0",
+            "originX": "2002.2451",
+            "originY": "1261.1195",
+            "scale": "1.0",
+            "isReflectX": "false",
+            "isReflectY": "false"
+          },
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0
+        },
+        {
+          "guid": "c1d99c48-c067-47b1-8ee2-443671863964",
+          "form_attributes": {
+            "angle": "6.0",
+            "originX": "2002.2451",
+            "originY": "1261.1195",
+            "scale": "1.0",
+            "isReflectX": "false",
+            "isReflectY": "false"
+          },
+          "isAnimatedForm": false,
+          "isLocalAnimatedForm": false,
+          "opacity": 1.0
+        }
+      ],
+      "grid": [
+        {
+          "keys": [
+            [
+              "ParamAngleZ",
+              -30.0
+            ]
+          ],
+          "form": "f5d5b61a-a680-4116-ba08-430be884da54"
+        },
+        {
+          "keys": [
+            [
+              "ParamAngleZ",
+              0.0
+            ]
+          ],
+          "form": "b2220255-709a-4679-a505-b3d4da5360bd"
+        },
+        {
+          "keys": [
+            [
+              "ParamAngleZ",
+              30.0
+            ]
+          ],
+          "form": "c1d99c48-c067-47b1-8ee2-443671863964"
+        }
+      ],
+      "cols": null,
+      "rows": null
+    }
+  ],
+  "physics": [
+    {
+      "name": "Front and ahoge",
+      "inputs": [
+        {
+          "angleScale": 0.0,
+          "weight": 100.0,
+          "type": "SRC_TO_G_ANGLE",
+          "isReverse": false,
+          "parameter": "ParamAngleZ"
+        }
+      ],
+      "outputs": [
+        {
+          "vertexIndex": 1,
+          "angleScale": 5.2,
+          "weight": 100.0,
+          "type": "SRC_TO_G_ANGLE",
+          "isReverse": false,
+          "parameter": "ParamHairFront"
+        }
+      ],
+      "vertices": [
+        {
+          "mobility": 1.0,
+          "delay": 1.0,
+          "acceleration": 1.0,
+          "radius": 0.0
+        },
+        {
+          "mobility": 0.86,
+          "delay": 0.65,
+          "acceleration": 1.2,
+          "radius": 6.0
+        }
+      ]
+    },
+    {
+      "name": "Side hair",
+      "inputs": [
+        {
+          "angleScale": 0.0,
+          "weight": 100.0,
+          "type": "SRC_TO_G_ANGLE",
+          "isReverse": false,
+          "parameter": "ParamAngleZ"
+        }
+      ],
+      "outputs": [
+        {
+          "vertexIndex": 1,
+          "angleScale": 5.0,
+          "weight": 100.0,
+          "type": "SRC_TO_G_ANGLE",
+          "isReverse": false,
+          "parameter": "ParamHairSide"
+        }
+      ],
+      "vertices": [
+        {
+          "mobility": 1.0,
+          "delay": 1.0,
+          "acceleration": 1.0,
+          "radius": 0.0
+        },
+        {
+          "mobility": 0.9,
+          "delay": 0.75,
+          "acceleration": 1.0,
+          "radius": 8.0
+        }
+      ]
+    },
+    {
+      "name": "Back hair",
+      "inputs": [
+        {
+          "angleScale": 0.0,
+          "weight": 100.0,
+          "type": "SRC_TO_G_ANGLE",
+          "isReverse": false,
+          "parameter": "ParamAngleZ"
+        }
+      ],
+      "outputs": [
+        {
+          "vertexIndex": 1,
+          "angleScale": 4.5,
+          "weight": 100.0,
+          "type": "SRC_TO_G_ANGLE",
+          "isReverse": false,
+          "parameter": "ParamHairBack"
+        }
+      ],
+      "vertices": [
+        {
+          "mobility": 1.0,
+          "delay": 1.0,
+          "acceleration": 1.0,
+          "radius": 0.0
+        },
+        {
+          "mobility": 0.86,
+          "delay": 0.8,
+          "acceleration": 1.1,
+          "radius": 10.0
+        }
+      ]
+    }
+  ],
+  "layered_sources": [
+    {
+      "name": "Ren_front.psd",
+      "memo": "",
+      "psdFile": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\Ren_front.psd",
+      "description": ""
+    },
+    {
+      "name": "Ren_mouth_addition.psd",
+      "memo": "",
+      "psdFile": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\Ren_mouth_addition.psd",
+      "description": ""
+    },
+    {
+      "name": "Ren_blink_transition.psd",
+      "memo": "",
+      "psdFile": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\Ren_blink_transition.psd",
+      "description": ""
+    }
+  ],
+  "atlas_count": 1,
+  "texture_manager_xml": "<CTextureManager xs.n=\"textureManager\">\n<TextureImageGroup xs.n=\"textureList\">\n<carray_list xs.n=\"children\" count=\"0\" />\n</TextureImageGroup>\n<carray_list xs.n=\"_rawImages\" count=\"3\">\n<LayeredImageWrapper>\n<CLayeredImage xs.n=\"image\" xs.ref=\"#1\" />\n<l xs.n=\"importedTimeMSec\">1790234503063</l>\n<l xs.n=\"lastModifiedTimeMSec\">1790232555180</l>\n<b xs.n=\"isReplaced\">false</b>\n</LayeredImageWrapper>\n<LayeredImageWrapper>\n<CLayeredImage xs.n=\"image\" xs.ref=\"#86\" />\n<l xs.n=\"importedTimeMSec\">1790236091468</l>\n<l xs.n=\"lastModifiedTimeMSec\">1790235961352</l>\n<b xs.n=\"isReplaced\">false</b>\n</LayeredImageWrapper>\n<LayeredImageWrapper>\n<CLayeredImage xs.n=\"image\" xs.ref=\"#98\" />\n<l xs.n=\"importedTimeMSec\">1790237534175</l>\n<l xs.n=\"lastModifiedTimeMSec\">1790237255120</l>\n<b xs.n=\"isReplaced\">false</b>\n</LayeredImageWrapper>\n</carray_list>\n<carray_list xs.n=\"_modelImageGroups\" count=\"3\">\n<CModelImageGroup xs.ref=\"#119\" />\n<CModelImageGroup xs.ref=\"#420\" />\n<CModelImageGroup xs.ref=\"#457\" />\n</carray_list>\n<carray_list xs.n=\"_textureAtlases\" count=\"1\">\n<CTextureAtlas xs.ref=\"#465\" />\n</carray_list>\n<b xs.n=\"isTextureInputModelImageMode\">false</b>\n<i xs.n=\"previewReductionRatio\">1</i>\n<carray_list xs.n=\"artPathBrushUsingLayeredImageIds\" count=\"0\" />\n</CTextureManager>\n"
+}

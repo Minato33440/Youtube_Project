@@ -1,0 +1,125 @@
+{
+  "nonempty_morph_target_lists": [],
+  "texture_optional_transforms": [
+    {
+      "mesh": "lower_eyelid_left",
+      "optional_transform": {
+        "xs.n": "optionalTransformOnCanvas",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "0.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "0.0"
+      }
+    },
+    {
+      "mesh": "ALT_eyelash_upper_L",
+      "optional_transform": {
+        "xs.n": "optionalTransformOnCanvas",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "0.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "0.0"
+      }
+    },
+    {
+      "mesh": "ALT_iris_L_blue",
+      "optional_transform": {
+        "xs.n": "optionalTransformOnCanvas",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "0.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "0.0"
+      }
+    },
+    {
+      "mesh": "FILL_eye_white_L",
+      "optional_transform": {
+        "xs.n": "optionalTransformOnCanvas",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "0.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "0.0"
+      }
+    },
+    {
+      "mesh": "lower_eyelid_right",
+      "optional_transform": {
+        "xs.n": "optionalTransformOnCanvas",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "0.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "0.0"
+      }
+    },
+    {
+      "mesh": "ALT_eyelash_upper_R",
+      "optional_transform": {
+        "xs.n": "optionalTransformOnCanvas",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "0.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "0.0"
+      }
+    },
+    {
+      "mesh": "ALT_iris_R_brown",
+      "optional_transform": {
+        "xs.n": "optionalTransformOnCanvas",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "0.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "0.0"
+      }
+    },
+    {
+      "mesh": "FILL_eye_white_R",
+      "optional_transform": {
+        "xs.n": "optionalTransformOnCanvas",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "0.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "0.0"
+      }
+    },
+    {
+      "mesh": "eyelash_closed_L",
+      "optional_transform": {
+        "xs.n": "optionalTransformOnCanvas",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "0.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "0.0"
+      }
+    },
+    {
+      "mesh": "eyelash_closed_R",
+      "optional_transform": {
+        "xs.n": "optionalTransformOnCanvas",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "0.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "0.0"
+      }
+    }
+  ]
+}

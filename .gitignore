@@ -116,13 +116,14 @@ cache/
 # ドキュメント用の図版は docs/images/ に置けば追跡する
 !docs/images/**
 
-# Provider間で共有するレンの最新プレビュー（直下の画像・短い確認動画のみ）
-!/Live2D/model-ren-asagiri/latest_preview/*.png
-!/Live2D/model-ren-asagiri/latest_preview/*.jpg
-!/Live2D/model-ren-asagiri/latest_preview/*.jpeg
-!/Live2D/model-ren-asagiri/latest_preview/*.psd
-!/Live2D/model-ren-asagiri/latest_preview/*.mp4
-!/Live2D/model-ren-asagiri/latest_preview/*.gif
+
+# Live2D トレーニングフォルダの画像・確認動画は追跡可能
+!/Live2D/Traning/**/*.jpg
+!/Live2D/Traning/**/*.jpeg
+!/Live2D/Traning/**/*.png
+!/Live2D/Traning/**/*.psd
+!/Live2D/Traning/**/*.mp4
+!/Live2D/Traning/**/*.gif
 
 # Filmora / 編集ソフトのプロジェクト・キャッシュ
 *.wfp
@@ -145,6 +146,9 @@ cache/
 *.tar
 *.tar.gz
 *.iso
+
+# 作業アーカイブ（任意階層の archive/ フォルダは追跡しない）
+archive/
 
 # ---------------------------------------------
 # OS / エディタ
@@ -171,3 +175,93 @@ desktop.ini
 # ---------------------------------------------
 logs/
 *.log
+
+# Ren Git policy (2026-10-01): local sources/tests stay on disk; curated copies go to Git.
+# Scope is this repository only. Traning and other projects keep their existing rules.
+# Folder groups retain only documentation/code/metadata below. No per-image allowlist.
+/Live2D/model-ren-asagiri/art/**
+!/Live2D/model-ren-asagiri/art/
+!/Live2D/model-ren-asagiri/art/**/
+/Live2D/model-ren-asagiri/art_assets/**
+!/Live2D/model-ren-asagiri/art_assets/
+!/Live2D/model-ren-asagiri/art_assets/**/
+/Live2D/model-ren-asagiri/latest_preview/**
+!/Live2D/model-ren-asagiri/latest_preview/
+!/Live2D/model-ren-asagiri/latest_preview/**/
+/Live2D/model-ren-asagiri/test_png_*/**
+!/Live2D/model-ren-asagiri/test_png_*/
+!/Live2D/model-ren-asagiri/test_png_*/**/
+/Live2D/model-ren-asagiri/model/head_angles/**
+!/Live2D/model-ren-asagiri/model/head_angles/
+!/Live2D/model-ren-asagiri/model/head_angles/**/
+/Live2D/model-ren-asagiri/model/**/preview/**
+!/Live2D/model-ren-asagiri/model/**/preview/
+!/Live2D/model-ren-asagiri/model/**/preview/**/
+/Live2D/model-ren-asagiri/model/**/review_*/**
+!/Live2D/model-ren-asagiri/model/**/review_*/
+!/Live2D/model-ren-asagiri/model/**/review_*/**/
+/Live2D/model-ren-asagiri/model/**/*_implementation_*/**
+!/Live2D/model-ren-asagiri/model/**/*_implementation_*/
+!/Live2D/model-ren-asagiri/model/**/*_implementation_*/**/
+/Live2D/model-ren-asagiri/**/archive/**
+!/Live2D/model-ren-asagiri/**/archive/
+!/Live2D/model-ren-asagiri/**/archive/**/
+/Live2D/model-ren-asagiri/**/backup/**
+!/Live2D/model-ren-asagiri/**/backup/
+!/Live2D/model-ren-asagiri/**/backup/**/
+/Live2D/model-ren-asagiri/**/buckup/**
+!/Live2D/model-ren-asagiri/**/buckup/
+!/Live2D/model-ren-asagiri/**/buckup/**/
+
+# Images outside the curated collection remain local, including new test folders.
+/Live2D/model-ren-asagiri/**/*.[pP][nN][gG]
+/Live2D/model-ren-asagiri/**/*.[jJ][pP][gG]
+/Live2D/model-ren-asagiri/**/*.[jJ][pP][eE][gG]
+/Live2D/model-ren-asagiri/**/*.[pP][sS][dD]
+/Live2D/model-ren-asagiri/**/*.[gG][iI][fF]
+/Live2D/model-ren-asagiri/**/*.[wW][eE][bB][pP]
+/Live2D/model-ren-asagiri/**/*.[bB][mM][pP]
+/Live2D/model-ren-asagiri/**/*.[tT][iI][fF]
+/Live2D/model-ren-asagiri/**/*.[tT][iI][fF][fF]
+/Live2D/model-ren-asagiri/**/*.[rR][aA][wW]
+/Live2D/model-ren-asagiri/**/*.[aA][iI]
+
+# Keep reproducible procedures, decisions, manifests, and validation code.
+!/Live2D/model-ren-asagiri/**/*.md
+!/Live2D/model-ren-asagiri/**/*.json
+!/Live2D/model-ren-asagiri/**/*.py
+!/Live2D/model-ren-asagiri/**/*.js
+!/Live2D/model-ren-asagiri/**/*.ts
+!/Live2D/model-ren-asagiri/**/*.ps1
+!/Live2D/model-ren-asagiri/**/*.sh
+!/Live2D/model-ren-asagiri/**/*.txt
+!/Live2D/model-ren-asagiri/**/*.csv
+!/Live2D/model-ren-asagiri/**/*.tsv
+!/Live2D/model-ren-asagiri/**/*.toml
+!/Live2D/model-ren-asagiri/**/*.yaml
+!/Live2D/model-ren-asagiri/**/*.yml
+!/Live2D/model-ren-asagiri/**/*.html
+!/Live2D/model-ren-asagiri/**/*.css
+!/Live2D/model-ren-asagiri/**/.gitignore
+
+# Approved Git copy of artwork: five formats, any depth and letter case.
+!/Live2D/model-ren-asagiri/art/latest_png_collection/
+!/Live2D/model-ren-asagiri/art/latest_png_collection/**/
+!/Live2D/model-ren-asagiri/art/latest_png_collection/**/*.[pP][nN][gG]
+!/Live2D/model-ren-asagiri/art/latest_png_collection/**/*.[jJ][pP][gG]
+!/Live2D/model-ren-asagiri/art/latest_png_collection/**/*.[jJ][pP][eE][gG]
+!/Live2D/model-ren-asagiri/art/latest_png_collection/**/*.[pP][sS][dD]
+!/Live2D/model-ren-asagiri/art/latest_png_collection/**/*.[gG][iI][fF]
+
+# Metadata exceptions must not re-enable credential files.
+/Live2D/model-ren-asagiri/**/secrets.json
+/Live2D/model-ren-asagiri/**/credentials.json
+/Live2D/model-ren-asagiri/**/client_secret*.json
+/Live2D/model-ren-asagiri/**/token.json
+/Live2D/model-ren-asagiri/**/*_credentials.json
+/Live2D/model-ren-asagiri/**/oauth*.json
+
+# Selected Git assets: retired local catalog and older model checkpoints.
+/Live2D/ASSET_CATALOG.md
+/Live2D/model-ren-asagiri/model/base_motion/Ren_base.cmo3
+/Live2D/model-ren-asagiri/model/base_motion/Ren_base[1-4].cmo3

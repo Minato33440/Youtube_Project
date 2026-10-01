@@ -1,12 +1,34 @@
 # 朝霧レン — 制作の入口
 
-更新: 2026-09-24。Tommy’s Worksの販売モデル構想。正面・背面原画から初期パーツPSDを作成。販売用リグは未完成。
+**2026-10-01 眉実装：現在の編集先は [Ren_base5.cmo3](model/base_motion/Ren_base5.cmo3)。** Bossのbase4修正を引き継ぎ、左右眉の上下・左右・角度・変形を各3点で実装。髪表示を復帰して保存・再読込済み。[実装と検証](model/base_motion/brow_implementation_20261001/test_report.md)。眉以外の既存形状・48使用画像を維持。正面の代表条件まで確認し、runtime・全組合せは未検証。次は視線と正面の組合せ点検から。下記base3以前の記録は履歴。
+
+**2026-10-01 15:57 JST 再照合：** 基準は [Ren_base3.cmo3](model/base_motion/README.md)。10/1 15:46保存、7,329,828 bytes、SHA256 `3eb81f7187ae3d5be9d2ad51e6d6dc7c552bce7e4ddfb6912e587345519d4647`。9/30版から更新あり。手動実装報告は保持、新版の内部・動作は未検証。次は現行版保護と中立正面の組合せ点検。詳細とGit状態は上記README。
+
+**採用PNGの固定集約先：[latest_png_collection](art/latest_png_collection/README.md)。** 旧d0a91695版Ren_base3使用画像と48枚を再照合済み（10/1 15:46保存版は未再照合）。元作業原画・モデル参照は維持し、更新時は全件を再確認する。
+
+**2026-10-01 進捗共有：[base3の照合と最新の手動実装報告](model/base_motion/README.md)。** 9/30保存版のハッシュは一致。眼窩再補修・閉眼遮蔽・まつ毛・目口の5点化はミナトの報告として追記し、内部／連続動作の実検証とは区別した。次は中立正面の組合せ点検。今回文書のみ更新。以下の9/30以前の記録は保持する。
+
+**2026-09-30 現在の編集先：[Ren_base3.cmo3と再開記録](model/base_motion/README.md)。** 教材から制作コピーへ基礎整理・顎首髪の初回動作を追加した後、Bossがアホ毛・横髪・目の表情・閉眼まつ毛切替と7段階の開閉を調整。base3では顔下地の頬〜眼窩の赤みを修正してArtMeshを差し替えたとの報告。base3は実在・ハッシュ確認済み、Agentによるモデル内容の再検証は未実施。次は中立正面の視線・開閉・表情の組合せ確認を提案済み。元教材と旧版を保持し、本番アトラスはPro版導入後4096pxを目安に後工程で検討する。
+
+以下は過去の監査・制作履歴。各日付時点の記述であり、現在の編集先は上記base_motionとする。
+
+**2026-09-30 教材CMO3を監査：[Ren_deformerの基礎モデル適性確認](model/training_base_audit/README.md)。** 使用中46枚の画像は最新PNGとRGBA一致。瞬き・笑顔目・口形・Z・中央前髪・独立アホ毛を持つため、次の土台候補として推奨。以前の顎・首追従と横髪・後ろ髪揺れは含まれず、Z中立+1°、クリッピング、XY用階層等は整理候補。Ren_deformerとRen_deformer0は内部XML・画像が一致。今回モデル・素材は未変更、正式採用・修正は未実施。
+
+**2026-09-29 次の制作手順：[中立正面の基本動作とXYZの土台作り](HEAD_BASE_MOTION_PLAN.md)。** 先に眉・視線・目尻・口形・髪の不足動作を確認・調整し、その後Y/X単独、中間、XY四隅、Z複合へ進む。参考原画は雰囲気の確認用。以下の旧実験から無条件に再開せず、基準CMO3の対応確認から始める。今回は計画整理のみでモデルは未変更。
+
+**2026-09-28 資産整理後の入口：[Git保存方針](../maintenance/20261001_git_policy/README.md)。** 以下の9/26輪郭トレースは未採用の実験履歴として残す。制作基準へ自動昇格しない。了承済み初期動作のCMO3はGit履歴に保持され、同名の作業版には未確認差分がある。今回の整理で両者の内容を変更したり巻き戻したりしていない。コミット候補・復旧点・ローカルarchiveの区別は上記索引から確認する。
+
+更新: 2026-09-30。Tommy’s Worksの販売モデル構想。正面・背面原画から初期パーツPSDを作成。販売用リグは未完成。
 
 ## 現在地
 
-**9/24：顎・首の連動と髪揺れの初回実装完了。** [現在の編集モデルと12秒プレビュー](model/head_neck_hair/README.md)を入口にする。Boss了承済みの瞬き・会話口へ顎、左右傾斜に伴う首の追従、髪の物理演算を追加。48 ArtMeshのcmo3とSDK5.0 runtimeを保存し、実モデル14状態・動画で検査。正面中立は前回との差が最大1/255、元48PNGと基準モデルは保持。今回の動きはBoss確認待ち。左右向き・うなずき・大笑い専用の追加開口と配信アプリ設定は今後。
+**9/26最新：全頭輪郭の下絵による再調整。** [最新の比較と編集モデル](model/head_angles/single_endpoint/README.md)。Looking_down (2)-outline.pngの傾きを保った参照PSDを用い、X=-30/Y=-30の顔下地の既存頂点を再調整・保存・runtime再書出し。可視輪郭344点の中央値4.457→2.635px／最大23.622→9.920px。今回開始前に対して正面頷き・口開閉の表示を保持。頬の小さな段差と半透明の縁は残るため、Bossの輪郭確認と必要な修正まで目・口・耳・髪の配置は保留。
 
-**前工程：Cubism取り込みと瞬き・口開閉。** [basic_expression](model/basic_expression/README.md)はBoss了承済みの基準として保持。最新正面PSDの41層へ口5枚・閉眼まつ毛2枚を追加した48 ArtMeshモデル。今後の編集はhead_neck_hairから続ける。
+**9/25：制作手順を更新。** [ワークフロー v2.0](../CHARACTER_PRODUCTION_WORKFLOW.md)に、Bossの原画再現・手作業補修とAgentの配置・比較・PSD・リグ実装の分業を反映した。
+
+**9/24：顎・首の連動と髪揺れの初回実装完了。** [現在の編集モデルと12秒プレビュー](model/head_neck_hair/README.md)を入口にする。Boss了承済みの瞬き・会話口へ顎、左右傾斜に伴う首の追従、髪の物理演算を追加。48 ArtMeshのcmo3とSDK5.0 runtimeを保存し、実モデル14状態・動画で検査。正面中立は前回との差が最大1/255、元48PNGと基準モデルは保持。初回プレビューは9/25にBossが自然な表情として了承。[受入対象と現行モデルの差分](model/head_neck_hair/acceptance_20260925.md)を確認して継続する。左右向き・うなずき・大笑い専用の追加開口と配信アプリ設定は今後。
+
+**前工程：Cubism取り込みと瞬き・口開閉。** [basic_expression](model/basic_expression/README.md)はBoss了承済みの基準として保持。当時の正面PSDの41層へ口5枚・閉眼まつ毛2枚を追加した48 ArtMeshモデル。head_anglesとhead_neck_hairは比較・復旧用の過去工程であり、現在の編集先はbase_motion。
 
 **9/24工程1完了：[最新の正面PSD](art/psd_front/README.md)を作成。** 頭部・首・襟の静止接続を確認し、4000×6000の41レイヤーへ統合。PSDを別の読み込み処理で再描画して検証済み。
 
@@ -20,7 +42,9 @@
 
 | 資料 | 内容 |
 | --- | --- |
-| [現在のCubismモデル](model/head_neck_hair/README.md) | 顎・首・髪の連動を追加したcmo3、12秒GIF/MP4、検証と未実装範囲 |
+| [現在のCubism作業モデル](model/base_motion/README.md) | Boss補修済み教材を基にした基礎整理と顎・首・髪の初回動作。Editor確認段階 |
+| [未採用の輪郭実験](model/head_angles/single_endpoint/README.md) | 過去の片側顔下地の静止輪郭比較。今後の土台には使用しない |
+| [横顔素材の修正一覧](art/side_view_review/REVIEW.md) | 髪の肌色片、アホ毛、目素材の用途、横顔用の分離と隠れ面 |
 | [了承済みの基本表情](model/basic_expression/README.md) | 前工程の瞬き・口開閉モデル。比較基準として保持 |
 | [パーツv001・編集の入口](art/processing_v001/README.md) | 正面/背面PSD、cmo3、座標manifest、補助素材切替、Bossの修正対象 |
 | [v001検証結果](art/processing_v001/test_report.md) | 原画保存・再合成・PSD読戻し・Cubism確認の範囲 |
@@ -28,7 +52,7 @@
 | [実装計画](implementation_plan.md) | リサ検証→原画→パーツ→リグ→両アプリ→販売準備、各工程の合格条件 |
 | [判断と変更の記録](decisions.md) | Grok原案から変更した点、未決事項、資料の優先関係 |
 | [将来のAI連携商品](../future/ai_partner_integration.md) | 単独販売案。現在の本体実装には含めない |
-| [配置・分離方針](../repository_layout.md) | 当面の同一リポ運用と将来の分離条件 |
+| [配置・分離方針](repository_layout.md) | 当面の同一リポ運用と将来の分離条件 |
 
 ## 決定済み
 
@@ -43,7 +67,7 @@
 - 正面頭部：[head/parts](art/head/README.md)。後ろ髪修正・耳との隙間を再確認した23PNGが現行。表情補助はhead/expression_sources。
 - 他部位：processing_v001/front/partsに残した首・襟・胴体・四肢を最終比較。背面はprocessing_v001/back。
 - [旧頭部素材・比較資料](art/archive/20260924-old-head-assets/README.md)は履歴。eye_adjust_v007等の旧最新指定は廃止。
-- 原画はart_assets、旧モデルはmodel/parts_v001に保持。最新頭部を統合したPSDはart/psd_front、現在のCubism編集モデルはmodel/head_neck_hair/Ren_front.cmo3。次は今回の動きをBossと確認し、必要なら顎量・首傾斜・髪の強さを調整。その後、左右向き・上下向きの範囲を決める。
+- 原画はart_assets、旧モデルはmodel/parts_v001に保持。統合PSDはart/psd_front、現在のCubism編集先はmodel/base_motion/Ren_base.cmo3。Boss補修済み教材のパーツ・正面メッシュを保持し、中立正面の不足動作の確認後、HEAD_BASE_MOTION_PLANに沿って軸ごとの変形へ進む。
 
 ## 元資料
 

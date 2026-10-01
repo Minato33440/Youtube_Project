@@ -1,0 +1,151 @@
+{
+  "checked_at": "2026-09-30",
+  "method": "Read-only comparison with training_base_audit/audit_cmo3.py plus direct numeric comparison of keyform point arrays. Neither CMO3 was modified.",
+  "before": {
+    "path": "C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/model/base_motion/Ren_base.cmo3",
+    "sha256": "26731bcdaef0b87277d9f25ab53979e0b7663f143821c50fef7bfc5a870fc5d2",
+    "bytes": 7121388
+  },
+  "after": {
+    "path": "C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/model/base_motion/Ren_base1.cmo3",
+    "sha256": "bcbb10690f2a9d2a5d7b473cd860570c4c5141999f05f5d66d0c937f225410c6",
+    "bytes": 7124577
+  },
+  "counts_and_structure_preserved": {
+    "meshes": 46,
+    "deformers": 14,
+    "parameters": 28,
+    "physics_groups": 4,
+    "texture_atlas_count": 0,
+    "layered_sources": 11,
+    "parameter_definitions_equal": true,
+    "mesh_and_deformer_names_equal": true,
+    "parents_equal": true,
+    "bindings_equal": true,
+    "mesh_topology_equal": true,
+    "clip_lists_equal": true,
+    "all_46_image_rgba_hashes_equal": true,
+    "layered_sources_equal": true
+  },
+  "intended_keyform_changes": {
+    "hair_ahoge_artmesh_Param": {
+      "minus_1": {
+        "changed_points": "37/37",
+        "max_point_delta": 0.111743145,
+        "mean_point_delta": 0.095605783,
+        "centroid_shift": [0.013459065, 0.094597459]
+      },
+      "zero": {"changed_points": "0/37", "max_point_delta": 0.0},
+      "plus_1": {"changed_points": "0/37", "max_point_delta": 0.0},
+      "note": "The former ArtMesh forms were a no-op. The new direct ArtMesh contribution exists only at -1; +1 still equals the neutral ArtMesh form."
+    },
+    "Hair_ahoge_wrap_Param": {
+      "minus_1": {
+        "changed_points": "36/36",
+        "max_delta_from_before": 0.113602481,
+        "new_max_excursion_from_neutral": 0.117530340
+      },
+      "zero": {
+        "changed_points": "36/36",
+        "max_delta_from_before": 0.004822021,
+        "centroid_shift_from_before": [-0.002713294, -0.003985780]
+      },
+      "plus_1": {
+        "changed_points": "36/36",
+        "max_delta_from_before": 0.339573272,
+        "new_max_excursion_from_neutral": 0.335244071
+      }
+    },
+    "Hair_Side_L_Sway_ParamHairSide": {
+      "minus_1_max_excursion_from_neutral": 0.016181823,
+      "zero_unchanged": true,
+      "plus_1_changed_points": "35/36",
+      "plus_1_max_delta_from_before": 0.046178761,
+      "plus_1_new_max_excursion_from_neutral": 0.062280562
+    },
+    "Hair_Side_R_Sway_ParamHairSide": {
+      "minus_1_changed_points": "35/36",
+      "minus_1_max_delta_from_before": 0.049184714,
+      "minus_1_new_max_excursion_from_neutral": 0.065313470,
+      "zero_unchanged": true,
+      "plus_1_max_excursion_from_neutral": 0.016136420
+    }
+  },
+  "physics_changes": [
+    {
+      "group": "Physics_HairFrontC_Practice",
+      "second_particle": {
+        "delay": {"before": 0.5, "after": 0.8},
+        "radius": {"before": 5.0, "after": 3.0},
+        "mobility_unchanged": 1.0,
+        "acceleration_unchanged": 1.5
+      },
+      "routing_unchanged": "ParamAngleZ -> ParamHairFront"
+    },
+    {
+      "group": "Physics_Hair_ahoge_practice",
+      "second_particle": {
+        "radius": {"before": 10.0, "after": 5.0},
+        "mobility_unchanged": 1.0,
+        "delay_unchanged": 1.0,
+        "acceleration_unchanged": 1.0
+      },
+      "routing_unchanged": "ParamAngleZ -> Param"
+    }
+  ],
+  "physics_unchanged": [
+    "Side hair: ParamAngleZ -> ParamHairSide, output angleScale 5.0, particle radius 8.0",
+    "Back hair: ParamAngleZ -> ParamHairBack, output angleScale 4.5, particle radius 10.0"
+  ],
+  "additional_form_changes_outside_the_stated_scope": [
+    {
+      "object": "hair_front_C",
+      "key": "unbound default form",
+      "changed_points": "6/41",
+      "max_point_delta": 0.029755590,
+      "assessment": "Real neutral geometry change, not serialization noise. Confirm it was intentional."
+    },
+    {
+      "object": "HairFrontC_Warp",
+      "keys": [
+        {
+          "ParamHairFront": -1.0,
+          "Param": 0.0,
+          "changed_points": "34/36",
+          "max_point_delta": 0.055639280
+        },
+        {
+          "ParamHairFront": 1.0,
+          "Param": 0.0,
+          "changed_points": "21/36",
+          "max_point_delta": 0.036250463
+        }
+      ],
+      "unchanged_rows": "All six forms at Param=-1 and Param=+1",
+      "assessment": "Only the Param=0 row changed. This makes front-hair endpoint shapes depend on the ahoge parameter as it leaves zero; confirm this coupling was intended."
+    },
+    {
+      "object": "Hair_Back_Sway",
+      "minus_1": {
+        "changed_points": "30/36",
+        "max_delta_from_before": 0.022996622,
+        "new_max_excursion_from_neutral": 0.028777145
+      },
+      "plus_1": {
+        "changed_points": "30/36",
+        "max_delta_from_before": 0.022996312,
+        "new_max_excursion_from_neutral": 0.028776615
+      },
+      "zero_unchanged": true,
+      "assessment": "Symmetric real endpoint increase of about 5x versus the prior 0.00578 excursion. Confirm it was intentional."
+    }
+  ],
+  "numeric_risks": [
+    "Ahoge +1 parent-warp excursion is 0.33524 versus 0.11753 at -1, while the direct ArtMesh adds 0.11174 only at -1. The two sides are intentionally or accidentally asymmetric and must be judged visually.",
+    "Both hair_ahoge and its parent Hair_ahoge_wrap are driven by Param, so the -1 result stacks direct-mesh and parent-warp deformation.",
+    "Hair_ahoge_wrap neutral moved by 0.00482 maximum from Ren_base; this is small but changes the default pose.",
+    "The strengthened Side endpoints remain balanced across the mirrored strong directions: L +1 max 0.06228 and R -1 max 0.06531. Their opposite endpoints remain near 0.0161.",
+    "Parent-reported Physics preview peaked at 114.277% for Side during abrupt full reversal, 14.277 percentage points above the nominal 100% endpoint. This can cause endpoint clamping or a short flat spot even though the reported visual check found no hole. Ahoge peak 52.518% remained inside the nominal range."
+  ],
+  "conclusion": "The requested ahoge, Side endpoint, and front/ahoge physics changes are present and all routing, hierarchy, topology, clipping, images, counts, and atlas-free status are preserved. No definite structural corruption was found. Three additional real form changes need intent confirmation: hair_front_C neutral geometry, the Param=0 row of HairFrontC_Warp, and both Hair_Back_Sway endpoints."
+}

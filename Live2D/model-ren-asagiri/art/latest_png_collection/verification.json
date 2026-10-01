@@ -1,0 +1,47 @@
+{
+  "all_original_png_hashes_unchanged": true,
+  "changed_sources": [],
+  "model_hash_unchanged": true,
+  "git_index_hash_unchanged": true,
+  "index_sha256": "59690fce0efbf40ce9f4e38029e0f4bf704aaeeafb591d99b49115139b6e9166",
+  "all_copy_hashes_equal": true,
+  "scan_errors": [
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\tools\\pylib\\cv2",
+      "error": "[WinError 5] アクセスが拒否されました。: 'C:\\\\Python\\\\REX_AI\\\\Youtube_Project\\\\Live2D\\\\model-ren-asagiri\\\\art\\\\processing_v001\\\\tools\\\\pylib\\\\cv2'"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\tools\\pylib\\opencv_python_headless-5.0.0.93.dist-info",
+      "error": "[WinError 5] アクセスが拒否されました。: 'C:\\\\Python\\\\REX_AI\\\\Youtube_Project\\\\Live2D\\\\model-ren-asagiri\\\\art\\\\processing_v001\\\\tools\\\\pylib\\\\opencv_python_headless-5.0.0.93.dist-info'"
+    }
+  ],
+  "skipped_reparse": [],
+  "scope": "All enumerable art PNGs before new output; all 59 embedded model images; current texture links of 48 ArtMeshes; no GUI/rendered rig validation",
+  "supplementary_read_only_scan": {
+    "method": "Elevated Get-ChildItem -Recurse -File -Filter *.png",
+    "directories": [
+      "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\tools\\pylib\\cv2",
+      "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\tools\\pylib\\opencv_python_headless-5.0.0.93.dist-info"
+    ],
+    "png_counts": [
+      0,
+      0
+    ],
+    "errors": [],
+    "conclusion": "Initial permission errors resolved for PNG enumeration; no additional PNGs in the two dependency directories"
+  },
+  "original_png_file_set_recheck": true,
+  "visual_check": {
+    "scope": "Two contact sheets of all 48 active images and full-size face PNG composited on white and gray",
+    "finding": "No gross blank/full-opaque or checkerboard-background defect seen in copied images; fine edge quality, mesh clipping and deformed display not accepted by this check",
+    "artifacts": [
+      "qa_active_1.jpg",
+      "qa_active_2.jpg",
+      "qa_face_alpha.jpg"
+    ]
+  },
+  "independent_direct_copy_to_embedded_RGBA_checks": 48,
+  "all_direct_RGBA_checks_passed": true,
+  "parser_source_sha256": "abbf2a57f14b4ef6eb081efa8c858caa843e4e37fd0970f55dd7c0ecb7f96376",
+  "broken_report_links": []
+}

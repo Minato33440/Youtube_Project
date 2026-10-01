@@ -1,0 +1,15 @@
+{
+  "command": [
+    "C:\\Python313\\python.exe",
+    "-B",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\base_motion\\render_preview.py"
+  ],
+  "returncode": 1,
+  "stdout": "",
+  "stderr": "Traceback (most recent call last):\n  File \"C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\base_motion\\render_preview.py\", line 19, in <module>\n    import live2d.v3 as live2d\nModuleNotFoundError: No module named 'live2d'\n",
+  "expected_model_json_exists": false,
+  "available_current_moc3": [],
+  "atlas_count": 0,
+  "gui_tool": "Computer-use skill read; required node_repl/@oai/sky not exposed in this environment",
+  "process_query": "Get-Process Cubism|Live2D returned no rows; does not prove user desktop has no Editor"
+}

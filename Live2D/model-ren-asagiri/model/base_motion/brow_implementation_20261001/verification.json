@@ -1,0 +1,237 @@
+{
+  "checked_at_utc": "2026-10-01T11:20:45.208983+00:00",
+  "scope": "Read-only saved CMO3 structure and active image comparison, not Cubism SDK or runtime acceptance.",
+  "before": {
+    "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\base_motion\\Ren_base4.cmo3",
+    "sha256": "666c7f3e1e579faf9703f4dde525f06217f75b83296c5337d440c7fcb59bd8e8",
+    "bytes": 7373000
+  },
+  "after": {
+    "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\base_motion\\Ren_base5.cmo3",
+    "sha256": "6e2a8e9c856c0617f4dd100e3b6c2a6f7a29582760a9ef1bbc4f4aed9768d647",
+    "bytes": 7385026
+  },
+  "counts": {
+    "meshes": 48,
+    "deformers_before": 14,
+    "deformers_after": 22,
+    "parameters": 28,
+    "key_grid_entries": 509
+  },
+  "checks": {
+    "base4_matches_protected_backup": true,
+    "base4_matches_recorded_hash": true,
+    "all_parameter_definitions_unchanged": true,
+    "all_48_meshes_retained": true,
+    "only_eight_expected_deformers_added": true,
+    "all_editable_mesh_and_triangle_data_unchanged": true,
+    "active_images_rgba_and_placement_unchanged": true,
+    "all_original_visibility_restored": true,
+    "physics_inventory_unchanged": true,
+    "atlas_count_unchanged": true,
+    "only_brow_parent_and_local_keyform_data_changed": true,
+    "all_previous_deformer_fields_unchanged": true,
+    "all_brow_deformers_valid": true,
+    "brow_meshes_under_form_deformers": true,
+    "all_object_key_grids_complete_unique_resolved": true,
+    "source_files_unchanged_during_read": true
+  },
+  "all_static_checks_pass": true,
+  "existing_object_changes": {
+    "brow_R": [
+      "parent",
+      "forms"
+    ],
+    "brow_L": [
+      "parent",
+      "forms"
+    ]
+  },
+  "new_brow_deformers": {
+    "Brow_L_Y": {
+      "parameter": "ParamBrowLY",
+      "parent": "Brow_L_X",
+      "object_id": "Warp14",
+      "correct_parent": true,
+      "three_key_binding": true,
+      "three_distinct_forms": true
+    },
+    "Brow_L_X": {
+      "parameter": "ParamBrowLX",
+      "parent": "Brow_L_Angle",
+      "object_id": "Warp15",
+      "correct_parent": true,
+      "three_key_binding": true,
+      "three_distinct_forms": true
+    },
+    "Brow_L_Angle": {
+      "parameter": "ParamBrowLAngle",
+      "parent": "Face_Warp",
+      "object_id": "Rotation2",
+      "correct_parent": true,
+      "three_key_binding": true,
+      "three_distinct_forms": true,
+      "angles_at_minus_zero_plus": [
+        -12.0,
+        0.0,
+        12.0
+      ],
+      "correct_angles": true
+    },
+    "Brow_L_Form": {
+      "parameter": "ParamBrowLForm",
+      "parent": "Brow_L_Y",
+      "object_id": "Warp16",
+      "correct_parent": true,
+      "three_key_binding": true,
+      "three_distinct_forms": true
+    },
+    "Brow_R_Y": {
+      "parameter": "ParamBrowRY",
+      "parent": "Brow_R_X",
+      "object_id": "Warp17",
+      "correct_parent": true,
+      "three_key_binding": true,
+      "three_distinct_forms": true
+    },
+    "Brow_R_X": {
+      "parameter": "ParamBrowRX",
+      "parent": "Brow_R_Angle",
+      "object_id": "Warp18",
+      "correct_parent": true,
+      "three_key_binding": true,
+      "three_distinct_forms": true
+    },
+    "Brow_R_Angle": {
+      "parameter": "ParamBrowRAngle",
+      "parent": "Face_Warp",
+      "object_id": "Rotation3",
+      "correct_parent": true,
+      "three_key_binding": true,
+      "three_distinct_forms": true,
+      "angles_at_minus_zero_plus": [
+        12.0,
+        0.0,
+        -12.0
+      ],
+      "correct_angles": true
+    },
+    "Brow_R_Form": {
+      "parameter": "ParamBrowRForm",
+      "parent": "Brow_R_Y",
+      "object_id": "Warp19",
+      "correct_parent": true,
+      "three_key_binding": true,
+      "three_distinct_forms": true
+    }
+  },
+  "grid_errors": [],
+  "parameter_usage": {
+    "ParamAngleX": [],
+    "ParamAngleY": [],
+    "ParamAngleZ": [
+      "Hair_Base_Warp",
+      "Neck_Follow",
+      "Face_Rotation_Practice"
+    ],
+    "ParamEyeLOpen": [
+      "upper_crease_L",
+      "lower_eyelid_left",
+      "ALT_eyelash_upper_L",
+      "ALT_iris_L_blue",
+      "FILL_eye_white_L",
+      "eyelash_closed_L",
+      "Left_Eye"
+    ],
+    "ParamEyeLSmile": [
+      "upper_crease_L",
+      "lower_eyelid_left",
+      "FILL_eye_white_L",
+      "Left_Eye"
+    ],
+    "ParamEyeROpen": [
+      "upper_crease_R",
+      "lower_eyelid_right",
+      "ALT_eyelash_upper_R",
+      "ALT_iris_R_brown",
+      "FILL_eye_white_R",
+      "eyelash_closed_R",
+      "eyelash_closed_L",
+      "Right_Eye"
+    ],
+    "ParamEyeRSmile": [
+      "upper_crease_R",
+      "lower_eyelid_right",
+      "ALT_eyelash_upper_R",
+      "FILL_eye_white_R",
+      "Right_Eye"
+    ],
+    "ParamEyeBallX": [],
+    "ParamEyeBallY": [],
+    "ParamBrowLY": [
+      "Brow_L_Y"
+    ],
+    "ParamBrowRY": [
+      "Brow_R_Y"
+    ],
+    "ParamBrowLX": [
+      "Brow_L_X"
+    ],
+    "ParamBrowRX": [
+      "Brow_R_X"
+    ],
+    "ParamBrowLAngle": [
+      "Brow_L_Angle"
+    ],
+    "ParamBrowRAngle": [
+      "Brow_R_Angle"
+    ],
+    "ParamBrowLForm": [
+      "Brow_L_Form"
+    ],
+    "ParamBrowRForm": [
+      "Brow_R_Form"
+    ],
+    "ParamMouthForm": [
+      "mouth_closed",
+      "mouth_cavity",
+      "mouth_tongue",
+      "mouth_rim_lower",
+      "mouth_teeth_upper",
+      "mouth_rim_upper",
+      "Mouth_Warp"
+    ],
+    "ParamMouthOpenY": [
+      "mouth_closed",
+      "mouth_cavity",
+      "mouth_tongue",
+      "mouth_rim_lower",
+      "mouth_teeth_upper",
+      "mouth_rim_upper",
+      "Mouth_Warp",
+      "Jaw_Open"
+    ],
+    "ParamCheek": [],
+    "ParamBodyAngleX": [],
+    "ParamBodyAngleY": [],
+    "ParamBodyAngleZ": [],
+    "ParamBreath": [],
+    "ParamHairFront": [
+      "HairFrontC_Warp"
+    ],
+    "ParamHairSide": [
+      "Hair_Side_L_Sway",
+      "Hair_Side_R_Sway"
+    ],
+    "ParamHairBack": [
+      "Hair_Back_Sway"
+    ],
+    "Param": [
+      "hair_ahoge",
+      "HairFrontC_Warp",
+      "Hair_ahoge_wrap"
+    ]
+  },
+  "serializer_note": "GEditableMesh2 raw XML hashes for face_underfill and eyelash_closed_L differ due to xs.ref/xs.id/xs.idx renumbering. Resolved semantic mesh data and triangle indices are compared for all 48 meshes.",
+  "runtime_export_or_app_test": false
+}

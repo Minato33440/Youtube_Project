@@ -1,0 +1,1346 @@
+[
+  {
+    "mesh": "hair_front_C",
+    "image": {
+      "name": "hair_front_C",
+      "size": [
+        567,
+        680
+      ],
+      "rgba_sha256": "27c19705dc846d2378db80be8dbfb9ee233075647c959eb25acfe280464cecf7",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1717.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "211.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\hair_front_C.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_front_C.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "hair_front_L",
+    "image": {
+      "name": "hair_front_L",
+      "size": [
+        445,
+        349
+      ],
+      "rgba_sha256": "e68044560e30399c13a1f9a8808e1e108dec36778ceb53433e29fd88814873c4",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1987.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "199.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\hair_front_L.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_front_L.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "hair_front_R",
+    "image": {
+      "name": "hair_front_R",
+      "size": [
+        467,
+        353
+      ],
+      "rgba_sha256": "c35c51cda2d8b5620565541d60a932016f466ce8c281e5cb59f01b166cfd4cfa",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1549.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "205.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\hair_front_R.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_front_R.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "hair_side_L",
+    "image": {
+      "name": "hair_side_L",
+      "size": [
+        517,
+        468
+      ],
+      "rgba_sha256": "31170a3d08a9e3804fc0c951cd1fcb364303929b5972cc71c2adf6178c90a379",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1984.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "498.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\hair_side_L.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_side_L.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "hair_side_R",
+    "image": {
+      "name": "hair_side_R",
+      "size": [
+        496,
+        481
+      ],
+      "rgba_sha256": "f98694c552c260a9df6679c24ac811e0360b0bfbef13cd2dd42732c0b2333cab",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1514.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "501.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\hair_side_R.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_side_R.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "upper_crease_L",
+    "image": {
+      "name": "upper_crease_L",
+      "size": [
+        135,
+        30
+      ],
+      "rgba_sha256": "9ff4a261649c3a44bca704c483fc12b0588da4b40d608015b5e82888f650bdb6",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "2068.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "748.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\upper_crease_L.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\upper_crease_L.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "lower_eyelid_left",
+    "image": {
+      "name": "lower_eyelid_left",
+      "size": [
+        132,
+        41
+      ],
+      "rgba_sha256": "bb552de0e8d5dabd4376d991dcae372fcf7fd0ef10255cc4ea86df5078166fa6",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "2086.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "830.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\lower_eyelid_left.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\lower_eyelid_left.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "ALT_eyelash_upper_L",
+    "image": {
+      "name": "ALT_eyelash_upper_L",
+      "size": [
+        193,
+        81
+      ],
+      "rgba_sha256": "a41e9f7a82edc509cac2f5b3b80ab790fea3200ca8f58670f75cd30ed3f1431e",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "2066.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "754.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\ALT_eyelash_upper_L.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_eyelash_upper_L.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "ALT_iris_L_blue",
+    "image": {
+      "name": "ALT_iris_L_blue",
+      "size": [
+        79,
+        95
+      ],
+      "rgba_sha256": "6ce2ac4d51ddc4d8ed828d4eacc59d278e5266b802e45af5edb7cdc89e841821",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "2098.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "767.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\ALT_iris_L_blue.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_iris_L_blue.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "FILL_eye_white_L",
+    "image": {
+      "name": "FILL_eye_white_L",
+      "size": [
+        159,
+        101
+      ],
+      "rgba_sha256": "8294488e319f0a4db00fab4f95fdd32d8e1e87ea1ac8c82c6bcf4affcd7ae15b",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "2070.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "763.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\FILL_eye_white_L.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\FILL_eye_white_L.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "upper_crease_R",
+    "image": {
+      "name": "upper_crease_R",
+      "size": [
+        132,
+        23
+      ],
+      "rgba_sha256": "e3d9c62db1b7bc854e6e6eb9dc77dca51d0f3ed49a689cadf97e89e4bcec5ec6",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1790.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "745.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\upper_crease_R.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\upper_crease_R.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "lower_eyelid_right",
+    "image": {
+      "name": "lower_eyelid_right",
+      "size": [
+        132,
+        41
+      ],
+      "rgba_sha256": "a8b584e067f1aef4538c22cc86166af4310036b8267af26a7f9e8afd2b2856f3",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1777.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "832.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\lower_eyelid_right.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\lower_eyelid_right.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "ALT_eyelash_upper_R",
+    "image": {
+      "name": "ALT_eyelash_upper_R",
+      "size": [
+        183,
+        79
+      ],
+      "rgba_sha256": "47f2ad4dc6a72f8277394eb95d7fa1934eb07b6ec751aa2519fbe9da4cc2418e",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1738.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "753.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\ALT_eyelash_upper_R.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_eyelash_upper_R.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "ALT_iris_R_brown",
+    "image": {
+      "name": "ALT_iris_R_brown",
+      "size": [
+        78,
+        95
+      ],
+      "rgba_sha256": "c628ffa1af46b767722c5027673a717f377856faf50a2b00d09346bbd700cf96",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1818.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "767.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\ALT_iris_R_brown.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_iris_R_brown.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "FILL_eye_white_R",
+    "image": {
+      "name": "FILL_eye_white_R",
+      "size": [
+        153,
+        101
+      ],
+      "rgba_sha256": "ae66a8a6bd155b4e05a4a46cc3f222c3f29f58c7fa74974cc5320510893fd48b",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1764.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "764.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\FILL_eye_white_R.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\FILL_eye_white_R.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "mouth_closed",
+    "image": {
+      "name": "mouth_closed",
+      "size": [
+        96,
+        14
+      ],
+      "rgba_sha256": "8a3d2a0503874e90fc4f06ec8d9c42c1b168c4f63614da85f94ffff389538f6a",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1955.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "1015.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\mouth_closed.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\mouth_closed.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "hair_back",
+    "image": {
+      "name": "hair_back",
+      "size": [
+        506,
+        202
+      ],
+      "rgba_sha256": "d7aa440bf3fabdc8544ebbac3d6edb536e5bd6e855489ce1c719a6b18053aae2",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1753.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "948.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\hair_back.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_back.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "collar_L",
+    "image": {
+      "name": "collar_L",
+      "size": [
+        307,
+        466
+      ],
+      "rgba_sha256": "18d05d23dbe41eaf6357bd318e992a754ad46e123533655b9de22605f98728c5",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1964.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "1147.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\collar_L.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\collar_L.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "collar_R",
+    "image": {
+      "name": "collar_R",
+      "size": [
+        278,
+        411
+      ],
+      "rgba_sha256": "d7f614c955747aa33d01b2029887c78e8e175708faffb7b51d1801747dad5249",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1725.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "1150.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\collar_R.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\collar_R.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "belt",
+    "image": {
+      "name": "belt",
+      "size": [
+        847,
+        149
+      ],
+      "rgba_sha256": "249309b3451803263448ae74badb49a7310400df0bb7765fc582bbca18bafe9e",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1579.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "2444.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\belt.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\belt.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "sleeve_L",
+    "image": {
+      "name": "sleeve_L",
+      "size": [
+        365,
+        646
+      ],
+      "rgba_sha256": "6fed5e7d66ca50aa3b8eef6bc68f1f97cf1216282874eedad7b3d6775a31f0ec",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "2424.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "1369.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\sleeve_L.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\sleeve_L.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "sleeve_R",
+    "image": {
+      "name": "sleeve_R",
+      "size": [
+        351,
+        633
+      ],
+      "rgba_sha256": "2b8d9a2509d8a766395ab9e399829c1c9903ad225c033ade370dd437c6a507ce",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1230.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "1385.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\sleeve_R.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\sleeve_R.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "shirt_torso",
+    "image": {
+      "name": "shirt_torso",
+      "size": [
+        1157,
+        1249
+      ],
+      "rgba_sha256": "a67ffa289be2dceda37c5ebdcb16fdb6848a1d9968cd32e490c6c643b9cd9914",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1422.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "1231.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\shirt_torso.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\shirt_torso.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "neck-clavicle",
+    "image": {
+      "name": "neck-clavicle",
+      "size": [
+        368,
+        492
+      ],
+      "rgba_sha256": "56ac188a70b6fca832b90390977f7de0f7fe6b1f1ad5173dc800c5a9a3b4d7cb",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1822.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "1044.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\neck-clavicle.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\neck-clavicle.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "shirt_inside",
+    "image": {
+      "name": "shirt_inside",
+      "size": [
+        567,
+        454
+      ],
+      "rgba_sha256": "f05eb29fcc970bbb13ff1cbec1c086c6082f525804ab39950742095129e6352f",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1717.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "1128.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\shirt_inside.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\shirt_inside.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "upper_arm_L",
+    "image": {
+      "name": "upper_arm_L",
+      "size": [
+        341,
+        438
+      ],
+      "rgba_sha256": "36c027ce3d551126933dc430cac4e2740a094364ac754bf631454af7f093ca3d",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "2496.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "1847.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\upper_arm_L.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\upper_arm_L.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "upper_arm_R",
+    "image": {
+      "name": "upper_arm_R",
+      "size": [
+        313,
+        456
+      ],
+      "rgba_sha256": "d8cc3c7d3fb27c8e6802ce122a5be0953d1b1657abde372d01742735a11f7be3",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1189.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "1850.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\upper_arm_R.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\upper_arm_R.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "forearm_L",
+    "image": {
+      "name": "forearm_L",
+      "size": [
+        388,
+        623
+      ],
+      "rgba_sha256": "36663b0dce3a99e3a0e239d2fcaeb34143a20ca316aa91d246026748f9995bbb",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "2691.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "2144.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\forearm_L.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\forearm_L.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "forearm_R",
+    "image": {
+      "name": "forearm_R",
+      "size": [
+        374,
+        650
+      ],
+      "rgba_sha256": "4be70d2ce37bf36c2417bb3e58df65ac2b2351ccbcf216e3a29f4517b34a90c4",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "953.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "2144.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\forearm_R.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\forearm_R.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "hand_L",
+    "image": {
+      "name": "hand_L",
+      "size": [
+        347,
+        479
+      ],
+      "rgba_sha256": "bfef37d715603c6f5ad2b8346831c0342595c42a32fa5f22397ac36e702e5923",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "2969.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "2720.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\hand_L.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hand_L.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "hand_R",
+    "image": {
+      "name": "hand_R",
+      "size": [
+        349,
+        471
+      ],
+      "rgba_sha256": "7e22340950612251608429eaae5d0ad0fce762debf04f14a25a575d70e2a832a",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "721.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "2738.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\hand_R.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hand_R.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "trousers_L",
+    "image": {
+      "name": "trousers_L",
+      "size": [
+        496,
+        2673
+      ],
+      "rgba_sha256": "f6bb697a5fda4ce03a01e91ce2319cff605da431dc8f2f0786e1f6521b9ee6a3",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1994.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "2593.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\trousers_L.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\trousers_L.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "trousers_R",
+    "image": {
+      "name": "trousers_R",
+      "size": [
+        501,
+        2687
+      ],
+      "rgba_sha256": "b72f611471ee0a1de7b8d4ba876e0a964c5a619117d835cd91d13fee05ed65b0",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1504.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "2593.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\trousers_R.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\trousers_R.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "shoe_L",
+    "image": {
+      "name": "shoe_L",
+      "size": [
+        461,
+        569
+      ],
+      "rgba_sha256": "0fd1f0797f284ab35196c105ad294b23e2bcf62862a09e2f662b6516173d12ef",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "2145.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "5232.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\shoe_L.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\shoe_L.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "shoe_R",
+    "image": {
+      "name": "shoe_R",
+      "size": [
+        476,
+        566
+      ],
+      "rgba_sha256": "e17667cc3ed154a94be017b14f9d76efa4484972b7ec45d38bd0b2c7d8ba7792",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1357.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "5232.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\shoe_R.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\shoe_R.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "mouth_cavity",
+    "image": {
+      "name": "mouth_cavity",
+      "size": [
+        156,
+        75
+      ],
+      "rgba_sha256": "9f7d52cd84a4434e0d5a49883e03493e3195d78b3af71f5f9214248d31fb1b07",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "0.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "0.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\expression_rig\\parts\\mouth_cavity.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\parts\\mouth_cavity.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "mouth_tongue",
+    "image": {
+      "name": "mouth_tongue",
+      "size": [
+        108,
+        40
+      ],
+      "rgba_sha256": "ce22793a82c8cdadb63f882ce831ebb97fbc245f7f88e0f747942ad15b2d5c62",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "0.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "0.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\expression_rig\\parts\\mouth_tongue.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\parts\\mouth_tongue.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "mouth_rim_lower",
+    "image": {
+      "name": "mouth_rim_lower",
+      "size": [
+        137,
+        38
+      ],
+      "rgba_sha256": "e15ebc513bafc0d5a0da5f3c520d08f230502ca8bef2472d352c3c5a396cac3e",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "0.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "0.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\expression_rig\\parts\\mouth_rim_lower.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\parts\\mouth_rim_lower.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "mouth_teeth_upper",
+    "image": {
+      "name": "mouth_teeth_upper",
+      "size": [
+        140,
+        25
+      ],
+      "rgba_sha256": "6dd98b511f09d3576489e1372e2c0e172f84bc48d3c6789834965f16e9c8db73",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "0.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "0.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\expression_rig\\parts\\mouth_teeth_upper.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\parts\\mouth_teeth_upper.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "mouth_rim_upper",
+    "image": {
+      "name": "mouth_rim_upper",
+      "size": [
+        160,
+        59
+      ],
+      "rgba_sha256": "d62f4fd77527da90e683a6f89cb26b1df669a30f13dc088552098eeffa438cec",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "0.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "0.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\expression_rig\\parts\\mouth_rim_upper.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\parts\\mouth_rim_upper.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "ear_R",
+    "image": {
+      "name": "ear_R",
+      "size": [
+        137,
+        265
+      ],
+      "rgba_sha256": "749a52d415c5a68f40c6ca1abe3c7945d2ec6bf796bdf50ec96dd4a01d6f6373",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1668.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "718.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\ear_R.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ear_R.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "ear_L",
+    "image": {
+      "name": "ear_L",
+      "size": [
+        128,
+        272
+      ],
+      "rgba_sha256": "558b0cf8c323221be7d27512a35e976e0d09dab0f141cb6231da3794525f52d2",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "2206.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "711.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\ear_L.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ear_L.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "brow_R",
+    "image": {
+      "name": "brow_R",
+      "size": [
+        181,
+        29
+      ],
+      "rgba_sha256": "6b5182f5258af9d55e7729e4a3baedb33354732676b6291601cfd59143124e83",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "1756.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "693.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\brow_R.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\brow_R.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "brow_L",
+    "image": {
+      "name": "brow_L",
+      "size": [
+        194,
+        31
+      ],
+      "rgba_sha256": "3f71fb54f53a1e9b05c870e7a21e2ea6981600748093b7f8ebfd422182313c95",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "2064.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "687.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\brow_L.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\brow_L.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "hair_ahoge",
+    "image": {
+      "name": "hair_ahoge",
+      "size": [
+        427,
+        235
+      ],
+      "rgba_sha256": "8ab3bad9407e1685c3b5775374f2e30b3bd1e7b9cb3536215a0b57fdba401a9c",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "0.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "0.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\hair_ahoge.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_ahoge.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "eyelash_closed_L",
+    "image": {
+      "name": "eyelash_closed_L",
+      "size": [
+        193,
+        42
+      ],
+      "rgba_sha256": "656a873c7ae992c4d011b02f601bd52bc89dcb03be8f3c3419027368efb95e2f",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "0.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "0.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\eyelash_closed_L.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\eyelash_closed_L.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "eyelash_closed_R",
+    "image": {
+      "name": "eyelash_closed_R",
+      "size": [
+        183,
+        42
+      ],
+      "rgba_sha256": "4501bdc79628837be9cfd177b6bbfde258f22a6931ea369d8620c9dc6e67cb08",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "0.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "0.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\eyelash_closed_R.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\eyelash_closed_R.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  },
+  {
+    "mesh": "face_underfill",
+    "image": {
+      "name": "face_underfill",
+      "size": [
+        608,
+        864
+      ],
+      "rgba_sha256": "a2e5912b8ed4cb0bc5d2efea0dc4373ddb3edbd976858e61e2cf4e1e6d61b46e",
+      "placement": {
+        "xs.n": "_materialLocalToCanvasTransform",
+        "m00": "1.0",
+        "m01": "0.0",
+        "m02": "0.0",
+        "m10": "0.0",
+        "m11": "1.0",
+        "m12": "0.0"
+      }
+    },
+    "matches": [
+      {
+        "copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\face_underfill.png",
+        "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\face_underfill.png",
+        "copy_bytes_unchanged": true,
+        "source_bytes_equal": true
+      }
+    ]
+  }
+]

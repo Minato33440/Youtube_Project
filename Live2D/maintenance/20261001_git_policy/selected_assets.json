@@ -1,0 +1,986 @@
+{
+  "baseline_head": "5f2fbac87c050338e5bb19cd33a39c0230e3f508",
+  "scope": "Selected valuable assets; excludes this manifest itself. Historical references may require local-only files.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 6702,
+      "sha256": "76b70968f36304aa4054700107d96423d1a1d65fddee136bb289e5b9eed43914"
+    },
+    {
+      "path": "Live2D/README.md",
+      "bytes": 17786,
+      "sha256": "db4f92b2caecd401c4e35e2dceae25d87aafcbd509dbf29acb59f02434ed8198"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/AGENTS.md",
+      "bytes": 7248,
+      "sha256": "e04919cfbaca926d561ea3111cf59f0e88175d8cfe08f5d2eb550bd814af6c27"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/README.md",
+      "bytes": 11214,
+      "sha256": "d2c3a9e4d4ef1e03203ac2ef53f8e0c1c5179b3eea7d4e0e7f9b24d1337d9736"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/head/README.md",
+      "bytes": 3862,
+      "sha256": "5547fb907a0f71d2bda6ea0072460bca1f4c9ead0979ec581b67ec6e2acdd09f"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/psd_front/README.md",
+      "bytes": 3053,
+      "sha256": "f90b1d47b7d92cd5eb73d6b54fd325cbe8e640b85831ca6d050c46a3d417dc27"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/basic_expression/README.md",
+      "bytes": 4370,
+      "sha256": "f67e683a6dcfc4bd51d715835ae6e1ef5b895ca5b0c081d023317e82cdae515d"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_neck_hair/README.md",
+      "bytes": 5308,
+      "sha256": "e7ad921cf5f358f09143feeaf625441cb9e728de6ed41df1489f7912214a7136"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_neck_hair/test_report.md",
+      "bytes": 4054,
+      "sha256": "73e3ef141d758099004b781f660f51436e7588981920715127dc8edf40676197"
+    },
+    {
+      "path": "output/live2d/risa_parts_v1/README.md",
+      "bytes": 4128,
+      "sha256": "4c24f4cbb07b6440d66a287c9cd34a3190243959d0abcd45e1f26523043670e4"
+    },
+    {
+      "path": "Live2D/.gitignore",
+      "bytes": 224,
+      "sha256": "b76abad5248a280c641b36fd896c4f55fe14160ac0ba33ca58ec2583021cf2c2"
+    },
+    {
+      "path": "Live2D/maintenance/20260928_asset_cleanup/EXPERIMENTS.md",
+      "bytes": 3843,
+      "sha256": "40320320c9f3c957e0cdf8e709755d13e2402e7d95b960c5bf23e801d96f4070"
+    },
+    {
+      "path": "Live2D/maintenance/20260928_asset_cleanup/README.md",
+      "bytes": 6578,
+      "sha256": "c5003cf3f6d76596952774aa96768825ac5eff49cb5512a523e515e76348d1af"
+    },
+    {
+      "path": "Live2D/maintenance/20260928_asset_cleanup/classification_summary.json",
+      "bytes": 676,
+      "sha256": "8478aab1a4442c13ec5bdc29e0e3741983a9dccf127b3ee5eceb9aed1d9bf6d5"
+    },
+    {
+      "path": "Live2D/maintenance/20260928_asset_cleanup/inventory.csv",
+      "bytes": 448846,
+      "sha256": "b18b6813e7da11b0cb2f8acca42a0a8d8ea8c85a91e597c8cf9dd6bd3545dd55"
+    },
+    {
+      "path": "Live2D/maintenance/20260928_asset_cleanup/movement_manifest.json",
+      "bytes": 9368,
+      "sha256": "2315abce79626940173dc0bf71589db8f990bdd10402fb063e4503a5ca8c963b"
+    },
+    {
+      "path": "Live2D/maintenance/20260928_asset_cleanup/organize.py",
+      "bytes": 10359,
+      "sha256": "def956faad983abe59eedb9096f45bb8604eac2d3486d992a86833235fa71b0d"
+    },
+    {
+      "path": "Live2D/maintenance/20260928_asset_cleanup/restore_previews.py",
+      "bytes": 1616,
+      "sha256": "2e0a09b84d3b1b4a4222f16f82251ca19d396d74e473f6d70e600d5398829623"
+    },
+    {
+      "path": "Live2D/maintenance/20260928_asset_cleanup/validation.json",
+      "bytes": 988,
+      "sha256": "b79a681debe15a7382e65b8059346d453ec7794a3377c3553521e536cb701fba"
+    },
+    {
+      "path": "Live2D/maintenance/20260928_asset_cleanup/verify_cleanup.py",
+      "bytes": 8073,
+      "sha256": "99d271f65ef1b084d68c738d44ab2cbd78ab94ecefccdb854c4f581234a2d25b"
+    },
+    {
+      "path": "Live2D/maintenance/20261001_git_policy/README.md",
+      "bytes": 7432,
+      "sha256": "c568e20b429f4e99ae8b8c78d038073f7daf0b6a0965ea7de83a1dfd38e5edec"
+    },
+    {
+      "path": "Live2D/maintenance/20261001_git_policy/baseline.json",
+      "bytes": 878503,
+      "sha256": "db9daeb5f78b2b8eef166eecd842bbf5578a00e6d17ec6e43c7c02dad88b2d46"
+    },
+    {
+      "path": "Live2D/maintenance/20261001_git_policy/check_policy.py",
+      "bytes": 4943,
+      "sha256": "0afdbe9a504d605e089c71c7adc351ec879f5844300b5a308ae5aeb82975c4e5"
+    },
+    {
+      "path": "Live2D/maintenance/20261001_git_policy/verification.json",
+      "bytes": 1256,
+      "sha256": "f5a8ed6a7b0390233cdf5b139693a05addb7c778ede62e7a32399919c820ecb9"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/HEAD_BASE_MOTION_PLAN.md",
+      "bytes": 8303,
+      "sha256": "3ccd48b5e761c150714c17787a8f4b999a66d16c32a4381e58ccf3eac44cb5bb"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/Looking_down/review/LANDMARK_REVIEW.md",
+      "bytes": 6820,
+      "sha256": "64c757cda716670a9b25aaf478264fca6f6eec19d6da82b40274e452a3c72618"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/archive/20260924-old-head-assets/art/eye_adjust_v007/parts/README.md",
+      "bytes": 3928,
+      "sha256": "f5d1da3e6ff06d492702924dcd7eaf124c48071567a6cffc7516644d3cda0700"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/archive/20260924-old-head-assets/art/eye_adjust_v007/parts/archive/20260922-initial-eye-layers/README.md",
+      "bytes": 315,
+      "sha256": "1b5f6622671db875ec0d401bcef7617309fd4b569b6c9c2a06fed08b680c9d5c"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/README.md",
+      "bytes": 8490,
+      "sha256": "08edcd3bdf4f9b940a211b79ff9483bb45bb25d1fabfbbe01d79f1ae577df6f4"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/audit_and_collect.py",
+      "bytes": 11371,
+      "sha256": "d3c513a76f429b0693db30a9e638449bb3baf492d4aa9a281ae402a4ae9d62c6"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/expression_rig/parts/mouth_cavity.png",
+      "bytes": 2672,
+      "sha256": "5fb2f0a4c1fb520d93c59181b76208b60daf94c8515eef1594252dac67711cbe"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/expression_rig/parts/mouth_rim_lower.png",
+      "bytes": 3590,
+      "sha256": "e163bab1d9596655d213bba104b6a8e3065798af44540dcf5729b055aa710c5b"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/expression_rig/parts/mouth_rim_upper.png",
+      "bytes": 4460,
+      "sha256": "a9990773ce8cb9a272a728c1c43075e30de2a920cadeae48b499041009ec4222"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/expression_rig/parts/mouth_teeth_upper.png",
+      "bytes": 3160,
+      "sha256": "ca707b19a37894a70022964a84c7093a3c9fd0385adc3237e3ad37c5d76674d5"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/expression_rig/parts/mouth_tongue.png",
+      "bytes": 4070,
+      "sha256": "b84a94720e1089a76532d17fe56160721d9fa1852c55c2da083c973813b9133d"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/ALT_eyelash_upper_L.png",
+      "bytes": 28943,
+      "sha256": "b4bd49d59cfe282575c43642e55d48cc7aaa0989f02b6702dc233511ced2cfce"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/ALT_eyelash_upper_R.png",
+      "bytes": 28676,
+      "sha256": "b52302092619ee9660571cc9ea59b5324df5e6de4f115e9e5172f6f19b50b1e5"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/ALT_iris_L_blue.png",
+      "bytes": 35388,
+      "sha256": "f232f20d44def5e10c06f6957c50e74be99f0aae909b04c4b5b97ec180f9bc05"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/ALT_iris_R_brown.png",
+      "bytes": 36049,
+      "sha256": "1912823fb0bc5d6b2994ec975e1cae61fb1d4ad53905d8d0d9adcfae03b96601"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/FILL_eye_white_L.png",
+      "bytes": 22895,
+      "sha256": "27bde4022ec8e975fb8651545af27c34822fe6121815522ae7d0b6972b7b8a35"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/FILL_eye_white_R.png",
+      "bytes": 22994,
+      "sha256": "0b6e3077fb2c2e0d93fa40a988bcced3e66b6949cd9849aaf4a032210ac87a7c"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/brow_L.png",
+      "bytes": 21020,
+      "sha256": "1d259eb00870a694a6ddba562e9821babc5bf5dcec19c68b0a1f59ecf4d34dfb"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/brow_R.png",
+      "bytes": 22773,
+      "sha256": "c84aa7bb7869b5bf633d1212296e52795d078f1b48eb856e85f6daf108c9cc74"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/ear_L.png",
+      "bytes": 50440,
+      "sha256": "2cb6db3af49979627445d582b6af3dc2a6a1a1c17bb0b98270f1091c5222f89b"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/ear_R.png",
+      "bytes": 52947,
+      "sha256": "ad1332f78fa8f76aa4b88026453c9928674eb2e30881f896d574c49e8ade77cf"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/eyelash_closed_L.png",
+      "bytes": 5000,
+      "sha256": "ab11f59beb8b04b2f5fade1125201352940f47612fbb37e23b140001f4fc28fa"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/eyelash_closed_R.png",
+      "bytes": 4984,
+      "sha256": "281b667e704459ee87367585340836f5d98a8354201261fb3dd6ff390c2c6ab0"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/face_underfill.png",
+      "bytes": 126609,
+      "sha256": "e706a4175ccae4073f7f0b74f6d1b14a990313e2fc3f250820390784dae4c50e"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/hair_ahoge.png",
+      "bytes": 47278,
+      "sha256": "cf303c03f5fb86555d0d3f87cad1f5bc117dbc13416b1d69fbc784633399a582"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/hair_back.png",
+      "bytes": 74692,
+      "sha256": "c3a36f296372a2fa0a2d94beca33395a6f0151df3e2cb0ce543ed470eda7921f"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/hair_front_C.png",
+      "bytes": 152586,
+      "sha256": "8d0f2ea1ec564881d2b2416a5b80e17e490cee4a209b9d051087bfdb5f74940f"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/hair_front_L.png",
+      "bytes": 130054,
+      "sha256": "9021d9fc6e1bc695209ce0afbea32ebae8901641763a89c27ab6ce9ca3986f94"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/hair_front_R.png",
+      "bytes": 127957,
+      "sha256": "459f9b5cf6a813b90f74767c02f77b1e3bfce3586aaacc1d4df9bd3c9aae2cab"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/hair_side_L.png",
+      "bytes": 175620,
+      "sha256": "2c9c9eb42c89f0fea44ba7b5ab01900ebfa1fccd0886630b9d6903cdb53988d3"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/hair_side_R.png",
+      "bytes": 169104,
+      "sha256": "b79cd49430cb7cf4ab8fe9246cf3e1cf95af726a32bad0ab7916f7326e064493"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/lower_eyelid_left.png",
+      "bytes": 23309,
+      "sha256": "11046d47e00e1b5930ab23d312dfda4b047ae61e3d548a59f5e4a0587ad24fe5"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/lower_eyelid_right.png",
+      "bytes": 22894,
+      "sha256": "ffb3942db69111672964c0426051198a3cf6865f7d2fd31bf9b4b3077c064e92"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/mouth_closed.png",
+      "bytes": 20671,
+      "sha256": "5f0b8bc2594a58b935f2b4929e1c20e72a5ad35e649bc906d6d827ee73f10ca6"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/upper_crease_L.png",
+      "bytes": 2502,
+      "sha256": "bd9d9b116d0a6346dca7485f5dbae57178a469274fc75d5009a0f71d0fbf0155"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/head/parts/upper_crease_R.png",
+      "bytes": 23706,
+      "sha256": "b21b6161eadda172aae5911b7ef47d7a8b40b590907458517b2d8e657cee9390"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/processing_v001/front/parts/belt.png",
+      "bytes": 124884,
+      "sha256": "8d1c1aec294d5809174342259886bbf17dca3bf91a21c12168e7566d621f11b6"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/processing_v001/front/parts/collar_L.png",
+      "bytes": 134413,
+      "sha256": "61e15e2b564db93c3d20acf2d1ed4cb3e0bc45c7142e95c10116be93b8424e82"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/processing_v001/front/parts/collar_R.png",
+      "bytes": 121738,
+      "sha256": "e40448560d40f6aabd0a3369869c954c3355e2b191d980afd847d5cd693048d8"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/processing_v001/front/parts/forearm_L.png",
+      "bytes": 88142,
+      "sha256": "3d6c383eb20781ed5de51231740d6b495c65520a36d061600ecd3e66923174e2"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/processing_v001/front/parts/forearm_R.png",
+      "bytes": 89740,
+      "sha256": "e266a37f17a146f2449cdd48c8a2ba188136916c68ed7de1b1017b80270cecec"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/processing_v001/front/parts/hand_L.png",
+      "bytes": 112556,
+      "sha256": "85cc0ae6bdd7e6a0ed76c7a216041d60632d684b49b78162d5515510b9156bf3"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/processing_v001/front/parts/hand_R.png",
+      "bytes": 109748,
+      "sha256": "6f99fa8182ccd7519cfbd63c5dd8c3288e5dfffd0d414d9628a354205c32dd8e"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/processing_v001/front/parts/neck-clavicle.png",
+      "bytes": 63831,
+      "sha256": "1e77961e89c059d5b3d42f45525ebba61c8e078f7181f9f2139c40b51c0c5192"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/processing_v001/front/parts/shirt_inside.png",
+      "bytes": 34023,
+      "sha256": "3740c1dde2c402583a9df205e497575672a2ebbd86ce92e6af5d019e6816ea63"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/processing_v001/front/parts/shirt_torso.png",
+      "bytes": 533495,
+      "sha256": "b04c7139d749e5dd2500ca12ed97e78d2c9901cfc56d5374dde3d4268a2971d4"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/processing_v001/front/parts/shoe_L.png",
+      "bytes": 207623,
+      "sha256": "b895a66cb0d2725e94c71363a27b86def78f26e2fc7befaa18cc55eeb33fc8ab"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/processing_v001/front/parts/shoe_R.png",
+      "bytes": 195490,
+      "sha256": "6f91f35c28747d8f17edeb1c419cbf47778380beca0320623b55a863b0ea82a2"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/processing_v001/front/parts/sleeve_L.png",
+      "bytes": 81696,
+      "sha256": "0d4032af34c93f20197616d05b6ccd1ac37c27d2b5c81d908d445325c8a32514"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/processing_v001/front/parts/sleeve_R.png",
+      "bytes": 75050,
+      "sha256": "aa8c091a1a3af21775549658127d206d18893de22302eb040146b0b668e34b12"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/processing_v001/front/parts/trousers_L.png",
+      "bytes": 562427,
+      "sha256": "c85e42207f1967c05962ca973b663077291bac1cc8643b83fa8d408d881ff0ac"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/processing_v001/front/parts/trousers_R.png",
+      "bytes": 590215,
+      "sha256": "ba3472592fb0d373e0b795fbeb6eeb50b2f846697b5e21a3581e98ee919e0730"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/processing_v001/front/parts/upper_arm_L.png",
+      "bytes": 79132,
+      "sha256": "62cd4d4dfc429ba127d81ce902d40588e4f72f7b3fe2e82f6b7151643e39b920"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/confirmed_png/processing_v001/front/parts/upper_arm_R.png",
+      "bytes": 79134,
+      "sha256": "5c17080f87c446e781d3ddc127afae19705e97289f1b1134dd4f179bde534d2b"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/copies.json",
+      "bytes": 40638,
+      "sha256": "8e7a2db9548df98ef5056018b8292cc364e262f7caf0489f167bdf14103ec5cf"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/duplicates.json",
+      "bytes": 123644,
+      "sha256": "752e9bef795ee6880f8db3b6d5e84e55b74b9da809bf0e3c69cc7d26b7128e39"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/inventory.json",
+      "bytes": 1092390,
+      "sha256": "6f1d24a253d7efea7ebda8b531b70a2bfdc94e3d467a6a3ade9298f6ed583c8a"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/qa_active_1.jpg",
+      "bytes": 185529,
+      "sha256": "7d798381f73d51f4820421535e1780b203f89557265acf922b18ee0e9b5f31d7"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/qa_active_2.jpg",
+      "bytes": 177891,
+      "sha256": "17e673803d7da9fc416faf2560093f00c0dac92133914c72ab9e130c909fa5e5"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/qa_face_alpha.jpg",
+      "bytes": 42556,
+      "sha256": "2a0876beb026a5b346c05622cf820cd208dd2e82db5eca33483726072e8259dd"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/relocation.json",
+      "bytes": 7308,
+      "sha256": "46f804af6afce9cdc189e8fd19ba02754d40f0bac18c9f59743fb190a6139b5e"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/review.json",
+      "bytes": 165745,
+      "sha256": "871888dd4d9697c94071b09f308fb7d23c29b6d979d8954246508001a5683fff"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/latest_png_collection/verification.json",
+      "bytes": 2522,
+      "sha256": "375485ac63e2258214c0b66d1f87414514f2bdad226a3e9857b31d094eeb17cd"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/art/side_view_review/REVIEW.md",
+      "bytes": 7027,
+      "sha256": "c894a8adc14ab6b47e6a214166c6622b13bc3d9d2a271698761f96ff4a882eb3"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/README.md",
+      "bytes": 21660,
+      "sha256": "f731105f8a68e1502acca3904ebb51b17ff807bce9e2607e6f857e229190dc98"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/Ren_base5.cmo3",
+      "bytes": 7393532,
+      "sha256": "375c7c2e85d871c2c36648e9f884f3f5ebd73e775f78e239e6dee43c055d148c"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/Ren_base_4groups.physics3.json",
+      "bytes": 4662,
+      "sha256": "82a0e2a209be2b69e8e708e641063144d727f7cc37f8cc50ca95af21f011d563"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/brow_implementation_20261001/after_inventory.json",
+      "bytes": 466848,
+      "sha256": "d77e6892fd278e5533a1c298411416388cc1ca5aec47055608f706d0c95b79b8"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/brow_implementation_20261001/baseline.json",
+      "bytes": 219,
+      "sha256": "20feb60e4e26dc5c8064a4fd7f836ca235dd67a5ee15ca3f1ff29b8b6dea1b39"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/brow_implementation_20261001/before_inventory.json",
+      "bytes": 447122,
+      "sha256": "4c40ec9b096bafc8e42644a0d348cb111e685c3c85ee61e8a3a3b76a9dfd9417"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/brow_implementation_20261001/test_report.md",
+      "bytes": 6410,
+      "sha256": "4547102aa57bb26b809d2be806edee5a9f84eeefdd0644e6bef388bd24a21678"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/brow_implementation_20261001/verification.json",
+      "bytes": 6418,
+      "sha256": "f8050daa75671e9ecfdf17f791b010dcad6a777e7d9eed0397a1e5f0adb20799"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/brow_implementation_20261001/verify_brows.py",
+      "bytes": 7402,
+      "sha256": "b5e76ff2705802ec63b1be591f2f32b66ce42fe97115866b8f9bd015dc799f0f"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/foundation_audit.json",
+      "bytes": 2985,
+      "sha256": "0324f84aee4393f549ab834a7407446cbec3831462573b36e656e7a150c06d25"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/hair_neck_checkpoint_audit.json",
+      "bytes": 4793,
+      "sha256": "120e44643fac84e5fc7a3524d624af6a523d5d78aa37ec8dd15001786d812af7"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/input_inventory.json",
+      "bytes": 265593,
+      "sha256": "234870162f4376cdb02ac51abdbc24488a14297c83f29fe7662caad88bd74b84"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/input_snapshot.json",
+      "bytes": 310,
+      "sha256": "3fac63f6ea087daae32cb117a9173f9631ac31bcf2e271fc596c7ecd45e0f27c"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/prepare_physics.py",
+      "bytes": 5351,
+      "sha256": "07629432d35472c0dc27074195264710cb929fe034778d9492e864c9e61f6d10"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/render_preview.py",
+      "bytes": 9718,
+      "sha256": "53807750f10b9d74184b9bf755b933945030e5bd4591bcf60bb0fc8e90ee467d"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/review_base1/REVIEW.md",
+      "bytes": 4251,
+      "sha256": "cfe57e93cf6c595e21b91e5bfe1de46010ce75b469c0d69e93b1c504c6b5999c"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/review_base1/ren_base1_audit.json",
+      "bytes": 6505,
+      "sha256": "018d51ab2ef105b2c46f9e476e083124ee92d4a0d5fb8f717d870315ac6e179e"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/review_base3_20261001_current/REVIEW.md",
+      "bytes": 13248,
+      "sha256": "a0d8c788f31cbae608d9ce9e8aadc4d1056e29dcbe3bf2bd070d371e549522aa"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/review_base3_20261001_current/active_image_comparison.json",
+      "bytes": 41874,
+      "sha256": "c5ea164f973c83fcd504744343431adf94092ea4b18dcf41277b05f253fc8e0c"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/review_base3_20261001_current/additional_static_checks.json",
+      "bytes": 2820,
+      "sha256": "3b5fd21d3b86aeaee0b55fe3a73ca6e9128ba0dbf5379c97fc93f4dfedee0a0a"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/review_base3_20261001_current/audit.py",
+      "bytes": 14918,
+      "sha256": "9f070dc5fc87a7b597e3342598720a466ba783a2f35911420a4a8d4834b5e1f3"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/review_base3_20261001_current/axis_changes.json",
+      "bytes": 46992,
+      "sha256": "b8d86761933be35a014a0f96501e12fada3c53cbd82f9ffd8d16a1b76298f29c"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/review_base3_20261001_current/baseline.json",
+      "bytes": 19853,
+      "sha256": "ceb32d29bb7ea9120aee870a94a7eacb27b3dffd00eb0054ca66fdc065bc6dcd"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/review_base3_20261001_current/eye_boundary_samples.json",
+      "bytes": 28920,
+      "sha256": "0df5883159507878f53a41386b9d9c20191df7195db77c9fdc56d7e5f654d669"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/review_base3_20261001_current/inventory.json",
+      "bytes": 555381,
+      "sha256": "d4abf83466b61b4bffb14bb3358e01b8086f0763b738af2e455a75d12f7c833b"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/review_base3_20261001_current/iris_deformation_scan.json",
+      "bytes": 60525,
+      "sha256": "e7f99310c730331c374eb19509dcc36424f3354af55eb39b51d182c9dbe3bb73"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/review_base3_20261001_current/iris_local_metrics.json",
+      "bytes": 3705,
+      "sha256": "f8e4eb337bd4273f0ef80d7e73dcdd9c8a7c24dbcb18a4123bc1673bec8d3947"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/review_base3_20261001_current/result.json",
+      "bytes": 2539,
+      "sha256": "dae121c2ed60520cd795ad1d15fc6a06f9dc062f5b4a99cf512ab44da54e136a"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/review_base3_20261001_current/runtime_attempt.json",
+      "bytes": 790,
+      "sha256": "4edd54d791609c91ea413a4accc73939b020ff15ad67ccca912dae9b77829e59"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/review_base3_20261001_current/runtime_recovery.json",
+      "bytes": 2094,
+      "sha256": "4b5b0d7f72b1c4fbfc705d4a7065d7fb98a694e4cfd937eb2efefab8fe24dca2"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/review_base3_20261001_current/verification.json",
+      "bytes": 13708,
+      "sha256": "c40ce7ccf1babdfa0dc258d9b81fce25291b5d5b40dde4b617cfad088d9e00d2"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/review_front_gui_20261001/REVIEW.md",
+      "bytes": 8586,
+      "sha256": "c157fbaa6f14fcce6aa725c0a03f4a9972c9ae61edac01010859f43242f8daf4"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/review_front_gui_20261001/manifest.json",
+      "bytes": 8474,
+      "sha256": "62e28035728ccfb727f4cfca8c95037a0a8c7c3d2d8c3f1b656231e8f93ac788"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/test_report.md",
+      "bytes": 4269,
+      "sha256": "15d713b82235e237549df29bb4ee54a377b9a3303cb7f1f2e3d3cb47061d4899"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/verify_delivery.py",
+      "bytes": 13164,
+      "sha256": "609a910cf89e846a332d08044b64e07cdcefaddcc23090a9a22b599d4918b51b"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/README.md",
+      "bytes": 7030,
+      "sha256": "673b969ec780a6b6c220ea02eee94241d2df4012c8509da7ccebb912a5bda596"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/archive/before_contour_direction_20260925/README.md",
+      "bytes": 5929,
+      "sha256": "f427eaa0b4371e0bd89350b3be87c12a9d669a30ec013bea89d2f166972e391e"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/archive/before_contour_direction_20260925/render_preview.py",
+      "bytes": 13915,
+      "sha256": "d7fc5823f138f13a17861ae6eec2681d35880702b0303cf81184828d967f45bc"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/archive/before_contour_direction_20260925/test_report.md",
+      "bytes": 8196,
+      "sha256": "b36aeb7464e3c8c9221e6c901c9ff3cbbb939eb327132c4c3fc4f202bc0c8471"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/archive/before_contour_direction_20260925/verify_delivery.py",
+      "bytes": 7096,
+      "sha256": "cc3e20ae48d3a6423e0d286a628af963b635a2bbe9717162a3b11e0ef064d77e"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/archive/before_oblique_contour_20260925/README.md",
+      "bytes": 4545,
+      "sha256": "711679926b6e98faaa4feba517d4723f92ca0bcecb90b9eee565510373692247"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/archive/before_oblique_contour_20260925/render_preview.py",
+      "bytes": 12506,
+      "sha256": "22debf4e96ee3684e3d5af5c24d548e45a9d668682ce4a9e0f9c5d939e6f9ab8"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/archive/before_oblique_contour_20260925/test_report.md",
+      "bytes": 3870,
+      "sha256": "97bcd73d3b8cd7d94b139b9ccd36500e2f117460013160453ddde3a5dbd910b5"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/archive/before_oblique_contour_20260925/verify_delivery.py",
+      "bytes": 6394,
+      "sha256": "cb7a261da55ae66a72792745ac4945b832c5cb4281acebd0caf4a91d4f765e3d"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/archive/before_reference_fit_20260925/README.md",
+      "bytes": 3588,
+      "sha256": "ea1a6fd5fc1551693c2972e51a78307571ea3b94b280ef8031947dc5a299e7fe"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/archive/before_reference_fit_20260925/render_preview.py",
+      "bytes": 9376,
+      "sha256": "4d6cf6b0b68b9b6d0cca61f1bd18d7ff50c131d46add1eba76aff93c1f8e9284"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/archive/before_reference_fit_20260925/test_report.md",
+      "bytes": 1962,
+      "sha256": "b976278ddd670c5de5cc03619ffa1f88c023d461f20f7347eaebabb9c05821b3"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/archive/before_reference_fit_20260925/verify_delivery.py",
+      "bytes": 4622,
+      "sha256": "7139f593ec4c1e5b97fd944d1c3cababc3f8239402d1ce640314e014272567c8"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/archive/before_tilted_reference_20260926/README.md",
+      "bytes": 7280,
+      "sha256": "e1d9ceba1fe735c754cc8c1625101a44b7131d2c52adeba2c84c16bc342c808c"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/archive/before_tilted_reference_20260926/compare_reference.py",
+      "bytes": 1954,
+      "sha256": "5d7a9896ae857d77d10bbe0c0a56d50f77a10b58115ba724cf3fd1ac54b605ea"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/archive/before_tilted_reference_20260926/render_preview.py",
+      "bytes": 14646,
+      "sha256": "686be203a72216eead97f99be94f51a61dfb8029edac1a11c3590f942d2948ca"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/archive/before_tilted_reference_20260926/test_report.md",
+      "bytes": 12449,
+      "sha256": "f3343fc8564e5833f0e4bcce08c9a184dbf3d67c93e9320287fc7eb94e9d5384"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/archive/before_tilted_reference_20260926/verify_delivery.py",
+      "bytes": 7498,
+      "sha256": "54f9b994b65db0c574c0904a2765d07a39d03eaab9623597c02f36b84efe72ca"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/compare_reference.py",
+      "bytes": 1954,
+      "sha256": "5d7a9896ae857d77d10bbe0c0a56d50f77a10b58115ba724cf3fd1ac54b605ea"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/diagnose_tilted_reference_regression.py",
+      "bytes": 8923,
+      "sha256": "231b252e202f15d3612fa36a0a335161888363f69a8b57f6cd1157ec02b2b54f"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/reference_oblique_comparison.py",
+      "bytes": 4909,
+      "sha256": "25b27591ec5927e1ad24d622365b0ca39ca6f9b3ef7561dd84060d1282e6c2bd"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/reference_overlay/IMPLEMENTATION_NOTES.md",
+      "bytes": 2864,
+      "sha256": "f7cd6d31b9f1a3de4ab31be162587e1a82c41d2eb01d322c7fecac2fdaaa1738"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/reference_overlay/NEXT_PARTS_PREPARATION.md",
+      "bytes": 2459,
+      "sha256": "c4cd259b119077218955f2b6ec5bb96726608aa56b3212600757329736d5b5d5"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/reference_overlay/build_reference_overlay.py",
+      "bytes": 6817,
+      "sha256": "1428b939efe97adc575e1c71b628457d69e4915d6514a715c56e176edaeea7d4"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/reference_overlay/build_reference_overlay_psd.js",
+      "bytes": 3961,
+      "sha256": "4e89b36ee29d814b403830200f338e6dc7582b52e9bed5ab7c4f62a89b0191b1"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/render_preview.py",
+      "bytes": 23697,
+      "sha256": "7012ca97ab1a402172e3216d4bc43587360b323d2f3681559741dcdb38b882b8"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/README.md",
+      "bytes": 6922,
+      "sha256": "8ad933f43819cce823c1011599b471b84cd1784163e7d284ad2515867c9d0071"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/archive/before_mesh_refinement_20260926/README.md",
+      "bytes": 3774,
+      "sha256": "6baaba2b468ba5a87d700af3a6b8e957a80e9db584213af9f0e5cbbd27175b26"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/archive/before_mesh_refinement_20260926/test_report.md",
+      "bytes": 4013,
+      "sha256": "0c2f5a845601b132c2e853f91510a0b2c839b9cef613ad5c54c5c37a43f36568"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/archive/before_whole_head_outline_20260926/README.md",
+      "bytes": 4335,
+      "sha256": "201f3daa1f7668ad32998ee72c756088c7208b2dbe4d2e285e6f7a7b36177898"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/archive/before_whole_head_outline_20260926/test_report.md",
+      "bytes": 5867,
+      "sha256": "5afa2d6eea6ab417fa5b2d9029a26fb26edc26ce37b497748483d547fd67c8a2"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/dense_contour_check/audit_mesh_refinement.py",
+      "bytes": 8782,
+      "sha256": "b91be22293b1593f2b91f4e1023330c661e2a94ee388b4fd7131c46d8d1b06f7"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/dense_contour_check/build_dense_contour_audit.py",
+      "bytes": 10503,
+      "sha256": "525544cdd31aed1a36b477737f635354a223b73e3305c8c661fc87aa6a63ad39"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/dense_contour_check/build_dense_contour_reference_psd.js",
+      "bytes": 7694,
+      "sha256": "63a6c7d95a2cfddfca5c287d513ccd4f222863e7a5d1f9b5d5a454c0a1a0d5a3"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/dense_contour_check/render_dense_contour_before_after.py",
+      "bytes": 12683,
+      "sha256": "2169c858a5958a84381effc1c095d288bdb83276f1010cc8e9bff6c087dfe923"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/finalize_validation.py",
+      "bytes": 5514,
+      "sha256": "387d2259399b3d72d95600a4a234a54a79dc6e47587f6e59962ba4fd95c8f0b5"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/guide/build_contour_guide_psd.js",
+      "bytes": 10083,
+      "sha256": "a83f60efbec6310694be67ffbda675d4615b7a290525da69fb3896962f74072e"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/guide/build_single_endpoint_guide.py",
+      "bytes": 11931,
+      "sha256": "856c0f4b432daf493321e1d625a7682588a69b60b2d041e5cc11e0ff129c8838"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/make_review_sheet.py",
+      "bytes": 1382,
+      "sha256": "f8d9efab90d80dc9f866e5baa2270ec54b3ce39963e0fc8da5cb857286f089bd"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/render_face_underfill_contour_check.py",
+      "bytes": 12102,
+      "sha256": "d82093628c9eb59041b41a1a36e0ed52beb251157ab6d40f4e817bb45f0f63c2"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/test_report.md",
+      "bytes": 8616,
+      "sha256": "cab506e177ac7b29bd5ed69385fada0d14cb3172d85372d9328dfe29649ba574"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/verify_preservation.py",
+      "bytes": 5134,
+      "sha256": "044c1e7a41cf7fa539ec311ab88fe9a102ef284915a154bd105ccabd8c3a19da"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/verify_refined_poses.py",
+      "bytes": 11528,
+      "sha256": "3c836bd6881f75970dc1bfc082732c37bd5dfa9102394590df2a7658e3501d70"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/verify_whole_head_poses.py",
+      "bytes": 11821,
+      "sha256": "98c33225d3bd71d81f401956980f5c05fd7cdfdc13bd1d1fe9d82d3e06ad71e3"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/whole_head_outline_check/README.md",
+      "bytes": 3068,
+      "sha256": "2f39a39ba58ef02b38885195ea005296c5674ca514ea875140fc359aba04ad11"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/whole_head_outline_check/build_whole_head_guide.py",
+      "bytes": 15768,
+      "sha256": "640ade7214bef7f805f666286ab70130141c755a42307d6317f5be5cd5511a32"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/whole_head_outline_check/build_whole_head_reference_psd.js",
+      "bytes": 5088,
+      "sha256": "1bae7728beccf9516a7b42d32d05864b994d571e333a202615a084c1fe039d8c"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/whole_head_outline_check/finalize_whole_head_validation.py",
+      "bytes": 10490,
+      "sha256": "b03a35c76008fd22c4114fdf4e5f7f5f85d518326b578ae42306f3c28dcab1e9"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/whole_head_outline_check/register_source.py",
+      "bytes": 7109,
+      "sha256": "b1593b44ccfabdb014a9db813462d961316417c12e4af8b4889bf3fae10f02ad"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/whole_head_outline_check/render_whole_head_runtime_comparison.py",
+      "bytes": 13432,
+      "sha256": "9e7623eb200931df753aca721c1d690d9a44e6e6f96d772cca9b364d1c84d88d"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/whole_head_outline_check/test_report.md",
+      "bytes": 2605,
+      "sha256": "ca6f42a67873fb4a565c6661b854486a7da3fed03f5ef392eb79798b11bbd78d"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/test_report.md",
+      "bytes": 17760,
+      "sha256": "b031da0885578cce12b6c5b6dee292a9917afbc67444aae4792677f07a1d2558"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_angles/verify_delivery.py",
+      "bytes": 10110,
+      "sha256": "30a6980d6f7a5868dcf89de25000444419f5886ae0661f35aa246dc3f036cb1a"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_neck_hair/acceptance_20260925.md",
+      "bytes": 2445,
+      "sha256": "d9896e1b596340549c34940ea527f1e2208602541f120cc7f09033be4c965f01"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/training_base_audit/.gitignore",
+      "bytes": 126,
+      "sha256": "d613951cfa529268edb733f062eadc2d2f1928efef7dd79bae7fc2a618f1bb89"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/training_base_audit/README.md",
+      "bytes": 10283,
+      "sha256": "133e12cea4e580cdb3d06af0847a2e6c8dd52ca79ca3e39169d119acd1dceff8"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/training_base_audit/accepted_reference_inventory.json",
+      "bytes": 99936,
+      "sha256": "d3f19b8821bb92a5edfcc3b4f64f28bf1d74105eb5f3774c2a8d7515c80c2574"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/training_base_audit/audit_cmo3.py",
+      "bytes": 14451,
+      "sha256": "abbf2a57f14b4ef6eb081efa8c858caa843e4e37fd0970f55dd7c0ecb7f96376"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/training_base_audit/basic_expression_inventory.json",
+      "bytes": 77902,
+      "sha256": "c3a05b6f311af4ff2588d6ba57fb06459aff0e8e122e30c87f074f4cc7ba5d7b"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/training_base_audit/candidate0_inventory.json",
+      "bytes": 259082,
+      "sha256": "adabf1b1b5d32a1b708b56bc72813b9c5cfab42daa5e55a93c6f5a63e780ac9c"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/training_base_audit/candidate_equivalence.json",
+      "bytes": 271,
+      "sha256": "8ae8e47a72a9594f82cc7933b932b36196c3f4b605d6319ef78436c7734f7489"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/training_base_audit/candidate_inventory.json",
+      "bytes": 259081,
+      "sha256": "e796dac7b24c5cccbcbcb9ef8402464e26ca3bb98fa80537b97db04d7233c21f"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/training_base_audit/head_neck_hair_working_inventory.json",
+      "bytes": 99919,
+      "sha256": "63443bdc5740331125c95aeeb3bb6f3b2df2451ed90f4c6106214775d4f35975"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/training_base_audit/latest_asset_comparison.json",
+      "bytes": 28667,
+      "sha256": "5d8d6e7fe010c82d4b699e095a18cc274319f1b38fcdfbc3e982f4de7c97cdb0"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/training_base_audit/lesson09_pre_atlas_inventory.json",
+      "bytes": 259096,
+      "sha256": "1b612a272fbc76af0e0d68aa47ae21c97e05d812e2743c08d1a1749d40a3cb5b"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/training_base_audit/summary.json",
+      "bytes": 1212,
+      "sha256": "cc002bb580824aea6a562deb95dccfb82d83a11c0818218ecfc244e094c81a0f"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/training_base_audit/used_asset_comparison.json",
+      "bytes": 21087,
+      "sha256": "342eb1d8e189c26ce8ea2610734eac1f5dc3475ef0f50ffeae105fb44fd3f4cb"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/training_base_audit/verification.json",
+      "bytes": 2934,
+      "sha256": "086373b57333ad442918d9639053282608058bbecaf727000373d2a60f58ec79"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/ren-asagiri.aisp",
+      "bytes": 21241,
+      "sha256": "aeaa7488c98041aaa4139a64b6f0a48d26f07f3d620716d4da9b763ed4d88ce5"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/test_png_20261001_132300/README.md",
+      "bytes": 7091,
+      "sha256": "7bd63c97ea772c30f494eb0613cd424ddd6c9fd0ccb31c7bbaa0739ee67759b7"
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/test_png_20261001_132300/organize.py",
+      "bytes": 14188,
+      "sha256": "8194d0135ab2cfe0120c67ff50b0401d70905924b427da34ff28e37a2aa6a883"
+    },
+    {
+      "path": "Live2D/templates/character_production_record.md",
+      "bytes": 2417,
+      "sha256": "bfbb9b133bea6f1ecb5897f3ed8aa4aac9fd67c3b6c87f158bb00df0c38b2170"
+    },
+    {
+      "path": "Live2D/voice/ren-asagiri.aisp",
+      "bytes": 12184,
+      "sha256": "cf015d6467955711963eac30ed4afbc6b216e6aea3f888ff5194406930da1764"
+    }
+  ]
+}

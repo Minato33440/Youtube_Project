@@ -1,0 +1,75 @@
+{
+  "checked_at": "2026-09-30",
+  "method": "Read-only CAFF/XML inspection with default ArtMesh forms mapped through neutral Warp grids. Rotation is intentionally excluded from the neutral geometry comparison because its center key changed from +1 to 0 degrees.",
+  "current": {
+    "path": "C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/model/base_motion/Ren_base.cmo3",
+    "sha256": "a9b79788ff036bb7c01c7c60ff1251c735218d6c6b9abdbc211f79ea736588cf",
+    "meshes": 46,
+    "deformers": 10,
+    "parameters": 28,
+    "physics_groups": 2
+  },
+  "pristine": {
+    "path": "C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/model/base_motion/archive/before_foundation_20260930/Ren_deformer1.cmo3",
+    "sha256": "b0fd5db8b604262a4111e3c2213d6c29ab47d6fbb5bb2c6b53fd15f11998eae5",
+    "meshes": 46,
+    "deformers": 8,
+    "parameters": 28,
+    "physics_groups": 2
+  },
+  "foundation": {
+    "z_angles": {
+      "-30": -15.0,
+      "0": 0.0,
+      "30": 15.0
+    },
+    "clips": {
+      "ALT_iris_L_blue": "FILL_eye_white_L",
+      "ALT_iris_R_brown": "FILL_eye_white_R",
+      "mouth_tongue": "mouth_cavity",
+      "mouth_teeth_upper": "mouth_cavity"
+    },
+    "hierarchy": {
+      "Face_Rotation_Practice": [
+        "Head_XY_Base"
+      ],
+      "Head_XY_Base": [
+        "Face_Warp",
+        "Hair_Base_Warp",
+        "Mouth_Warp"
+      ],
+      "Jaw_Open": [
+        "face_underfill"
+      ]
+    },
+    "jaw": {
+      "parameter": "ParamMouthOpenY",
+      "keys": [
+        0.0,
+        1.0
+      ],
+      "max_vertex_displacement_at_open_1_rotation_local": 19.50942215207115,
+      "mean_vertex_displacement_at_open_1_rotation_local": 3.2429968166598946
+    }
+  },
+  "preservation": {
+    "parameters_equal": true,
+    "physics_equal": true,
+    "all_46_mesh_vertex_and_triangle_counts_equal": true,
+    "all_46_editable_mesh_contents_equal_ignoring_reference_table_indices": true,
+    "all_46_active_image_rgba_hashes_equal": true,
+    "neutral_rotation_local_max_abs_coordinate_delta": 0.008428657431167608,
+    "face_underfill_max_abs_coordinate_delta": 0.008428657431167608,
+    "other_45_meshes_max_abs_coordinate_delta": 0.0002318032317560892,
+    "meshes_over_0_001_coordinate_delta": [
+      "face_underfill"
+    ]
+  },
+  "conclusion": "The requested Z center, four clips, Head_XY_Base hierarchy, and Jaw_Open keys are present. Neutral geometry is preserved to sub-0.01 coordinate rounding after the intended reparenting; no unintended mesh topology, source image, parameter, or existing physics changes were found.",
+  "limits": [
+    "This is structural and numerical inspection of the saved CMO3, not a Cubism or runtime visual review.",
+    "The jaw endpoint is an intended new deformation and is excluded from the neutral preservation comparison.",
+    "Side/back hair and neck motion are later stages and are not claimed by this checkpoint audit.",
+    "The ahoge shape remains the known no-op training implementation and was not changed."
+  ]
+}

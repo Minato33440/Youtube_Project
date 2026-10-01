@@ -1,0 +1,32 @@
+{
+  "test_count": 185,
+  "failures": {},
+  "outside_rule_changes": {},
+  "preservation": {
+    "missing": [],
+    "changed": [],
+    "added": [],
+    "scan_errors": [
+      "[WinError 5] アクセスが拒否されました。: 'C:\\\\Python\\\\REX_AI\\\\Youtube_Project\\\\Live2D\\\\model-ren-asagiri\\\\art\\\\processing_v001\\\\tools\\\\pylib\\\\cv2'",
+      "[WinError 5] アクセスが拒否されました。: 'C:\\\\Python\\\\REX_AI\\\\Youtube_Project\\\\Live2D\\\\model-ren-asagiri\\\\art\\\\processing_v001\\\\tools\\\\pylib\\\\opencv_python_headless-5.0.0.93.dist-info'"
+    ]
+  },
+  "tracked_ren_count": 230,
+  "staged_name_status": [
+    "D",
+    "Live2D/model-ren-asagiri/latest_preview/Ren_head_neck_hair.gif",
+    "D",
+    "Live2D/model-ren-asagiri/latest_preview/comparison_original.jpg",
+    "D",
+    "Live2D/model-ren-asagiri/latest_preview/eyes.png",
+    "D",
+    "Live2D/model-ren-asagiri/latest_preview/head_neck_hair_review.jpg",
+    "D",
+    "Live2D/model-ren-asagiri/latest_preview/head_sample.png",
+    "D",
+    "Live2D/model-ren-asagiri/latest_preview/python_composite.png",
+    ""
+  ],
+  "stage0_before": true,
+  "index_sha256": "ddbb46588e138059102fbfe09140a3627ad5969189f371cd1c74260c0630d3d5"
+}

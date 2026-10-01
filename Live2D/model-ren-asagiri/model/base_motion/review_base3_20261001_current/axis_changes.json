@@ -1,0 +1,2466 @@
+[
+  {
+    "name": "upper_crease_L",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.5609888583662934,
+    "opacity_values": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "upper_crease_L",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 0.15
+    },
+    "max_local_vertex_delta_from_first": 0.40817457311902117,
+    "opacity_values": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "upper_crease_L",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 0.25
+    },
+    "max_local_vertex_delta_from_first": 0.3131084314584647,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "upper_crease_L",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.16018614828213276,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "upper_crease_L",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 0.75
+    },
+    "max_local_vertex_delta_from_first": 0.03453580656643767,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "upper_crease_L",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.07515521909323733,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "upper_crease_L",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeLSmile": 0.0
+    },
+    "max_local_vertex_delta_from_first": 9.999999994736442e-09,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "upper_crease_L",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeLSmile": 0.25
+    },
+    "max_local_vertex_delta_from_first": 9.999999994736442e-09,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "upper_crease_L",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeLSmile": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.5787126514325659,
+    "opacity_values": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "upper_crease_L",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeLSmile": 0.75
+    },
+    "max_local_vertex_delta_from_first": 9.999999994736442e-09,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "upper_crease_L",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeLSmile": 1.0
+    },
+    "max_local_vertex_delta_from_first": 9.999999994736442e-09,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "lower_eyelid_left",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeLSmile": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.3267095448766786,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "lower_eyelid_left",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeLSmile": 0.25
+    },
+    "max_local_vertex_delta_from_first": 0.3267095448766786,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "lower_eyelid_left",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeLSmile": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.4546610351641462,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "lower_eyelid_left",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeLSmile": 0.75
+    },
+    "max_local_vertex_delta_from_first": 0.3267095448766786,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "lower_eyelid_left",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeLSmile": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.3267095448766786,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "lower_eyelid_left",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.14642763475636453,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "lower_eyelid_left",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 0.05
+    },
+    "max_local_vertex_delta_from_first": 0.15044770569026336,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "lower_eyelid_left",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 0.25
+    },
+    "max_local_vertex_delta_from_first": 0.0640609092836888,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "lower_eyelid_left",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 0.75
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "lower_eyelid_left",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "ALT_eyelash_upper_L",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {},
+    "max_local_vertex_delta_from_first": 0.44498286282544325,
+    "opacity_values": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "ALT_iris_L_blue",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {},
+    "max_local_vertex_delta_from_first": 0.5595612909136085,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_L",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeLSmile": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.47057744822550823,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_L",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeLSmile": 0.25
+    },
+    "max_local_vertex_delta_from_first": 0.47057744822550823,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_L",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeLSmile": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.5044646307556403,
+    "opacity_values": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_L",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeLSmile": 0.75
+    },
+    "max_local_vertex_delta_from_first": 0.47057744822550823,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_L",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeLSmile": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.47057744822550823,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_L",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.03468950853413753,
+    "opacity_values": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_L",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 0.15
+    },
+    "max_local_vertex_delta_from_first": 0.05040697590098511,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_L",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 0.25
+    },
+    "max_local_vertex_delta_from_first": 0.06125235981290836,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_L",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_L",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 0.75
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_L",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "upper_crease_R",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.3708140790532233,
+    "opacity_values": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "upper_crease_R",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.15
+    },
+    "max_local_vertex_delta_from_first": 0.11807422313489468,
+    "opacity_values": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "upper_crease_R",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.25
+    },
+    "max_local_vertex_delta_from_first": 0.06429390241717797,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "upper_crease_R",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.06429390241717797,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "upper_crease_R",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.75
+    },
+    "max_local_vertex_delta_from_first": 0.06429390241717797,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "upper_crease_R",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.1162209905444987,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "upper_crease_R",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.06298985029761937,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "upper_crease_R",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 0.25
+    },
+    "max_local_vertex_delta_from_first": 0.06475874917978626,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "upper_crease_R",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.33493252707807897,
+    "opacity_values": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "upper_crease_R",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 0.75
+    },
+    "max_local_vertex_delta_from_first": 0.07721101400399924,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "upper_crease_R",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.08842608020209151,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "lower_eyelid_right",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.15259694230770973,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "lower_eyelid_right",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 0.25
+    },
+    "max_local_vertex_delta_from_first": 0.828657355329465,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "lower_eyelid_right",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.49293525200708904,
+    "opacity_values": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "lower_eyelid_right",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 0.75
+    },
+    "max_local_vertex_delta_from_first": 0.15259694230770973,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "lower_eyelid_right",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.15259694230770973,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "lower_eyelid_right",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.6788899972228954,
+    "opacity_values": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "lower_eyelid_right",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.25
+    },
+    "max_local_vertex_delta_from_first": 0.1297671197059275,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "lower_eyelid_right",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "lower_eyelid_right",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.75
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "lower_eyelid_right",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "ALT_eyelash_upper_R",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.11027423388723519,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "ALT_eyelash_upper_R",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 0.25
+    },
+    "max_local_vertex_delta_from_first": 0.11027423388723519,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "ALT_eyelash_upper_R",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.10818620548226028,
+    "opacity_values": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "ALT_eyelash_upper_R",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 0.75
+    },
+    "max_local_vertex_delta_from_first": 0.11027423388723519,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "ALT_eyelash_upper_R",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.11027423388723519,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "ALT_eyelash_upper_R",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "ALT_eyelash_upper_R",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.05
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "ALT_eyelash_upper_R",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.15
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "ALT_eyelash_upper_R",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.25
+    },
+    "max_local_vertex_delta_from_first": 0.07936773100204515,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "ALT_eyelash_upper_R",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "ALT_eyelash_upper_R",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.75
+    },
+    "max_local_vertex_delta_from_first": 0.09586718227557331,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "ALT_eyelash_upper_R",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.0076788135688333715,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "ALT_iris_R_brown",
+    "parameter": "ParamEyeROpen",
+    "fixed": {},
+    "max_local_vertex_delta_from_first": 1.1400106623466213,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_R",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.7606758983965395,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_R",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 0.25
+    },
+    "max_local_vertex_delta_from_first": 0.7606758983965395,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_R",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.5747355203572632,
+    "opacity_values": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_R",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 0.75
+    },
+    "max_local_vertex_delta_from_first": 0.7606758983965395,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_R",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.7512654392326454,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_R",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.18672776057157972,
+    "opacity_values": [
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_R",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.15
+    },
+    "max_local_vertex_delta_from_first": 0.07469110821092964,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_R",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.25
+    },
+    "max_local_vertex_delta_from_first": 0.049172052656269095,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_R",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.05494097887669999,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_R",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.75
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "FILL_eye_white_R",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.0779504372964732,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_closed",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": -1.0
+    },
+    "max_local_vertex_delta_from_first": 0.020499046171024663,
+    "opacity_values": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_closed",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.020441043343122176,
+    "opacity_values": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_closed",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.022951918154126023,
+    "opacity_values": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_closed",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.0788335988170146,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_closed",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.05
+    },
+    "max_local_vertex_delta_from_first": 0.0709502188811599,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_cavity",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": -1.0
+    },
+    "max_local_vertex_delta_from_first": 0.7183454597371783,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_cavity",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.6994938735186409,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_cavity",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.6994938735186409,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_cavity",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.1699380335515331,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_cavity",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.25
+    },
+    "max_local_vertex_delta_from_first": 0.0391073402107481,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_cavity",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_cavity",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.75
+    },
+    "max_local_vertex_delta_from_first": 0.11875982973443842,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_cavity",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.23751965993811378,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_tongue",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": -1.0
+    },
+    "max_local_vertex_delta_from_first": 0.6918970228876955,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_tongue",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.6797525897378272,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_tongue",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.6797525897378272,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_tongue",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.06685467834741636,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_tongue",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_tongue",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_rim_lower",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": -1.0
+    },
+    "max_local_vertex_delta_from_first": 0.5943533127420374,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_rim_lower",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.5869320267767831,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_rim_lower",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.5890104893457039,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_rim_lower",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.09769240639740072,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_rim_lower",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.25
+    },
+    "max_local_vertex_delta_from_first": 0.0521219278921463,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_rim_lower",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.017318275944146373,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_rim_lower",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.75
+    },
+    "max_local_vertex_delta_from_first": 0.0408799373811066,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_rim_lower",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.01914104459755527,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_teeth_upper",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": -1.0
+    },
+    "max_local_vertex_delta_from_first": 0.38709374957651455,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_teeth_upper",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.608487032352158,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_teeth_upper",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.5388990467061766,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_teeth_upper",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.0
+    },
+    "max_local_vertex_delta_from_first": 3.5592836357941353e-06,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_teeth_upper",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.25
+    },
+    "max_local_vertex_delta_from_first": 0.08692923999905439,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_teeth_upper",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_teeth_upper",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.75
+    },
+    "max_local_vertex_delta_from_first": 0.12820435750787895,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_teeth_upper",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.25640870355236023,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_rim_upper",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.17079701549763832,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_rim_upper",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.25
+    },
+    "max_local_vertex_delta_from_first": 0.09438717344606151,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_rim_upper",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.016849982632777434,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_rim_upper",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.75
+    },
+    "max_local_vertex_delta_from_first": 0.11067937831767126,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_rim_upper",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.18091378130924846,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_rim_upper",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": -1.0
+    },
+    "max_local_vertex_delta_from_first": 0.4647303921244494,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_rim_upper",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.6304957333507801,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "mouth_rim_upper",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.6461235003535009,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "hair_ahoge",
+    "parameter": "Param",
+    "fixed": {},
+    "max_local_vertex_delta_from_first": 0.11174314470431387,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "eyelash_closed_L",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeROpen": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.0035117129311632612,
+    "opacity_values": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "eyelash_closed_L",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeROpen": 0.15
+    },
+    "max_local_vertex_delta_from_first": 0.0035117129311632612,
+    "opacity_values": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "eyelash_closed_L",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeROpen": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.0035117129311632612,
+    "opacity_values": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "eyelash_closed_L",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeROpen": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.0035117129311632612,
+    "opacity_values": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "eyelash_closed_L",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeLOpen": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "eyelash_closed_L",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeLOpen": 0.05
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "eyelash_closed_R",
+    "parameter": "ParamEyeROpen",
+    "fixed": {},
+    "max_local_vertex_delta_from_first": 0.08763835525125606,
+    "opacity_values": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Hair_Base_Warp",
+    "parameter": "ParamAngleZ",
+    "fixed": {},
+    "max_local_vertex_delta_from_first": 3.655625801438115e-07,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Mouth_Warp",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": -1.0
+    },
+    "max_local_vertex_delta_from_first": 0.027087747082398722,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Mouth_Warp",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": -0.5
+    },
+    "max_local_vertex_delta_from_first": 0.013543873541199415,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Mouth_Warp",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Mouth_Warp",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.01620596901195364,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Mouth_Warp",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {
+      "ParamMouthForm": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.029792779740151844,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Mouth_Warp",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.028066049034983505,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Mouth_Warp",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.05081593880908726,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Mouth_Warp",
+    "parameter": "ParamMouthForm",
+    "fixed": {
+      "ParamMouthOpenY": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.0292534297639251,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "HairFrontC_Warp",
+    "parameter": "ParamHairFront",
+    "fixed": {
+      "Param": -1.0
+    },
+    "max_local_vertex_delta_from_first": 0.3920217676506178,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "HairFrontC_Warp",
+    "parameter": "ParamHairFront",
+    "fixed": {
+      "Param": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.342431111137387,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "HairFrontC_Warp",
+    "parameter": "ParamHairFront",
+    "fixed": {
+      "Param": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.3920217676506178,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "HairFrontC_Warp",
+    "parameter": "Param",
+    "fixed": {
+      "ParamHairFront": -1.0
+    },
+    "max_local_vertex_delta_from_first": 0.05563927959298716,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "HairFrontC_Warp",
+    "parameter": "Param",
+    "fixed": {
+      "ParamHairFront": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "HairFrontC_Warp",
+    "parameter": "Param",
+    "fixed": {
+      "ParamHairFront": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.036250462800280187,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Right_Eye",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.060803307059358706,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Right_Eye",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 0.25
+    },
+    "max_local_vertex_delta_from_first": 0.07358757138679686,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Right_Eye",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.0753925593061482,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Right_Eye",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 0.75
+    },
+    "max_local_vertex_delta_from_first": 0.07450853748689651,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Right_Eye",
+    "parameter": "ParamEyeROpen",
+    "fixed": {
+      "ParamEyeRSmile": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.06862996075809455,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Right_Eye",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.017124663178320478,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Right_Eye",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.25
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Right_Eye",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.009134530005605079,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Right_Eye",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 0.75
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Right_Eye",
+    "parameter": "ParamEyeRSmile",
+    "fixed": {
+      "ParamEyeROpen": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.04079421900919783,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Left_Eye",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeLSmile": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.0404111376020275,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Left_Eye",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeLSmile": 0.25
+    },
+    "max_local_vertex_delta_from_first": 0.0036697500078478624,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Left_Eye",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeLSmile": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Left_Eye",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeLSmile": 0.75
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Left_Eye",
+    "parameter": "ParamEyeLOpen",
+    "fixed": {
+      "ParamEyeLSmile": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.021977318450095307,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Left_Eye",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 0.0
+    },
+    "max_local_vertex_delta_from_first": 0.021977318450095307,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Left_Eye",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 0.25
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Left_Eye",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 0.5
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Left_Eye",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 0.75
+    },
+    "max_local_vertex_delta_from_first": 0.0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Left_Eye",
+    "parameter": "ParamEyeLSmile",
+    "fixed": {
+      "ParamEyeLOpen": 1.0
+    },
+    "max_local_vertex_delta_from_first": 0.0404111376020275,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Hair_ahoge_wrap",
+    "parameter": "Param",
+    "fixed": {},
+    "max_local_vertex_delta_from_first": 0.40032305750644215,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Jaw_Open",
+    "parameter": "ParamMouthOpenY",
+    "fixed": {},
+    "max_local_vertex_delta_from_first": 0.024509200013384778,
+    "opacity_values": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Neck_Follow",
+    "parameter": "ParamAngleZ",
+    "fixed": {},
+    "max_local_vertex_delta_from_first": 99.41622419087336,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Hair_Side_L_Sway",
+    "parameter": "ParamHairSide",
+    "fixed": {},
+    "max_local_vertex_delta_from_first": 0.07649260956130924,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Hair_Side_R_Sway",
+    "parameter": "ParamHairSide",
+    "fixed": {},
+    "max_local_vertex_delta_from_first": 0.08013300009526483,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Hair_Back_Sway",
+    "parameter": "ParamHairBack",
+    "fixed": {},
+    "max_local_vertex_delta_from_first": 0.056129182157768916,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "name": "Face_Rotation_Practice",
+    "parameter": "ParamAngleZ",
+    "fixed": {},
+    "max_local_vertex_delta_from_first": 0,
+    "opacity_values": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  }
+]

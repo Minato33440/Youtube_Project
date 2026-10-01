@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-28",
+  "passed": true,
+  "counts": {
+    "files_hashes_checked": 1665,
+    "training_hashes_checked": 17,
+    "selected_new_files": 475,
+    "active_source_references": 93,
+    "runtime_references": 55,
+    "moved_files": 16,
+    "deleted_files": 0,
+    "unclassified_visible_files": 0,
+    "staged_new_files": 490,
+    "verifier_case_inputs": 30
+  },
+  "errors": [],
+  "largest_selected_file": {
+    "path": "Live2D/model-ren-asagiri/art/processing_v001/front/Ren_front_parts_v001.psd",
+    "bytes": 25279393
+  },
+  "scope": "File preservation, Git selection, live source manifests and runtime references; no Cubism visual revalidation",
+  "historical_limitations": "Historical absolute paths and old verifier current/baseline semantics are not rewritten or certified.",
+  "preserved_formatting_note": "Existing head_angles/test_report.md has one extra blank line at EOF. Preserved verbatim. Windows CRLF files are checked with cr-at-eol."
+}

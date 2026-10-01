@@ -1,0 +1,977 @@
+[
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\parts\\mouth_cavity.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\expression_rig\\parts\\mouth_cavity.png",
+    "sha256": "5fb2f0a4c1fb520d93c59181b76208b60daf94c8515eef1594252dac67711cbe",
+    "bytes": 2672,
+    "model_matches": [
+      {
+        "image_guid": "3b4a9f0b-4fae-4f0d-be80-b76baa05a4e5",
+        "image_name": "mouth_cavity",
+        "active": false,
+        "mesh_ids": [],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      },
+      {
+        "image_guid": "17ffbfc7-da54-451a-a108-055e84304ba7",
+        "image_name": "mouth_cavity",
+        "active": true,
+        "mesh_ids": [
+          "mouth_cavity"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\parts\\mouth_rim_lower.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\expression_rig\\parts\\mouth_rim_lower.png",
+    "sha256": "e163bab1d9596655d213bba104b6a8e3065798af44540dcf5729b055aa710c5b",
+    "bytes": 3590,
+    "model_matches": [
+      {
+        "image_guid": "39f91298-1e51-4f62-8da1-e50c21a19d54",
+        "image_name": "mouth_rim_lower",
+        "active": false,
+        "mesh_ids": [],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      },
+      {
+        "image_guid": "d82761b3-6841-43ff-b4e5-f9285b61f2f1",
+        "image_name": "mouth_rim_lower",
+        "active": true,
+        "mesh_ids": [
+          "mouth_rim_lower"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\parts\\mouth_rim_upper.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\expression_rig\\parts\\mouth_rim_upper.png",
+    "sha256": "a9990773ce8cb9a272a728c1c43075e30de2a920cadeae48b499041009ec4222",
+    "bytes": 4460,
+    "model_matches": [
+      {
+        "image_guid": "c63d677b-c37b-4515-bae6-a8a213b4db5a",
+        "image_name": "mouth_rim_upper",
+        "active": false,
+        "mesh_ids": [],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      },
+      {
+        "image_guid": "adce2d09-6798-417e-a7d2-3163cb539eff",
+        "image_name": "mouth_rim_upper",
+        "active": false,
+        "mesh_ids": [],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      },
+      {
+        "image_guid": "fc160d2b-8cd9-4f55-bc51-5249b0946bf6",
+        "image_name": "mouth_rim_upper",
+        "active": true,
+        "mesh_ids": [
+          "mouth_rim_upper"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\parts\\mouth_teeth_upper.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\expression_rig\\parts\\mouth_teeth_upper.png",
+    "sha256": "ca707b19a37894a70022964a84c7093a3c9fd0385adc3237e3ad37c5d76674d5",
+    "bytes": 3160,
+    "model_matches": [
+      {
+        "image_guid": "0b3fb6c4-4327-4303-b0d7-c50f6b7d8bd5",
+        "image_name": "mouth_teeth_upper",
+        "active": false,
+        "mesh_ids": [],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      },
+      {
+        "image_guid": "6551e5a5-37a1-44b9-acb1-69b1e288fd9e",
+        "image_name": "mouth_teeth_upper",
+        "active": false,
+        "mesh_ids": [],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      },
+      {
+        "image_guid": "55500d8b-5a56-4096-af47-fee92591a70e",
+        "image_name": "mouth_teeth_upper",
+        "active": true,
+        "mesh_ids": [
+          "mouth_teeth_upper2"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\parts\\mouth_tongue.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\expression_rig\\parts\\mouth_tongue.png",
+    "sha256": "b84a94720e1089a76532d17fe56160721d9fa1852c55c2da083c973813b9133d",
+    "bytes": 4070,
+    "model_matches": [
+      {
+        "image_guid": "4d97681b-d205-45a1-84d1-b7f590aa6f56",
+        "image_name": "mouth_tongue",
+        "active": false,
+        "mesh_ids": [],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      },
+      {
+        "image_guid": "400ec56f-4fc6-4da9-a4a3-a14bd95694b5",
+        "image_name": "mouth_tongue",
+        "active": true,
+        "mesh_ids": [
+          "mouth_tongue"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_eyelash_upper_L.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\ALT_eyelash_upper_L.png",
+    "sha256": "b4bd49d59cfe282575c43642e55d48cc7aaa0989f02b6702dc233511ced2cfce",
+    "bytes": 28943,
+    "model_matches": [
+      {
+        "image_guid": "c0f11fd9-7fd5-4f06-97a6-849e8258b89e",
+        "image_name": "ALT_eyelash_upper_L",
+        "active": true,
+        "mesh_ids": [
+          "ALT_eyelash_upper_L"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_eyelash_upper_R.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\ALT_eyelash_upper_R.png",
+    "sha256": "b52302092619ee9660571cc9ea59b5324df5e6de4f115e9e5172f6f19b50b1e5",
+    "bytes": 28676,
+    "model_matches": [
+      {
+        "image_guid": "2079a871-4657-4c68-b076-3cfbe7feb41a",
+        "image_name": "ALT_eyelash_upper_R",
+        "active": true,
+        "mesh_ids": [
+          "ALT_eyelash_upper_R"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_iris_L_blue.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\ALT_iris_L_blue.png",
+    "sha256": "f232f20d44def5e10c06f6957c50e74be99f0aae909b04c4b5b97ec180f9bc05",
+    "bytes": 35388,
+    "model_matches": [
+      {
+        "image_guid": "28622b33-d53d-46ba-acb9-823b80e19fb9",
+        "image_name": "ALT_iris_L_blue",
+        "active": true,
+        "mesh_ids": [
+          "ALT_iris_L_blue"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_iris_R_brown.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\ALT_iris_R_brown.png",
+    "sha256": "1912823fb0bc5d6b2994ec975e1cae61fb1d4ad53905d8d0d9adcfae03b96601",
+    "bytes": 36049,
+    "model_matches": [
+      {
+        "image_guid": "619466ba-a1e2-46f3-a415-b0e8a3e15026",
+        "image_name": "ALT_iris_R_brown",
+        "active": true,
+        "mesh_ids": [
+          "ALT_iris_R_brown"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\FILL_eye_white_L.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\FILL_eye_white_L.png",
+    "sha256": "27bde4022ec8e975fb8651545af27c34822fe6121815522ae7d0b6972b7b8a35",
+    "bytes": 22895,
+    "model_matches": [
+      {
+        "image_guid": "98dcae52-8530-476a-a5c0-219346826a8e",
+        "image_name": "FILL_eye_white_L",
+        "active": true,
+        "mesh_ids": [
+          "FILL_eye_white_L"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\FILL_eye_white_R.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\FILL_eye_white_R.png",
+    "sha256": "0b6e3077fb2c2e0d93fa40a988bcced3e66b6949cd9849aaf4a032210ac87a7c",
+    "bytes": 22994,
+    "model_matches": [
+      {
+        "image_guid": "fc9f6c39-3e0b-4a87-83dc-1c7311c57928",
+        "image_name": "FILL_eye_white_R",
+        "active": true,
+        "mesh_ids": [
+          "FILL_eye_white_R"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\brow_L.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\brow_L.png",
+    "sha256": "1d259eb00870a694a6ddba562e9821babc5bf5dcec19c68b0a1f59ecf4d34dfb",
+    "bytes": 21020,
+    "model_matches": [
+      {
+        "image_guid": "24f2cc3a-f8da-4ca5-8da4-bdcb6ea41a0e",
+        "image_name": "brow_L",
+        "active": true,
+        "mesh_ids": [
+          "brow_L"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\brow_R.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\brow_R.png",
+    "sha256": "c84aa7bb7869b5bf633d1212296e52795d078f1b48eb856e85f6daf108c9cc74",
+    "bytes": 22773,
+    "model_matches": [
+      {
+        "image_guid": "5dfc52d0-e611-4c36-884a-2054d94a3bce",
+        "image_name": "brow_R",
+        "active": true,
+        "mesh_ids": [
+          "brow_R"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ear_L.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\ear_L.png",
+    "sha256": "2cb6db3af49979627445d582b6af3dc2a6a1a1c17bb0b98270f1091c5222f89b",
+    "bytes": 50440,
+    "model_matches": [
+      {
+        "image_guid": "f8507b27-ad77-400f-bf2c-a0bbebff24d2",
+        "image_name": "ear_L",
+        "active": true,
+        "mesh_ids": [
+          "ear_L"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ear_R.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\ear_R.png",
+    "sha256": "ad1332f78fa8f76aa4b88026453c9928674eb2e30881f896d574c49e8ade77cf",
+    "bytes": 52947,
+    "model_matches": [
+      {
+        "image_guid": "61b4c560-dfdc-458e-972c-3bea22cd744e",
+        "image_name": "ear_R",
+        "active": true,
+        "mesh_ids": [
+          "ear_R"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\eyelash_closed_L.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\eyelash_closed_L.png",
+    "sha256": "ab11f59beb8b04b2f5fade1125201352940f47612fbb37e23b140001f4fc28fa",
+    "bytes": 5000,
+    "model_matches": [
+      {
+        "image_guid": "45f2936d-6549-477e-ada1-302b850012db",
+        "image_name": "eyelash_closed_L",
+        "active": true,
+        "mesh_ids": [
+          "eyelash_closed_L"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\eyelash_closed_R.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\eyelash_closed_R.png",
+    "sha256": "281b667e704459ee87367585340836f5d98a8354201261fb3dd6ff390c2c6ab0",
+    "bytes": 4984,
+    "model_matches": [
+      {
+        "image_guid": "45d77a79-3a78-42c8-8569-61948a08153f",
+        "image_name": "eyelash_closed_R",
+        "active": true,
+        "mesh_ids": [
+          "eyelash_closed_R"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\face_underfill.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\face_underfill.png",
+    "sha256": "e706a4175ccae4073f7f0b74f6d1b14a990313e2fc3f250820390784dae4c50e",
+    "bytes": 126609,
+    "model_matches": [
+      {
+        "image_guid": "61bd3f64-d13a-41b6-9c82-9814e44b4b31",
+        "image_name": "face_underfill",
+        "active": true,
+        "mesh_ids": [
+          "face_underfill"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_ahoge.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\hair_ahoge.png",
+    "sha256": "cf303c03f5fb86555d0d3f87cad1f5bc117dbc13416b1d69fbc784633399a582",
+    "bytes": 47278,
+    "model_matches": [
+      {
+        "image_guid": "8f3c1ac2-a713-4108-9e85-8d22a8809147",
+        "image_name": "hair_ahoge",
+        "active": false,
+        "mesh_ids": [],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      },
+      {
+        "image_guid": "2a2dc53f-e320-4707-899f-222a88950429",
+        "image_name": "hair_ahoge",
+        "active": false,
+        "mesh_ids": [],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      },
+      {
+        "image_guid": "d5bf2d2f-bd05-4933-ada8-a9af9ae86e66",
+        "image_name": "hair_ahoge",
+        "active": true,
+        "mesh_ids": [
+          "hair_ahoge"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_back.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\hair_back.png",
+    "sha256": "c3a36f296372a2fa0a2d94beca33395a6f0151df3e2cb0ce543ed470eda7921f",
+    "bytes": 74692,
+    "model_matches": [
+      {
+        "image_guid": "074dbfd0-6420-42e2-9617-8a16c19e5867",
+        "image_name": "hair_back",
+        "active": true,
+        "mesh_ids": [
+          "hair_back"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_front_C.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\hair_front_C.png",
+    "sha256": "8d0f2ea1ec564881d2b2416a5b80e17e490cee4a209b9d051087bfdb5f74940f",
+    "bytes": 152586,
+    "model_matches": [
+      {
+        "image_guid": "63e18703-2d4c-4efa-b280-b2109d66c8b1",
+        "image_name": "hair_front_C",
+        "active": true,
+        "mesh_ids": [
+          "hair_front_C"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_front_L.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\hair_front_L.png",
+    "sha256": "9021d9fc6e1bc695209ce0afbea32ebae8901641763a89c27ab6ce9ca3986f94",
+    "bytes": 130054,
+    "model_matches": [
+      {
+        "image_guid": "7bcdf5a1-2a2e-40d6-a684-2a179a62da58",
+        "image_name": "hair_front_L",
+        "active": true,
+        "mesh_ids": [
+          "hair_front_L"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_front_R.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\hair_front_R.png",
+    "sha256": "459f9b5cf6a813b90f74767c02f77b1e3bfce3586aaacc1d4df9bd3c9aae2cab",
+    "bytes": 127957,
+    "model_matches": [
+      {
+        "image_guid": "0e0f62a3-8753-42d2-8c96-24ac5bba8fc8",
+        "image_name": "hair_front_R",
+        "active": true,
+        "mesh_ids": [
+          "hair_front_R"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_side_L.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\hair_side_L.png",
+    "sha256": "2c9c9eb42c89f0fea44ba7b5ab01900ebfa1fccd0886630b9d6903cdb53988d3",
+    "bytes": 175620,
+    "model_matches": [
+      {
+        "image_guid": "d500fffc-c452-46aa-8df1-50b508808364",
+        "image_name": "hair_side_L",
+        "active": true,
+        "mesh_ids": [
+          "hair_side_L"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_side_R.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\hair_side_R.png",
+    "sha256": "b79cd49430cb7cf4ab8fe9246cf3e1cf95af726a32bad0ab7916f7326e064493",
+    "bytes": 169104,
+    "model_matches": [
+      {
+        "image_guid": "20e7142c-025b-4039-abea-56e0a6a8ebe1",
+        "image_name": "hair_side_R",
+        "active": true,
+        "mesh_ids": [
+          "hair_side_R"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\lower_eyelid_left.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\lower_eyelid_left.png",
+    "sha256": "11046d47e00e1b5930ab23d312dfda4b047ae61e3d548a59f5e4a0587ad24fe5",
+    "bytes": 23309,
+    "model_matches": [
+      {
+        "image_guid": "1384b4fc-1fb1-4104-9b8e-a0096d7f1ef3",
+        "image_name": "lower_eyelid_left",
+        "active": true,
+        "mesh_ids": [
+          "lower_eyelid_left"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\lower_eyelid_right.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\lower_eyelid_right.png",
+    "sha256": "ffb3942db69111672964c0426051198a3cf6865f7d2fd31bf9b4b3077c064e92",
+    "bytes": 22894,
+    "model_matches": [
+      {
+        "image_guid": "d527df64-425f-49b9-9358-f9e3121dcb3d",
+        "image_name": "lower_eyelid_right",
+        "active": true,
+        "mesh_ids": [
+          "lower_eyelid_right"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\mouth_closed.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\mouth_closed.png",
+    "sha256": "5f0b8bc2594a58b935f2b4929e1c20e72a5ad35e649bc906d6d827ee73f10ca6",
+    "bytes": 20671,
+    "model_matches": [
+      {
+        "image_guid": "c345b7a1-60de-4126-b08e-448b209480ff",
+        "image_name": "mouth_closed",
+        "active": true,
+        "mesh_ids": [
+          "mouth_closed"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\upper_crease_L.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\upper_crease_L.png",
+    "sha256": "bd9d9b116d0a6346dca7485f5dbae57178a469274fc75d5009a0f71d0fbf0155",
+    "bytes": 2502,
+    "model_matches": [
+      {
+        "image_guid": "fc36ef65-9a49-4fdf-80ba-1e6fec82b3d0",
+        "image_name": "upper_crease_L",
+        "active": true,
+        "mesh_ids": [
+          "upper_crease_L"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\upper_crease_R.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\head\\parts\\upper_crease_R.png",
+    "sha256": "b21b6161eadda172aae5911b7ef47d7a8b40b590907458517b2d8e657cee9390",
+    "bytes": 23706,
+    "model_matches": [
+      {
+        "image_guid": "1d7b5bed-01e2-4e33-bcbc-fa157fd5e3a5",
+        "image_name": "upper_crease_R",
+        "active": true,
+        "mesh_ids": [
+          "upper_crease_R"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\belt.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\belt.png",
+    "sha256": "8d1c1aec294d5809174342259886bbf17dca3bf91a21c12168e7566d621f11b6",
+    "bytes": 124884,
+    "model_matches": [
+      {
+        "image_guid": "00f95d53-6127-4d71-9396-a751bb9e9484",
+        "image_name": "belt",
+        "active": true,
+        "mesh_ids": [
+          "belt"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\collar_L.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\collar_L.png",
+    "sha256": "61e15e2b564db93c3d20acf2d1ed4cb3e0bc45c7142e95c10116be93b8424e82",
+    "bytes": 134413,
+    "model_matches": [
+      {
+        "image_guid": "8a0602ff-ad92-445f-a6c5-5c4daed4d8d2",
+        "image_name": "collar_L",
+        "active": true,
+        "mesh_ids": [
+          "collar_L"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\collar_R.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\collar_R.png",
+    "sha256": "e40448560d40f6aabd0a3369869c954c3355e2b191d980afd847d5cd693048d8",
+    "bytes": 121738,
+    "model_matches": [
+      {
+        "image_guid": "1d4a19da-d9f1-4d2d-b127-00a4f7924741",
+        "image_name": "collar_R",
+        "active": true,
+        "mesh_ids": [
+          "collar_R"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\forearm_L.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\forearm_L.png",
+    "sha256": "3d6c383eb20781ed5de51231740d6b495c65520a36d061600ecd3e66923174e2",
+    "bytes": 88142,
+    "model_matches": [
+      {
+        "image_guid": "5da4d19f-b2fe-488a-b7a0-d68042fcf22f",
+        "image_name": "forearm_L",
+        "active": true,
+        "mesh_ids": [
+          "forearm_L"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\forearm_R.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\forearm_R.png",
+    "sha256": "e266a37f17a146f2449cdd48c8a2ba188136916c68ed7de1b1017b80270cecec",
+    "bytes": 89740,
+    "model_matches": [
+      {
+        "image_guid": "5b88882f-f0e4-48ed-b95d-e4b6db892434",
+        "image_name": "forearm_R",
+        "active": true,
+        "mesh_ids": [
+          "forearm_R"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hand_L.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\hand_L.png",
+    "sha256": "85cc0ae6bdd7e6a0ed76c7a216041d60632d684b49b78162d5515510b9156bf3",
+    "bytes": 112556,
+    "model_matches": [
+      {
+        "image_guid": "e4c0c323-de9c-4d58-a29b-7efbbe5f6afe",
+        "image_name": "hand_L",
+        "active": true,
+        "mesh_ids": [
+          "hand_L"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\hand_R.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\hand_R.png",
+    "sha256": "6f99fa8182ccd7519cfbd63c5dd8c3288e5dfffd0d414d9628a354205c32dd8e",
+    "bytes": 109748,
+    "model_matches": [
+      {
+        "image_guid": "241ee9e0-11d2-4172-a5b9-3f923106bc10",
+        "image_name": "hand_R",
+        "active": true,
+        "mesh_ids": [
+          "hand_R"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\neck-clavicle.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\neck-clavicle.png",
+    "sha256": "1e77961e89c059d5b3d42f45525ebba61c8e078f7181f9f2139c40b51c0c5192",
+    "bytes": 63831,
+    "model_matches": [
+      {
+        "image_guid": "bb46c1fb-0835-44ff-90f1-b086218e6b8c",
+        "image_name": "neck-clavicle",
+        "active": true,
+        "mesh_ids": [
+          "ArtMesh"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\shirt_inside.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\shirt_inside.png",
+    "sha256": "3740c1dde2c402583a9df205e497575672a2ebbd86ce92e6af5d019e6816ea63",
+    "bytes": 34023,
+    "model_matches": [
+      {
+        "image_guid": "757d5171-5dc8-4a9b-bfda-da0b5a6e0028",
+        "image_name": "shirt_inside",
+        "active": true,
+        "mesh_ids": [
+          "shirt_inside"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\shirt_torso.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\shirt_torso.png",
+    "sha256": "b04c7139d749e5dd2500ca12ed97e78d2c9901cfc56d5374dde3d4268a2971d4",
+    "bytes": 533495,
+    "model_matches": [
+      {
+        "image_guid": "e41e762b-29b7-4766-8c75-0a8e76bfc6c4",
+        "image_name": "shirt_torso",
+        "active": true,
+        "mesh_ids": [
+          "shirt_torso"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\shoe_L.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\shoe_L.png",
+    "sha256": "b895a66cb0d2725e94c71363a27b86def78f26e2fc7befaa18cc55eeb33fc8ab",
+    "bytes": 207623,
+    "model_matches": [
+      {
+        "image_guid": "53d07afa-9243-4027-a399-fae44fa130ba",
+        "image_name": "shoe_L",
+        "active": true,
+        "mesh_ids": [
+          "shoe_L"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\shoe_R.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\shoe_R.png",
+    "sha256": "6f91f35c28747d8f17edeb1c419cbf47778380beca0320623b55a863b0ea82a2",
+    "bytes": 195490,
+    "model_matches": [
+      {
+        "image_guid": "b7d5350e-ac21-4d81-8820-095f70a60906",
+        "image_name": "shoe_R",
+        "active": true,
+        "mesh_ids": [
+          "shoe_R"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\sleeve_L.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\sleeve_L.png",
+    "sha256": "0d4032af34c93f20197616d05b6ccd1ac37c27d2b5c81d908d445325c8a32514",
+    "bytes": 81696,
+    "model_matches": [
+      {
+        "image_guid": "dbd6ea5f-fdea-4d50-9d90-a3dcc6f7a086",
+        "image_name": "sleeve_L",
+        "active": true,
+        "mesh_ids": [
+          "sleeve_L"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\sleeve_R.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\sleeve_R.png",
+    "sha256": "aa8c091a1a3af21775549658127d206d18893de22302eb040146b0b668e34b12",
+    "bytes": 75050,
+    "model_matches": [
+      {
+        "image_guid": "3045f44c-2e8c-4a71-83fb-6379ed9f3a63",
+        "image_name": "sleeve_R",
+        "active": true,
+        "mesh_ids": [
+          "sleeve_R"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\trousers_L.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\trousers_L.png",
+    "sha256": "c85e42207f1967c05962ca973b663077291bac1cc8643b83fa8d408d881ff0ac",
+    "bytes": 562427,
+    "model_matches": [
+      {
+        "image_guid": "29487e03-7984-4c17-9ea4-655160c4690e",
+        "image_name": "trousers_L",
+        "active": true,
+        "mesh_ids": [
+          "trousers_L"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\trousers_R.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\trousers_R.png",
+    "sha256": "ba3472592fb0d373e0b795fbeb6eeb50b2f846697b5e21a3581e98ee919e0730",
+    "bytes": 590215,
+    "model_matches": [
+      {
+        "image_guid": "6f082fba-492b-4750-a7ff-091fc9cefc14",
+        "image_name": "trousers_R",
+        "active": true,
+        "mesh_ids": [
+          "trousers_R"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\upper_arm_L.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\upper_arm_L.png",
+    "sha256": "62cd4d4dfc429ba127d81ce902d40588e4f72f7b3fe2e82f6b7151643e39b920",
+    "bytes": 79132,
+    "model_matches": [
+      {
+        "image_guid": "6b580659-be6f-4f55-aed8-a655c163487f",
+        "image_name": "upper_arm_L",
+        "active": true,
+        "mesh_ids": [
+          "upper_arm_L"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  },
+  {
+    "source_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\upper_arm_R.png",
+    "copy_path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\latest_png_collection\\confirmed_png\\processing_v001\\front\\parts\\upper_arm_R.png",
+    "sha256": "5c17080f87c446e781d3ddc127afae19705e97289f1b1134dd4f179bde534d2b",
+    "bytes": 79134,
+    "model_matches": [
+      {
+        "image_guid": "ef06811c-507c-4f4b-9d2d-c5aebadb1e4f",
+        "image_name": "upper_arm_R",
+        "active": true,
+        "mesh_ids": [
+          "upper_arm_R"
+        ],
+        "evidence": "exact_dimensions_and_decoded_RGBA"
+      }
+    ],
+    "evidence": "original source bytes copied; exact embedded decoded RGBA",
+    "verified": true
+  }
+]

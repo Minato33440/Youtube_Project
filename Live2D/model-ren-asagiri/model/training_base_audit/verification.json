@@ -1,0 +1,117 @@
+{
+  "checked_at_utc": "2026-09-30T01:19:35.097564+00:00",
+  "scope": "Read-only CMO3 structure and active embedded textures; GUI observations are in README.",
+  "input_files_unchanged_during_read": {
+    "candidate": true,
+    "candidate0": true,
+    "lesson09_pre_atlas": true,
+    "accepted_reference": true,
+    "head_neck_hair_working": true,
+    "basic_expression": true
+  },
+  "audit_copy_matches_candidate": true,
+  "parameter_bound_objects": {
+    "ParamAngleX": [],
+    "ParamAngleY": [],
+    "ParamAngleZ": [
+      "Hair_Base_Warp",
+      "Face_Rotation_Practice"
+    ],
+    "ParamEyeLOpen": [
+      "lower_eyelid_left",
+      "ALT_eyelash_upper_L",
+      "ALT_iris_L_blue",
+      "FILL_eye_white_L",
+      "Left_Eye"
+    ],
+    "ParamEyeLSmile": [
+      "Left_Eye"
+    ],
+    "ParamEyeROpen": [
+      "upper_crease_L",
+      "lower_eyelid_left",
+      "ALT_eyelash_upper_L",
+      "ALT_iris_L_blue",
+      "FILL_eye_white_L",
+      "lower_eyelid_right",
+      "ALT_eyelash_upper_R",
+      "ALT_iris_R_brown",
+      "FILL_eye_white_R",
+      "Right_Eye"
+    ],
+    "ParamEyeRSmile": [
+      "Right_Eye"
+    ],
+    "ParamEyeBallX": [],
+    "ParamEyeBallY": [],
+    "ParamBrowLY": [],
+    "ParamBrowRY": [],
+    "ParamBrowLX": [],
+    "ParamBrowRX": [],
+    "ParamBrowLAngle": [],
+    "ParamBrowRAngle": [],
+    "ParamBrowLForm": [],
+    "ParamBrowRForm": [],
+    "ParamMouthForm": [
+      "mouth_closed",
+      "mouth_cavity",
+      "mouth_tongue",
+      "mouth_rim_lower",
+      "mouth_teeth_upper",
+      "mouth_rim_upper",
+      "Mouth_Warp"
+    ],
+    "ParamMouthOpenY": [
+      "mouth_closed",
+      "mouth_cavity",
+      "mouth_tongue",
+      "mouth_rim_lower",
+      "mouth_teeth_upper",
+      "mouth_rim_upper",
+      "Mouth_Warp"
+    ],
+    "ParamCheek": [],
+    "ParamBodyAngleX": [],
+    "ParamBodyAngleY": [],
+    "ParamBodyAngleZ": [],
+    "ParamBreath": [],
+    "ParamHairFront": [
+      "HairFrontC_Warp"
+    ],
+    "ParamHairSide": [],
+    "ParamHairBack": [],
+    "Param": [
+      "hair_ahoge",
+      "Hair_ahoge_Wrap"
+    ]
+  },
+  "parameter_ids_without_keyform_bindings": [
+    "ParamAngleX",
+    "ParamAngleY",
+    "ParamEyeBallX",
+    "ParamEyeBallY",
+    "ParamBrowLY",
+    "ParamBrowRY",
+    "ParamBrowLX",
+    "ParamBrowRX",
+    "ParamBrowLAngle",
+    "ParamBrowRAngle",
+    "ParamBrowLForm",
+    "ParamBrowRForm",
+    "ParamCheek",
+    "ParamBodyAngleX",
+    "ParamBodyAngleY",
+    "ParamBodyAngleZ",
+    "ParamBreath",
+    "ParamHairSide",
+    "ParamHairBack"
+  ],
+  "used_png_count": 46,
+  "all_used_pngs_rgba_equal": true,
+  "training_psd_equals_current_psd": true,
+  "atlas_count": 0,
+  "missing_linked_source_paths": [
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\Traning\\Lesson01_PSD_Import\\work\\Ren_front_training_L01.psd"
+  ],
+  "gui_export_or_runtime_retest": false
+}

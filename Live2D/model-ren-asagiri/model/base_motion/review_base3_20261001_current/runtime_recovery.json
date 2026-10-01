@@ -1,0 +1,30 @@
+{
+  "checked_at_utc": "2026-10-01T07:15:31.376618+00:00",
+  "python": "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\runtime_venv\\Scripts\\python.exe",
+  "command": [
+    "C:\\Python\\REX_AI\\Youtube_Project\\output\\live2d\\runtime_venv\\Scripts\\python.exe",
+    "-B",
+    "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\base_motion\\render_preview.py"
+  ],
+  "returncode": 1,
+  "stdout": "[live2d] third-party wrapper (0.7.0.4), not affiliated with Live2D Inc.\n[live2d.v3] Cubism Native, Python 3.13.13\n[live2d.v3] official: https://www.live2d.com/sdk/download/native/\n",
+  "stderr": "Traceback (most recent call last):\n  File \"C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\base_motion\\render_preview.py\", line 262, in <module>\n    main()\n    ~~~~^^\n  File \"C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\base_motion\\render_preview.py\", line 54, in main\n    raise FileNotFoundError(\n        \"Export the Cubism model to base_motion/runtime/Ren_base.model3.json first.\"\n    )\nFileNotFoundError: Export the Cubism model to base_motion/runtime/Ren_base.model3.json first.\n",
+  "versions": {
+    "Python": "3.13.3",
+    "live2d-py": "0.7.0.4",
+    "pygame": "2.6.1",
+    "PyOpenGL": "3.1.10"
+  },
+  "imports_success": true,
+  "hidden_gl_context": {
+    "success": true,
+    "version": "4.6.0 NVIDIA 591.86",
+    "renderer": "NVIDIA GeForce RTX 3060/PCIe/SSE2"
+  },
+  "discovery_evidence": "Live2D/model-ren-asagiri/model/head_angles/single_endpoint/whole_head_outline_check/README.md:30",
+  "new_install_required": false,
+  "remaining_minimum_step": "Computer-use capable execution environment connected to the user Cubism Editor; no exposed node_repl/@oai/sky here",
+  "runtime_alternative": "Current model3.json + moc3 + texture export from protected current copy; respect deferred atlas policy",
+  "renderer_update_needed": "render_preview.py line95 assumes46 ArtMeshes; current48 and eye/smile test cases require adaptation",
+  "cmo_direct_export_found": false
+}

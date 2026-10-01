@@ -1,0 +1,54 @@
+{
+  "updated_utc": "2026-10-01T07:17:30.050645+00:00",
+  "source_sha256": "3eb81f7187ae3d5be9d2ad51e6d6dc7c552bce7e4ddfb6912e587345519d4647",
+  "source_current_sha256": "3eb81f7187ae3d5be9d2ad51e6d6dc7c552bce7e4ddfb6912e587345519d4647",
+  "status": "static_review_complete_runtime_visual_and_brown_iris_edit_blocked",
+  "brown_iris_mesh": "ALT_iris_R_brown",
+  "edit_requested": true,
+  "requested_output": "model/base_motion/Ren_base4.cmo3",
+  "output_created": false,
+  "model_modified": false,
+  "existing_base4": false,
+  "findings": [
+    {
+      "id": "assets",
+      "result": "48/48 active images exact dimensions and RGBA match collection; 96 protected PNG hashes unchanged"
+    },
+    {
+      "id": "grids",
+      "result": "439 grid entries across 62 objects, no missing/duplicate/unresolved forms"
+    },
+    {
+      "id": "brown_iris",
+      "result": "priority visual candidates at open .15 and .25; local height ratios 2.2259 and 1.9343 to own open1; parent correction excluded"
+    },
+    {
+      "id": "eyelashes",
+      "result": "right ALT opacity at open0/.05 zero only at Smile .5; left zero throughout; closed lashes use 0..05 keyed range"
+    },
+    {
+      "id": "left_closed_cross_binding",
+      "result": "right-eye-open binding exists but all four rows have identical geometry/opacity; not proven wink defect"
+    },
+    {
+      "id": "hair",
+      "result": "central forelock and ahoge Param coupling exists; preserve intentional coupling"
+    },
+    {
+      "id": "next_phase",
+      "result": "gaze, brows, X/Y unbound; defer XY acceptance until neutral actual visual review"
+    }
+  ],
+  "blockers": [
+    "Computer-use skill requires node_repl/@oai/sky, no callable runtime exposed after repeated tool discovery",
+    "User reports Editor open, delegated process query returns no rows; unsaved state not observable",
+    "Correct runtime_venv reaches FileNotFoundError: current Ren_base.model3.json absent; moc3 absent, atlas0; renderer also needs46-to48 mesh validation adaptation"
+  ],
+  "visual_evidence": "three locally generated diagnostic/source PNGs visually inspected, NOT Cubism final model renders",
+  "proper_save_reload_before_after_complete": false,
+  "index_bytes_unchanged": true,
+  "index_entries_unchanged": true,
+  "changed_protected_pngs": [],
+  "recovery": "Existing runtime_venv imports and hidden OpenGL context succeed. Initial missing dependency error was wrong Python selection.",
+  "runtime_recovery": "runtime_recovery.json"
+}

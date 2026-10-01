@@ -1,0 +1,12 @@
+{
+  "candidate0": {
+    "main_xml_equal": true,
+    "archive_entry_names_equal": true,
+    "non_xml_payloads_equal": true
+  },
+  "lesson09_pre_atlas": {
+    "main_xml_equal": true,
+    "archive_entry_names_equal": true,
+    "non_xml_payloads_equal": true
+  }
+}

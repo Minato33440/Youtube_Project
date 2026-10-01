@@ -1,0 +1,1601 @@
+{
+  "exact_byte_groups": [
+    {
+      "sha256": "c2153f77e11087fcb078ae38527fa83bef29791e3700e30cc87fec4405a66d0f",
+      "bytes_each": 70,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\eye_white_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\eye_white_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\iris_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\iris_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\mouth_cavity.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\mouth_rim_lower.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\mouth_rim_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\mouth_teeth_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\mouth_tongue.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\mouth_closed.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\mouth_closed.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\mouth_cavity.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\mouth_rim_lower.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\mouth_rim_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\mouth_teeth_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\mouth_tongue.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\mouth_closed.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\mouth_closed.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\mouth_closed.png"
+      ],
+      "potential_redundant_bytes": 1260,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "007b7d3fe9da06d078b572eddc32442e65ad15dcda12fda429f1fac69b78c5ae",
+      "bytes_each": 112626,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\face_underfill.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\face_underfill.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\face_underfill.png"
+      ],
+      "potential_redundant_bytes": 225252,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "b43c14807fc8450c0d7a75316222ba5f2b45cd47d5939c2ac411803a5f029c49",
+      "bytes_each": 12848,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_ALT_eyelash_upper_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_ALT_eyelash_upper_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_ALT_eyelash_upper_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\ALT_eyelash_upper_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\backup\\upper_lash_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\ALT_eyelash_upper_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\upper_lash_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\ALT_eyelash_upper_L.png"
+      ],
+      "potential_redundant_bytes": 89936,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "951373a298d1ef24880862ccc660c29acb256639dbbf361b22712eb58365098e",
+      "bytes_each": 13024,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_ALT_eyelash_upper_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_ALT_eyelash_upper_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_ALT_eyelash_upper_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\ALT_eyelash_upper_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\backup\\upper_lash_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\ALT_eyelash_upper_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\upper_lash_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\ALT_eyelash_upper_R.png"
+      ],
+      "potential_redundant_bytes": 91168,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "50907795ad7e5f45c5cd4e0bb190b79a28472577c3b54dfadcee8a15bd39bcbf",
+      "bytes_each": 24809,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_ALT_iris_L_blue.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_ALT_iris_L_blue.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_ALT_iris_L_blue.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\ALT_iris_L_blue.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\ALT_iris_L_blue.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\ALT_iris_L_blue.png"
+      ],
+      "potential_redundant_bytes": 124045,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "6613780f59fbe80a304284071e730678b3742617df31125e51dc51ed02ecc8d8",
+      "bytes_each": 24823,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_ALT_iris_R_brown.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_ALT_iris_R_brown.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_ALT_iris_R_brown.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\ALT_iris_R_brown.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\ALT_iris_R_brown.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\ALT_iris_R_brown.png"
+      ],
+      "potential_redundant_bytes": 124115,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "16627fefbee13d0acdc74f51dd30b8d39c579a24188207ce5bf586e72ee19b3f",
+      "bytes_each": 10316,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_eyelash_upper_L_original.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_eyelash_upper_L_original.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_eyelash_upper_L_original.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\eyelash_upper_L_original.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\eyelash_upper_L_original.png"
+      ],
+      "potential_redundant_bytes": 41264,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "8f835115457cd65717e262fba8e6ea10d3462e36e7bef75a2f8a1b91fecba229",
+      "bytes_each": 11605,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_eyelash_upper_R_original.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_eyelash_upper_R_original.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_eyelash_upper_R_original.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\eyelash_upper_R_original.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\eyelash_upper_R_original.png"
+      ],
+      "potential_redundant_bytes": 46420,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "67eb063379dadeaa868519db33998b5394b0c295f8bdbd3dfb5e50e306f146be",
+      "bytes_each": 4420,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_FILL_eye_white_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_FILL_eye_white_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_FILL_eye_white_L.png"
+      ],
+      "potential_redundant_bytes": 8840,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "d8443db5527946561919ab85b1b3c1fa4d9c1de347f7a5323e620addc3ede87d",
+      "bytes_each": 4073,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_FILL_eye_white_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_FILL_eye_white_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_FILL_eye_white_R.png"
+      ],
+      "potential_redundant_bytes": 8146,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "4431a401f0f7f09afe6ba071a3dd91bffc5c3ecf06b947a905fb38d94da08b75",
+      "bytes_each": 13945,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_iris_L_original.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_iris_L_original.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_iris_L_original.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\iris_L_original.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\iris_L_original.png"
+      ],
+      "potential_redundant_bytes": 55780,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "cab3cf00d937f86194fd6963054eb14f8931b9ad9f7c860ecd815e508ae6c87a",
+      "bytes_each": 14111,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_iris_R_original.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_iris_R_original.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_iris_R_original.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\iris_R_original.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\iris_R_original.png"
+      ],
+      "potential_redundant_bytes": 56444,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "1ae6cdc8df1a7207e92ee9b7b294a63c5e922f625e385df1cbea2ffe02b2e2dc",
+      "bytes_each": 5175,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_Upper_eyelid_left.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_Upper_eyelid_left.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_Upper_eyelid_left.png"
+      ],
+      "potential_redundant_bytes": 10350,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "b8fa034bb15987c8e6041d5d3146b49096c5b428971d65077356def3579d85d5",
+      "bytes_each": 5805,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_Upper_eyelid_right.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_Upper_eyelid_right.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_Upper_eyelid_right.png"
+      ],
+      "potential_redundant_bytes": 11610,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "bd9d9b116d0a6346dca7485f5dbae57178a469274fc75d5009a0f71d0fbf0155",
+      "bytes_each": 2502,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\upper_crease_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\upper_crease_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\orbital_line_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\upper_crease_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\upper_crease_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\upper_crease_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\upper_crease_L.png"
+      ],
+      "potential_redundant_bytes": 15012,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "5cabdd4dbca0f79d146745cb6aaf41977a733ec06aa638d866eef3c58160f404",
+      "bytes_each": 2877,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\upper_crease_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\orbital_line_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\upper_crease_R.png"
+      ],
+      "potential_redundant_bytes": 5754,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "db79003f6086861474f3fc838ca93b459a4ae894e3839572dfa0fbc376a0ba9f",
+      "bytes_each": 18863,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\FILL_eye_white_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\FILL_eye_white_L.png"
+      ],
+      "potential_redundant_bytes": 18863,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "f0f2b718464a894e8b63d3632211d3a69c191d697b2fda976cb12c755dc158c2",
+      "bytes_each": 18553,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\FILL_eye_white_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\FILL_eye_white_R.png"
+      ],
+      "potential_redundant_bytes": 18553,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "2186849b3e12b7c0a9851bc1e9c68bb1ec56203a23ade3feec73a9e492ee4f5b",
+      "bytes_each": 20896,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\Upper_eyelid_left.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\Upper_eyelid_left.png"
+      ],
+      "potential_redundant_bytes": 20896,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "17fa79b30423834fa05072cee9b6897e0250bbcac4593a8544a4d38c49b82b97",
+      "bytes_each": 21482,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\Upper_eyelid_right.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\Upper_eyelid_right.png"
+      ],
+      "potential_redundant_bytes": 21482,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "c78afa5927f9ee5c67a2c8dcbdcd91b10ea573da0e5edc048bd731d78efde66e",
+      "bytes_each": 19738,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\brow_confirm_v005\\source_snapshot\\Upper_eyelid_left.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\Upper_eyelid_left.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\Upper_eyelid_left.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_style_v006\\source_snapshot\\Upper_eyelid_left.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\Upper_eyelid_left.png"
+      ],
+      "potential_redundant_bytes": 78952,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "22024aa44f37215c285d27507b69cf253fc89db74885050bda35023a1b4e8767",
+      "bytes_each": 21073,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\brow_confirm_v005\\source_snapshot\\Upper_eyelid_right.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\Upper_eyelid_right.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\Upper_eyelid_right.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_style_v006\\source_snapshot\\Upper_eyelid_right.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\Upper_eyelid_right.png"
+      ],
+      "potential_redundant_bytes": 84292,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "6a1e4070e6d2e06df01052b822f25ecd878d09269725291faac26fa365032e9e",
+      "bytes_each": 28169,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\ALT_eyelash_upper_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\ALT_eyelash_upper_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\ALT_eyelash_upper_L.png"
+      ],
+      "potential_redundant_bytes": 56338,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "1dff844b9527fd4a1b2fb4587c10a6ce1047145f7fc63cc2a4746e3ccf1e6440",
+      "bytes_each": 28208,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\ALT_eyelash_upper_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\ALT_eyelash_upper_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\ALT_eyelash_upper_R.png"
+      ],
+      "potential_redundant_bytes": 56416,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "f232f20d44def5e10c06f6957c50e74be99f0aae909b04c4b5b97ec180f9bc05",
+      "bytes_each": 35388,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\ALT_iris_L_blue.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\ALT_iris_L_blue.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\ALT_iris_L_blue.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_iris_L_blue.png"
+      ],
+      "potential_redundant_bytes": 106164,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "1912823fb0bc5d6b2994ec975e1cae61fb1d4ad53905d8d0d9adcfae03b96601",
+      "bytes_each": 36049,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\ALT_iris_R_brown.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\ALT_iris_R_brown.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\ALT_iris_R_brown.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_iris_R_brown.png"
+      ],
+      "potential_redundant_bytes": 108147,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "6ec2b78ace0c386306c79759a0b7821b677d9e6e69863077838a38a6bccc942d",
+      "bytes_each": 38449,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\archive\\20260922-initial-eye-layers\\REF_lower_lid_source_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\REF_lower_lid_source_L.png"
+      ],
+      "potential_redundant_bytes": 38449,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "1dba4f187e2a85d9186c4a30d2a9651c6f85461022e1f8adcb7c59621f7bb82f",
+      "bytes_each": 35985,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\archive\\20260922-initial-eye-layers\\REF_lower_lid_source_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\REF_lower_lid_source_R.png"
+      ],
+      "potential_redundant_bytes": 35985,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "9bc7bd5a80a357fa98879ac8ed9e345b97cd3a6975ba058f48e12e333e484de2",
+      "bytes_each": 109825,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\backup\\face_underfill.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\face_underfill.png"
+      ],
+      "potential_redundant_bytes": 109825,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "c5571bcf5ff3b30ec1c016dc89e9d6327d8ee23ceb660560fb17a6f90fc33b22",
+      "bytes_each": 25863,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\backup\\lower_eyelid_left.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\lower_eyelid_left.png"
+      ],
+      "potential_redundant_bytes": 25863,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "72df8c8f962639c75e2a123f9561d6b581430d54682b746992e1bd4414fc7636",
+      "bytes_each": 27305,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\backup\\lower_eyelid_right.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\lower_eyelid_right.png"
+      ],
+      "potential_redundant_bytes": 27305,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "1c2475a7b5a6397892e76007f39582e9e6d23e77696c09b4000d1cd16614191f",
+      "bytes_each": 1976,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\backup\\mouth_closed.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\mouth_closed.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\mouth_closed.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\mouth_closed.png"
+      ],
+      "potential_redundant_bytes": 5928,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "39be97ca13c78b96c7f4afe722f67cb7e1bca2c37604f699cf1a638c4155ef20",
+      "bytes_each": 21512,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\backup\\REF_iris_full_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\REF_iris_full_L.png"
+      ],
+      "potential_redundant_bytes": 21512,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "51e1c1d9d85b0d560dbb455d8af18ccbdbc8ee94754d4bd0f443fd07632f847a",
+      "bytes_each": 21564,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\backup\\REF_iris_full_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\REF_iris_full_R.png"
+      ],
+      "potential_redundant_bytes": 21564,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "1d259eb00870a694a6ddba562e9821babc5bf5dcec19c68b0a1f59ecf4d34dfb",
+      "bytes_each": 21020,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\brow_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\brow_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\brow_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\brow_L.png"
+      ],
+      "potential_redundant_bytes": 63060,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "c84aa7bb7869b5bf633d1212296e52795d078f1b48eb856e85f6daf108c9cc74",
+      "bytes_each": 22773,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\brow_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\brow_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\brow_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\brow_R.png"
+      ],
+      "potential_redundant_bytes": 68319,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "01c227543b1022dc4a8d61aab1483c7a94299a1e204d477c8e241594f4987726",
+      "bytes_each": 22994,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\FILL_eye_white_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\FILL_eye_white_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\FILL_eye_white_L.png"
+      ],
+      "potential_redundant_bytes": 45988,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "0b6e3077fb2c2e0d93fa40a988bcced3e66b6949cd9849aaf4a032210ac87a7c",
+      "bytes_each": 22994,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\FILL_eye_white_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\FILL_eye_white_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\FILL_eye_white_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\FILL_eye_white_R.png"
+      ],
+      "potential_redundant_bytes": 68982,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "11046d47e00e1b5930ab23d312dfda4b047ae61e3d548a59f5e4a0587ad24fe5",
+      "bytes_each": 23309,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\lower_eyelid_left.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\lower_eyelid_left.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\lower_eyelid_left.png"
+      ],
+      "potential_redundant_bytes": 46618,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "ffb3942db69111672964c0426051198a3cf6865f7d2fd31bf9b4b3077c064e92",
+      "bytes_each": 22894,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\lower_eyelid_right.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\lower_eyelid_left.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\lower_eyelid_right.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\lower_eyelid_right.png"
+      ],
+      "potential_redundant_bytes": 68682,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "5f0b8bc2594a58b935f2b4929e1c20e72a5ad35e649bc906d6d827ee73f10ca6",
+      "bytes_each": 20671,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\mouth_closed.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\mouth_closed.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\mouth_closed.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\mouth_closed.png"
+      ],
+      "potential_redundant_bytes": 62013,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "b21b6161eadda172aae5911b7ef47d7a8b40b590907458517b2d8e657cee9390",
+      "bytes_each": 23706,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\upper_crease_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\upper_crease_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\upper_crease_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\upper_crease_R.png"
+      ],
+      "potential_redundant_bytes": 71118,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "61e15e2b564db93c3d20acf2d1ed4cb3e0bc45c7142e95c10116be93b8424e82",
+      "bytes_each": 134413,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\collar_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\collar_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\collar_assembly_v002\\parts\\collar_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v003\\parts\\collar_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v004\\parts\\collar_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\collar_L.png"
+      ],
+      "potential_redundant_bytes": 672065,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "e40448560d40f6aabd0a3369869c954c3355e2b191d980afd847d5cd693048d8",
+      "bytes_each": 121738,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\collar_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\collar_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\collar_assembly_v002\\parts\\collar_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v003\\parts\\collar_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v004\\parts\\collar_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\collar_R.png"
+      ],
+      "potential_redundant_bytes": 608690,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "36920694df287404a374e17bc254aba116c3b69425aa24d67d56881f05826294",
+      "bytes_each": 34330,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\ear_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\ear_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ear_L.png"
+      ],
+      "potential_redundant_bytes": 68660,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "efa8ebba850ebd5b956248a3bd39020d27e263e2a01d37dea3811ec4c066604a",
+      "bytes_each": 53491,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\ear_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\ear_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ear_R.png"
+      ],
+      "potential_redundant_bytes": 106982,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "f7d8727b5b2bfa2816bd4d21148cedba14ee1b6676058836b2a979d070dc07a0",
+      "bytes_each": 123382,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\face_underfill.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\face_underfill.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\source_snapshot\\face_underfill.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\source_snapshot\\face_underfill.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\face_underfill.png"
+      ],
+      "potential_redundant_bytes": 493528,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "cf303c03f5fb86555d0d3f87cad1f5bc117dbc13416b1d69fbc784633399a582",
+      "bytes_each": 47278,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\hair_ahoge.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\hair_ahoge.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\hair_ahoge.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_ahoge.png"
+      ],
+      "potential_redundant_bytes": 141834,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "eaf39cf624c5db9514a43f90bcf7c7797c97e0032a58fe1e933abae09aa49ff8",
+      "bytes_each": 46627,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\hair_back.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\hair_back.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\hair_back.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-hair-extension-review\\parts\\hair_back.png"
+      ],
+      "potential_redundant_bytes": 139881,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "8d0f2ea1ec564881d2b2416a5b80e17e490cee4a209b9d051087bfdb5f74940f",
+      "bytes_each": 152586,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\hair_front_C.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\overlap_recheck_v002\\source_snapshot\\hair_front_C.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\hair_front_C.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_front_C.png"
+      ],
+      "potential_redundant_bytes": 457758,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "9021d9fc6e1bc695209ce0afbea32ebae8901641763a89c27ab6ce9ca3986f94",
+      "bytes_each": 130054,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\hair_front_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\overlap_recheck_v002\\source_snapshot\\hair_front_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\hair_front_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_front_L.png"
+      ],
+      "potential_redundant_bytes": 390162,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "459f9b5cf6a813b90f74767c02f77b1e3bfce3586aaacc1d4df9bd3c9aae2cab",
+      "bytes_each": 127957,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\hair_front_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\overlap_recheck_v002\\source_snapshot\\hair_front_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\hair_front_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_front_R.png"
+      ],
+      "potential_redundant_bytes": 383871,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "b290c6ca481fc43e11724b3760d45a2c66e18707562cb626852ecc9e20463179",
+      "bytes_each": 175646,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\hair_side_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\overlap_recheck_v002\\source_snapshot\\hair_side_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\hair_side_L.png"
+      ],
+      "potential_redundant_bytes": 351292,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "87713f22f7d5f73be82877072f88830a3752aea1279db20bccb3a19d7b87bcd9",
+      "bytes_each": 170511,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\hair_side_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\overlap_recheck_v002\\source_snapshot\\hair_side_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\hair_side_R.png"
+      ],
+      "potential_redundant_bytes": 341022,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "1e77961e89c059d5b3d42f45525ebba61c8e078f7181f9f2139c40b51c0c5192",
+      "bytes_each": 63831,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\neck-clavicle.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\neck-clavicle.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v004\\parts\\neck-clavicle.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\neck-clavicle.png"
+      ],
+      "potential_redundant_bytes": 191493,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "3740c1dde2c402583a9df205e497575672a2ebbd86ce92e6af5d019e6816ea63",
+      "bytes_each": 34023,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\shirt_inside.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\shirt_inside.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\shirt_inside.png"
+      ],
+      "potential_redundant_bytes": 68046,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "b04c7139d749e5dd2500ca12ed97e78d2c9901cfc56d5374dde3d4268a2971d4",
+      "bytes_each": 533495,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\shirt_torso.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\shirt_brow_recheck_v003\\source_snapshot\\shirt_torso.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\shirt_torso.png"
+      ],
+      "potential_redundant_bytes": 1066990,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "5bfbee9ae931f02cc9f80238e55b218e1a0f9d6adbab2af19e2a5f20e07b2beb",
+      "bytes_each": 155928,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\placement_reference_gray.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\placement_reference_gray.png"
+      ],
+      "potential_redundant_bytes": 155928,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "01f1f19bd3d29e79df8e3cd40b4feeaa52a76964f947fd9a041eb829f213e5ee",
+      "bytes_each": 128342,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\face_underfill.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\face_underfill.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-hair-extension-review\\parts\\face_underfill.png"
+      ],
+      "potential_redundant_bytes": 256684,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "edf3b0317f981568b29f04fc1dbaeebae416b164741c2dee2499d0a6116a4817",
+      "bytes_each": 4132582,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\ren-stand-pony-front-4000x6000.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\ren-stand-pony-front-4000x6000.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\editor_data\\ren-stand-pony-front-4000x6000.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\reference\\ren-stand-pony-front-4000x6000.png"
+      ],
+      "potential_redundant_bytes": 12397746,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "01dfe6507a95db1541790c0c3a4c81248803125a98afc6c932df6df0864b2361",
+      "bytes_each": 198929,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\facial_feature.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\reference\\facial_feature.png"
+      ],
+      "potential_redundant_bytes": 198929,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "6c1fed8c8d33da9a6c4f46f185746c1c01e6544bece6b2948c1945a80b768c07",
+      "bytes_each": 180552,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\assembled.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\assembled.png"
+      ],
+      "potential_redundant_bytes": 180552,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "66600bc5d7848acaa8e7a18a98fa488d48a7e69b1e7ac716aa1d8153e8f9dbc8",
+      "bytes_each": 67904,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\eyes_context.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\eyes_context.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\eyes_context.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\eyes_context.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\eyes_context.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\eyes_context.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\eyes_context.png"
+      ],
+      "potential_redundant_bytes": 407424,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "b9977ae339d7e3081f81ca4a70a2a4fa1ef69df8e2e50c5835bbc130f9388b5a",
+      "bytes_each": 104782,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\face_underfill.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\face_underfill.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\face_underfill.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\face_underfill.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\face_underfill.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\face_underfill.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\face_underfill.png"
+      ],
+      "potential_redundant_bytes": 628692,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "907cf8631f6342a08e81cf28567d24a7bdde2856014a3d2626ea17e0c21f60ee",
+      "bytes_each": 5213,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\REF_mouth_cavity.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\REF_mouth_cavity.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\REF_mouth_cavity.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\REF_mouth_cavity.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\REF_mouth_cavity.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\REF_mouth_cavity.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\REF_mouth_cavity.png"
+      ],
+      "potential_redundant_bytes": 31278,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "c14750492c3cf262c4e499bac4b2f70c903ec17aedb0c137a32ab173c4b14e6b",
+      "bytes_each": 7388,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\REF_mouth_rim_lower.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\REF_mouth_rim_lower.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\REF_mouth_rim_lower.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\REF_mouth_rim_lower.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\REF_mouth_rim_lower.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\REF_mouth_rim_lower.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\REF_mouth_rim_lower.png"
+      ],
+      "potential_redundant_bytes": 44328,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "fdbe20d7bc70abe8b5f10d0167d5816d0fba7044cd8ae9ceab1e3b2a476eec8b",
+      "bytes_each": 10112,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\REF_mouth_rim_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\REF_mouth_rim_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\REF_mouth_rim_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\REF_mouth_rim_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\REF_mouth_rim_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\REF_mouth_rim_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\REF_mouth_rim_upper.png"
+      ],
+      "potential_redundant_bytes": 60672,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "356b808c921fad735154c9ed45754a884cc12db1b0c6059267a6cdc86f9a0ea0",
+      "bytes_each": 14911,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\REF_mouth_teeth_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\REF_mouth_teeth_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\REF_mouth_teeth_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\REF_mouth_teeth_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\REF_mouth_teeth_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\REF_mouth_teeth_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\REF_mouth_teeth_upper.png"
+      ],
+      "potential_redundant_bytes": 89466,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "4f14d23a708cd3382508c3ec7d8bea0de5a4eeba2dc494f799cf3c16d2221abb",
+      "bytes_each": 10602,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\parts\\REF_mouth_tongue.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\parts\\REF_mouth_tongue.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\parts\\REF_mouth_tongue.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\parts\\REF_mouth_tongue.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\parts\\REF_mouth_tongue.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\REF_mouth_tongue.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\parts\\REF_mouth_tongue.png"
+      ],
+      "potential_redundant_bytes": 63612,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "89691080db8bd871b7fbc8ce0e1259923087828ee3e25056b7c1fd6bf885b01c",
+      "bytes_each": 175183,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\preview.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\preview.png"
+      ],
+      "potential_redundant_bytes": 175183,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "cce50130cc8b2166ef2ba0c663b0e25343248836b0cb7117e290cf5cade91b6d",
+      "bytes_each": 177571,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\python_composite.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\python_composite.png"
+      ],
+      "potential_redundant_bytes": 177571,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "c41df67029910b1d60a73cea211b8f01e2ad395a19f36619081289877af98bc9",
+      "bytes_each": 74421,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\source_snapshot\\approved_open_eyes_context.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\source_snapshot\\approved_open_eyes_context.png"
+      ],
+      "potential_redundant_bytes": 74421,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "f845f65ad41dd5049443fae32627404b4d0aa3bc3e5af70c761ee9d1ecaa35e2",
+      "bytes_each": 4934,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\source_snapshot\\mouth_cavity.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\source_snapshot\\mouth_cavity.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\parts\\mouth_cavity.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_cavity.png"
+      ],
+      "potential_redundant_bytes": 14802,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "86860b51c7498d50a5db053c530fa11a42a6723d0be576060cfd8206abcbd6f4",
+      "bytes_each": 20774,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\source_snapshot\\mouth_closed.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\source_snapshot\\mouth_closed.png"
+      ],
+      "potential_redundant_bytes": 20774,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "78033b9291e3a7120f88cd525d3977c771ddfdf2d4910018c8d4866657bb1b29",
+      "bytes_each": 26556,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\source_snapshot\\mouth_rim_lower.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\source_snapshot\\mouth_rim_lower.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\parts\\mouth_rim_lower.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_rim_lower.png"
+      ],
+      "potential_redundant_bytes": 79668,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "5fdd579737481dc78d5a2bbcd73ab8ec028f8300c63e472b8a0d003dc8571691",
+      "bytes_each": 29111,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\source_snapshot\\mouth_rim_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\source_snapshot\\mouth_rim_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\parts\\mouth_rim_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_rim_upper.png"
+      ],
+      "potential_redundant_bytes": 87333,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "43fab6e7e41ca68d73942c5f7d54d52793ad4f4df755773a44fd0ef8ff9255a4",
+      "bytes_each": 25362,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\source_snapshot\\mouth_teeth_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\source_snapshot\\mouth_teeth_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ALT_mouth_teeth_upper.png"
+      ],
+      "potential_redundant_bytes": 50724,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "aaff8d6a86d6093e5b274016f49d2daa4290100ee50dd6aeab094ff1b6fd277a",
+      "bytes_each": 10539,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\source_snapshot\\mouth_tongue.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\source_snapshot\\mouth_tongue.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\parts\\mouth_tongue.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_tongue.png"
+      ],
+      "potential_redundant_bytes": 31617,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "5fb2f0a4c1fb520d93c59181b76208b60daf94c8515eef1594252dac67711cbe",
+      "bytes_each": 2672,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\mouth_cavity.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\parts\\mouth_cavity.png"
+      ],
+      "potential_redundant_bytes": 2672,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "e163bab1d9596655d213bba104b6a8e3065798af44540dcf5729b055aa710c5b",
+      "bytes_each": 3590,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\mouth_rim_lower.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\parts\\mouth_rim_lower.png"
+      ],
+      "potential_redundant_bytes": 3590,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "a9990773ce8cb9a272a728c1c43075e30de2a920cadeae48b499041009ec4222",
+      "bytes_each": 4460,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\parts\\mouth_rim_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\expression_rig\\parts\\mouth_rim_upper.png"
+      ],
+      "potential_redundant_bytes": 4460,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "5c92a79e2992bf346f0ac3ba49cd07021d778e383806c30dcf3732e16d0d6406",
+      "bytes_each": 6797,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\parts\\mouth_teeth_upper.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_teeth_upper.png"
+      ],
+      "potential_redundant_bytes": 6797,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "4e73a905fa043881dd645736190d214eb8ecf649e30f7d07218cba0937ed8338",
+      "bytes_each": 51167,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_split_v002\\source_snapshot\\ALT_mouth_interior.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ALT_mouth_interior.png"
+      ],
+      "potential_redundant_bytes": 51167,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "eba35c6c2ae813a25d63b795879a37762fa50daa819a44b45b74ab2ea41b49ed",
+      "bytes_each": 27168,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\overlap_recheck_v002\\source_snapshot\\eyelash_upper_L_original.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\eyelash_upper_L_original.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\blink\\eyelash_upper_L_original.png"
+      ],
+      "potential_redundant_bytes": 54336,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "32c03f01ee185b03434043db23cf123aa10712335c8503e053e2098437fdf745",
+      "bytes_each": 26380,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\overlap_recheck_v002\\source_snapshot\\eyelash_upper_R_original.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\eyelash_upper_R_original.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\blink\\eyelash_upper_R_original.png"
+      ],
+      "potential_redundant_bytes": 52760,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "c3b15b62bca9ec09c3a64f3473d939217031a69161f362465a781097bc8d4889",
+      "bytes_each": 522495,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\overlap_recheck_v002\\source_snapshot\\shirt_torso.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\parts\\buckup\\shirt_torso.png"
+      ],
+      "potential_redundant_bytes": 522495,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "d2ea54b9392ba8f8fc8330d60723719c27dd6bf6d4eb69efe9d2c93e6f1d7cbc",
+      "bytes_each": 61022,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\ALT_whole_eye_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ALT_whole_eye_L.png"
+      ],
+      "potential_redundant_bytes": 61022,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "88596edfe14df6d78315c9b227af56211ec755f55ac333860053e0c4eac50159",
+      "bytes_each": 62219,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\ALT_whole_eye_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ALT_whole_eye_R.png"
+      ],
+      "potential_redundant_bytes": 62219,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "76d43654ae7b2a10781c918fa6c4b4d8f7c80f64f0b8459a7b6bef5a9437bdba",
+      "bytes_each": 4957,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\brow_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\brow_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\shirt_brow_recheck_v003\\source_snapshot\\brow_L.png"
+      ],
+      "potential_redundant_bytes": 9914,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "ed3fac617c38c1a0a7f73bc416b100db94ec545a0ee7f5a1bc8131255ffe8f81",
+      "bytes_each": 5472,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\brow_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\brow_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\shirt_brow_recheck_v003\\source_snapshot\\brow_R.png"
+      ],
+      "potential_redundant_bytes": 10944,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "4e4dc7002775ecdfe4d4c9aa9e5268d0a7eb3596fa1fcabc6db48c93616618e2",
+      "bytes_each": 33108,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\ear_L_surface.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ear_L_surface.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\reference\\ear_surface\\ear_L_surface.png"
+      ],
+      "potential_redundant_bytes": 66216,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "772c55f7343ba69a4e38182f59af875e968f2885814b85660109e43b8b5c06d7",
+      "bytes_each": 31751,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\ear_R_surface.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\ear_R_surface.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\reference\\ear_surface\\ear_R_surface.png"
+      ],
+      "potential_redundant_bytes": 63502,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "fc2055b4d44ccbea652afeb107f38d647d8cf670d62b1de1058199715b96b63a",
+      "bytes_each": 198972,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\face_surface.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\face_surface.png"
+      ],
+      "potential_redundant_bytes": 198972,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "e8605315566588690c8ac8c02b0e86b8f63c2f1e01e7c23f30351d6a93f2ae01",
+      "bytes_each": 20198,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\Upper_eyelid_left.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\shirt_brow_recheck_v003\\source_snapshot\\Upper_eyelid_left.png"
+      ],
+      "potential_redundant_bytes": 20198,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "86ff3f2b0ff1b0424ad44bc2f4f7ec78995abe46bff5adb5742d00f2a8820746",
+      "bytes_each": 20144,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\buckup\\Upper_eyelid_right.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\shirt_brow_recheck_v003\\source_snapshot\\Upper_eyelid_right.png"
+      ],
+      "potential_redundant_bytes": 20144,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "1538e014562a97fbadda737aa0a4bbc35e9e9c6d7e9beb42f222ad9987e348c3",
+      "bytes_each": 34062,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\collar_assembly_v002\\parts\\shirt_inside.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v003\\parts\\shirt_inside.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v004\\parts\\shirt_inside.png"
+      ],
+      "potential_redundant_bytes": 68124,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "2e711af42ba045b5384d23c9ff85ebc60339d6e9a4f07e8a21659dd9744e5802",
+      "bytes_each": 701379,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-hair-extension-review\\preview\\head_sample.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\ear_check_20260924\\head_sample.png"
+      ],
+      "potential_redundant_bytes": 701379,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "72b5d82d89f81a4dd1a98e5e111d9cec3fff4aeec5bbc681d2f5eb1b6f1999ca",
+      "bytes_each": 606609,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-hair-extension-review\\preview\\head_sample_gray.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\ear_check_20260924\\head_sample_gray.png"
+      ],
+      "potential_redundant_bytes": 606609,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "d80867ffc14f1611e90928e73dd51619fc2d8a2600cb47657761cdd2c5a3833c",
+      "bytes_each": 708097,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-psd-integration\\preview\\head_sample.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\hair_check_20260924\\final_preview\\head_sample.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\hair_check_20260924\\registered_position.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\render_current\\head_sample.png"
+      ],
+      "potential_redundant_bytes": 2124291,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    },
+    {
+      "sha256": "3cea135b5c139823bf7335cf49378dcf904974d0b129f919c65356907bd507eb",
+      "bytes_each": 611096,
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-psd-integration\\preview\\head_sample_gray.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\hair_check_20260924\\final_preview\\head_sample_gray.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\hair_check_20260924\\registered_position_gray.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\work\\render_current\\head_sample_gray.png"
+      ],
+      "potential_redundant_bytes": 1833288,
+      "caution": "Identical bytes do not prove redundant role; keep source/runtime/recovery references"
+    }
+  ],
+  "same_pixels_different_bytes": [
+    {
+      "dimension_rgba_sha256": "e505def46833836a9a136b28bc6578d1cc56d3f427f2b033e74cf9d1a84da95e",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\assembled.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\python_composite.png"
+      ],
+      "byte_hashes": [
+        "300017b979e937fa1b2be3a5e27a27af188c8f37411e4293a4003a66518fb19a",
+        "ca3c5d4cafa880e0abd78c7de9a5ccf5ac47a115a0937f82128ff2fd1005b482"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "484f9955f5285eb051ee93381da0886841655cb479dd5c88df6a2105f24eeed5",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_FILL_eye_white_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_FILL_eye_white_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_FILL_eye_white_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\FILL_eye_white_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\FILL_eye_white_L.png"
+      ],
+      "byte_hashes": [
+        "67eb063379dadeaa868519db33998b5394b0c295f8bdbd3dfb5e50e306f146be",
+        "db79003f6086861474f3fc838ca93b459a4ae894e3839572dfa0fbc376a0ba9f"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "3ad0fcbae247f7939b99582e8d2647d1d3df0f644d377d44d9d8952c7a13fbff",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_FILL_eye_white_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_FILL_eye_white_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_FILL_eye_white_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\FILL_eye_white_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\FILL_eye_white_R.png"
+      ],
+      "byte_hashes": [
+        "d8443db5527946561919ab85b1b3c1fa4d9c1de347f7a5323e620addc3ede87d",
+        "f0f2b718464a894e8b63d3632211d3a69c191d697b2fda976cb12c755dc158c2"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "e85b5ddc6a7aff5c0037cc8b476941835658ab5c1c1b4f7643ab71495420456a",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_Upper_eyelid_left.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_Upper_eyelid_left.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_Upper_eyelid_left.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\Upper_eyelid_left.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\Upper_eyelid_left.png"
+      ],
+      "byte_hashes": [
+        "1ae6cdc8df1a7207e92ee9b7b294a63c5e922f625e385df1cbea2ffe02b2e2dc",
+        "2186849b3e12b7c0a9851bc1e9c68bb1ec56203a23ade3feec73a9e492ee4f5b"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "bdc89401d1a3e6c9e07856bf21fa9592795a795e71328e69f186ac9ada8478c8",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\closed\\parts\\REF_Upper_eyelid_right.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\parts\\REF_Upper_eyelid_right.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\parts\\REF_Upper_eyelid_right.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\source_snapshot\\Upper_eyelid_right.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\Upper_eyelid_right.png"
+      ],
+      "byte_hashes": [
+        "17fa79b30423834fa05072cee9b6897e0250bbcac4593a8544a4d38c49b82b97",
+        "b8fa034bb15987c8e6041d5d3146b49096c5b428971d65077356def3579d85d5"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "77b54fd3af79046e3572b670225b620e4172ef3dd5d2b3f3361e859bf91cd801",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\assembled.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\half\\python_composite.png"
+      ],
+      "byte_hashes": [
+        "1b1abc32c683a72a3f668c006403b4a8b8f664e6b74f7c87c061d10adc919ecf",
+        "812a33528edb52a86d9af0a0f5c118e8508345e727a2b622964f51127cb4f9dc"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "9185bc68275e0534dc5a2bc0086dbb28210d240e8009a6a5af71bde1f56bc4e7",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\assembled.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\blink_assembly_v001\\open\\python_composite.png"
+      ],
+      "byte_hashes": [
+        "510898d1739d7e169e9e350adbef8b0cb31d6901ce53b38f3b495fe8ea500409",
+        "88fa68bcb38a23d53b62ca78cc17dc2ddf382f9ebff14e0671667ed8064ce588"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "1e200e3c1f8a0e771845939750a8f676f26c2a76de9d2dc0028bbf1f5ab1a849",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\brow_confirm_v005\\source_snapshot\\Upper_eyelid_left.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\Upper_eyelid_left.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\brow_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\Upper_eyelid_left.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_style_v006\\source_snapshot\\Upper_eyelid_left.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\Upper_eyelid_left.png"
+      ],
+      "byte_hashes": [
+        "9432abdd786ec3c8d66068e07e9a12f796cec868301df316c4b137e876ca117f",
+        "c78afa5927f9ee5c67a2c8dcbdcd91b10ea573da0e5edc048bd731d78efde66e"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "5edc4c2657816361e74c412fc2da64ee6de60df835f7d42ea8b7b2db6b1034fd",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\brow_confirm_v005\\source_snapshot\\Upper_eyelid_right.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\Upper_eyelid_right.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\brow_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\Upper_eyelid_right.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_style_v006\\source_snapshot\\Upper_eyelid_right.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\processing_v001\\front\\parts\\Upper_eyelid_right.png"
+      ],
+      "byte_hashes": [
+        "22024aa44f37215c285d27507b69cf253fc89db74885050bda35023a1b4e8767",
+        "8e361a88599de1706aa0bfb718a1aa1bbbf5d50dd409b8f20bb46d59df070e5d"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "f7df91082902d6743235fb61af3c8a9da617a04b2c34476fb10d2909442e2e0d",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\assembled.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\python_composite.png"
+      ],
+      "byte_hashes": [
+        "9b27974163a84c50f1bce38c333089e6d9ca3e0335119a7a92b631cadf79b470",
+        "b21c0cd44d04fb264acfcff457a8134f9ca5063d50179abad0cc0cf89a8d3481"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "0d07f45b59e507ae88a0ca7a5a8a30e076702a218204cb58bbc10528ee21d8a2",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\backup\\face_underfill.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\source_snapshot\\face_underfill.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\face_underfill.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\face_underfill.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\source_snapshot\\face_underfill.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\source_snapshot\\face_underfill.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\pre_rig_review_20260922\\source_snapshot\\face_underfill.png"
+      ],
+      "byte_hashes": [
+        "9bc7bd5a80a357fa98879ac8ed9e345b97cd3a6975ba058f48e12e333e484de2",
+        "f7d8727b5b2bfa2816bd4d21148cedba14ee1b6676058836b2a979d070dc07a0"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "93c0e2f472a69e542eccda395e264f6e67df92db709e2130e7370c7061ae1b2c",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\backup\\lower_eyelid_left.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\lower_lid_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\lower_eyelid_left.png"
+      ],
+      "byte_hashes": [
+        "c5571bcf5ff3b30ec1c016dc89e9d6327d8ee23ceb660560fb17a6f90fc33b22",
+        "c9f8bd295eafcb7114058dea1b26ae2692d754eb0d4fad09ae241bc45e35752e"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "f9bf49812c374f9fe749d6a9bf8d0a42913fb8bfa327735b5dfb9893f0d0b895",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\backup\\lower_eyelid_right.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\parts\\lower_lid_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\source_snapshot\\lower_eyelid_right.png"
+      ],
+      "byte_hashes": [
+        "72df8c8f962639c75e2a123f9561d6b581430d54682b746992e1bd4414fc7636",
+        "cb842e9647e0df1ec4104b30f5f18a44044493a5ebec6c804d7ddc165f852829"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "c1c125ee4a54303852a69cb25da01798b48f1b59c0f14ec5216308ed212340b4",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\FILL_eye_white_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v007\\parts\\FILL_eye_white_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\FILL_eye_white_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\FILL_eye_white_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\FILL_eye_white_L.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\FILL_eye_white_R.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\FILL_eye_white_R.png"
+      ],
+      "byte_hashes": [
+        "01c227543b1022dc4a8d61aab1483c7a94299a1e204d477c8e241594f4987726",
+        "0b6e3077fb2c2e0d93fa40a988bcced3e66b6949cd9849aaf4a032210ac87a7c"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "c6cc60a408e3f6ba6e77bd4295f90cc92d829ae8cb05b4757702d971e250d01b",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\assembled.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\eye_adjust_v008\\python_composite.png"
+      ],
+      "byte_hashes": [
+        "298eba31068a5bca5bf9c06fea7f6c7c080ac84e37961ec7db78fd1713bce598",
+        "ef3f439fd1a5aa57a8fc83d1209b151042a4cf0470b43413ae7108a0cc28a1db"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "0a9fd9e9f07cb4f29c2b2a2cd13c1b4fd455e3fc2e17fba1519852b09b529c67",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\reference_layer_01.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_manual_review_v009\\layer_09.png"
+      ],
+      "byte_hashes": [
+        "1bd545bdfb04567f7a841d02da57c2d14199951efe0a50298cb226462438b3a6",
+        "db46a876798e151695eef3824b2bf07ff5c4ea5f9679855f8afb2683332bbdc1"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "4b4747355a966d30d99d61a1543c793131b3c463e294bf11fa67366047bfbb52",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\reference_layer_03.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_manual_review_v009\\layer_02.png"
+      ],
+      "byte_hashes": [
+        "37a37fda5a6ac04a27b311a0316a46d2f2d1166d742be51f8ef52dc3261618ca",
+        "50004a447b8555d14013f2af37789ed217a7a74693defd5a36445e9d4ef243e5"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "9089044e5bb8377db2d219caceb1786769380430646e21c812081b788d2cf74e",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\reference_layer_07.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_manual_review_v009\\layer_11.png"
+      ],
+      "byte_hashes": [
+        "06345da7d45334b24b5815bcafa2dad7f3384a6a574d7fff8c136efd6146d941",
+        "8ec050c1c78c8b7ab56c1252b979909699d2120257b5f36735f45d5adacb2d20"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "07cef84c11572d84a764360b01c349ce128c7f5ad599d8cb7aa95196776af8c7",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\reference_layer_09.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_manual_review_v009\\layer_06.png"
+      ],
+      "byte_hashes": [
+        "4fff93ec5ca6f7733992f04a8c13402353d50816f58c97db47a59ecc988c7395",
+        "f14877a98d3a7ff56edfb55cf4d1969082ab686a5b021a49ca7670129f42e7e8"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "1fe47d91dae76a64c8b764e73b74e9ac510eb5daf21b91d97ddabbd37711f9fd",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\face_comparison_20260924\\source_snapshot\\facial_feature.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\source_snapshot\\facial_feature.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\reference\\facial_feature.png"
+      ],
+      "byte_hashes": [
+        "01dfe6507a95db1541790c0c3a4c81248803125a98afc6c932df6df0864b2361",
+        "c70e8e50a4f85540044013a02bfdd1c73e164579ea25cbb54bf21c4d1e2fde71"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "35dd0606506ebeda4a47e81b64c58157ee4551f49c414bc718de7beea44e99a6",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\assembled.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\closed\\python_composite.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\assembled.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\closed\\python_composite.png"
+      ],
+      "byte_hashes": [
+        "6c1fed8c8d33da9a6c4f46f185746c1c01e6544bece6b2948c1945a80b768c07",
+        "cce50130cc8b2166ef2ba0c663b0e25343248836b0cb7117e290cf5cade91b6d"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "dd24e5ba8f79a5b7d1f24fcd91c91fc2caf954f8ded8a1b5967afba87be9af2f",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\assembled.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\open\\python_composite.png"
+      ],
+      "byte_hashes": [
+        "59eee7be8c0b504792a33db9ebee695dd955543ddc3618e2f1848bc08a71f345",
+        "faf8c24af6d100b21238830b0108d7230472c1b013e847e9851bb80c4942367f"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "10edaf56baa86c5d69bb693b17261e9e2045b46ecdc9b8f9ab69a05e96a2bf7b",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\assembled.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v001\\small\\python_composite.png"
+      ],
+      "byte_hashes": [
+        "42a86227254b0309d47ee79df9c248bcf0302fc36b9e3e9e9454eeecb106cdd1",
+        "73949f436fb7203176345d1b5fb958d2d548a45ad3ef7f17ad80f0734b935243"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "df0a7e03d6c3eac89173632f8b795de05c66438cf4a104ba8e0fbe652cb41821",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\assembled.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\medium\\python_composite.png"
+      ],
+      "byte_hashes": [
+        "12aa384aa2a80141dec664c0770870e1db6e04eb1739a34c8b40d72d49c919e2",
+        "71c55f81427163800c0ad90a33b949206b85f7be999b947dfcaf8bc2bce4ad62"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "e568e714da378475aaf2babc96a0e3b68f3e0a7f60dcd2cab92ac51a140fe790",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\assembled.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\open\\python_composite.png"
+      ],
+      "byte_hashes": [
+        "3f5c4342916e49ef533a483544ad4440b5530b30c5067eb2cfeccace27bd8609",
+        "91d4d4557fc2b3d2943bbaf289e260eb37c444e0fb0257c789c7b742bf4ebc4f"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "c2e09f81ff74deed13b17c1589f21156f594250fbdffce06d46fe3cf477ca18f",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\assembled.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\mouth_motion_v002\\small\\python_composite.png"
+      ],
+      "byte_hashes": [
+        "47b5239fa5347485311a97a5a09c13ba62fdd81b681b09513bda94da3693835f",
+        "add5efd2cf7558d86939f6af3724c9e1f32a7010e75eb7cc26296de4c00534df"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "9a30f1ccca6a82bb4d8cc51eb830790b31f036d4f953242dbf94f4ca9eecdae0",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\collar_assembly_v002\\collar_assembled.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\collar_assembly_v002\\collar_psd_assembled.png"
+      ],
+      "byte_hashes": [
+        "40ad6990aa5a1daa11994fe5386b64ac6ef91537f04876e777981555798e924e",
+        "a97446d08389e8aa30391dbebc1ec9a2e1812078849f011d98ee5d6951498dc5"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "af529f0fc2df940389b3e3353c98b83f08d9e56ec4d913000178f497aebddf30",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v003\\neck_collar_assembled.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v003\\neck_collar_psd_assembled.png"
+      ],
+      "byte_hashes": [
+        "5ab404522dfd218d5d4ba0607abfea4892214533a00b9c60993cc2cfa1509ff3",
+        "b7359afe65222667476cd96b802659a5d417c84c580471ec648b3abaa20aa190"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "6ac54a41e0ffb91f7962955fdf8cfab0c72470c85babbee6d3a19277d3c52e3e",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v004\\neck_collar_assembled.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\neck_collar_v004\\neck_collar_psd_assembled.png"
+      ],
+      "byte_hashes": [
+        "1c76632180f8fffb0488c870b5d070da6cd153d833c5f96432bcad6c75dab092",
+        "31896f190fe44c1f6d5ab67765c3d0df58b3b1fa4b04db6b11809db62100ff78"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "9615759520da4533cd7219c901015461c45586341cf633bb5b6d32fbcb4f3ea1",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\assembled.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\back\\Ren_back_parts_v001.png"
+      ],
+      "byte_hashes": [
+        "23b0da73b42c999514e8dfebe7a94d00d00df94653f1bc215189898beead9e03",
+        "3a224e0bccb7507d26cd527854f488600ddbefb8ea7c1cc095502b9a4d10109a"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "633430d8d738dee756c6ac4308c0308df0b81f441001072a071ca1daf7f96ed9",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\assembled.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\processing_v001\\front\\Ren_front_parts_v001.png"
+      ],
+      "byte_hashes": [
+        "0859fd16d07397f25a6ded460b2eb019d2b71f79c76be1bf3308b1246ef7bdc2",
+        "eb44ba4dca1dadbb4e0fd1acba77464218c82e4cd121d2ecaba2e762fbbf90f0"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    },
+    {
+      "dimension_rgba_sha256": "8668951a9445be233441e54a07224fc640ac7d0012ff7b57b162e3d9f5e9f32d",
+      "paths": [
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\Ren_front.png",
+        "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\psd_front\\review\\python_composite.png"
+      ],
+      "byte_hashes": [
+        "1eb3d2aa1f1b9e4e09e2d2c7b124387f1518eeed8682c7b066391e68265698f8",
+        "dedc743a6ae29d020956e9b791fd07dcae10621f1db4036dd2c60ac0a75d1d76"
+      ],
+      "reason": "Same decoded RGBA; encoding/metadata differs, not necessarily metadata only"
+    }
+  ],
+  "deletion_authorized": false
+}
