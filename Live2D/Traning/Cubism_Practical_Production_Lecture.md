@@ -1,6 +1,6 @@
 # Cubism Practical Production Lecture
 
-更新: 2026-09-29
+更新: 2026-09-30
 
 ## 目的
 
@@ -22,6 +22,7 @@
 8. Lesson 08 — Physics
 9. Lesson 09 — Texture Atlas
 10. Lesson 10 — moc3 / model3.json書き出し
+11. Lesson 11 — 髪揺れのキーフォームを手動／自動生成で作る
 
 ## 学習方針
 
@@ -582,6 +583,45 @@ VTube Studioでは、通常モデルの設定とLive2D Item化後の設定は別
 
 ---
 
+# Lesson 11 — 髪揺れのキーフォームを手動／自動生成で作る
+
+## 目的と実例
+
+Lesson 08でBossが行った「3点パラメータの終点を手で変形し、Physicsで揺らす」方法と、2026-09-30にAstraがレンの制作モデルで使ったCubismの［揺れの動きを自動生成］を比較する。**両者の違いは主に、揺れパラメータの各キーフォームの形をどう作るか**にある。時間差の揺れを与えるPhysicsは、どちらの方法でも別に設定する。
+
+今回の制作モデルは [`model/base_motion/Ren_base.cmo3`](../model-ren-asagiri/model/base_motion/Ren_base.cmo3)。教材コピー `Ren_deformer1.cmo3` から作成した制作側の作業モデルであり、Lesson 01〜10の教材原本を更新したものではない。Bossの報告では、Astraは今回の髪揺れ作成時に［揺れの動きを自動生成］を使用した。保存モデルの構造と検証範囲は [base_motion/README](../model-ren-asagiri/model/base_motion/README.md) と [test_report](../model-ren-asagiri/model/base_motion/test_report.md) を参照する。自動生成ダイアログで使った推定値・支点・横縦の振幅・柔らかさの正確な値は、現行の作業記録からは確定できない。
+
+## 二つの作り方
+
+| 工程 | BossのLesson 08：手動3点キー | Astraの今回の制作：自動生成を利用 |
+| --- | --- | --- |
+| 形状作成 | 前髪の出力Parameterを-1 / 0 / +1にし、根元を保ちながら両端のWarp Deformerを手で変形 | 対象のWarp Deformerと出力Parameterを［揺れの動きを自動生成］へ登録し、推定した揺れ形状をキーフォームへ反映。必要なら生成後に形を調整 |
+| 時間変化 | Angle Zを入力、前髪Parameterを出力とするPhysicsを別に設定 | 生成したキーだけでは時間差の揺れは生じない。Angle Z入力から横髪・後ろ髪のParameterを駆動するPhysicsを別に設定 |
+| 調整の中心 | 左右終点の輪郭、毛先の可動量、根元・隣の髪との接続を直接作る | 推定タイプ・支点・横縦の揺れ量・柔らかさ等で初期形を作り、同じ箇所を目視して補正する |
+| 向く場面 | 非対称な毛束、原画に合わせた局所的な調整、少数パーツの精密な仕上げ | 対象が多いときの初期形作成や、一般的な髪揺れのたたき台 |
+
+Lesson 08の前髪は `HairFrontC_Warp` を `HairSwing_Front_Practice` の3点で手動変形してから、`Angle Z → Physics_HairFrontC_Practice → HairSwing_Front_Practice` と接続した。今回の制作モデルでは、`Hair_Side_L_Sway` / `Hair_Side_R_Sway` が `ParamHairSide` の-1 / 0 / +1、`Hair_Back_Sway` が `ParamHairBack` の-1 / 0 / +1に接続されている。Physicsは既存の中央前髪・アホ毛2グループを保持し、横髪・後ろ髪を足した4グループが保存されている。横髪左右は同じ出力Parameterを共有しているので、別々の物理出力としては扱わない。
+
+## Cubismの自動生成を使う手順と注意点
+
+1. 元モデルを別名で保存し、動かすArtMeshを含むWarp Deformerと、その揺れ専用の出力Parameterを決める。回転Deformerはこの機能の対象外。
+2. ［モデリング］→［パラメータ］→［揺れの動きを自動生成］を開き、Warp Deformerを登録してParameterを選ぶ。推定タイプの［髪揺れ］を起点に、支点と横・縦の揺れ量、柔らかさ、必要なら左右非対称を調整する。
+3. ［キーフォームを更新］で形を反映し、-1 / 0 / +1と中間値を手動スライダーで往復させる。対象Parameterのキーが0点または3点以外の場合、確認でOKすると既存キーを削除して3点を作り直すため、保持したい形があれば先に複製する。
+4. 根元、耳・頬・襟との重なりを確認し、生成形が合わない部分はWarp Deformerを手で直す。自動生成は初期形の補助であり、キャラ固有の自然さの判定は代行しない。
+5. 形が成立した後に物理演算設定で入力・出力・振り子を設定し、ゆっくりした動きと速い動きの両方で遅れ・行き過ぎ・収束を確認する。モデルを保存・再読込してから、必要な段階でRuntimeも検証する。
+
+今回の `Ren_base.cmo3` は、Editor内で横髪・後ろ髪の端点と4物理グループの保存を確認した段階。本番アトラスを保留したためRuntimeは書き出しておらず、物理演算を含む連続動作、配信アプリでの再現、Bossの最終受入は未確認。アホ毛の形・キー・既存PhysicsはBossの作り直し対象として保持した。
+
+Bossが後で実習する場合は、制作モデルを複製した練習用ファイルで横髪の3点キーを手動で一度確認し、自動生成後の同じキーと中間値を比較する。根元の安定、毛先の軌道、顔との重なりを見て、必要な箇所だけ手で直す。最後にPhysicsのプレビューで遅れと収束を比べる。制作モデルのキーを直接上書きしない。
+
+## Lesson 11の結論
+
+「揺れの動きを自動生成」は**揺れの形をキーフォームへ作る工程**を助ける。Bossの手動3点キー方式と競合せず、生成した形を手で直してから同じPhysics工程へ進める。形の自然さ、入力への反応、Runtimeでの再現はそれぞれ別に確認する。
+
+参照：[Live2D公式・揺れの動きの自動生成](https://docs.live2d.com/cubism-editor-manual/auto-generation-of-sway-motion/)、[Live2D公式・物理演算について](https://docs.live2d.com/cubism-editor-manual/physics-operation/)。
+
+---
+
 # 全体総括 — PSDからRuntimeまで一周して得たこと
 
 今回の講義では、朝霧レンの教材コピーを使い、以下を実際に一周した。
@@ -750,6 +790,7 @@ Computer Useへ細かな輪郭トレースや大量の頂点選定を丸投げ�
 - [x] Lesson 08 — Physics
 - [x] Lesson 09 — Texture Atlas
 - [x] Lesson 10 — Runtime Export / VTube Studio
+- [ ] Lesson 11 — 髪揺れの手動3点キーと自動生成の比較（教材を追加。Boss自身の自動生成実習とRuntime・最終受入は未了）
 
 ## 修了時点
 

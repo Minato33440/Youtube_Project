@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Ren_training_L10_deformer01.moc3",
+		"Textures": [
+			"Ren_training_L10_deformer01.2048/texture_00.png"
+		],
+		"Physics": "Ren_training_L10_deformer01.physics3.json",
+		"DisplayInfo": "Ren_training_L10_deformer01.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

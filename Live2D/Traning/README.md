@@ -6,9 +6,9 @@ MinatoによるCubism実装学習・検証データの保管場所。
 
 ## 教材
 
-- [Cubism Practical Production Lecture](Cubism_Practical_Production_Lecture.md) — Lesson 01〜10完了。PSD ImportからRuntime / VTube Studio確認までの実習・失敗・気づき。
+- [Cubism Practical Production Lecture](Cubism_Practical_Production_Lecture.md) — Lesson 01〜10実習済み。Lesson 11に髪揺れの手動3点キーと自動生成の比較教材を追加。
 - [Character Production Workflow](../CHARACTER_PRODUCTION_WORKFLOW.md) — Lectureから蒸留した、別キャラでも再利用する製造原則。
-- [Lesson 01 — PSD Import](Lesson01_PSD_Import/README.md) — 初回教材と参照ファイル。
+- [Lesson — PSD Import](Lesson_PSD_Import/README.md) — 初回教材と参照ファイル。
 
 ## 役割
 
