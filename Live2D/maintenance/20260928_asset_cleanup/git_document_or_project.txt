@@ -1,0 +1,5 @@
+Live2D/model-ren-asagiri/art/side_view_review/REVIEW.md
+Live2D/model-ren-asagiri/model/head_neck_hair/acceptance_20260925.md
+Live2D/model-ren-asagiri/ren-asagiri.aisp
+Live2D/templates/character_production_record.md
+Live2D/voice/ren-asagiri.aisp

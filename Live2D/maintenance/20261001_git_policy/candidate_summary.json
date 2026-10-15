@@ -1,0 +1,275 @@
+{
+  "candidate_count_excluding_staged_removals": 335,
+  "candidate_worktree_bytes": 206977181,
+  "new_untracked_count": 322,
+  "modified_tracked_count": 13,
+  "groups": {
+    "Live2D/Traning/Lesson_PSD_Import": [
+      20,
+      136102117
+    ],
+    "Live2D/model-ren-asagiri/model/base_motion": [
+      40,
+      45706839
+    ],
+    "Live2D/model-ren-asagiri/model/head_neck_hair": [
+      4,
+      9855602
+    ],
+    "Live2D/model-ren-asagiri/art/latest_png_collection": [
+      59,
+      6588106
+    ],
+    "Live2D/Traning/Lesson10_RuntimeExport": [
+      5,
+      3141973
+    ],
+    "Live2D/model-ren-asagiri/model/head_angles": [
+      141,
+      2166896
+    ],
+    "Live2D/model-ren-asagiri/model/training_base_audit": [
+      14,
+      1134047
+    ],
+    "Live2D/maintenance/20261001_git_policy": [
+      5,
+      896712
+    ],
+    "Live2D/maintenance/20260928_asset_cleanup": [
+      13,
+      532730
+    ],
+    "Live2D/model-ren-asagiri/test_png_20261001_132300/preservation_before.json": [
+      1,
+      332089
+    ],
+    "Live2D/model-ren-asagiri/test_png_20261001_132300/review_candidates.json": [
+      1,
+      231337
+    ],
+    "Live2D/model-ren-asagiri/test_png_20261001_132300/selection.json": [
+      1,
+      58100
+    ],
+    "Live2D/model-ren-asagiri/test_png_20261001_132300/reference_audit.json": [
+      1,
+      33195
+    ],
+    "Live2D/Traning/Cubism_Practical_Production_Lecture.md": [
+      1,
+      28182
+    ],
+    "Live2D/model-ren-asagiri/ren-asagiri.aisp": [
+      1,
+      21241
+    ],
+    "Live2D/README.md": [
+      1,
+      17773
+    ],
+    "Live2D/model-ren-asagiri/test_png_20261001_132300/organize.py": [
+      1,
+      14188
+    ],
+    "Live2D/Traning/docs": [
+      2,
+      13076
+    ],
+    "Live2D/voice/ren-asagiri.aisp": [
+      1,
+      12184
+    ],
+    "Live2D/model-ren-asagiri/README.md": [
+      1,
+      11187
+    ],
+    "Live2D/model-ren-asagiri/art/archive": [
+      4,
+      8617
+    ],
+    "Live2D/model-ren-asagiri/HEAD_BASE_MOTION_PLAN.md": [
+      1,
+      8303
+    ],
+    "Live2D/model-ren-asagiri/test_png_20261001_132300/README.md": [
+      1,
+      7091
+    ],
+    "Live2D/model-ren-asagiri/art/side_view_review": [
+      1,
+      7027
+    ],
+    "Live2D/model-ren-asagiri/AGENTS.md": [
+      1,
+      6906
+    ],
+    "Live2D/model-ren-asagiri/art/Looking_down": [
+      1,
+      6820
+    ],
+    ".gitignore": [
+      1,
+      6481
+    ],
+    "Live2D/ASSET_CATALOG.md": [
+      1,
+      5264
+    ],
+    "Live2D/model-ren-asagiri/model/basic_expression": [
+      1,
+      4370
+    ],
+    "output/live2d/risa_parts_v1": [
+      1,
+      4128
+    ],
+    "Live2D/model-ren-asagiri/art/head": [
+      1,
+      3862
+    ],
+    "Live2D/model-ren-asagiri/art/psd_front": [
+      1,
+      3053
+    ],
+    "Live2D/templates/character_production_record.md": [
+      1,
+      2417
+    ],
+    "Live2D/model-ren-asagiri/test_png_20261001_132300/move_plan.json": [
+      1,
+      2171
+    ],
+    "Live2D/Traning/README.md": [
+      1,
+      1542
+    ],
+    "Live2D/model-ren-asagiri/test_png_20261001_132300/index_observation.json": [
+      1,
+      818
+    ],
+    "Live2D/model-ren-asagiri/test_png_20261001_132300/verification.json": [
+      1,
+      509
+    ],
+    "Live2D/.gitignore": [
+      1,
+      224
+    ],
+    "Live2D/model-ren-asagiri/test_png_20261001_132300/movement_manifest.json": [
+      1,
+      4
+    ]
+  },
+  "index_change": {
+    "removed": [
+      "Live2D/model-ren-asagiri/latest_preview/Ren_head_neck_hair.gif",
+      "Live2D/model-ren-asagiri/latest_preview/comparison_original.jpg",
+      "Live2D/model-ren-asagiri/latest_preview/eyes.png",
+      "Live2D/model-ren-asagiri/latest_preview/head_neck_hair_review.jpg",
+      "Live2D/model-ren-asagiri/latest_preview/head_sample.png",
+      "Live2D/model-ren-asagiri/latest_preview/python_composite.png"
+    ],
+    "added": [],
+    "changed": [],
+    "physical_removed_paths_exist": true,
+    "outside_ren_unchanged": true,
+    "head_unchanged": true
+  },
+  "file_errors": [],
+  "staged_removal_old_bytes": 14970615,
+  "cmo_candidates": [
+    {
+      "path": "Live2D/Traning/Lesson_PSD_Import/reference/Ren_front_completed_reference.cmo3",
+      "bytes": 9843786
+    },
+    {
+      "path": "Live2D/Traning/Lesson_PSD_Import/work/Ren_deformer0.cmo3",
+      "bytes": 6840391
+    },
+    {
+      "path": "Live2D/Traning/Lesson_PSD_Import/work/Ren_deformer1.cmo3",
+      "bytes": 7104917
+    },
+    {
+      "path": "Live2D/Traning/Lesson_PSD_Import/work/Ren_front_training_L01.cmo3",
+      "bytes": 6663680
+    },
+    {
+      "path": "Live2D/Traning/Lesson_PSD_Import/work/Ren_training_L03_mes01h.cmo3",
+      "bytes": 6679951
+    },
+    {
+      "path": "Live2D/Traning/Lesson_PSD_Import/work/Ren_training_L03_mesh02.cmo3",
+      "bytes": 6678765
+    },
+    {
+      "path": "Live2D/Traning/Lesson_PSD_Import/work/Ren_training_L04_deformer01.cmo3",
+      "bytes": 6687585
+    },
+    {
+      "path": "Live2D/Traning/Lesson_PSD_Import/work/Ren_training_L05_deformer01.cmo3",
+      "bytes": 6688373
+    },
+    {
+      "path": "Live2D/Traning/Lesson_PSD_Import/work/Ren_training_L06_deformer01.cmo3",
+      "bytes": 6690675
+    },
+    {
+      "path": "Live2D/Traning/Lesson_PSD_Import/work/Ren_training_L07_deformer01.cmo3",
+      "bytes": 6705707
+    },
+    {
+      "path": "Live2D/Traning/Lesson_PSD_Import/work/Ren_training_L07_deformer02.cmo3",
+      "bytes": 6829168
+    },
+    {
+      "path": "Live2D/Traning/Lesson_PSD_Import/work/Ren_training_L08_deformer01.cmo3",
+      "bytes": 6840391
+    },
+    {
+      "path": "Live2D/Traning/Lesson_PSD_Import/work/Ren_training_L09_deformer01.cmo3",
+      "bytes": 6840391
+    },
+    {
+      "path": "Live2D/Traning/Lesson_PSD_Import/work/Ren_training_L09_deformer02(Atrus設定後).cmo3",
+      "bytes": 9908282
+    },
+    {
+      "path": "Live2D/Traning/Lesson_PSD_Import/work/Ren_training_L10_deformer01.cmo3",
+      "bytes": 9756795
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/Ren_base.cmo3",
+      "bytes": 7121388
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/Ren_base1.cmo3",
+      "bytes": 7152756
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/Ren_base2.cmo3",
+      "bytes": 7191455
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/Ren_base3.cmo3",
+      "bytes": 7373000
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/Ren_base4.cmo3",
+      "bytes": 7373000
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/base_motion/Ren_base5.cmo3",
+      "bytes": 7393532
+    },
+    {
+      "path": "Live2D/model-ren-asagiri/model/head_neck_hair/Ren_front.cmo3",
+      "bytes": 9843795
+    }
+  ],
+  "root_ignore_lines": 262,
+  "live2d_ignore_lines": 3,
+  "measured_at_utc": "2026-10-01T14:41:33.234580+00:00",
+  "measurement_note": "Working-tree sizes, not staged objects or push estimate. Small report-size differences after this self-record are expected."
+}

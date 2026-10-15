@@ -1,0 +1,170 @@
+{
+  "checked_at_utc": "2026-10-08T05:23:36.818847+00:00",
+  "scope": "Read-only CAFF structure and neutral-parent coordinate reconstruction. Not visual acceptance, runtime validation, intermediate tuning or compound-pose validation.",
+  "checks": {
+    "source_matches_backup": true,
+    "source_matches_initial_hash": true,
+    "previous_base7_unchanged": true,
+    "parameter_definitions_preserved": true,
+    "all_original_objects_retained": true,
+    "only_expected_additions": true,
+    "original_mesh_topology_preserved": true,
+    "all_original_images_and_placement_preserved": true,
+    "under_chin_image_matches_imported_donor": true,
+    "only_expected_original_objects_changed": true,
+    "all_other_original_rig_data_preserved": true,
+    "exactly_seven_y_objects": true,
+    "all_y_bindings_only_minus30_zero_plus30": true,
+    "head_x_remains_unbound_as_in_base6": true,
+    "physics_and_atlas_count_preserved": true,
+    "under_chin_hidden_at_front_and_down": true,
+    "under_chin_visible_at_up": true,
+    "new_parents_inserted_in_expected_hierarchy": true,
+    "Face_Warp_neutral_exact": true,
+    "ear_L_neutral_exact": true,
+    "ear_R_neutral_exact": true,
+    "neck-clavicle_neutral_exact": true,
+    "Hair_Base_Warp_all_original_forms_geometry_preserved_within_1e_5": true,
+    "Hair_Base_Warp_original_keys_and_nonposition_attributes_preserved": true,
+    "Mouth_Warp_all_original_forms_geometry_preserved_within_1e_5": true,
+    "Mouth_Warp_original_keys_and_nonposition_attributes_preserved": true,
+    "all_key_grids_complete_unique_and_resolved": true,
+    "files_unchanged_during_read": true
+  },
+  "all_static_checks_pass": true,
+  "existing_object_changes": {
+    "neck-clavicle": [
+      "bindings",
+      "forms",
+      "grid"
+    ],
+    "ear_R": [
+      "bindings",
+      "forms",
+      "grid"
+    ],
+    "ear_L": [
+      "bindings",
+      "forms",
+      "grid"
+    ],
+    "Face_Warp": [
+      "bindings",
+      "forms",
+      "grid"
+    ],
+    "Hair_Base_Warp": [
+      "parent",
+      "forms"
+    ],
+    "Mouth_Warp": [
+      "parent",
+      "forms"
+    ]
+  },
+  "coordinate_errors": {
+    "Hair_Base_Warp": {
+      "neutral_parent_affine_error": 3.427630113073121e-08,
+      "all_forms_max_coordinate_error_in_original_parent": 3.2260086302304813e-07
+    },
+    "Mouth_Warp": {
+      "neutral_parent_affine_error": 3.114285729299837e-08,
+      "all_forms_max_coordinate_error_in_original_parent": 3.042739803449379e-07
+    }
+  },
+  "grid_errors": [],
+  "counts": {
+    "meshes": 49,
+    "deformers": 28,
+    "parameters": 28
+  },
+  "y_bindings": {
+    "Face_Warp": [
+      {
+        "parameter": "ParamAngleY",
+        "keys": [
+          -30.0,
+          0.0,
+          30.0
+        ]
+      }
+    ],
+    "Hair_Y_Follow": [
+      {
+        "parameter": "ParamAngleY",
+        "keys": [
+          -30.0,
+          0.0,
+          30.0
+        ]
+      }
+    ],
+    "Mouth_Y_Follow": [
+      {
+        "parameter": "ParamAngleY",
+        "keys": [
+          -30.0,
+          0.0,
+          30.0
+        ]
+      }
+    ],
+    "ear_L": [
+      {
+        "parameter": "ParamAngleY",
+        "keys": [
+          -30.0,
+          0.0,
+          30.0
+        ]
+      }
+    ],
+    "ear_R": [
+      {
+        "parameter": "ParamAngleY",
+        "keys": [
+          -30.0,
+          0.0,
+          30.0
+        ]
+      }
+    ],
+    "neck-clavicle": [
+      {
+        "parameter": "ParamAngleY",
+        "keys": [
+          -30.0,
+          0.0,
+          30.0
+        ]
+      }
+    ],
+    "under_chin": [
+      {
+        "parameter": "ParamAngleY",
+        "keys": [
+          -30.0,
+          0.0,
+          30.0
+        ]
+      }
+    ]
+  },
+  "files": {
+    "source": {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\base_motion\\Ren_base6.cmo3",
+      "bytes": 7401969,
+      "sha256": "a0caa0d82aff2d7cf1d5281a80be7891d64a3126225fa58ac4af065f4b7e4256"
+    },
+    "output": {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\base_motion\\Ren_base7(2).cmo3",
+      "bytes": 7454448,
+      "sha256": "459d1275c532115d16da94e3d56c4c92571730673aab210fb851e0d63a8ef21b"
+    },
+    "donor_backup": {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\base_motion\\head_y_endpoints_20261008\\Ren_base7_with_under_chin_before.cmo3",
+      "bytes": 7452262,
+      "sha256": "f02612fd988e111898815dfc24be3be12aa84eebe0747b52e88fb324427ff361"
+    }
+  }
+}

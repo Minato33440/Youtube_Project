@@ -1,0 +1,135 @@
+{
+  "purpose": "Import-only 4000x6000 whole-head reference for face-underfill adjustment. Hide every layer before model export.",
+  "target": {
+    "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\whole_head_outline_check\\whole_head_contour_target.json",
+    "sha256": "1db52a18978f6a7d55db701d9e6fdbb57f1d624f975912f4de9ef25370e19d50"
+  },
+  "inputs": {
+    "original": {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (2).png",
+      "sha256": "9467b49181bfcd98ca7fcef67c8f8d2072b09d7cc56cc36e862c66e43d2c44dc",
+      "dimensions_px": [
+        958,
+        1004
+      ]
+    },
+    "rough": {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (2)-Rough.png",
+      "sha256": "f20432ba2a9f3bff4036e245358ceaa966c03d5c44b5ec8819d24b22763f7bf6",
+      "dimensions_px": [
+        672,
+        769
+      ]
+    },
+    "outline": {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (2)-outline.png",
+      "sha256": "f83c4ca58f81b609a3da54aecc6ccd1926eabb2da616ed594c20f148bfcac322",
+      "dimensions_px": [
+        672,
+        784
+      ]
+    }
+  },
+  "registration": {
+    "rough_outline_to_original": {
+      "scale": 1,
+      "translation_px": [
+        57,
+        1
+      ],
+      "visible_rgba_residual": "exact; 338253/338253 visible-union pixels equal"
+    },
+    "original_to_canvas": {
+      "scale": 1.2904500571168767,
+      "translation_px": [
+        1404.826424299698,
+        161.11685212010656
+      ],
+      "operation": "uniform scale and translation only; retain original tilt"
+    },
+    "rough_outline_to_canvas": {
+      "scale": 1.2904500571168767,
+      "translation_px": [
+        1478.38207755536,
+        162.40730217722344
+      ],
+      "raster_layer_position_rounded_px": [
+        1478,
+        162
+      ]
+    }
+  },
+  "classification": {
+    "face_visible_observed": "Cyan path follows the supplied dark face outline from the left ear-root area through the chin to the right side. It is the precision face-underfill target.",
+    "scalp_hair_hidden_inferred": "Amber dashed path follows the Boss-supplied intended upper head shape, but remains an approximation for face-underfill because finished hair hides it.",
+    "ear_outer_observed_separate": "Magenta paths trace ear outer silhouettes for orientation only. They are not part of the face-underfill target and are excluded from distance metrics."
+  },
+  "canvas": [
+    4000,
+    6000
+  ],
+  "layers": [
+    {
+      "name": "GUIDE__FACE_UNDERFILL_OBSERVED__CYAN__HIDE_BEFORE_EXPORT",
+      "left": 1646,
+      "top": 706,
+      "opacity": 1,
+      "dimensions_px": [
+        573,
+        421
+      ],
+      "source": "guide_face_observed_cyan.png",
+      "source_sha256": "d0f12b8182f24c47564ea5d23da9934a3a07da3b5a18840e207a8c28463b5c60"
+    },
+    {
+      "name": "GUIDE__SCALP_HAIR_HIDDEN_INFERRED__AMBER_DASHED__HIDE_BEFORE_EXPORT",
+      "left": 1609,
+      "top": 387,
+      "opacity": 1,
+      "dimensions_px": [
+        615,
+        446
+      ],
+      "source": "guide_scalp_inferred_amber_dashed.png",
+      "source_sha256": "c03bcc16e97e3d6cd29a0331f7eb87cb1ff5f47244e93b188470179bcc45a837"
+    },
+    {
+      "name": "GUIDE__EAR_OUTER_SEPARATE__MAGENTA__DO_NOT_TRACE_AS_FACE",
+      "left": 1627,
+      "top": 706,
+      "opacity": 1,
+      "dimensions_px": [
+        641,
+        263
+      ],
+      "source": "guide_ear_outer_magenta.png",
+      "source_sha256": "3db9a527c81f8e574d3c097dd7c7162cfe6819dc4b831b4ea64eea029bdf6da1"
+    },
+    {
+      "name": "REFERENCE__BOSS_OUTLINE_REGISTERED__85PCT__HIDE_BEFORE_EXPORT",
+      "left": 1478,
+      "top": 162,
+      "opacity": 0.85,
+      "dimensions_px": [
+        867,
+        1012
+      ],
+      "source": "reference_outline_registered.png",
+      "source_sha256": "d9b5e8082f2c4ea069e623dbb28e18dee35483418bf36c222197ae5d0a3912e9"
+    },
+    {
+      "name": "REFERENCE__ROUGH_EXACT_CROP__25PCT__HIDE_BEFORE_EXPORT",
+      "left": 1478,
+      "top": 162,
+      "opacity": 0.25,
+      "dimensions_px": [
+        867,
+        992
+      ],
+      "source": "reference_rough_registered.png",
+      "source_sha256": "e6df4ca3150c1cb624b12fce38b8e54598a686f97adc284ac9dc3ec24a7a1940"
+    }
+  ],
+  "psd": "whole_head_reference_4000x6000.psd",
+  "psd_sha256": "510392d83c4e98f4b462a3c2b2be548002de87cdfe2068446335cb7e865173fe"
+}

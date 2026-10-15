@@ -1,0 +1,83 @@
+{
+  "checked_at_utc": "2026-10-08T03:27:58.742118+00:00",
+  "scope": "Read-only CAFF structure checks, separate from Editor visual acceptance. No runtime export test.",
+  "checks": {
+    "source_matches_protected_backup": true,
+    "source_matches_baseline_hash": true,
+    "all_parameter_definitions_preserved": true,
+    "all_48_artmeshes_retained": true,
+    "only_neck_y_deformer_added": true,
+    "mesh_topology_preserved": true,
+    "images_and_placement_preserved": true,
+    "only_intended_original_objects_changed": true,
+    "all_other_rig_data_including_z_iris_expression_ear_jaw_preserved": true,
+    "all_y_bindings_single_axis_and_expected_keys": true,
+    "angle_x_remains_unbound": true,
+    "only_three_y_objects": true,
+    "neck_y_inserted_inside_existing_z_parent": true,
+    "physics_and_atlas_count_preserved": true,
+    "Head_XY_Base_neutral_geometry_and_attributes_exactly_preserved": true,
+    "Face_Warp_neutral_geometry_and_attributes_exactly_preserved": true,
+    "new_neck_neutral_grid_is_identity_within_1e_5": true,
+    "neck_original_local_positions_preserved_within_1e_5": true,
+    "all_key_grids_complete_unique_and_resolved": true,
+    "all_y_forms_distinct": true,
+    "files_unchanged_during_read": true
+  },
+  "all_static_checks_pass": true,
+  "existing_object_changes": {
+    "neck-clavicle": [
+      "parent",
+      "forms"
+    ],
+    "Face_Warp": [
+      "bindings",
+      "forms",
+      "grid"
+    ],
+    "Head_XY_Base": [
+      "bindings",
+      "forms",
+      "grid"
+    ]
+  },
+  "neck_identity_error": 2.0861626e-07,
+  "neck_local_coordinate_delta": 1.0300000000684761e-06,
+  "counts": {
+    "meshes": 48,
+    "deformers": 27,
+    "parameters": 28
+  },
+  "files": {
+    "source": {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\base_motion\\Ren_base6.cmo3",
+      "bytes": 7401969,
+      "sha256": "a0caa0d82aff2d7cf1d5281a80be7891d64a3126225fa58ac4af065f4b7e4256"
+    },
+    "output": {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\base_motion\\Ren_base7.cmo3",
+      "bytes": 7406054,
+      "sha256": "e61fdd7a19b28aedcfe18cc225f343a33d45ddbc0cdf8ec0908188cd55ab875b"
+    }
+  },
+  "key_bindings": {
+    "Head_XY_Base": [
+      -30,
+      0,
+      30
+    ],
+    "Face_Warp": [
+      -30,
+      -15,
+      0,
+      15,
+      30
+    ],
+    "Neck_Y_Follow": [
+      -30,
+      0,
+      30
+    ]
+  },
+  "grid_errors": []
+}

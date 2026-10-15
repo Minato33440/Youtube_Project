@@ -1,0 +1,5 @@
+{
+  "baseline_cmo3_sha256": "04442b93fe9db4c523299af07ed356a7da7856f8457cbc20d0fa270127d032ce",
+  "reference_sha256": "9467b49181bfcd98ca7fcef67c8f8d2072b09d7cc56cc36e862c66e43d2c44dc",
+  "policy": "Preserve reference rotation. Uniform scale and translation only; approved X=0 nod preserved."
+}

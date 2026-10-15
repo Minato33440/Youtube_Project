@@ -1,0 +1,26 @@
+{
+  "status": "pass",
+  "source_transform": {
+    "display_scale": 0.387135017135063,
+    "display_offset": [
+      31.44792728990933,
+      48.33505563603197
+    ],
+    "operation": "manifest uniform scale and translation only; no rotation, re-fit, warp, or source modification"
+  },
+  "inputs": [
+    "before_tilted_reference_case_01.png",
+    "case_01.png",
+    "before_tilted_reference_case_03.png",
+    "case_03.png"
+  ],
+  "outputs": [
+    "case_01_unrotated_reference_overlay_50.png",
+    "case_03_mirrored_geometry_reference_overlay_50.png",
+    "tilted_reference_before_current_comparison.jpg"
+  ],
+  "reference_columns": {
+    "case_01": "unrotated original source",
+    "case_03": "reference_right geometry-only mirror placed at manifest coordinates; not final colored art"
+  }
+}

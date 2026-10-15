@@ -1,0 +1,59 @@
+{
+  "status": "pass",
+  "psd": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\guide\\looking_down_2_contour_guide_4000x6000.psd",
+  "sha256": "61867fd7b0ba1453c80b76050bcdba511a7d357445a9601590de524fb7d6646f",
+  "canvas": [
+    4000,
+    6000
+  ],
+  "colorMode": 3,
+  "bitsPerChannel": 8,
+  "layers": [
+    {
+      "name": "GUIDE__VISIBLE_FACE_CONTOUR__CYAN__4PX",
+      "left": 1696,
+      "top": 836,
+      "opacity": 1,
+      "dimensions": [
+        537,
+        291
+      ]
+    },
+    {
+      "name": "GUIDE__INFERRED_OCCLUDED__AMBER_DASHED__4PX",
+      "left": 1696,
+      "top": 836,
+      "opacity": 1,
+      "dimensions": [
+        537,
+        291
+      ]
+    },
+    {
+      "name": "GUIDE__LANDMARK_CROSSHAIRS__MAGENTA",
+      "left": 1562,
+      "top": 778,
+      "opacity": 1,
+      "dimensions": [
+        706,
+        353
+      ]
+    },
+    {
+      "name": "REFERENCE__SOURCE_UNROTATED__25PCT__HIDE_BEFORE_EXPORT",
+      "left": 1405,
+      "top": 161,
+      "opacity": 0.25098039215686274,
+      "dimensions": [
+        1236,
+        1296
+      ]
+    }
+  ],
+  "checks": {
+    "canvas": true,
+    "layerCount": true,
+    "namesPositionsOpacityDimensionsAndRgba": true
+  },
+  "problems": []
+}

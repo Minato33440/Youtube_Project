@@ -1,0 +1,391 @@
+{
+  "purpose": "Transparent source-space contour guide for the left-screen oblique nod endpoint. Hide all guide/reference layers before export.",
+  "source": {
+    "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (2).png",
+    "sha256": "9467b49181bfcd98ca7fcef67c8f8d2072b09d7cc56cc36e862c66e43d2c44dc",
+    "orientation": "unrotated supplied source"
+  },
+  "canvas": [
+    4000,
+    6000
+  ],
+  "transform_retained_from_reference_overlay": {
+    "scale": 1.2904500571168767,
+    "offset": [
+      1404.826424299698,
+      161.11685212010656
+    ],
+    "operation": "uniform scale and translation only"
+  },
+  "direct_source_pixel_inspection": {
+    "black_pupil_component_centroids": {
+      "pupil_left_black_component_centroid": [
+        297.14,
+        529.5
+      ],
+      "pupil_right_black_component_centroid": [
+        487.55,
+        507.47
+      ]
+    },
+    "retained_transform_anchors": [
+      [
+        295.9,
+        527.3
+      ],
+      [
+        487.3,
+        507.3
+      ]
+    ],
+    "decision": "No transform correction. Right differs by <=0.3 px; left differs by 1.2 px right and 2.2 px down due to black-fill centroid versus visual eye anchor. Retaining the established transform avoids an unjustified 0.4% rescale."
+  },
+  "contour_points_source_px": [
+    {
+      "id": "r_ear_face_junction",
+      "source_px": [
+        622,
+        542
+      ],
+      "reliability": "inferred_occluded"
+    },
+    {
+      "id": "r_occlusion_1",
+      "source_px": [
+        615,
+        557
+      ],
+      "reliability": "inferred_occluded"
+    },
+    {
+      "id": "r_occlusion_2",
+      "source_px": [
+        606,
+        575
+      ],
+      "reliability": "inferred_occluded"
+    },
+    {
+      "id": "r_occlusion_exit",
+      "source_px": [
+        595,
+        594
+      ],
+      "reliability": "inferred_occluded"
+    },
+    {
+      "id": "r_cheek_start",
+      "source_px": [
+        574,
+        613
+      ],
+      "reliability": "observed"
+    },
+    {
+      "id": "r_cheek_1",
+      "source_px": [
+        567,
+        626
+      ],
+      "reliability": "observed"
+    },
+    {
+      "id": "r_cheek_2",
+      "source_px": [
+        557,
+        642
+      ],
+      "reliability": "observed"
+    },
+    {
+      "id": "r_jaw_1",
+      "source_px": [
+        544,
+        657
+      ],
+      "reliability": "observed"
+    },
+    {
+      "id": "r_jaw_2",
+      "source_px": [
+        529,
+        672
+      ],
+      "reliability": "observed"
+    },
+    {
+      "id": "r_jaw_3",
+      "source_px": [
+        513,
+        686
+      ],
+      "reliability": "observed"
+    },
+    {
+      "id": "r_jaw_4",
+      "source_px": [
+        496,
+        699
+      ],
+      "reliability": "observed"
+    },
+    {
+      "id": "r_jaw_5",
+      "source_px": [
+        478,
+        710
+      ],
+      "reliability": "observed"
+    },
+    {
+      "id": "r_chin_slope",
+      "source_px": [
+        459,
+        719
+      ],
+      "reliability": "observed"
+    },
+    {
+      "id": "chin_right",
+      "source_px": [
+        441,
+        726
+      ],
+      "reliability": "observed"
+    },
+    {
+      "id": "chin_tip",
+      "source_px": [
+        424,
+        729
+      ],
+      "reliability": "observed"
+    },
+    {
+      "id": "chin_left",
+      "source_px": [
+        410,
+        724
+      ],
+      "reliability": "observed"
+    },
+    {
+      "id": "l_chin_slope",
+      "source_px": [
+        390,
+        712
+      ],
+      "reliability": "observed"
+    },
+    {
+      "id": "l_jaw_1",
+      "source_px": [
+        370,
+        700
+      ],
+      "reliability": "observed"
+    },
+    {
+      "id": "l_jaw_2",
+      "source_px": [
+        355,
+        691
+      ],
+      "reliability": "observed"
+    },
+    {
+      "id": "l_jaw_3",
+      "source_px": [
+        340,
+        682
+      ],
+      "reliability": "observed"
+    },
+    {
+      "id": "l_jaw_4",
+      "source_px": [
+        320,
+        667
+      ],
+      "reliability": "observed"
+    },
+    {
+      "id": "l_jaw_5",
+      "source_px": [
+        305,
+        657
+      ],
+      "reliability": "observed"
+    },
+    {
+      "id": "l_jaw_6",
+      "source_px": [
+        290,
+        642
+      ],
+      "reliability": "observed"
+    },
+    {
+      "id": "l_cheek_1",
+      "source_px": [
+        270,
+        617
+      ],
+      "reliability": "observed"
+    },
+    {
+      "id": "l_cheek_last_reliable",
+      "source_px": [
+        251,
+        602
+      ],
+      "reliability": "observed"
+    },
+    {
+      "id": "l_occlusion_1",
+      "source_px": [
+        248,
+        601
+      ],
+      "reliability": "inferred_occluded"
+    },
+    {
+      "id": "l_occlusion_2",
+      "source_px": [
+        246,
+        584
+      ],
+      "reliability": "inferred_occluded"
+    },
+    {
+      "id": "l_ear_face_junction",
+      "source_px": [
+        245,
+        568
+      ],
+      "reliability": "inferred_occluded"
+    }
+  ],
+  "landmark_crosshairs_source_px": [
+    {
+      "id": "pupil_left",
+      "source_px": [
+        297.14,
+        529.5
+      ]
+    },
+    {
+      "id": "pupil_right",
+      "source_px": [
+        487.55,
+        507.47
+      ]
+    },
+    {
+      "id": "eye_left_center",
+      "source_px": [
+        295,
+        526
+      ]
+    },
+    {
+      "id": "eye_right_center",
+      "source_px": [
+        488,
+        510
+      ]
+    },
+    {
+      "id": "nose_tip",
+      "source_px": [
+        385,
+        589
+      ]
+    },
+    {
+      "id": "mouth_center",
+      "source_px": [
+        413,
+        657
+      ]
+    },
+    {
+      "id": "chin_tip",
+      "source_px": [
+        424,
+        729
+      ]
+    },
+    {
+      "id": "ear_left_visible_center",
+      "source_px": [
+        144,
+        500
+      ]
+    },
+    {
+      "id": "ear_right_visible_center",
+      "source_px": [
+        646,
+        507
+      ]
+    },
+    {
+      "id": "ear_face_junction_left",
+      "source_px": [
+        245,
+        568
+      ]
+    },
+    {
+      "id": "ear_face_junction_right",
+      "source_px": [
+        622,
+        542
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "name": "GUIDE__VISIBLE_FACE_CONTOUR__CYAN__4PX",
+      "left": 1696,
+      "top": 836,
+      "opacity": 1,
+      "dimensions": [
+        537,
+        291
+      ]
+    },
+    {
+      "name": "GUIDE__INFERRED_OCCLUDED__AMBER_DASHED__4PX",
+      "left": 1696,
+      "top": 836,
+      "opacity": 1,
+      "dimensions": [
+        537,
+        291
+      ]
+    },
+    {
+      "name": "GUIDE__LANDMARK_CROSSHAIRS__MAGENTA",
+      "left": 1562,
+      "top": 778,
+      "opacity": 1,
+      "dimensions": [
+        706,
+        353
+      ]
+    },
+    {
+      "name": "REFERENCE__SOURCE_UNROTATED__25PCT__HIDE_BEFORE_EXPORT",
+      "left": 1405,
+      "top": 161,
+      "opacity": 0.25,
+      "dimensions": [
+        1236,
+        1296
+      ]
+    }
+  ],
+  "psd_sha256": "61867fd7b0ba1453c80b76050bcdba511a7d357445a9601590de524fb7d6646f"
+}

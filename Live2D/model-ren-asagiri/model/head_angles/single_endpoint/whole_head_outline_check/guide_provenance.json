@@ -1,0 +1,21 @@
+{
+  "status": "guide_built",
+  "inputs": {
+    "original": "9467b49181bfcd98ca7fcef67c8f8d2072b09d7cc56cc36e862c66e43d2c44dc",
+    "rough": "f20432ba2a9f3bff4036e245358ceaa966c03d5c44b5ec8819d24b22763f7bf6",
+    "outline": "f83c4ca58f81b609a3da54aecc6ccd1926eabb2da616ed594c20f148bfcac322"
+  },
+  "outputs": {
+    "guide_ear_outer_magenta.png": "3db9a527c81f8e574d3c097dd7c7162cfe6819dc4b831b4ea64eea029bdf6da1",
+    "guide_face_observed_cyan.png": "d0f12b8182f24c47564ea5d23da9934a3a07da3b5a18840e207a8c28463b5c60",
+    "guide_scalp_inferred_amber_dashed.png": "c03bcc16e97e3d6cd29a0331f7eb87cb1ff5f47244e93b188470179bcc45a837",
+    "reference_outline_registered.png": "d9b5e8082f2c4ea069e623dbb28e18dee35483418bf36c222197ae5d0a3912e9",
+    "reference_rough_registered.png": "e6df4ca3150c1cb624b12fce38b8e54598a686f97adc284ac9dc3ec24a7a1940",
+    "whole_head_outline_guide_4000x6000.png": "59bac619e816aaa61d20d5276e53fc5b0d2ff07cb05cfad2ebce8f8d3911ac3c",
+    "whole_head_outline_source_audit.png": "61ea3821e04c2a625aef1c83274d7f040836514937a744e76f90af4377311c71"
+  },
+  "target_json": {
+    "path": "whole_head_contour_target.json",
+    "sha256": "1db52a18978f6a7d55db701d9e6fdbb57f1d624f975912f4de9ef25370e19d50"
+  }
+}

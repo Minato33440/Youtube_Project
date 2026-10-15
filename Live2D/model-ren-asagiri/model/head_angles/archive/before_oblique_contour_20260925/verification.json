@@ -1,0 +1,850 @@
+{
+  "passed": true,
+  "source_png_count": 128,
+  "sources": [
+    {
+      "path": "art\\head\\parts\\ALT_eyelash_upper_L.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\ALT_eyelash_upper_R.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\ALT_iris_L_blue.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\ALT_iris_R_brown.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\brow_L.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\brow_R.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\ear_L.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\ear_R.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\face_underfill.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\FILL_eye_white_L.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\FILL_eye_white_R.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\hair_ahoge.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\hair_back.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\hair_front_C.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\hair_front_L.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\hair_front_R.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\hair_side_L.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\hair_side_R.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\lower_eyelid_left.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\lower_eyelid_right.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\mouth_closed.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\upper_crease_L.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\parts\\upper_crease_R.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\expression_sources\\blink\\eyelash_upper_L_original.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\expression_sources\\blink\\eyelash_upper_R_original.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\expression_sources\\mouth\\mouth_cavity.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\expression_sources\\mouth\\mouth_rim_lower.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\expression_sources\\mouth\\mouth_rim_upper.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\expression_sources\\mouth\\mouth_teeth_upper.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head\\expression_sources\\mouth\\mouth_tongue.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\processing_v001\\front\\parts\\belt.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\processing_v001\\front\\parts\\collar_L.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\processing_v001\\front\\parts\\collar_R.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\processing_v001\\front\\parts\\forearm_L.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\processing_v001\\front\\parts\\forearm_R.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\processing_v001\\front\\parts\\hand_L.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\processing_v001\\front\\parts\\hand_R.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\processing_v001\\front\\parts\\neck-clavicle.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\processing_v001\\front\\parts\\shirt_inside.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\processing_v001\\front\\parts\\shirt_torso.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\processing_v001\\front\\parts\\shoe_L.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\processing_v001\\front\\parts\\shoe_R.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\processing_v001\\front\\parts\\sleeve_L.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\processing_v001\\front\\parts\\sleeve_R.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\processing_v001\\front\\parts\\trousers_L.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\processing_v001\\front\\parts\\trousers_R.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\processing_v001\\front\\parts\\upper_arm_L.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\processing_v001\\front\\parts\\upper_arm_R.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head_side_view\\blue-eye\\blue-eye-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head_side_view\\blue-eye\\blue-eye-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head_side_view\\brown-eye\\brown-eye-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head_side_view\\brown-eye\\brown-eye-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head_side_view\\dark-blue-hair\\dark-blue-hair-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head_side_view\\dark-blue-hair\\dark-blue-hair-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head_side_view\\person\\person-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head_side_view\\person\\person-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head_side_view\\white-collared-shirt\\white-collared-shirt-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\head_side_view\\white-collared-shirt\\white-collared-shirt-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\anime-boy\\anime-boy-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\anime-boy\\anime-boy-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\anime-boy\\anime-boy-3.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\anime-boy\\anime-boy-4.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\anime-boy\\anime-boy-5.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\anime-boy\\anime-boy-6.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\anime-boy\\anime-boy-7.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\b\\b-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\b\\b-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\black-belt\\black-belt-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\black-belt\\black-belt-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\black-belt\\black-belt-3.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\black-belt\\black-belt-4.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\black-belt\\black-belt-5.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\black-loafers\\black-loafers-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\black-loafers\\black-loafers-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\black-loafers\\black-loafers-3.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\black-loafers\\black-loafers-4.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\black-loafers\\black-loafers-5.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\black-loafers\\black-loafers-6.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\blue-eye\\blue-eye-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\blue-eye\\blue-eye-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\blue-eye\\blue-eye-3.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\blue-eye\\blue-eye-4.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-belt\\close-up-belt-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-belt\\close-up-belt-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-belt\\close-up-belt-3.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-belt\\close-up-belt-4.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-belt\\close-up-belt-5.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-belt\\close-up-belt-6.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-face\\close-up-face-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-face\\close-up-face-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-face\\close-up-face-3.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-shirt\\close-up-shirt-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-shirt\\close-up-shirt-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-shirt\\close-up-shirt-3.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-shirt\\close-up-shirt-4.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-shirt\\close-up-shirt-5.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-shirt\\close-up-shirt-6.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-shirt\\close-up-shirt-7.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-shoes\\close-up-shoes-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-shoes\\close-up-shoes-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-shoes\\close-up-shoes-3.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-shoes\\close-up-shoes-4.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-shoes\\close-up-shoes-5.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\close-up-shoes\\close-up-shoes-6.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\dark-socks\\dark-socks-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\dark-socks\\dark-socks-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\dark-socks\\dark-socks-3.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\dark-socks\\dark-socks-4.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\dark-socks\\dark-socks-5.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\gray-trousers\\gray-trousers-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\gray-trousers\\gray-trousers-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\gray-trousers\\gray-trousers-3.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\gray-trousers\\gray-trousers-4.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\gray-trousers\\gray-trousers-5.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\shirt-pocket\\shirt-pocket-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\shirt-pocket\\shirt-pocket-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\short-dark-blue-hair\\short-dark-blue-hair-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\short-dark-blue-hair\\short-dark-blue-hair-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\short-dark-blue-hair\\short-dark-blue-hair-3.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\silver-belt-buckle\\silver-belt-buckle-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\silver-belt-buckle\\silver-belt-buckle-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\white-short-sleeve-shirt\\white-short-sleeve-shirt-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\white-short-sleeve-shirt\\white-short-sleeve-shirt-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\white-short-sleeve-shirt\\white-short-sleeve-shirt-3.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\white-short-sleeve-shirt\\white-short-sleeve-shirt-4.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\white-short-sleeve-shirt\\white-short-sleeve-shirt-5.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\white-short-sleeve-shirt\\white-short-sleeve-shirt-6.png",
+      "unchanged": true
+    },
+    {
+      "path": "art\\full_body_side_view\\white-short-sleeve-shirt\\white-short-sleeve-shirt-7.png",
+      "unchanged": true
+    }
+  ],
+  "reference_fit_source_count": 41,
+  "reference_fit_sources": [
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (1).png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (2).png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (3).png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\editor_data\\facial_feature.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\editor_data\\ren-stand-pony-front-4000x6000.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_eyelash_upper_L.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_eyelash_upper_R.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_iris_L_blue.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_iris_R_brown.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\brow_L.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\brow_R.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ear_L.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ear_R.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\face_underfill.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\FILL_eye_white_L.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\FILL_eye_white_R.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_ahoge.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_back.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_front_C.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_front_L.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_front_R.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_side_L.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_side_R.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\lower_eyelid_left.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\lower_eyelid_right.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\mouth_closed.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\upper_crease_L.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\upper_crease_R.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\preview\\head_sample.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\preview\\head_sample_gray.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\reference\\facial_feature.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\reference\\ren-stand-pony-front-4000x6000.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\reference\\ear_surface\\ear_L_surface.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\reference\\ear_surface\\ear_R_surface.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\blink\\eyelash_upper_L_original.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\blink\\eyelash_upper_R_original.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_cavity.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_rim_lower.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_rim_upper.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_teeth_upper.png",
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_tongue.png",
+      "unchanged": true
+    }
+  ],
+  "previous_head_angles_backup_unchanged": true,
+  "source_cmo3_unchanged": true,
+  "source_cmo3_sha256": "fb153e5d1946fe4b7bbb1f0573a7d2b3d144b8f121196c2283002601504d8b7e",
+  "editor_file_sha256": "56bddfd1bc889dd8af33def466515af09d65e2fdbf62d18e27215757247d1c0a",
+  "runtime_hashes": {
+    "runtime\\Ren_front.cdi3.json": "795fe649836f904747d00d1d470a0b31779d0d93ea949a9c29bfbdda056c44c1",
+    "runtime\\Ren_front.moc3": "1b58ace867c0287e2dd9398ae13520d64098dc730e17a4932387f61ed615e4db",
+    "runtime\\Ren_front.model3.json": "16921c6c2d69ceee1f2fb29bf27e78bafe7534d9f4fc9a84eda98409ed6af640",
+    "runtime\\Ren_front.physics3.json": "0d91c3647cce05513d27ee5c20c12c25e838a67a7255263ca6bb25d1a6b84df9",
+    "runtime\\Ren_front.2048\\texture_00.png": "846be881fc3ee75bd68c6b7af572e83674e7b740acb2146367238d8b57700c32"
+  },
+  "neutral_vs_approved": {
+    "max_channel_difference": 1,
+    "pixels_over_8": 0
+  },
+  "actual_runtime_cases": 16,
+  "drawable_count": 48,
+  "parameter_count": 27,
+  "lower_shirt_invariance": [
+    {
+      "case": "case_00.png",
+      "max_difference": 0
+    },
+    {
+      "case": "case_01.png",
+      "max_difference": 0
+    },
+    {
+      "case": "case_02.png",
+      "max_difference": 0
+    },
+    {
+      "case": "case_03.png",
+      "max_difference": 0
+    },
+    {
+      "case": "case_04.png",
+      "max_difference": 0
+    },
+    {
+      "case": "case_05.png",
+      "max_difference": 0
+    },
+    {
+      "case": "case_06.png",
+      "max_difference": 0
+    },
+    {
+      "case": "case_07.png",
+      "max_difference": 0
+    },
+    {
+      "case": "case_08.png",
+      "max_difference": 0
+    },
+    {
+      "case": "case_09.png",
+      "max_difference": 0
+    },
+    {
+      "case": "case_10.png",
+      "max_difference": 0
+    },
+    {
+      "case": "case_11.png",
+      "max_difference": 0
+    },
+    {
+      "case": "case_12.png",
+      "max_difference": 0
+    },
+    {
+      "case": "case_13.png",
+      "max_difference": 0
+    },
+    {
+      "case": "case_14.png",
+      "max_difference": 0
+    },
+    {
+      "case": "case_15.png",
+      "max_difference": 0
+    }
+  ],
+  "physics_ranges": {
+    "ParamHairFront": [
+      0.0,
+      0.0
+    ],
+    "ParamHairSide": [
+      0.0,
+      0.0
+    ],
+    "ParamHairBack": [
+      0.0,
+      0.0
+    ]
+  },
+  "physics_regression": {
+    "input": "Separate diagnostic: AngleZ 20*cos(pi*t), first frame +20; not used in the motion preview.",
+    "current_ranges": {
+      "ParamHairFront": [
+        -0.42473381757736206,
+        0.4627980589866638
+      ],
+      "ParamHairSide": [
+        -0.4492384195327759,
+        0.5100357532501221
+      ],
+      "ParamHairBack": [
+        -0.3806564211845398,
+        0.39496922492980957
+      ]
+    },
+    "max_difference_vs_previous": 0.0,
+    "gentle_preview_response": "No measurable response with the inherited settings when started at rest; settings intentionally preserved."
+  },
+  "preserved_expression_cases": [
+    {
+      "name": "Blink",
+      "max_channel_difference": 1,
+      "pixels_over_8": 0
+    },
+    {
+      "name": "Mouth",
+      "max_channel_difference": 1,
+      "pixels_over_8": 0
+    },
+    {
+      "name": "Tilt",
+      "max_channel_difference": 23,
+      "pixels_over_8": 2
+    },
+    {
+      "name": "Hair",
+      "max_channel_difference": 1,
+      "pixels_over_8": 0
+    }
+  ],
+  "max_frame_angle_steps": {
+    "ParamAngleX": 1.254087218017416,
+    "ParamAngleY": 1.0469849010750387,
+    "ParamAngleZ": 0.8360581453449442
+  },
+  "mp4": {
+    "frames": 360,
+    "fps": 30,
+    "duration_seconds": 12
+  },
+  "gif": {
+    "frames": 180,
+    "duration_ms": 12000
+  },
+  "preview_hashes": {
+    "Ren_head_angles.mp4": "38a2d8cc969c0914dab62f7b5fc1bde9d45438d43e65828dc558845ce2eda794",
+    "Ren_head_angles.gif": "3057099ea09840e1f1f10436d36ba3f4456943e0e4d57e8e6f3e3149db5d5590"
+  },
+  "limits": [
+    "Reference-adjusted small AngleX/Y forms; not a full profile rig.",
+    "Looking_down and side-view source PNGs are position references, not imported replacement layers.",
+    "Neck_XY and ear AngleX keys added; facial depth is still primarily the shared Head_XY warp.",
+    "Hair physics retains prior AngleZ inputs.",
+    "Gentle preview inputs from rest produce no measurable hair physics output; stronger diagnostic input matches the prior rig. XY-driven sway is not added.",
+    "Not tested in VTube Studio or nizima LIVE; Boss motion acceptance pending."
+  ]
+}

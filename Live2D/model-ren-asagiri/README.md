@@ -1,5 +1,14 @@
 # 朝霧レン — 制作の入口
 
+**2026-10-08 最新基準：[Ren_base8(2).cmo3](model/base_motion/Ren_base8%282%29.cmo3)。** BossがY・目口開閉を手動調整済み。[原画比較と代表表示のレビュー](model/base_motion/review_base8_2_20261008/REVIEW.md)。上下の雰囲気と顎・髪・首の接続を確認。差し替えたhair_back_2／neck-clavicle／neck_shadowを保持する。**首Zは未接続となったため後工程で再実装**。今回はモデル編集なし、正面復帰。全組合せ・runtimeは未検証。以下は旧版の履歴。
+
+**2026-10-08 現在：Yをbase6から3点で作り直した [Ren_base7(2).cmo3](model/base_motion/Ren_base7%282%29.cmo3)。** 上下端点のたたき台、Y=-30／0／+30のみ。正面と既存Z・虹彩XY・表情を保持、静的28項目PASS。[比較・変更内容・残課題](model/base_motion/head_y_endpoints_20261008/test_report.md)。上向きの顎形・顎下の色境界・鼻の立体感などはBossの修正待ち。端点確認前に中間調整・X・XY四隅へ進まない。以下は旧版の履歴。
+
+
+**2026-10-08 頭部Y実装：現在の編集先は [Ren_base7.cmo3](model/base_motion/Ren_base7.cmo3)。** 耳・顎調整済みのbase6を保護し、X=0で頭部Yの上下端点・中間を追加。首上端を追従させ、既存Z・虹彩XY・表情を保持した。Yの5位置と両端閉眼、保存・再読込、静的21項目PASS。[実装と検証記録](model/base_motion/head_y_implementation_20261008/test_report.md)。次はYの見た目確認を経てX単独へ。XY四隅・Z複合・runtimeは今回未実施。以下は各時点の履歴。
+
+**2026-10-02 虹彩XY実装：現在の編集先は [Ren_base6.cmo3](model/base_motion/Ren_base6.cmo3)。** 現行base5を保持し、両虹彩の左右・上下を既存視線パラメータの各3点へ実装。開閉・表情との代表条件、保存・再読込、既存形状と画像を保ったことを確認した。[実装と検証](model/base_motion/iris_xy_implementation_20261002/test_report.md)。全条件の連続掃引・runtime・実機は未検証。次は視線の見た目確認を経て頭部Y→X→中間→XY四隅→Z複合へ。以下は各時点の履歴。
+
 **2026-10-01 眉実装：現在の編集先は [Ren_base5.cmo3](model/base_motion/Ren_base5.cmo3)。** Bossのbase4修正を引き継ぎ、左右眉の上下・左右・角度・変形を各3点で実装。髪表示を復帰して保存・再読込済み。[実装と検証](model/base_motion/brow_implementation_20261001/test_report.md)。眉以外の既存形状・48使用画像を維持。正面の代表条件まで確認し、runtime・全組合せは未検証。次は視線と正面の組合せ点検から。下記base3以前の記録は履歴。
 
 **2026-10-01 15:57 JST 再照合：** 基準は [Ren_base3.cmo3](model/base_motion/README.md)。10/1 15:46保存、7,329,828 bytes、SHA256 `3eb81f7187ae3d5be9d2ad51e6d6dc7c552bce7e4ddfb6912e587345519d4647`。9/30版から更新あり。手動実装報告は保持、新版の内部・動作は未検証。次は現行版保護と中立正面の組合せ点検。詳細とGit状態は上記README。

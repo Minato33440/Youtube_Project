@@ -1,0 +1,119 @@
+{
+  "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\base_motion\\Ren_base8(2).cmo3",
+  "bytes": 8424737,
+  "sha256": "58df53b794713682697d148f5b165766e2637a6e96c78d4fdb2a3909f0a6335e",
+  "mesh_count": 53,
+  "deformer_count": 30,
+  "selected": [
+    {
+      "name": "hair_back_2",
+      "id": "hair_back_2",
+      "type": "CArtMeshSource",
+      "parent": "hair_back_2",
+      "visible": true,
+      "bindings": []
+    },
+    {
+      "name": "neck-clavicle",
+      "id": "ArtMesh0",
+      "type": "CArtMeshSource",
+      "parent": "Neck-Clavicle",
+      "visible": true,
+      "bindings": []
+    },
+    {
+      "name": "neck_shadow",
+      "id": "neck_shadow",
+      "type": "CArtMeshSource",
+      "parent": "Neck-Clavicle",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamAngleY",
+          "keys": [
+            -30.0,
+            0.0,
+            30.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hair_Base_Warp",
+      "id": "Warp4",
+      "type": "CWarpDeformerSource",
+      "parent": "Hair_Y_Follow",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamAngleZ",
+          "keys": [
+            -30.0,
+            0.0,
+            30.0
+          ]
+        },
+        {
+          "parameter": "ParamAngleY",
+          "keys": [
+            -30.0,
+            0.0,
+            30.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "hair_back_2",
+      "id": "Warp28",
+      "type": "CWarpDeformerSource",
+      "parent": "Face_Warp",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamAngleY",
+          "keys": [
+            -30.0,
+            0.0,
+            30.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Neck-Clavicle",
+      "id": "Warp13",
+      "type": "CWarpDeformerSource",
+      "parent": "ROOT",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamAngleY",
+          "keys": [
+            -30.0,
+            0.0,
+            30.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Face_Rotation_Practice",
+      "id": "Rotation",
+      "type": "CRotationDeformerSource",
+      "parent": "ROOT",
+      "visible": true,
+      "bindings": [
+        {
+          "parameter": "ParamAngleZ",
+          "keys": [
+            -30.0,
+            0.0,
+            30.0
+          ]
+        }
+      ]
+    }
+  ],
+  "scope": "Read-only inventory of selected neck, hair and Z bindings; not a full structural validation."
+}

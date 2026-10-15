@@ -1,0 +1,9 @@
+{
+  "baseline_model": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\archive\\before_tilted_reference_20260926\\Ren_front.cmo3",
+  "baseline_sha256": "04442b93fe9db4c523299af07ed356a7da7856f8457cbc20d0fa270127d032ce",
+  "rejected_model": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\Ren_front.cmo3",
+  "rejected_sha256": "b2921512c53f0a5d926b13353f5edce79b69c737c76b2048da44917783a00ea7",
+  "working_copy": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\Ren_face_endpoint.cmo3",
+  "source": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (2).png",
+  "scope": "one left endpoint X=-30 Y=-30 face underfill only; no opposite endpoint/animation/parts artwork edits"
+}

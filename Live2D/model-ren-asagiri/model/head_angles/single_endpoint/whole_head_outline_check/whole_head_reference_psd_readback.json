@@ -1,0 +1,69 @@
+{
+  "status": "pass",
+  "psd": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\whole_head_outline_check\\whole_head_reference_4000x6000.psd",
+  "sha256": "510392d83c4e98f4b462a3c2b2be548002de87cdfe2068446335cb7e865173fe",
+  "canvas": [
+    4000,
+    6000
+  ],
+  "colorMode": 3,
+  "bitsPerChannel": 8,
+  "layers": [
+    {
+      "name": "GUIDE__FACE_UNDERFILL_OBSERVED__CYAN__HIDE_BEFORE_EXPORT",
+      "left": 1646,
+      "top": 706,
+      "opacity": 1,
+      "dimensions_px": [
+        573,
+        421
+      ]
+    },
+    {
+      "name": "GUIDE__SCALP_HAIR_HIDDEN_INFERRED__AMBER_DASHED__HIDE_BEFORE_EXPORT",
+      "left": 1609,
+      "top": 387,
+      "opacity": 1,
+      "dimensions_px": [
+        615,
+        446
+      ]
+    },
+    {
+      "name": "GUIDE__EAR_OUTER_SEPARATE__MAGENTA__DO_NOT_TRACE_AS_FACE",
+      "left": 1627,
+      "top": 706,
+      "opacity": 1,
+      "dimensions_px": [
+        641,
+        263
+      ]
+    },
+    {
+      "name": "REFERENCE__BOSS_OUTLINE_REGISTERED__85PCT__HIDE_BEFORE_EXPORT",
+      "left": 1478,
+      "top": 162,
+      "opacity": 0.8509803921568627,
+      "dimensions_px": [
+        867,
+        1012
+      ]
+    },
+    {
+      "name": "REFERENCE__ROUGH_EXACT_CROP__25PCT__HIDE_BEFORE_EXPORT",
+      "left": 1478,
+      "top": 162,
+      "opacity": 0.25098039215686274,
+      "dimensions_px": [
+        867,
+        992
+      ]
+    }
+  ],
+  "checks": {
+    "canvas": true,
+    "layerCount": true,
+    "namesPositionsOpacityDimensionsAndRgba": true
+  },
+  "problems": []
+}

@@ -1,0 +1,745 @@
+{
+  "hits": [
+    {
+      "file": "Live2D\\archive\\20260928-generated-previews\\baseline.json",
+      "historical_inventory": false,
+      "hits": [
+        {
+          "line": 5280,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/archive/20260924-before-ear-cleanup/preview/head_sample.png\","
+        },
+        {
+          "line": 5286,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/archive/20260924-before-ear-cleanup/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 5334,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/archive/20260924-before-hair-extension-review/preview/head_sample.png\","
+        },
+        {
+          "line": 5340,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/archive/20260924-before-hair-extension-review/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 5376,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/archive/20260924-before-psd-integration/preview/head_sample.png\","
+        },
+        {
+          "line": 5382,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/archive/20260924-before-psd-integration/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 5622,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/preview/head_sample.png\","
+        },
+        {
+          "line": 5628,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 5700,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/work/ear_check_20260924/head_sample.png\","
+        },
+        {
+          "line": 5706,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/work/ear_check_20260924/head_sample_gray.png\","
+        },
+        {
+          "line": 5724,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/approved_acceptance.json\","
+        },
+        {
+          "line": 5730,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/approved_assembly.json\","
+        },
+        {
+          "line": 5736,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/archive_plan.json\","
+        },
+        {
+          "line": 5742,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/candidate_assembly.json\","
+        },
+        {
+          "line": 5748,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/hair_before_after.png\","
+        },
+        {
+          "line": 5754,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/original_position.png\","
+        },
+        {
+          "line": 5760,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/original_position_gray.png\","
+        },
+        {
+          "line": 5766,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/registered_position.png\","
+        },
+        {
+          "line": 5772,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/registered_position_gray.png\","
+        },
+        {
+          "line": 5778,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/seam_comparison.jpg\","
+        },
+        {
+          "line": 5784,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/validation.json\","
+        },
+        {
+          "line": 5790,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/final_preview/comparison_face_detail.jpg\","
+        },
+        {
+          "line": 5796,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/final_preview/comparison_original.jpg\","
+        },
+        {
+          "line": 5802,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/final_preview/head_sample.png\","
+        },
+        {
+          "line": 5808,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/final_preview/head_sample_gray.png\","
+        },
+        {
+          "line": 5826,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/work/render_current/head_sample.png\","
+        },
+        {
+          "line": 5832,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/art/head/work/render_current/head_sample_gray.png\","
+        },
+        {
+          "line": 7230,
+          "text": "      \"path\": \"Live2D/model-ren-asagiri/latest_preview/head_sample.png\","
+        },
+        {
+          "line": 10302,
+          "text": "    \"Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/approved_acceptance.json\","
+        },
+        {
+          "line": 10303,
+          "text": "    \"Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/approved_assembly.json\","
+        },
+        {
+          "line": 10304,
+          "text": "    \"Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/archive_plan.json\","
+        },
+        {
+          "line": 10305,
+          "text": "    \"Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/candidate_assembly.json\","
+        },
+        {
+          "line": 10306,
+          "text": "    \"Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/validation.json\","
+        },
+        {
+          "line": 10347,
+          "text": "    \"Live2D/model-ren-asagiri/latest_preview/head_sample.png\","
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\art\\archive\\20260924-old-head-assets\\art\\head_comparison_20260924\\build_head.py",
+      "historical_inventory": false,
+      "hits": [
+        {
+          "line": 41,
+          "text": "crop=(1450,70,2560,1240);head=canvas.crop(crop);head.save(HEAD/'preview/head_sample.png')"
+        },
+        {
+          "line": 44,
+          "text": "bg(head).save(HEAD/'preview/head_sample_gray.png')"
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\art\\head\\acceptance.json",
+      "historical_inventory": false,
+      "hits": [
+        {
+          "line": 81,
+          "text": "    \"head_sample.png\": \"6dc0f5599fbf806cb2642a9f1860b3bb57deef4d6f36b506434e06a88b7dcf11\","
+        },
+        {
+          "line": 82,
+          "text": "    \"head_sample_gray.png\": \"9ca298959fd224741e7c8375b048883178ccb8358cef1fc8fdbfd8f64dd028c4\","
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\art\\head\\README.md",
+      "historical_inventory": false,
+      "hits": [
+        {
+          "line": 22,
+          "text": "検査資料は `work/hair_check_20260924/`。23元PNGは作業中無変更。静止正面の継ぎ目確認であり、角度・まばたき・開口・独立した髪の揺れは未検証。"
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\art\\head\\render.py",
+      "historical_inventory": false,
+      "hits": [
+        {
+          "line": 30,
+          "text": "    head.save(output/'head_sample.png')"
+        },
+        {
+          "line": 31,
+          "text": "    background(head).save(output/'head_sample_gray.png')"
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-ear-cleanup\\README.md",
+      "historical_inventory": false,
+      "hits": [
+        {
+          "line": 8,
+          "text": "- `preview/head_sample.png`：1110×1170の透明背景頭部サンプル。"
+        },
+        {
+          "line": 9,
+          "text": "- `preview/head_sample_gray.png`：背景付き確認画像。"
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-hair-extension-review\\acceptance.json",
+      "historical_inventory": false,
+      "hits": [
+        {
+          "line": 78,
+          "text": "    \"head_sample.png\": \"2e711af42ba045b5384d23c9ff85ebc60339d6e9a4f07e8a21659dd9744e5802\","
+        },
+        {
+          "line": 79,
+          "text": "    \"head_sample_gray.png\": \"72b5d82d89f81a4dd1a98e5e111d9cec3fff4aeec5bbc681d2f5eb1b6f1999ca\","
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-hair-extension-review\\README.md",
+      "historical_inventory": false,
+      "hits": [
+        {
+          "line": 10,
+          "text": "- `preview/head_sample.png`：1110×1170の透明背景頭部サンプル。"
+        },
+        {
+          "line": 11,
+          "text": "- `preview/head_sample_gray.png`：背景付き確認画像。"
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-psd-integration\\acceptance.json",
+      "historical_inventory": false,
+      "hits": [
+        {
+          "line": 81,
+          "text": "    \"head_sample.png\": \"d80867ffc14f1611e90928e73dd51619fc2d8a2600cb47657761cdd2c5a3833c\","
+        },
+        {
+          "line": 82,
+          "text": "    \"head_sample_gray.png\": \"3cea135b5c139823bf7335cf49378dcf904974d0b129f919c65356907bd507eb\","
+        },
+        {
+          "line": 93,
+          "text": "  \"reviewEvidence\": \"work/hair_check_20260924/\","
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\art\\head\\archive\\20260924-before-psd-integration\\README.md",
+      "historical_inventory": false,
+      "hits": [
+        {
+          "line": 22,
+          "text": "検査資料は `work/hair_check_20260924/`。23元PNGは作業中無変更。静止正面の継ぎ目確認であり、角度・まばたき・開口・独立した髪の揺れは未検証。"
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\art\\head\\work\\ear_check_20260924\\check.py",
+      "historical_inventory": false,
+      "hits": [
+        {
+          "line": 23,
+          "text": "crop=tuple(manifest['globalCrop']);head=c.crop(crop);head.save(HERE/'head_sample.png')"
+        },
+        {
+          "line": 26,
+          "text": "bg(head).save(HERE/'head_sample_gray.png')"
+        },
+        {
+          "line": 36,
+          "text": "oldhead=Image.open(HEAD/'preview/head_sample.png').convert('RGBA');tiles=Image.new('RGB',(1120,850),(58,63,67));d=ImageDraw.Draw(tiles)"
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\art\\head\\work\\ear_check_20260924\\register.py",
+      "historical_inventory": false,
+      "hits": [
+        {
+          "line": 15,
+          "text": "for n in ['head_sample.png','head_sample_gray.png','comparison_original.jpg','comparison_face_detail.jpg']:"
+        },
+        {
+          "line": 25,
+          "text": "acceptance={'status':'accepted_front_head_png','label':'頭部前面・完成PNG','date':'2026-09-24','canonicalParts':'parts/','scope':'Front head, neutral open-eye closed-mouth static PNG artwork','approval':{'face':'Boss accepted appearance and requested completion registration','hair':'Boss explicitly accepted','ears':'Boss cleaned outer edges; assistant inspected isolated ears and composite before registration'},'partCount':23,'partHashes':qa['parts'],'earChecks':qa['earChecks'],'validation':{'nativeDime"
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\art\\head\\work\\hair_check_20260924\\approved_acceptance.json",
+      "historical_inventory": false,
+      "hits": [
+        {
+          "line": 81,
+          "text": "    \"head_sample.png\": \"d80867ffc14f1611e90928e73dd51619fc2d8a2600cb47657761cdd2c5a3833c\","
+        },
+        {
+          "line": 82,
+          "text": "    \"head_sample_gray.png\": \"3cea135b5c139823bf7335cf49378dcf904974d0b129f919c65356907bd507eb\""
+        },
+        {
+          "line": 92,
+          "text": "  \"reviewEvidence\": \"work/hair_check_20260924/\","
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\art\\Looking_down\\review\\LANDMARK_REVIEW.md",
+      "historical_inventory": false,
+      "hits": [
+        {
+          "line": 3,
+          "text": "2026-09-25。`Looking_down (1).png` を比較元、`Looking_down (2).png` を正面うなずき、`Looking_down (3).png` を画面左向き＋うなずきの位置参照として確認した。参照画像は**部品位置と相対移動だけ**に使い、現行レンの目の大きさ、輪郭、髪型、線、色、表情は `art/head/preview/head_sample.png` を維持する。元PNG、PSD、Cubismモデルは変更していない。"
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\art\\png_collection_base3_20261001_130414\\duplicates.json",
+      "historical_inventory": true,
+      "hits": [
+        {
+          "line": 1138,
+          "text": "        \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/archive/20260924-before-hair-extension-review/preview/head_sample.png\","
+        },
+        {
+          "line": 1139,
+          "text": "        \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/ear_check_20260924/head_sample.png\""
+        },
+        {
+          "line": 1148,
+          "text": "        \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/archive/20260924-before-hair-extension-review/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 1149,
+          "text": "        \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/ear_check_20260924/head_sample_gray.png\""
+        },
+        {
+          "line": 1158,
+          "text": "        \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/archive/20260924-before-psd-integration/preview/head_sample.png\","
+        },
+        {
+          "line": 1159,
+          "text": "        \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/final_preview/head_sample.png\","
+        },
+        {
+          "line": 1160,
+          "text": "        \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/registered_position.png\","
+        },
+        {
+          "line": 1161,
+          "text": "        \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/render_current/head_sample.png\""
+        },
+        {
+          "line": 1170,
+          "text": "        \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/archive/20260924-before-psd-integration/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 1171,
+          "text": "        \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/final_preview/head_sample_gray.png\","
+        },
+        {
+          "line": 1172,
+          "text": "        \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/registered_position_gray.png\","
+        },
+        {
+          "line": 1173,
+          "text": "        \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/render_current/head_sample_gray.png\""
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\art\\png_collection_base3_20261001_130414\\inventory.json",
+      "historical_inventory": true,
+      "hits": [
+        {
+          "line": 19443,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/archive/20260924-before-ear-cleanup/preview/head_sample.png\","
+        },
+        {
+          "line": 19444,
+          "text": "      \"art_relative_path\": \"head/archive/20260924-before-ear-cleanup/preview/head_sample.png\","
+        },
+        {
+          "line": 19475,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/archive/20260924-before-ear-cleanup/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 19476,
+          "text": "      \"art_relative_path\": \"head/archive/20260924-before-ear-cleanup/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 19572,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/archive/20260924-before-hair-extension-review/preview/head_sample.png\","
+        },
+        {
+          "line": 19573,
+          "text": "      \"art_relative_path\": \"head/archive/20260924-before-hair-extension-review/preview/head_sample.png\","
+        },
+        {
+          "line": 19604,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/archive/20260924-before-hair-extension-review/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 19605,
+          "text": "      \"art_relative_path\": \"head/archive/20260924-before-hair-extension-review/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 19637,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/archive/20260924-before-psd-integration/preview/head_sample.png\","
+        },
+        {
+          "line": 19638,
+          "text": "      \"art_relative_path\": \"head/archive/20260924-before-psd-integration/preview/head_sample.png\","
+        },
+        {
+          "line": 19669,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/archive/20260924-before-psd-integration/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 19670,
+          "text": "      \"art_relative_path\": \"head/archive/20260924-before-psd-integration/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 21084,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/preview/head_sample.png\","
+        },
+        {
+          "line": 21085,
+          "text": "      \"art_relative_path\": \"head/preview/head_sample.png\","
+        },
+        {
+          "line": 21116,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 21117,
+          "text": "      \"art_relative_path\": \"head/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 21277,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/ear_check_20260924/head_sample.png\","
+        },
+        {
+          "line": 21278,
+          "text": "      \"art_relative_path\": \"head/work/ear_check_20260924/head_sample.png\","
+        },
+        {
+          "line": 21309,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/ear_check_20260924/head_sample_gray.png\","
+        },
+        {
+          "line": 21310,
+          "text": "      \"art_relative_path\": \"head/work/ear_check_20260924/head_sample_gray.png\","
+        },
+        {
+          "line": 21342,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/final_preview/head_sample.png\","
+        },
+        {
+          "line": 21343,
+          "text": "      \"art_relative_path\": \"head/work/hair_check_20260924/final_preview/head_sample.png\","
+        },
+        {
+          "line": 21374,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/final_preview/head_sample_gray.png\","
+        },
+        {
+          "line": 21375,
+          "text": "      \"art_relative_path\": \"head/work/hair_check_20260924/final_preview/head_sample_gray.png\","
+        },
+        {
+          "line": 21407,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/hair_before_after.png\","
+        },
+        {
+          "line": 21408,
+          "text": "      \"art_relative_path\": \"head/work/hair_check_20260924/hair_before_after.png\","
+        },
+        {
+          "line": 21440,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/original_position.png\","
+        },
+        {
+          "line": 21441,
+          "text": "      \"art_relative_path\": \"head/work/hair_check_20260924/original_position.png\","
+        },
+        {
+          "line": 21472,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/original_position_gray.png\","
+        },
+        {
+          "line": 21473,
+          "text": "      \"art_relative_path\": \"head/work/hair_check_20260924/original_position_gray.png\","
+        },
+        {
+          "line": 21505,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/registered_position.png\","
+        },
+        {
+          "line": 21506,
+          "text": "      \"art_relative_path\": \"head/work/hair_check_20260924/registered_position.png\","
+        },
+        {
+          "line": 21537,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/registered_position_gray.png\","
+        },
+        {
+          "line": 21538,
+          "text": "      \"art_relative_path\": \"head/work/hair_check_20260924/registered_position_gray.png\","
+        },
+        {
+          "line": 21570,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/render_current/head_sample.png\","
+        },
+        {
+          "line": 21571,
+          "text": "      \"art_relative_path\": \"head/work/render_current/head_sample.png\","
+        },
+        {
+          "line": 21602,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/render_current/head_sample_gray.png\","
+        },
+        {
+          "line": 21603,
+          "text": "      \"art_relative_path\": \"head/work/render_current/head_sample_gray.png\","
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\art\\png_collection_base3_20261001_130414\\review.json",
+      "historical_inventory": true,
+      "hits": [
+        {
+          "line": 525,
+          "text": "    \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/archive/20260924-before-ear-cleanup/preview/head_sample.png\","
+        },
+        {
+          "line": 526,
+          "text": "    \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/archive/20260924-before-ear-cleanup/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 529,
+          "text": "    \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/archive/20260924-before-hair-extension-review/preview/head_sample.png\","
+        },
+        {
+          "line": 530,
+          "text": "    \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/archive/20260924-before-hair-extension-review/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 531,
+          "text": "    \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/archive/20260924-before-psd-integration/preview/head_sample.png\","
+        },
+        {
+          "line": 532,
+          "text": "    \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/archive/20260924-before-psd-integration/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 542,
+          "text": "    \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/preview/head_sample.png\","
+        },
+        {
+          "line": 543,
+          "text": "    \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 548,
+          "text": "    \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/ear_check_20260924/head_sample.png\","
+        },
+        {
+          "line": 549,
+          "text": "    \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/ear_check_20260924/head_sample_gray.png\","
+        },
+        {
+          "line": 550,
+          "text": "    \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/final_preview/head_sample.png\","
+        },
+        {
+          "line": 551,
+          "text": "    \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/final_preview/head_sample_gray.png\","
+        },
+        {
+          "line": 552,
+          "text": "    \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/hair_before_after.png\","
+        },
+        {
+          "line": 553,
+          "text": "    \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/original_position.png\","
+        },
+        {
+          "line": 554,
+          "text": "    \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/original_position_gray.png\","
+        },
+        {
+          "line": 555,
+          "text": "    \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/registered_position.png\","
+        },
+        {
+          "line": 556,
+          "text": "    \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/registered_position_gray.png\","
+        },
+        {
+          "line": 557,
+          "text": "    \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/render_current/head_sample.png\","
+        },
+        {
+          "line": 558,
+          "text": "    \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/render_current/head_sample_gray.png\","
+        },
+        {
+          "line": 1200,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/archive/20260924-before-ear-cleanup/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 1207,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/archive/20260924-before-hair-extension-review/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 1214,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/archive/20260924-before-psd-integration/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 1221,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/preview/head_sample_gray.png\","
+        },
+        {
+          "line": 1228,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/ear_check_20260924/head_sample_gray.png\","
+        },
+        {
+          "line": 1235,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/final_preview/head_sample_gray.png\","
+        },
+        {
+          "line": 1242,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/hair_before_after.png\","
+        },
+        {
+          "line": 1249,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/original_position_gray.png\","
+        },
+        {
+          "line": 1256,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/hair_check_20260924/registered_position_gray.png\","
+        },
+        {
+          "line": 1263,
+          "text": "      \"source_path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/work/render_current/head_sample_gray.png\","
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\art\\side_view_review\\REVIEW.md",
+      "historical_inventory": false,
+      "hits": [
+        {
+          "line": 5,
+          "text": "比較に使った現行正面は `art/head/preview/head_sample.png`（1110×1170）と `art_assets/ren-stand-pony-front-4000x6000.png` および `art/head/reference/ren-stand-pony-front-4000x6000.png`。補助参照として `art/full_body_side_view/close-up-face/close-up-face-{1,2,3}.png`、`anime-boy/anime-boy-{1,2}.png`、`short-dark-blue-hair/short-dark-blue-hair-{1,2}.png` を画面表示して見た。横顔と正面の画素単位の位置合わせ・色差計算、Cubismでの変形・重ね順・遷移試験はしていない。"
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\model\\head_angles\\reference_fit_inputs.json",
+      "historical_inventory": false,
+      "hits": [
+        {
+          "line": 117,
+          "text": "      \"path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/preview/head_sample.png\","
+        },
+        {
+          "line": 121,
+          "text": "      \"path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/preview/head_sample_gray.png\","
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\model\\head_angles\\verification.json",
+      "historical_inventory": false,
+      "hits": [
+        {
+          "line": 633,
+          "text": "      \"path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/preview/head_sample.png\","
+        },
+        {
+          "line": 637,
+          "text": "      \"path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/preview/head_sample_gray.png\","
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\model\\head_angles\\archive\\before_contour_direction_20260925\\verification.json",
+      "historical_inventory": false,
+      "hits": [
+        {
+          "line": 633,
+          "text": "      \"path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/preview/head_sample.png\","
+        },
+        {
+          "line": 637,
+          "text": "      \"path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/preview/head_sample_gray.png\","
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\model\\head_angles\\archive\\before_oblique_contour_20260925\\verification.json",
+      "historical_inventory": false,
+      "hits": [
+        {
+          "line": 633,
+          "text": "      \"path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/preview/head_sample.png\","
+        },
+        {
+          "line": 637,
+          "text": "      \"path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/preview/head_sample_gray.png\","
+        }
+      ]
+    },
+    {
+      "file": "Live2D\\model-ren-asagiri\\model\\head_angles\\archive\\before_tilted_reference_20260926\\verification.json",
+      "historical_inventory": false,
+      "hits": [
+        {
+          "line": 633,
+          "text": "      \"path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/preview/head_sample.png\","
+        },
+        {
+          "line": 637,
+          "text": "      \"path\": \"C:/Python/REX_AI/Youtube_Project/Live2D/model-ren-asagiri/art/head/preview/head_sample_gray.png\","
+        }
+      ]
+    }
+  ],
+  "decision": "BLOCKED: baseline.json is consumed by current verify_cleanup.py, which checks original paths. No move or original-document edits.",
+  "scope": "Repository text/code excluding .git, pylib, node_modules, __pycache__; files <=4MB; literals and target directory names",
+  "visual_review": "All 53 selected images viewed in five contact sheets. Source labels, expression/angle conditions and distinct historical model stages retained. No new quality acceptance."
+}

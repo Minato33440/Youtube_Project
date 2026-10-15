@@ -1,0 +1,145 @@
+{
+  "checked_at": "2026-09-26T17:11:31.101129+09:00",
+  "status": "actual_model_retraced_contour_review_pending",
+  "request": "Retrace endpoint face-underfill to Looking_down (2)-outline.png. No eyes/hair/ear animation adjustment until contour accepted.",
+  "model_geometry_changed": true,
+  "saved_model_changed": true,
+  "runtime_changed": true,
+  "edited_artmesh": "face_underfill",
+  "edited_endpoint": {
+    "ParamAngleX": -30,
+    "ParamAngleY": -30
+  },
+  "topology_changed_this_continuation": false,
+  "gui_state": "Saved at X=0/Y=0, actual parts visible, reference layers hidden; no close/reopen test this continuation.",
+  "recovery_history": "User restored/maximized Cubism after monitor-crop capture error; fresh capture succeeded and editing resumed.",
+  "backup": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\archive\\before_whole_head_outline_20260926",
+  "backup_creation_checks": [
+    {
+      "file": "face_runtime\\Ren_face_endpoint.2048\\texture_00.png",
+      "before_sha256": "846be881fc3ee75bd68c6b7af572e83674e7b740acb2146367238d8b57700c32",
+      "current_sha256": "846be881fc3ee75bd68c6b7af572e83674e7b740acb2146367238d8b57700c32",
+      "equal": true
+    },
+    {
+      "file": "face_runtime\\Ren_face_endpoint.cdi3.json",
+      "before_sha256": "1a955f667889e826e5917b8cb21e248d5331c51c2327a127b579318151708657",
+      "current_sha256": "1a955f667889e826e5917b8cb21e248d5331c51c2327a127b579318151708657",
+      "equal": true
+    },
+    {
+      "file": "face_runtime\\Ren_face_endpoint.moc3",
+      "before_sha256": "c9bbb6c84fd8575535182f80bfa7145e00129d244822bcfe503bc3f23b8bf527",
+      "current_sha256": "c9bbb6c84fd8575535182f80bfa7145e00129d244822bcfe503bc3f23b8bf527",
+      "equal": true
+    },
+    {
+      "file": "face_runtime\\Ren_face_endpoint.model3.json",
+      "before_sha256": "2cd7bf61b8a91a8f5771f9a350697c9574bafa8231b11d992deae54722f1c968",
+      "current_sha256": "2cd7bf61b8a91a8f5771f9a350697c9574bafa8231b11d992deae54722f1c968",
+      "equal": true
+    },
+    {
+      "file": "face_runtime\\Ren_face_endpoint.physics3.json",
+      "before_sha256": "0d91c3647cce05513d27ee5c20c12c25e838a67a7255263ca6bb25d1a6b84df9",
+      "current_sha256": "0d91c3647cce05513d27ee5c20c12c25e838a67a7255263ca6bb25d1a6b84df9",
+      "equal": true
+    },
+    {
+      "file": "README.md",
+      "before_sha256": "201f3daa1f7668ad32998ee72c756088c7208b2dbe4d2e285e6f7a7b36177898",
+      "current_sha256": "201f3daa1f7668ad32998ee72c756088c7208b2dbe4d2e285e6f7a7b36177898",
+      "equal": true
+    },
+    {
+      "file": "Ren_face_endpoint.cmo3",
+      "before_sha256": "f6d57737c12a22765bf22f2f352376f037854d5d97831e3d71332294fe27f360",
+      "current_sha256": "f6d57737c12a22765bf22f2f352376f037854d5d97831e3d71332294fe27f360",
+      "equal": true
+    },
+    {
+      "file": "runtime\\Ren_face_endpoint.2048\\texture_00.png",
+      "before_sha256": "846be881fc3ee75bd68c6b7af572e83674e7b740acb2146367238d8b57700c32",
+      "current_sha256": "846be881fc3ee75bd68c6b7af572e83674e7b740acb2146367238d8b57700c32",
+      "equal": true
+    },
+    {
+      "file": "runtime\\Ren_face_endpoint.cdi3.json",
+      "before_sha256": "1a955f667889e826e5917b8cb21e248d5331c51c2327a127b579318151708657",
+      "current_sha256": "1a955f667889e826e5917b8cb21e248d5331c51c2327a127b579318151708657",
+      "equal": true
+    },
+    {
+      "file": "runtime\\Ren_face_endpoint.moc3",
+      "before_sha256": "50c1332b7c9d404836e3f115c3a90557c64dc9c1591aa52931ce8a66092861e3",
+      "current_sha256": "50c1332b7c9d404836e3f115c3a90557c64dc9c1591aa52931ce8a66092861e3",
+      "equal": true
+    },
+    {
+      "file": "runtime\\Ren_face_endpoint.model3.json",
+      "before_sha256": "2cd7bf61b8a91a8f5771f9a350697c9574bafa8231b11d992deae54722f1c968",
+      "current_sha256": "2cd7bf61b8a91a8f5771f9a350697c9574bafa8231b11d992deae54722f1c968",
+      "equal": true
+    },
+    {
+      "file": "runtime\\Ren_face_endpoint.physics3.json",
+      "before_sha256": "0d91c3647cce05513d27ee5c20c12c25e838a67a7255263ca6bb25d1a6b84df9",
+      "current_sha256": "0d91c3647cce05513d27ee5c20c12c25e838a67a7255263ca6bb25d1a6b84df9",
+      "equal": true
+    },
+    {
+      "file": "test_report.md",
+      "before_sha256": "5afa2d6eea6ab417fa5b2d9029a26fb26edc26ce37b497748483d547fd67c8a2",
+      "current_sha256": "5afa2d6eea6ab417fa5b2d9029a26fb26edc26ce37b497748483d547fd67c8a2",
+      "equal": true
+    },
+    {
+      "file": "verification.json",
+      "before_sha256": "e04e39fe16839e4ea50deb2900ce15820c13c957eaf478282470576ebb50db50",
+      "current_sha256": "e04e39fe16839e4ea50deb2900ce15820c13c957eaf478282470576ebb50db50",
+      "equal": true
+    }
+  ],
+  "saved_cmo3": {
+    "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\Ren_face_endpoint.cmo3",
+    "bytes": 13540527,
+    "sha256": "c0129317f65bb389d6a9a229f35a6ccb7f881072d38df07c053433f9f8a3a41c"
+  },
+  "runtime_provenance": {
+    "face": {
+      "model3": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\face_runtime\\Ren_face_endpoint.model3.json",
+      "moc3_sha256": "f0f090c96065d8e1f3bedc2323f7bf61e8ef6fcd9903492219c007fa9edeeb3b"
+    },
+    "old_face": {
+      "model3": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\archive\\before_whole_head_outline_20260926\\face_runtime\\Ren_face_endpoint.model3.json",
+      "moc3_sha256": "c9bbb6c84fd8575535182f80bfa7145e00129d244822bcfe503bc3f23b8bf527"
+    },
+    "full": {
+      "model3": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\runtime\\Ren_face_endpoint.model3.json",
+      "moc3_sha256": "30afa31da02fcc0d3733d4fa710b3a30bc7c4bad7589257c9f1649b806834601"
+    },
+    "baseline": {
+      "model3": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\archive\\before_whole_head_outline_20260926\\runtime\\Ren_face_endpoint.model3.json",
+      "moc3_sha256": "50c1332b7c9d404836e3f115c3a90557c64dc9c1591aa52931ce8a66092861e3"
+    }
+  },
+  "measurement_report": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\whole_head_outline_check\\whole_head_runtime_measurement.json",
+  "comparison": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\whole_head_outline_check\\whole_head_runtime_guide_4up.png",
+  "pose_report": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\whole_head_pose_check\\whole_head_pose_checks.json",
+  "pose_validator_run": true,
+  "frontal_face_states": 15,
+  "frontal_full_states": 8,
+  "frontal_display_max": 0,
+  "face_pose_cases": 32,
+  "remaining": [
+    "Small cheek kinks and translucent edge fragments; alpha16 up to seven split rows at endpoint, alpha64 one split row at X=-15/Y=-30.",
+    "No numerical triangle inversion audit; public wrapper lacks vertex/index buffers.",
+    "Hair-hidden scalp is inferred; ear outer contours excluded.",
+    "Boss contour acceptance pending; no other-part placement, mirrored endpoint expansion, or new continuous/physics validation."
+  ],
+  "git": {
+    "branch": "main",
+    "head": "f9e9fbdf8f5b21123965b93c2d6ff0028b49eee9",
+    "stage_commit_push": false
+  }
+}

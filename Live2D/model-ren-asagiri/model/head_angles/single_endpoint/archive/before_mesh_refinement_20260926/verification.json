@@ -1,0 +1,52 @@
+{
+  "checked_at": "2026-09-26T11:49:17.821762+09:00",
+  "scope": "Steps 1-3; face-underfill at X=-30/Y=-30 only. Static measurements are not artistic acceptance.",
+  "checks": {
+    "baseline_cmo3_unchanged": true,
+    "rejected_cmo3_unchanged": true,
+    "reference_art_unchanged": true,
+    "saved_candidate_matches_regression": true,
+    "full_moc_matches_regression": true,
+    "face_moc_matches_static_sample": true,
+    "texture_atlas_unchanged": true,
+    "unedited_static_states_unchanged": true,
+    "edited_endpoint_body_unchanged": true,
+    "actual_drawable_count_preserved": true
+  },
+  "technical_preservation_pass": true,
+  "contour_distance_full_canvas_px": {
+    "min": 0.484,
+    "median": 5.384,
+    "max": 19.02,
+    "mean": 6.018
+  },
+  "ui_observation": "Saved candidate closed and reopened in Cubism 5.3.04 FREE; full model visible at neutral, guide folder hidden. File hash unchanged by reopen.",
+  "artistic_status": "awaiting_Boss_static_contour_review",
+  "remaining": [
+    "Smooth residual cheek corners and left upper contour if requested",
+    "Step 4: place eyes/mouth/ears/hair",
+    "Step 5: intermediate animation and targeted artwork additions if needed"
+  ],
+  "artifacts": {
+    "Ren_face_endpoint.cmo3": {
+      "bytes": 11182983,
+      "sha256": "0869f8d9ab135174cc5f2af59d5fef188aa30e7cbdeb5a8ebadefafedb7dbe28"
+    },
+    "preview\\single_endpoint_contour_review.png": {
+      "bytes": 287812,
+      "sha256": "68fdc14f8929e2a294601e4770d0a04bc1c50713cd0064a4f81d9b3a7c5183fe"
+    },
+    "guide\\looking_down_2_contour_guide_4000x6000.psd": {
+      "bytes": 3395840,
+      "sha256": "61867fd7b0ba1453c80b76050bcdba511a7d357445a9601590de524fb7d6646f"
+    },
+    "runtime\\Ren_face_endpoint.moc3": {
+      "bytes": 119168,
+      "sha256": "2e6ad65bf4541487f51f834804ca21af7a23406a9e389265029eab92f129610c"
+    },
+    "face_runtime\\Ren_face_endpoint.moc3": {
+      "bytes": 37312,
+      "sha256": "c5d9f0fdf30a99a4d00e148e1573d4da478db5c00cd6bb9cb6c57c00d24b60b1"
+    }
+  }
+}

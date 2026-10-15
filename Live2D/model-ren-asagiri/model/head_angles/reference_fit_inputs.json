@@ -1,0 +1,169 @@
+{
+  "baseline_cmo3_sha256": "0f108fe11253da8dee00394c42171c12bb4150d3cd580248eabf883b4d73a28a",
+  "source_parts": [
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (1).png",
+      "sha256": "90e93e20cd9f6d24bb03add57128efc6644e198fde7fd71dd451102a0a6c84cf"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (2).png",
+      "sha256": "9467b49181bfcd98ca7fcef67c8f8d2072b09d7cc56cc36e862c66e43d2c44dc"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (3).png",
+      "sha256": "534d1b1ba6e0ad8991757f9cd186c992ce5ad9a5652eced20203e996a23dd7ad"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\editor_data\\facial_feature.png",
+      "sha256": "6dbc3116a8db2ecd610a1e4709399a3a65ec488d0d45a0604f471f2dca2d6cc7"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\editor_data\\ren-stand-pony-front-4000x6000.png",
+      "sha256": "edf3b0317f981568b29f04fc1dbaeebae416b164741c2dee2499d0a6116a4817"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_eyelash_upper_L.png",
+      "sha256": "b4bd49d59cfe282575c43642e55d48cc7aaa0989f02b6702dc233511ced2cfce"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_eyelash_upper_R.png",
+      "sha256": "b52302092619ee9660571cc9ea59b5324df5e6de4f115e9e5172f6f19b50b1e5"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_iris_L_blue.png",
+      "sha256": "f232f20d44def5e10c06f6957c50e74be99f0aae909b04c4b5b97ec180f9bc05"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ALT_iris_R_brown.png",
+      "sha256": "1912823fb0bc5d6b2994ec975e1cae61fb1d4ad53905d8d0d9adcfae03b96601"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\brow_L.png",
+      "sha256": "1d259eb00870a694a6ddba562e9821babc5bf5dcec19c68b0a1f59ecf4d34dfb"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\brow_R.png",
+      "sha256": "c84aa7bb7869b5bf633d1212296e52795d078f1b48eb856e85f6daf108c9cc74"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ear_L.png",
+      "sha256": "2cb6db3af49979627445d582b6af3dc2a6a1a1c17bb0b98270f1091c5222f89b"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\ear_R.png",
+      "sha256": "ad1332f78fa8f76aa4b88026453c9928674eb2e30881f896d574c49e8ade77cf"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\face_underfill.png",
+      "sha256": "27ddeb8dec0d6101e9ce05314406e7d8c6bafdaaa2bf0f840189b5e0da54e938"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\FILL_eye_white_L.png",
+      "sha256": "27bde4022ec8e975fb8651545af27c34822fe6121815522ae7d0b6972b7b8a35"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\FILL_eye_white_R.png",
+      "sha256": "0b6e3077fb2c2e0d93fa40a988bcced3e66b6949cd9849aaf4a032210ac87a7c"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_ahoge.png",
+      "sha256": "cf303c03f5fb86555d0d3f87cad1f5bc117dbc13416b1d69fbc784633399a582"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_back.png",
+      "sha256": "c3a36f296372a2fa0a2d94beca33395a6f0151df3e2cb0ce543ed470eda7921f"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_front_C.png",
+      "sha256": "8d0f2ea1ec564881d2b2416a5b80e17e490cee4a209b9d051087bfdb5f74940f"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_front_L.png",
+      "sha256": "9021d9fc6e1bc695209ce0afbea32ebae8901641763a89c27ab6ce9ca3986f94"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_front_R.png",
+      "sha256": "459f9b5cf6a813b90f74767c02f77b1e3bfce3586aaacc1d4df9bd3c9aae2cab"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_side_L.png",
+      "sha256": "2c9c9eb42c89f0fea44ba7b5ab01900ebfa1fccd0886630b9d6903cdb53988d3"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\hair_side_R.png",
+      "sha256": "b79cd49430cb7cf4ab8fe9246cf3e1cf95af726a32bad0ab7916f7326e064493"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\lower_eyelid_left.png",
+      "sha256": "11046d47e00e1b5930ab23d312dfda4b047ae61e3d548a59f5e4a0587ad24fe5"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\lower_eyelid_right.png",
+      "sha256": "ffb3942db69111672964c0426051198a3cf6865f7d2fd31bf9b4b3077c064e92"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\mouth_closed.png",
+      "sha256": "5f0b8bc2594a58b935f2b4929e1c20e72a5ad35e649bc906d6d827ee73f10ca6"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\upper_crease_L.png",
+      "sha256": "bd9d9b116d0a6346dca7485f5dbae57178a469274fc75d5009a0f71d0fbf0155"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\parts\\upper_crease_R.png",
+      "sha256": "b21b6161eadda172aae5911b7ef47d7a8b40b590907458517b2d8e657cee9390"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\preview\\head_sample.png",
+      "sha256": "6dc0f5599fbf806cb2642a9f1860b3bb57deef4d6f36b506434e06a88b7dcf11"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\preview\\head_sample_gray.png",
+      "sha256": "9ca298959fd224741e7c8375b048883178ccb8358cef1fc8fdbfd8f64dd028c4"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\reference\\facial_feature.png",
+      "sha256": "01dfe6507a95db1541790c0c3a4c81248803125a98afc6c932df6df0864b2361"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\reference\\ren-stand-pony-front-4000x6000.png",
+      "sha256": "edf3b0317f981568b29f04fc1dbaeebae416b164741c2dee2499d0a6116a4817"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\reference\\ear_surface\\ear_L_surface.png",
+      "sha256": "4e4dc7002775ecdfe4d4c9aa9e5268d0a7eb3596fa1fcabc6db48c93616618e2"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\reference\\ear_surface\\ear_R_surface.png",
+      "sha256": "772c55f7343ba69a4e38182f59af875e968f2885814b85660109e43b8b5c06d7"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\blink\\eyelash_upper_L_original.png",
+      "sha256": "eba35c6c2ae813a25d63b795879a37762fa50daa819a44b45b74ab2ea41b49ed"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\blink\\eyelash_upper_R_original.png",
+      "sha256": "32c03f01ee185b03434043db23cf123aa10712335c8503e053e2098437fdf745"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_cavity.png",
+      "sha256": "f845f65ad41dd5049443fae32627404b4d0aa3bc3e5af70c761ee9d1ecaa35e2"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_rim_lower.png",
+      "sha256": "78033b9291e3a7120f88cd525d3977c771ddfdf2d4910018c8d4866657bb1b29"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_rim_upper.png",
+      "sha256": "5fdd579737481dc78d5a2bbcd73ab8ec028f8300c63e472b8a0d003dc8571691"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_teeth_upper.png",
+      "sha256": "5c92a79e2992bf346f0ac3ba49cd07021d778e383806c30dcf3732e16d0d6406"
+    },
+    {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\head\\expression_sources\\mouth\\mouth_tongue.png",
+      "sha256": "aaff8d6a86d6093e5b274016f49d2daa4290100ee50dd6aeab094ff1b6fd277a"
+    }
+  ]
+}

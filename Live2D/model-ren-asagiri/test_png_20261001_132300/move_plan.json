@@ -1,0 +1,30 @@
+[
+  {
+    "original": "art/head/work/hair_check_20260924/final_preview/head_sample.png",
+    "archive": "archive/deletion_candidates/art/head/work/hair_check_20260924/final_preview/head_sample.png",
+    "sha256": "d80867ffc14f1611e90928e73dd51619fc2d8a2600cb47657761cdd2c5a3833c",
+    "bytes": 708097,
+    "replacement_original": "art/head/work/hair_check_20260924/registered_position.png",
+    "replacement_copy": "selected/01_static_assembly/hair_seam_pre_PSD_registered_position_2026-09-24.png",
+    "reason": "Same 2026-09-24 pre-PSD hair-seam test; final_preview duplicates registered_position byte-for-byte; accepted historical stage and separate new PSD-stage outputs retained",
+    "git_index_entry": null,
+    "git_status": "untracked_or_ignored",
+    "state": "blocked_current_verifier_dependency",
+    "blocking_reference": "Live2D/maintenance/20260928_asset_cleanup/verify_cleanup.py:25-38 and Live2D/archive/20260928-generated-previews/baseline.json",
+    "decision": "Deletion candidate only; source stays in place; no archive move performed"
+  },
+  {
+    "original": "art/head/work/hair_check_20260924/final_preview/head_sample_gray.png",
+    "archive": "archive/deletion_candidates/art/head/work/hair_check_20260924/final_preview/head_sample_gray.png",
+    "sha256": "3cea135b5c139823bf7335cf49378dcf904974d0b129f919c65356907bd507eb",
+    "bytes": 611096,
+    "replacement_original": "art/head/work/hair_check_20260924/registered_position_gray.png",
+    "replacement_copy": "selected/01_static_assembly/hair_seam_pre_PSD_registered_position_gray_2026-09-24.png",
+    "reason": "Same 2026-09-24 pre-PSD hair-seam test; final_preview duplicates registered_position byte-for-byte; accepted historical stage and separate new PSD-stage outputs retained",
+    "git_index_entry": null,
+    "git_status": "untracked_or_ignored",
+    "state": "blocked_current_verifier_dependency",
+    "blocking_reference": "Live2D/maintenance/20260928_asset_cleanup/verify_cleanup.py:25-38 and Live2D/archive/20260928-generated-previews/baseline.json",
+    "decision": "Deletion candidate only; source stays in place; no archive move performed"
+  }
+]

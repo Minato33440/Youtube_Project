@@ -1,0 +1,39 @@
+{
+  "status": "pass",
+  "psd": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\reference_overlay\\oblique_nod_reference_overlay.psd",
+  "sha256": "382233bd1bd48cbe09ac2324ff7a4833333cf03c7b9fca0f90a5d17ffc44baaa",
+  "canvas": [
+    4000,
+    6000
+  ],
+  "colorMode": 3,
+  "bitsPerChannel": 8,
+  "layers": [
+    {
+      "name": "reference_left",
+      "left": 1405,
+      "top": 161,
+      "opacity": 0.45098039215686275,
+      "dimensions": [
+        1236,
+        1296
+      ]
+    },
+    {
+      "name": "reference_right__MIRRORED_GEOMETRY_GUIDE_NOT_FINAL_ART",
+      "left": 1359,
+      "top": 161,
+      "opacity": 0.45098039215686275,
+      "dimensions": [
+        1236,
+        1296
+      ]
+    }
+  ],
+  "checks": {
+    "canvas": true,
+    "layerCount": true,
+    "namesPositionsOpacityDimensionsAndRgba": true
+  },
+  "problems": []
+}

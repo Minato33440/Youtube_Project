@@ -1,0 +1,67 @@
+{
+  "purpose": "Dense visible-contour reference for Cubism mesh adjustment. Hide every guide/reference layer before export.",
+  "source": {
+    "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (2).png",
+    "sha256": "9467b49181bfcd98ca7fcef67c8f8d2072b09d7cc56cc36e862c66e43d2c44dc",
+    "orientation": "unrotated supplied source"
+  },
+  "canvas": [
+    4000,
+    6000
+  ],
+  "transform": {
+    "full_canvas_scale": 1.2904500571168767,
+    "full_canvas_offset": [
+      1404.826424299698,
+      161.11685212010656
+    ],
+    "operation": "uniform scale and translation only"
+  },
+  "classification": {
+    "visible_observed": "Cyan controls trace the visible outer skin edge / thin brown face-to-neck line.",
+    "inferred_hair_occluded": "Amber sections connect toward ears under hair. They are intentionally excluded from numerical contour evaluation and are not precision art targets."
+  },
+  "layers": [
+    {
+      "name": "GUIDE__DENSE_VISIBLE_FACE_CONTOUR__CYAN__4PX",
+      "left": 1704,
+      "top": 913,
+      "opacity": 1,
+      "dimensions": [
+        430,
+        214
+      ]
+    },
+    {
+      "name": "GUIDE__DENSE_INFERRED_HAIR_OCCLUDED__AMBER_DASHED__4PX",
+      "left": 1696,
+      "top": 836,
+      "opacity": 1,
+      "dimensions": [
+        537,
+        158
+      ]
+    },
+    {
+      "name": "GUIDE__LANDMARK_CROSSHAIRS__MAGENTA",
+      "left": 1562,
+      "top": 778,
+      "opacity": 1,
+      "dimensions": [
+        706,
+        353
+      ]
+    },
+    {
+      "name": "REFERENCE__SOURCE_UNROTATED__25PCT__HIDE_BEFORE_EXPORT",
+      "left": 1405,
+      "top": 161,
+      "opacity": 0.25,
+      "dimensions": [
+        1236,
+        1296
+      ]
+    }
+  ],
+  "psd_sha256": "d6fcd1491f870a763651064dcaa7786caf8da22f78fa0f86a71960207faede8e"
+}

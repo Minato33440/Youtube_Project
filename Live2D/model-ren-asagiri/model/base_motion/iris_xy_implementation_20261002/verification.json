@@ -1,0 +1,190 @@
+{
+  "checked_at_utc": "2026-10-02T06:28:18.834627+00:00",
+  "scope": "Read-only saved CMO3 structure; Editor visual results documented separately. No runtime test.",
+  "before": {
+    "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\base_motion\\Ren_base5.cmo3",
+    "bytes": 7393532,
+    "sha256": "375c7c2e85d871c2c36648e9f884f3f5ebd73e775f78e239e6dee43c055d148c"
+  },
+  "after": {
+    "file": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\base_motion\\Ren_base6.cmo3",
+    "bytes": 7401473,
+    "sha256": "3b1a458f976d22c9d4829d89af2fb7222ca478372d19af3fa9980968fa0e6f5b"
+  },
+  "counts": {
+    "meshes": 48,
+    "deformers_before": 22,
+    "deformers_after": 26,
+    "parameters": 28,
+    "key_grid_entries": 536
+  },
+  "checks": {
+    "source_base5_matches_backup": true,
+    "source_base5_matches_baseline_hash": true,
+    "all_parameter_definitions_unchanged": true,
+    "all_48_meshes_retained": true,
+    "only_four_expected_deformers_added": true,
+    "editable_meshes_and_triangles_unchanged": true,
+    "all_images_and_placement_unchanged": true,
+    "all_existing_visibility_unchanged": true,
+    "all_original_deformers_unchanged": true,
+    "only_iris_parent_and_local_coordinates_changed": true,
+    "physics_unchanged": true,
+    "atlas_count_unchanged": true,
+    "existing_iris_open_keys_opacities_clips_preserved": true,
+    "all_new_xy_deformers_valid": true,
+    "all_object_key_grids_complete_unique_resolved": true,
+    "files_unchanged_during_read": true
+  },
+  "all_static_checks_pass": true,
+  "existing_object_changes": {
+    "ALT_iris_L_blue": [
+      "parent",
+      "forms"
+    ],
+    "ALT_iris_R_brown": [
+      "parent",
+      "forms"
+    ]
+  },
+  "iris_checks": {
+    "ALT_iris_L_blue": {
+      "parent_is_y": true,
+      "open_binding_unchanged": true,
+      "key_grid_unchanged": true,
+      "clips_unchanged": true,
+      "opacities_unchanged": true
+    },
+    "ALT_iris_R_brown": {
+      "parent_is_y": true,
+      "open_binding_unchanged": true,
+      "key_grid_unchanged": true,
+      "clips_unchanged": true,
+      "opacities_unchanged": true
+    }
+  },
+  "new_deformers": {
+    "Iris_L_X": {
+      "parameter": "ParamEyeBallX",
+      "id": "Warp21",
+      "parent": "Left_Eye",
+      "correct_parent": true,
+      "correct_three_key_binding": true,
+      "three_distinct_forms": true,
+      "full_opacity": true,
+      "bbox_by_key": {
+        "-1": [
+          -0.11683488,
+          -0.3002422,
+          0.59195673,
+          1.4368978
+        ],
+        "0": [
+          0.004012935,
+          -0.29988682,
+          0.712785,
+          1.437245
+        ],
+        "1": [
+          0.12485385,
+          -0.29953766,
+          0.8336361,
+          1.4376005
+        ]
+      },
+      "correct_axis_direction": true
+    },
+    "Iris_L_Y": {
+      "parameter": "ParamEyeBallY",
+      "id": "Warp20",
+      "parent": "Iris_L_X",
+      "correct_parent": true,
+      "correct_three_key_binding": true,
+      "three_distinct_forms": true,
+      "full_opacity": true,
+      "bbox_by_key": {
+        "-1": [
+          0.045948297,
+          0.19098893,
+          0.9545444,
+          0.9545453
+        ],
+        "0": [
+          0.045701634,
+          0.11822214,
+          0.9543108,
+          0.8817784
+        ],
+        "1": [
+          0.045454867,
+          0.045453873,
+          0.95407706,
+          0.80901015
+        ]
+      },
+      "correct_axis_direction": true
+    },
+    "Iris_R_X": {
+      "parameter": "ParamEyeBallX",
+      "id": "Warp23",
+      "parent": "Right_Eye",
+      "correct_parent": true,
+      "correct_three_key_binding": true,
+      "three_distinct_forms": true,
+      "full_opacity": true,
+      "bbox_by_key": {
+        "-1": [
+          0.18959136,
+          -1.2177639,
+          0.9187952,
+          1.8466063
+        ],
+        "0": [
+          0.30652055,
+          -1.2143719,
+          1.0357221,
+          1.849931
+        ],
+        "1": [
+          0.42344362,
+          -1.2109828,
+          1.152653,
+          1.8533547
+        ]
+      },
+      "correct_axis_direction": true
+    },
+    "Iris_R_Y": {
+      "parameter": "ParamEyeBallY",
+      "id": "Warp22",
+      "parent": "Iris_R_X",
+      "correct_parent": true,
+      "correct_three_key_binding": true,
+      "three_distinct_forms": true,
+      "full_opacity": true,
+      "bbox_by_key": {
+        "-1": [
+          0.04545419,
+          0.12465175,
+          0.950359,
+          0.954548
+        ],
+        "0": [
+          0.047545724,
+          0.08505355,
+          0.9524511,
+          0.9149507
+        ],
+        "1": [
+          0.049636967,
+          0.045454547,
+          0.9545452,
+          0.87535256
+        ]
+      },
+      "correct_axis_direction": true
+    }
+  },
+  "grid_errors": [],
+  "runtime_export_or_app_test": false
+}

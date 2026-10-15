@@ -1,0 +1,370 @@
+{
+  "purpose": "Static mesh-placement guide for one left-screen oblique nod endpoint; no source art changes.",
+  "source": {
+    "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (2).png",
+    "sha256": "9467b49181bfcd98ca7fcef67c8f8d2072b09d7cc56cc36e862c66e43d2c44dc",
+    "dimensions_px": [
+      958,
+      1004
+    ],
+    "orientation": "as supplied; no rotation applied",
+    "coordinate_convention": "origin at source top-left; x increases image-right and y increases downward"
+  },
+  "existing_reference_overlay_transform": {
+    "source": "../../reference_overlay/reference_overlay_manifest.json",
+    "aligned_display_px": {
+      "formula": "x = 31.44792728990933 + source_x * 0.387135017135063; y = 48.33505563603197 + source_y * 0.387135017135063",
+      "uniform_scale": 0.387135017135063,
+      "offset": [
+        31.44792728990933,
+        48.33505563603197
+      ]
+    },
+    "full_canvas_px": {
+      "formula": "x = 1404.826424299698 + source_x * 1.2904500571168767; y = 161.11685212010656 + source_y * 1.2904500571168767",
+      "uniform_scale": 1.2904500571168767,
+      "offset": [
+        1404.826424299698,
+        161.11685212010656
+      ]
+    },
+    "roll_note": "The left source pupil is 20.0 source px lower than the right (about 7.74 display px after alignment). Preserve this slope; do not upright-rotate the guide."
+  },
+  "visible_facial_skin_outer_contour": {
+    "direction": "image-right ear/cheek -> chin -> image-left cheek",
+    "points": [
+      {
+        "id": "r_ear_face_junction",
+        "source_px": [
+          622,
+          542
+        ],
+        "reliability": "inferred_occluded"
+      },
+      {
+        "id": "r_occlusion_1",
+        "source_px": [
+          615,
+          557
+        ],
+        "reliability": "inferred_occluded"
+      },
+      {
+        "id": "r_occlusion_2",
+        "source_px": [
+          606,
+          575
+        ],
+        "reliability": "inferred_occluded"
+      },
+      {
+        "id": "r_occlusion_exit",
+        "source_px": [
+          595,
+          594
+        ],
+        "reliability": "inferred_occluded"
+      },
+      {
+        "id": "r_cheek_start",
+        "source_px": [
+          574,
+          613
+        ],
+        "reliability": "observed"
+      },
+      {
+        "id": "r_cheek_1",
+        "source_px": [
+          567,
+          626
+        ],
+        "reliability": "observed"
+      },
+      {
+        "id": "r_cheek_2",
+        "source_px": [
+          557,
+          642
+        ],
+        "reliability": "observed"
+      },
+      {
+        "id": "r_jaw_1",
+        "source_px": [
+          544,
+          657
+        ],
+        "reliability": "observed"
+      },
+      {
+        "id": "r_jaw_2",
+        "source_px": [
+          529,
+          672
+        ],
+        "reliability": "observed"
+      },
+      {
+        "id": "r_jaw_3",
+        "source_px": [
+          513,
+          686
+        ],
+        "reliability": "observed"
+      },
+      {
+        "id": "r_jaw_4",
+        "source_px": [
+          496,
+          699
+        ],
+        "reliability": "observed"
+      },
+      {
+        "id": "r_jaw_5",
+        "source_px": [
+          478,
+          710
+        ],
+        "reliability": "observed"
+      },
+      {
+        "id": "r_chin_slope",
+        "source_px": [
+          459,
+          719
+        ],
+        "reliability": "observed"
+      },
+      {
+        "id": "chin_right",
+        "source_px": [
+          441,
+          726
+        ],
+        "reliability": "observed"
+      },
+      {
+        "id": "chin_tip",
+        "source_px": [
+          424,
+          729
+        ],
+        "reliability": "observed"
+      },
+      {
+        "id": "chin_left",
+        "source_px": [
+          410,
+          724
+        ],
+        "reliability": "observed"
+      },
+      {
+        "id": "l_chin_slope",
+        "source_px": [
+          390,
+          712
+        ],
+        "reliability": "observed"
+      },
+      {
+        "id": "l_jaw_1",
+        "source_px": [
+          370,
+          700
+        ],
+        "reliability": "observed"
+      },
+      {
+        "id": "l_jaw_2",
+        "source_px": [
+          355,
+          691
+        ],
+        "reliability": "observed"
+      },
+      {
+        "id": "l_jaw_3",
+        "source_px": [
+          340,
+          682
+        ],
+        "reliability": "observed"
+      },
+      {
+        "id": "l_jaw_4",
+        "source_px": [
+          320,
+          667
+        ],
+        "reliability": "observed"
+      },
+      {
+        "id": "l_jaw_5",
+        "source_px": [
+          305,
+          657
+        ],
+        "reliability": "observed"
+      },
+      {
+        "id": "l_jaw_6",
+        "source_px": [
+          290,
+          642
+        ],
+        "reliability": "observed"
+      },
+      {
+        "id": "l_cheek_1",
+        "source_px": [
+          270,
+          617
+        ],
+        "reliability": "observed"
+      },
+      {
+        "id": "l_cheek_last_reliable",
+        "source_px": [
+          251,
+          602
+        ],
+        "reliability": "observed"
+      },
+      {
+        "id": "l_occlusion_1",
+        "source_px": [
+          248,
+          601
+        ],
+        "reliability": "inferred_occluded"
+      },
+      {
+        "id": "l_occlusion_2",
+        "source_px": [
+          246,
+          584
+        ],
+        "reliability": "inferred_occluded"
+      },
+      {
+        "id": "l_ear_face_junction",
+        "source_px": [
+          245,
+          568
+        ],
+        "reliability": "inferred_occluded"
+      }
+    ],
+    "observed_section": "r_cheek_start through l_cheek_last_reliable",
+    "inferred_sections": [
+      "r_ear_face_junction through r_occlusion_exit",
+      "l_occlusion_1 through l_ear_face_junction"
+    ],
+    "accuracy": "Observed points trace the visible lower facial outline to approximately 2-4 source px. Occluded junction points are continuity estimates only and should not be treated as visible line art."
+  },
+  "anatomical_landmarks": [
+    {
+      "id": "pupil_left",
+      "source_px": [
+        297.14,
+        529.5
+      ],
+      "basis": "direct black-pupil component centroid; existing transform anchor remains [295.9, 527.3]"
+    },
+    {
+      "id": "pupil_right",
+      "source_px": [
+        487.55,
+        507.47
+      ],
+      "basis": "direct black-pupil component centroid; existing transform anchor remains [487.3, 507.3]"
+    },
+    {
+      "id": "eye_left_center",
+      "source_px": [
+        295.0,
+        526.0
+      ],
+      "basis": "visual approximation"
+    },
+    {
+      "id": "eye_right_center",
+      "source_px": [
+        488.0,
+        510.0
+      ],
+      "basis": "visual approximation"
+    },
+    {
+      "id": "nose_tip",
+      "source_px": [
+        385.0,
+        589.0
+      ],
+      "basis": "visual approximation; inherited manifest"
+    },
+    {
+      "id": "mouth_center",
+      "source_px": [
+        413.0,
+        657.0
+      ],
+      "basis": "visual approximation; inherited manifest"
+    },
+    {
+      "id": "chin_tip",
+      "source_px": [
+        424.0,
+        729.0
+      ],
+      "basis": "visible lower-face outline"
+    },
+    {
+      "id": "ear_left_visible_center",
+      "source_px": [
+        144.0,
+        500.0
+      ],
+      "basis": "manifest visual proxy, not a face junction"
+    },
+    {
+      "id": "ear_right_visible_center",
+      "source_px": [
+        646.0,
+        507.0
+      ],
+      "basis": "manifest visual proxy, not a face junction"
+    },
+    {
+      "id": "ear_face_junction_left",
+      "source_px": [
+        245.0,
+        568.0
+      ],
+      "basis": "inferred: hidden by hair"
+    },
+    {
+      "id": "ear_face_junction_right",
+      "source_px": [
+        622.0,
+        542.0
+      ],
+      "basis": "inferred: hidden by hair/ear overlap"
+    }
+  ],
+  "alignment_pitfalls": [
+    "Do not rotate the supplied image or force the pupils level; its roll is intentional in the established overlay.",
+    "Use the green observed jaw section to remove a bare-face underfill, but keep skin behind the dark hair strands rather than drawing a new exposed skin strip.",
+    "The two ear-face junctions and short upper-cheek continuations are hair-occluded. Use amber points only to preserve mesh continuity, not as precision artwork targets.",
+    "The supplied illustration and model differ in construction and proportions. Anchor the endpoint first by the measured pupil centers, then use the contour as shape guidance rather than a pixel-match target."
+  ],
+  "annotation_legend": {
+    "green_solid": "observed visible skin outer contour",
+    "amber_dashed": "inferred contour behind hair/ear overlap",
+    "cyan": "pupils and central facial landmarks",
+    "blue": "visible ear-center proxies"
+  }
+}

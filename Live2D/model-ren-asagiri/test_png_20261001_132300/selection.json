@@ -1,0 +1,1382 @@
+[
+  {
+    "original": "art/neck_collar_v004/neck_collar_review.png",
+    "copy": "selected/01_static_assembly/neck_collar_v004_2026-09-21.png",
+    "sha256": "f82cfa6401360c85a5dea92631320d19f1925ce23bc25c7dc866c10649364c1c",
+    "bytes": 159179,
+    "group": "01_static_assembly",
+    "test_date": "2026-09-21",
+    "date_basis": "art/neck_collar_v004/README.md",
+    "evidence": "art/neck_collar_v004/README.md",
+    "acceptance_state": "static_validation_pass",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": null,
+    "git_status": "untracked_or_ignored",
+    "original_retained": true
+  },
+  {
+    "original": "art/head/preview/head_sample.png",
+    "copy": "selected/01_static_assembly/head_final_head_sample_2026-09-24.png",
+    "sha256": "6dc0f5599fbf806cb2642a9f1860b3bb57deef4d6f36b506434e06a88b7dcf11",
+    "bytes": 708087,
+    "group": "01_static_assembly",
+    "test_date": "2026-09-24",
+    "date_basis": "art/head/README.md; art/head/acceptance.json",
+    "evidence": "art/head/README.md; art/head/acceptance.json",
+    "acceptance_state": "accepted_static_PNG_at_that_date",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": "100644 4851f7bcce9dcf2f4593743370e7d960a804637b 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "art/head/preview/head_sample_gray.png",
+    "copy": "selected/01_static_assembly/head_final_head_sample_gray_2026-09-24.png",
+    "sha256": "9ca298959fd224741e7c8375b048883178ccb8358cef1fc8fdbfd8f64dd028c4",
+    "bytes": 610987,
+    "group": "01_static_assembly",
+    "test_date": "2026-09-24",
+    "date_basis": "art/head/README.md; art/head/acceptance.json",
+    "evidence": "art/head/README.md; art/head/acceptance.json",
+    "acceptance_state": "accepted_static_PNG_at_that_date",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": "100644 447cda4f1d8da22279dd2594ed7dcffa092f2e11 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "art/psd_front/review/eyes.png",
+    "copy": "selected/02_psd_validation/psd41_eyes_2026-09-24.png",
+    "sha256": "3fede9113a991597b5c55fb00d8452c609ebcc905d124d1bebf1485edad5b135",
+    "bytes": 178570,
+    "group": "02_psd_validation",
+    "test_date": "2026-09-24",
+    "date_basis": "art/psd_front/README.md; prepare.py; verify.py",
+    "evidence": "art/psd_front/README.md; prepare.py; verify.py",
+    "acceptance_state": "PSD_validation_pass_not_rig_acceptance",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": null,
+    "git_status": "untracked_or_ignored",
+    "original_retained": true
+  },
+  {
+    "original": "art/psd_front/review/head_neck.png",
+    "copy": "selected/02_psd_validation/psd41_head_neck_2026-09-24.png",
+    "sha256": "c1f4cdf066cf44384cdfb88c77fea715802efcc68a6000a6ea96a20142dce582",
+    "bytes": 936640,
+    "group": "02_psd_validation",
+    "test_date": "2026-09-24",
+    "date_basis": "art/psd_front/README.md; prepare.py; verify.py",
+    "evidence": "art/psd_front/README.md; prepare.py; verify.py",
+    "acceptance_state": "PSD_validation_pass_not_rig_acceptance",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": null,
+    "git_status": "untracked_or_ignored",
+    "original_retained": true
+  },
+  {
+    "original": "art/psd_front/review/neck_collar.png",
+    "copy": "selected/02_psd_validation/psd41_neck_collar_2026-09-24.png",
+    "sha256": "71e61c45524a1ccf5cd4a2e7b5bdd0dbf2a158b91442b19deb1ee1596fd18234",
+    "bytes": 250867,
+    "group": "02_psd_validation",
+    "test_date": "2026-09-24",
+    "date_basis": "art/psd_front/README.md; prepare.py; verify.py",
+    "evidence": "art/psd_front/README.md; prepare.py; verify.py",
+    "acceptance_state": "PSD_validation_pass_not_rig_acceptance",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": null,
+    "git_status": "untracked_or_ignored",
+    "original_retained": true
+  },
+  {
+    "original": "art/psd_front/review/psd_readback_head_neck.png",
+    "copy": "selected/02_psd_validation/psd41_psd_readback_head_neck_2026-09-24.png",
+    "sha256": "108dbba53021cbdbd3e3904dd57f903bab7d463c5c6c7b952c5e86c5b2c43b3e",
+    "bytes": 937761,
+    "group": "02_psd_validation",
+    "test_date": "2026-09-24",
+    "date_basis": "art/psd_front/README.md; prepare.py; verify.py",
+    "evidence": "art/psd_front/README.md; prepare.py; verify.py",
+    "acceptance_state": "PSD_validation_pass_not_rig_acceptance",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": null,
+    "git_status": "untracked_or_ignored",
+    "original_retained": true
+  },
+  {
+    "original": "art/archive/20260924-old-head-assets/art/blink_assembly_v001/closed/preview.png",
+    "copy": "selected/03_accepted_shape_references/blink_shape_closed_2026-09-22.png",
+    "sha256": "9140dc03efd2701d416ed3be80a1fc0b3790adddaf33fffec07c3321a8266864",
+    "bytes": 137068,
+    "group": "03_accepted_shape_references",
+    "test_date": "2026-09-22",
+    "date_basis": "art/archive/20260924-old-head-assets/art/blink_assembly_v001/README.md",
+    "evidence": "art/archive/20260924-old-head-assets/art/blink_assembly_v001/README.md",
+    "acceptance_state": "historical_shape_reference_accepted_not_base3",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": null,
+    "git_status": "untracked_or_ignored",
+    "original_retained": true
+  },
+  {
+    "original": "art/archive/20260924-old-head-assets/art/blink_assembly_v001/half/preview.png",
+    "copy": "selected/03_accepted_shape_references/blink_shape_half_2026-09-22.png",
+    "sha256": "bcb408a59fcaf15a64e5eeba9af78bd51c1f0cf1f26dc07c574a042f382e8ac4",
+    "bytes": 160836,
+    "group": "03_accepted_shape_references",
+    "test_date": "2026-09-22",
+    "date_basis": "art/archive/20260924-old-head-assets/art/blink_assembly_v001/README.md",
+    "evidence": "art/archive/20260924-old-head-assets/art/blink_assembly_v001/README.md",
+    "acceptance_state": "historical_shape_reference_accepted_not_base3",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": null,
+    "git_status": "untracked_or_ignored",
+    "original_retained": true
+  },
+  {
+    "original": "art/archive/20260924-old-head-assets/art/blink_assembly_v001/open/preview.png",
+    "copy": "selected/03_accepted_shape_references/blink_shape_open_2026-09-22.png",
+    "sha256": "1e2b9225d9e6a44eac808ef8b603f8a2c0416b37090d9e56ce3e460d22ae2ff7",
+    "bytes": 183390,
+    "group": "03_accepted_shape_references",
+    "test_date": "2026-09-22",
+    "date_basis": "art/archive/20260924-old-head-assets/art/blink_assembly_v001/README.md",
+    "evidence": "art/archive/20260924-old-head-assets/art/blink_assembly_v001/README.md",
+    "acceptance_state": "historical_shape_reference_accepted_not_base3",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": null,
+    "git_status": "untracked_or_ignored",
+    "original_retained": true
+  },
+  {
+    "original": "art/archive/20260924-old-head-assets/art/mouth_motion_v002/closed/preview.png",
+    "copy": "selected/03_accepted_shape_references/mouth_v002_closed_2026-09-22.png",
+    "sha256": "89691080db8bd871b7fbc8ce0e1259923087828ee3e25056b7c1fd6bf885b01c",
+    "bytes": 175183,
+    "group": "03_accepted_shape_references",
+    "test_date": "2026-09-22",
+    "date_basis": "art/archive/20260924-old-head-assets/art/mouth_motion_v002/README.md",
+    "evidence": "art/archive/20260924-old-head-assets/art/mouth_motion_v002/README.md",
+    "acceptance_state": "historical_talking_range_accepted_not_base3",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": null,
+    "git_status": "untracked_or_ignored",
+    "original_retained": true
+  },
+  {
+    "original": "art/archive/20260924-old-head-assets/art/mouth_motion_v002/small/preview.png",
+    "copy": "selected/03_accepted_shape_references/mouth_v002_small_2026-09-22.png",
+    "sha256": "e20f55ff206c531157726142ffb0296ecd61ecf8449bbaff476bb10f4fada094",
+    "bytes": 179300,
+    "group": "03_accepted_shape_references",
+    "test_date": "2026-09-22",
+    "date_basis": "art/archive/20260924-old-head-assets/art/mouth_motion_v002/README.md",
+    "evidence": "art/archive/20260924-old-head-assets/art/mouth_motion_v002/README.md",
+    "acceptance_state": "historical_talking_range_accepted_not_base3",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": null,
+    "git_status": "untracked_or_ignored",
+    "original_retained": true
+  },
+  {
+    "original": "art/archive/20260924-old-head-assets/art/mouth_motion_v002/medium/preview.png",
+    "copy": "selected/03_accepted_shape_references/mouth_v002_medium_2026-09-22.png",
+    "sha256": "1bfbd00869bc71ee31bef16e53accd3627f0e6a23dd81338f7f2ef2ac1a0ff88",
+    "bytes": 181441,
+    "group": "03_accepted_shape_references",
+    "test_date": "2026-09-22",
+    "date_basis": "art/archive/20260924-old-head-assets/art/mouth_motion_v002/README.md",
+    "evidence": "art/archive/20260924-old-head-assets/art/mouth_motion_v002/README.md",
+    "acceptance_state": "historical_talking_range_accepted_not_base3",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": null,
+    "git_status": "untracked_or_ignored",
+    "original_retained": true
+  },
+  {
+    "original": "art/archive/20260924-old-head-assets/art/mouth_motion_v002/open/preview.png",
+    "copy": "selected/03_accepted_shape_references/mouth_v002_open_2026-09-22.png",
+    "sha256": "b3bf7bf20f548c07a6f31ecf26e2b211fe33197be2aca8d09ccbe086768638b2",
+    "bytes": 186082,
+    "group": "03_accepted_shape_references",
+    "test_date": "2026-09-22",
+    "date_basis": "art/archive/20260924-old-head-assets/art/mouth_motion_v002/README.md",
+    "evidence": "art/archive/20260924-old-head-assets/art/mouth_motion_v002/README.md",
+    "acceptance_state": "historical_talking_range_accepted_not_base3",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": null,
+    "git_status": "untracked_or_ignored",
+    "original_retained": true
+  },
+  {
+    "original": "art/archive/20260924-old-head-assets/art/face_comparison_v010/face_04.png",
+    "copy": "selected/04_face_comparison/face_v010_current_sample_2026-09-22.png",
+    "sha256": "1df02d614b78865b12d1a5af53183e7dc3951ec91111579b0e720be2656f1564",
+    "bytes": 832237,
+    "group": "04_face_comparison",
+    "test_date": "2026-09-22",
+    "date_basis": "art/archive/20260924-old-head-assets/art/face_comparison_v010/README.md",
+    "evidence": "art/archive/20260924-old-head-assets/art/face_comparison_v010/README.md",
+    "acceptance_state": "latest_v010_comparison_not_current_source",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": null,
+    "git_status": "untracked_or_ignored",
+    "original_retained": true
+  },
+  {
+    "original": "art/head/work/hair_check_20260924/registered_position.png",
+    "copy": "selected/01_static_assembly/hair_seam_pre_PSD_registered_position_2026-09-24.png",
+    "sha256": "d80867ffc14f1611e90928e73dd51619fc2d8a2600cb47657761cdd2c5a3833c",
+    "bytes": 708097,
+    "group": "01_static_assembly",
+    "test_date": "2026-09-24",
+    "date_basis": "art/head/work/hair_check_20260924/approved_acceptance.json; validation.json",
+    "evidence": "art/head/work/hair_check_20260924/approved_acceptance.json; validation.json",
+    "acceptance_state": "historical_static_acceptance_before_PSD_refresh",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": null,
+    "git_status": "untracked_or_ignored",
+    "original_retained": true
+  },
+  {
+    "original": "art/head/work/hair_check_20260924/registered_position_gray.png",
+    "copy": "selected/01_static_assembly/hair_seam_pre_PSD_registered_position_gray_2026-09-24.png",
+    "sha256": "3cea135b5c139823bf7335cf49378dcf904974d0b129f919c65356907bd507eb",
+    "bytes": 611096,
+    "group": "01_static_assembly",
+    "test_date": "2026-09-24",
+    "date_basis": "art/head/work/hair_check_20260924/approved_acceptance.json; validation.json",
+    "evidence": "art/head/work/hair_check_20260924/approved_acceptance.json; validation.json",
+    "acceptance_state": "historical_static_acceptance_before_PSD_refresh",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": null,
+    "git_status": "untracked_or_ignored",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/single_endpoint/whole_head_outline_check/whole_head_runtime_guide_4up.png",
+    "copy": "selected/06_unaccepted_contour_experiment/contour_344points_Xm30_Ym30_2026-09-26.png",
+    "sha256": "7eb5967e541f1d2878c9be19d3e3c30ec0e4c8e6b3805de28bd924e19056e55c",
+    "bytes": 149739,
+    "group": "06_unaccepted_contour_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/single_endpoint/whole_head_outline_check/README.md",
+    "evidence": "model/head_angles/single_endpoint/whole_head_outline_check/README.md",
+    "acceptance_state": "latest_experiment_not_accepted",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": "100644 4f69ada03c3614221e9b56a7e9d912c3ce387054 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/single_endpoint/whole_head_pose_check/face_intermediate_poses_ja.png",
+    "copy": "selected/06_unaccepted_contour_experiment/whole_head_face_intermediate_poses_ja_2026-09-26.png",
+    "sha256": "9bc2fb4cf9306b309ed518832bc0a6eae39d777fa80ce4f9b27c73a3923ea60e",
+    "bytes": 223570,
+    "group": "06_unaccepted_contour_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/single_endpoint/README.md; whole_head_pose_check/whole_head_pose_checks.json",
+    "evidence": "model/head_angles/single_endpoint/README.md; whole_head_pose_check/whole_head_pose_checks.json",
+    "acceptance_state": "latest_experiment_with_remaining_edge_defects",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": "100644 7c2315ab2276bba445a69d97d9e36e0781a42918 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/single_endpoint/whole_head_pose_check/face_jaw_opening_ja.png",
+    "copy": "selected/06_unaccepted_contour_experiment/whole_head_face_jaw_opening_ja_2026-09-26.png",
+    "sha256": "44cadf0c4993ace15157f3a2bce5c90eda72f2623775b1c7978219c71bd2bb6a",
+    "bytes": 189928,
+    "group": "06_unaccepted_contour_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/single_endpoint/README.md; whole_head_pose_check/whole_head_pose_checks.json",
+    "evidence": "model/head_angles/single_endpoint/README.md; whole_head_pose_check/whole_head_pose_checks.json",
+    "acceptance_state": "latest_experiment_with_remaining_edge_defects",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": "100644 239e23d6303af2f6f453a5c119c538b0ad0441d5 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/single_endpoint/whole_head_pose_check/front_mouth_preservation_ja.png",
+    "copy": "selected/06_unaccepted_contour_experiment/whole_head_front_mouth_preservation_ja_2026-09-26.png",
+    "sha256": "028d1cae1e1bea250bf5a9c9ab399190e636b5ab58718331f7d212720c39a852",
+    "bytes": 606211,
+    "group": "06_unaccepted_contour_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/single_endpoint/README.md; whole_head_pose_check/whole_head_pose_checks.json",
+    "evidence": "model/head_angles/single_endpoint/README.md; whole_head_pose_check/whole_head_pose_checks.json",
+    "acceptance_state": "latest_experiment_with_remaining_edge_defects",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": "100644 6b16bdb3fbc73ca599566abef3ff65a715cc954f 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/single_endpoint/whole_head_pose_check/other_pose_remesh_differences_ja.png",
+    "copy": "selected/06_unaccepted_contour_experiment/whole_head_other_pose_remesh_differences_ja_2026-09-26.png",
+    "sha256": "e87036502c443f322d3c555b3d12877226f93b55f38a771f66ef7d708742bd2e",
+    "bytes": 115446,
+    "group": "06_unaccepted_contour_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/single_endpoint/README.md; whole_head_pose_check/whole_head_pose_checks.json",
+    "evidence": "model/head_angles/single_endpoint/README.md; whole_head_pose_check/whole_head_pose_checks.json",
+    "acceptance_state": "latest_experiment_with_remaining_edge_defects",
+    "condition": null,
+    "role": "final_test_output",
+    "git_index_entry": "100644 ddfccaa4f5c830993297835e46df167d516ae889 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/single_endpoint/dense_contour_check/cheek_jaw_comparison_ja.png",
+    "copy": "selected/06_unaccepted_contour_experiment/contour_191points_mesh_refinement_2026-09-26.png",
+    "sha256": "8043dfda470df2ed11b7353864a57b0b8b853e0a666e8c68b812ea724ae3b495",
+    "bytes": 407526,
+    "group": "06_unaccepted_contour_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/single_endpoint/README.md section previous vertex refinement",
+    "evidence": "model/head_angles/single_endpoint/README.md section previous vertex refinement",
+    "acceptance_state": "earlier_different_guide_not_superseded_equivalent",
+    "condition": null,
+    "role": "distinct_measurement_baseline",
+    "git_index_entry": "100644 2269eb07a4ea7d6e068c09aab271001730ad81f0 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_neck_hair/preview/case_00.png",
+    "copy": "selected/05_accepted_initial_motion/head_neck_hair_00_Neutral_2026-09-24.png",
+    "sha256": "6e055034cc31e6757d04c138f2ec4a0e7c851830842c198dd95f03999b95f1ce",
+    "bytes": 191445,
+    "group": "05_accepted_initial_motion",
+    "test_date": "2026-09-24",
+    "date_basis": "model/head_neck_hair/README.md; preview/verification.json cases[0]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_neck_hair/README.md; preview/verification.json cases[0]; render_preview.py enumerate(cases)",
+    "acceptance_state": "initial_motion_preview_accepted_2026-09-25_not_current_cmo3",
+    "condition": {
+      "label": "Neutral",
+      "requested": {},
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 0
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 0a419c60c4cc2deb6d011ee238b6e969ff33ae55 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_neck_hair/preview/case_01.png",
+    "copy": "selected/05_accepted_initial_motion/head_neck_hair_01_MouthOpenY0p5_2026-09-24.png",
+    "sha256": "f4401cd55e6bc047c763c218db9d52201ff0fcc2169742bf529ebd2ad9518962",
+    "bytes": 191951,
+    "group": "05_accepted_initial_motion",
+    "test_date": "2026-09-24",
+    "date_basis": "model/head_neck_hair/README.md; preview/verification.json cases[1]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_neck_hair/README.md; preview/verification.json cases[1]; render_preview.py enumerate(cases)",
+    "acceptance_state": "initial_motion_preview_accepted_2026-09-25_not_current_cmo3",
+    "condition": {
+      "label": "Mouth / jaw 0.5",
+      "requested": {
+        "ParamMouthOpenY": 0.5
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.5,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 1209
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 720a177ae56eada27d013284fb7e49690819b08c 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_neck_hair/preview/case_02.png",
+    "copy": "selected/05_accepted_initial_motion/head_neck_hair_02_MouthOpenY1_2026-09-24.png",
+    "sha256": "c02d9f316c87e5063eb55e9b3cced724d13f25df57d0f9123ab712e3ed014bdd",
+    "bytes": 192365,
+    "group": "05_accepted_initial_motion",
+    "test_date": "2026-09-24",
+    "date_basis": "model/head_neck_hair/README.md; preview/verification.json cases[2]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_neck_hair/README.md; preview/verification.json cases[2]; render_preview.py enumerate(cases)",
+    "acceptance_state": "initial_motion_preview_accepted_2026-09-25_not_current_cmo3",
+    "condition": {
+      "label": "Mouth / jaw 1.0",
+      "requested": {
+        "ParamMouthOpenY": 1
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 1.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 2108
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 a78663ba5ae5287bd28a20e767de30ba7b14ac74 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_neck_hair/preview/case_03.png",
+    "copy": "selected/05_accepted_initial_motion/head_neck_hair_03_AngleZm30_2026-09-24.png",
+    "sha256": "1870df88f43a5f50623b9495d0b06e01a93fe9026f386720bf7fc40cadb09989",
+    "bytes": 193371,
+    "group": "05_accepted_initial_motion",
+    "test_date": "2026-09-24",
+    "date_basis": "model/head_neck_hair/README.md; preview/verification.json cases[3]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_neck_hair/README.md; preview/verification.json cases[3]; render_preview.py enumerate(cases)",
+    "acceptance_state": "initial_motion_preview_accepted_2026-09-25_not_current_cmo3",
+    "condition": {
+      "label": "Tilt -",
+      "requested": {
+        "ParamAngleZ": -30
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": -30.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 46185
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 07f05dea520500f3044088f634036cd3115425f4 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_neck_hair/preview/case_04.png",
+    "copy": "selected/05_accepted_initial_motion/head_neck_hair_04_AngleZ30_2026-09-24.png",
+    "sha256": "ddf90d6602a7a7713c78668f24c3b78cd98830e0fc9fd6a9d209002687efbfee",
+    "bytes": 192944,
+    "group": "05_accepted_initial_motion",
+    "test_date": "2026-09-24",
+    "date_basis": "model/head_neck_hair/README.md; preview/verification.json cases[4]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_neck_hair/README.md; preview/verification.json cases[4]; render_preview.py enumerate(cases)",
+    "acceptance_state": "initial_motion_preview_accepted_2026-09-25_not_current_cmo3",
+    "condition": {
+      "label": "Tilt +",
+      "requested": {
+        "ParamAngleZ": 30
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 30.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 46194
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 f8f2d5fa509783d407572e6922f5a686867a5a3e 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_neck_hair/preview/case_05.png",
+    "copy": "selected/05_accepted_initial_motion/head_neck_hair_05_HairFrontm1_2026-09-24.png",
+    "sha256": "e925568d1b8757d6213746f3db00f19214dca773e26acb700509d3a170d1ab82",
+    "bytes": 191220,
+    "group": "05_accepted_initial_motion",
+    "test_date": "2026-09-24",
+    "date_basis": "model/head_neck_hair/README.md; preview/verification.json cases[5]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_neck_hair/README.md; preview/verification.json cases[5]; render_preview.py enumerate(cases)",
+    "acceptance_state": "initial_motion_preview_accepted_2026-09-25_not_current_cmo3",
+    "condition": {
+      "label": "Front hair -",
+      "requested": {
+        "ParamHairFront": -1
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": -1.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 4867
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 7f21ccaea45749bdee9b74372a4ddc46de551cdc 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_neck_hair/preview/case_06.png",
+    "copy": "selected/05_accepted_initial_motion/head_neck_hair_06_HairFront1_2026-09-24.png",
+    "sha256": "222b6e31a35310dfedca0c9533bd6219d9f79c513b919a0bde5c7895562ec335",
+    "bytes": 191321,
+    "group": "05_accepted_initial_motion",
+    "test_date": "2026-09-24",
+    "date_basis": "model/head_neck_hair/README.md; preview/verification.json cases[6]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_neck_hair/README.md; preview/verification.json cases[6]; render_preview.py enumerate(cases)",
+    "acceptance_state": "initial_motion_preview_accepted_2026-09-25_not_current_cmo3",
+    "condition": {
+      "label": "Front hair +",
+      "requested": {
+        "ParamHairFront": 1
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 1.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 5030
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 db415001e831e561681a2d4e267b26bcb1e67a85 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_neck_hair/preview/case_07.png",
+    "copy": "selected/05_accepted_initial_motion/head_neck_hair_07_HairSidem1_2026-09-24.png",
+    "sha256": "311a19b4a9cbb48fe6cc1765df702499f53cb4e0a288b6e992e81f5b291a3d3e",
+    "bytes": 191341,
+    "group": "05_accepted_initial_motion",
+    "test_date": "2026-09-24",
+    "date_basis": "model/head_neck_hair/README.md; preview/verification.json cases[7]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_neck_hair/README.md; preview/verification.json cases[7]; render_preview.py enumerate(cases)",
+    "acceptance_state": "initial_motion_preview_accepted_2026-09-25_not_current_cmo3",
+    "condition": {
+      "label": "Side hair -",
+      "requested": {
+        "ParamHairSide": -1
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": -1.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 5512
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 6c3cfb6b7f5e40da0a45b0b9c0af15a3c57b6045 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_neck_hair/preview/case_08.png",
+    "copy": "selected/05_accepted_initial_motion/head_neck_hair_08_HairSide1_2026-09-24.png",
+    "sha256": "d76ebe41285669a1994ae921ae96c882bd5f7d1c1e145b3eea3dbb17f763bcd6",
+    "bytes": 191478,
+    "group": "05_accepted_initial_motion",
+    "test_date": "2026-09-24",
+    "date_basis": "model/head_neck_hair/README.md; preview/verification.json cases[8]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_neck_hair/README.md; preview/verification.json cases[8]; render_preview.py enumerate(cases)",
+    "acceptance_state": "initial_motion_preview_accepted_2026-09-25_not_current_cmo3",
+    "condition": {
+      "label": "Side hair +",
+      "requested": {
+        "ParamHairSide": 1
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 1.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 5497
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 42460dcea0f914da70cd82cf6fd4d9b0f76d5249 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_neck_hair/preview/case_09.png",
+    "copy": "selected/05_accepted_initial_motion/head_neck_hair_09_HairBackm1_2026-09-24.png",
+    "sha256": "995f62c5b4e37f36f97ef007c6de4062925d8d25790387e083626afbd6497134",
+    "bytes": 191335,
+    "group": "05_accepted_initial_motion",
+    "test_date": "2026-09-24",
+    "date_basis": "model/head_neck_hair/README.md; preview/verification.json cases[9]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_neck_hair/README.md; preview/verification.json cases[9]; render_preview.py enumerate(cases)",
+    "acceptance_state": "initial_motion_preview_accepted_2026-09-25_not_current_cmo3",
+    "condition": {
+      "label": "Back hair -",
+      "requested": {
+        "ParamHairBack": -1
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": -1.0
+      },
+      "changed_pixels_over_8": 732
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 1bf961a6646707b87d76e43eb386526b17523b60 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_neck_hair/preview/case_10.png",
+    "copy": "selected/05_accepted_initial_motion/head_neck_hair_10_HairBack1_2026-09-24.png",
+    "sha256": "956cf70917fb32e5a4f9cff52da9959ce8cd8996e8622ac446ba862f492908e6",
+    "bytes": 191399,
+    "group": "05_accepted_initial_motion",
+    "test_date": "2026-09-24",
+    "date_basis": "model/head_neck_hair/README.md; preview/verification.json cases[10]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_neck_hair/README.md; preview/verification.json cases[10]; render_preview.py enumerate(cases)",
+    "acceptance_state": "initial_motion_preview_accepted_2026-09-25_not_current_cmo3",
+    "condition": {
+      "label": "Back hair +",
+      "requested": {
+        "ParamHairBack": 1
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 1.0
+      },
+      "changed_pixels_over_8": 741
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 95a551e4531fe77230fc0f8dd5b7e7439a4c05ed 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_neck_hair/preview/case_11.png",
+    "copy": "selected/05_accepted_initial_motion/head_neck_hair_11_AngleZ30_EyeLOpen0_EyeROpen0_2026-09-24.png",
+    "sha256": "8d4bd972fbe8ad8e76ee7b9c1fba9e53c1adfd57c9085124734301da64952edc",
+    "bytes": 188505,
+    "group": "05_accepted_initial_motion",
+    "test_date": "2026-09-24",
+    "date_basis": "model/head_neck_hair/README.md; preview/verification.json cases[11]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_neck_hair/README.md; preview/verification.json cases[11]; render_preview.py enumerate(cases)",
+    "acceptance_state": "initial_motion_preview_accepted_2026-09-25_not_current_cmo3",
+    "condition": {
+      "label": "Tilt + blink",
+      "requested": {
+        "ParamAngleZ": 30,
+        "ParamEyeLOpen": 0,
+        "ParamEyeROpen": 0
+      },
+      "actual": {
+        "ParamEyeLOpen": 0.0,
+        "ParamEyeROpen": 0.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 30.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 46054
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 e2f93b4a8c44ed302a93f7edee52801ec22c4205 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_neck_hair/preview/case_12.png",
+    "copy": "selected/05_accepted_initial_motion/head_neck_hair_12_AngleZm30_MouthOpenY0p7_2026-09-24.png",
+    "sha256": "7e604ec5ed0261cbcfe1fdfcb060c914fe03daaf4b6c8119bb8f777c1220b30d",
+    "bytes": 194186,
+    "group": "05_accepted_initial_motion",
+    "test_date": "2026-09-24",
+    "date_basis": "model/head_neck_hair/README.md; preview/verification.json cases[12]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_neck_hair/README.md; preview/verification.json cases[12]; render_preview.py enumerate(cases)",
+    "acceptance_state": "initial_motion_preview_accepted_2026-09-25_not_current_cmo3",
+    "condition": {
+      "label": "Tilt + speech",
+      "requested": {
+        "ParamAngleZ": -30,
+        "ParamMouthOpenY": 0.7
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.699999988079071,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": -30.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 46576
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 60ab8a67130561e14d60a695edb72e92069b5409 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_neck_hair/preview/case_13.png",
+    "copy": "selected/05_accepted_initial_motion/head_neck_hair_13_AngleZ20_MouthOpenY0p6_HairFront0p5_HairSidem0p5_HairBack0p5_2026-09-24.png",
+    "sha256": "1c18bfd88f7b871025a80dac74bf0302dd37c9f7df419e53bacb9944338479e5",
+    "bytes": 192422,
+    "group": "05_accepted_initial_motion",
+    "test_date": "2026-09-24",
+    "date_basis": "model/head_neck_hair/README.md; preview/verification.json cases[13]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_neck_hair/README.md; preview/verification.json cases[13]; render_preview.py enumerate(cases)",
+    "acceptance_state": "initial_motion_preview_accepted_2026-09-25_not_current_cmo3",
+    "condition": {
+      "label": "Combined",
+      "requested": {
+        "ParamAngleZ": 20,
+        "ParamMouthOpenY": 0.6,
+        "ParamHairFront": 0.5,
+        "ParamHairSide": -0.5,
+        "ParamHairBack": 0.5
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.6000000238418579,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 20.0,
+        "ParamHairFront": 0.5,
+        "ParamHairSide": -0.5,
+        "ParamHairBack": 0.5
+      },
+      "changed_pixels_over_8": 42010
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 eb95a9aa644fd72fe1bc1b17924c0527ffe23b84 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/preview/case_00.png",
+    "copy": "selected/07_unaccepted_XY_experiment/head_angles_00_Neutral_2026-09-26.png",
+    "sha256": "9bb879dbdc7dec3f5af0d62021f4c02d76f0ce41f8096a3352ccbc3e15f4e304",
+    "bytes": 191434,
+    "group": "07_unaccepted_XY_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/README.md; preview/verification.json cases[0]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_angles/README.md; preview/verification.json cases[0]; render_preview.py enumerate(cases)",
+    "acceptance_state": "last_full_head_XY_experiment_not_accepted",
+    "condition": {
+      "label": "Neutral",
+      "requested": {},
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 0
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 a6a0db61cc1b7b8af56508d02080c46c9ae6d8b5 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/preview/case_01.png",
+    "copy": "selected/07_unaccepted_XY_experiment/head_angles_01_AngleXm30_AngleYm30_2026-09-26.png",
+    "sha256": "5a792ce62f8111dfbf64e6c46341cdbc6f0fa2bf1ba4fe317c7ea34c5199144d",
+    "bytes": 189085,
+    "group": "07_unaccepted_XY_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/README.md; preview/verification.json cases[1]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_angles/README.md; preview/verification.json cases[1]; render_preview.py enumerate(cases)",
+    "acceptance_state": "last_full_head_XY_experiment_not_accepted",
+    "condition": {
+      "label": "X -30 / Y -30",
+      "requested": {
+        "ParamAngleX": -30,
+        "ParamAngleY": -30
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": -30.0,
+        "ParamAngleY": -30.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 46923
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 7c2381abcca62eaad6174b205abb369abcb5ee17 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/preview/case_02.png",
+    "copy": "selected/07_unaccepted_XY_experiment/head_angles_02_AngleX0_AngleYm30_2026-09-26.png",
+    "sha256": "844f0694b361ac838c2f41850bb926952bd5cf9b1d920b2379159ee4d83eb2bb",
+    "bytes": 191391,
+    "group": "07_unaccepted_XY_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/README.md; preview/verification.json cases[2]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_angles/README.md; preview/verification.json cases[2]; render_preview.py enumerate(cases)",
+    "acceptance_state": "last_full_head_XY_experiment_not_accepted",
+    "condition": {
+      "label": "X +0 / Y -30",
+      "requested": {
+        "ParamAngleX": 0,
+        "ParamAngleY": -30
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": -30.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 31148
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 a1e288281c8840d9ec3e3d6c1b7e5666f391670f 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/preview/case_03.png",
+    "copy": "selected/07_unaccepted_XY_experiment/head_angles_03_AngleX30_AngleYm30_2026-09-26.png",
+    "sha256": "592b0a5774b2208d57971e93a6d6eebd23078921f327b22ec19a47b0711ca648",
+    "bytes": 187887,
+    "group": "07_unaccepted_XY_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/README.md; preview/verification.json cases[3]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_angles/README.md; preview/verification.json cases[3]; render_preview.py enumerate(cases)",
+    "acceptance_state": "last_full_head_XY_experiment_not_accepted",
+    "condition": {
+      "label": "X +30 / Y -30",
+      "requested": {
+        "ParamAngleX": 30,
+        "ParamAngleY": -30
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 30.0,
+        "ParamAngleY": -30.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 46603
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 0151b3bb2b3d889b7ebc8915409b6544baf42a66 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/preview/case_04.png",
+    "copy": "selected/07_unaccepted_XY_experiment/head_angles_04_AngleXm30_AngleY0_2026-09-26.png",
+    "sha256": "2082f28f471aaa698383a7cbb7fd4aec8a94277e5f83c1a405afdfafa3918380",
+    "bytes": 185324,
+    "group": "07_unaccepted_XY_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/README.md; preview/verification.json cases[4]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_angles/README.md; preview/verification.json cases[4]; render_preview.py enumerate(cases)",
+    "acceptance_state": "last_full_head_XY_experiment_not_accepted",
+    "condition": {
+      "label": "X -30 / Y +0",
+      "requested": {
+        "ParamAngleX": -30,
+        "ParamAngleY": 0
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": -30.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 42449
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 8c281328d2a2404f1b8fad9cba01be1e3b3c050d 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/preview/case_05.png",
+    "copy": "selected/07_unaccepted_XY_experiment/head_angles_05_AngleX30_AngleY0_2026-09-26.png",
+    "sha256": "cdaa56b36c10b758333910f9fff36f5bcef1265989b5e03850a04f7508e1433c",
+    "bytes": 185199,
+    "group": "07_unaccepted_XY_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/README.md; preview/verification.json cases[5]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_angles/README.md; preview/verification.json cases[5]; render_preview.py enumerate(cases)",
+    "acceptance_state": "last_full_head_XY_experiment_not_accepted",
+    "condition": {
+      "label": "X +30 / Y +0",
+      "requested": {
+        "ParamAngleX": 30,
+        "ParamAngleY": 0
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 30.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 43285
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 5db2f7845de4237f3f9f0d7844edacdd4f7c9f54 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/preview/case_06.png",
+    "copy": "selected/07_unaccepted_XY_experiment/head_angles_06_AngleXm30_AngleY30_2026-09-26.png",
+    "sha256": "3151ed1066629576330ae7e9ab610b56af44d0c2f443c9c2ab98c0ad14d2af66",
+    "bytes": 184342,
+    "group": "07_unaccepted_XY_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/README.md; preview/verification.json cases[6]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_angles/README.md; preview/verification.json cases[6]; render_preview.py enumerate(cases)",
+    "acceptance_state": "last_full_head_XY_experiment_not_accepted",
+    "condition": {
+      "label": "X -30 / Y +30",
+      "requested": {
+        "ParamAngleX": -30,
+        "ParamAngleY": 30
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": -30.0,
+        "ParamAngleY": 30.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 42981
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 4956214d644369a5f1336d0c0a3f089a8dcd5957 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/preview/case_07.png",
+    "copy": "selected/07_unaccepted_XY_experiment/head_angles_07_AngleX0_AngleY30_2026-09-26.png",
+    "sha256": "65abc2e094a624dd30f9875f883975119a2d41c1330cd1f346da7dda6a8297df",
+    "bytes": 190532,
+    "group": "07_unaccepted_XY_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/README.md; preview/verification.json cases[7]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_angles/README.md; preview/verification.json cases[7]; render_preview.py enumerate(cases)",
+    "acceptance_state": "last_full_head_XY_experiment_not_accepted",
+    "condition": {
+      "label": "X +0 / Y +30",
+      "requested": {
+        "ParamAngleX": 0,
+        "ParamAngleY": 30
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 30.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 28634
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 fc4eeba466ba57a9275c13debc5c141ebf35591c 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/preview/case_08.png",
+    "copy": "selected/07_unaccepted_XY_experiment/head_angles_08_AngleX30_AngleY30_2026-09-26.png",
+    "sha256": "fe614c0d3c862664b2bfc63193d6c2e108c0621af0c5cf2b65188f044c81ceb4",
+    "bytes": 184532,
+    "group": "07_unaccepted_XY_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/README.md; preview/verification.json cases[8]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_angles/README.md; preview/verification.json cases[8]; render_preview.py enumerate(cases)",
+    "acceptance_state": "last_full_head_XY_experiment_not_accepted",
+    "condition": {
+      "label": "X +30 / Y +30",
+      "requested": {
+        "ParamAngleX": 30,
+        "ParamAngleY": 30
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 30.0,
+        "ParamAngleY": 30.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 43461
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 7c2d3a6c198c95eb971583b6571dc65fea21e587 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/preview/case_09.png",
+    "copy": "selected/07_unaccepted_XY_experiment/head_angles_09_AngleX30_EyeLOpen0_EyeROpen0_2026-09-26.png",
+    "sha256": "dba35b4fa50dfb44f3cd0ecefa780d975008b1818451ab8da13a3b186e442d8f",
+    "bytes": 180859,
+    "group": "07_unaccepted_XY_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/README.md; preview/verification.json cases[9]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_angles/README.md; preview/verification.json cases[9]; render_preview.py enumerate(cases)",
+    "acceptance_state": "last_full_head_XY_experiment_not_accepted",
+    "condition": {
+      "label": "Turn + blink",
+      "requested": {
+        "ParamAngleX": 30,
+        "ParamEyeLOpen": 0,
+        "ParamEyeROpen": 0
+      },
+      "actual": {
+        "ParamEyeLOpen": 0.0,
+        "ParamEyeROpen": 0.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 30.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 43260
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 7d60b0058faadf6c64678e10ed015c4aa9ccd1b6 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/preview/case_10.png",
+    "copy": "selected/07_unaccepted_XY_experiment/head_angles_10_AngleYm30_MouthOpenY0p7_2026-09-26.png",
+    "sha256": "4a23eb5377875832dd1ca29107a5caf074b10b0aedeabe4b36dc136097db2559",
+    "bytes": 192082,
+    "group": "07_unaccepted_XY_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/README.md; preview/verification.json cases[10]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_angles/README.md; preview/verification.json cases[10]; render_preview.py enumerate(cases)",
+    "acceptance_state": "last_full_head_XY_experiment_not_accepted",
+    "condition": {
+      "label": "Nod + speech",
+      "requested": {
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0.7
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.699999988079071,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": -30.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 31981
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 1845622dba69d6164188d3f992d6f7f376ede080 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/preview/case_11.png",
+    "copy": "selected/07_unaccepted_XY_experiment/head_angles_11_AngleXm30_AngleY30_AngleZ20_MouthOpenY0p6_HairFront0p5_HairSidem0p5_HairBack0p5_2026-09-26.png",
+    "sha256": "554d522dd17472efc9d38b76dbe8c4c127c22693e03440483501da56ba2434fa",
+    "bytes": 185315,
+    "group": "07_unaccepted_XY_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/README.md; preview/verification.json cases[11]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_angles/README.md; preview/verification.json cases[11]; render_preview.py enumerate(cases)",
+    "acceptance_state": "last_full_head_XY_experiment_not_accepted",
+    "condition": {
+      "label": "Combined",
+      "requested": {
+        "ParamAngleX": -30,
+        "ParamAngleY": 30,
+        "ParamAngleZ": 20,
+        "ParamMouthOpenY": 0.6,
+        "ParamHairFront": 0.5,
+        "ParamHairSide": -0.5,
+        "ParamHairBack": 0.5
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.6000000238418579,
+        "ParamAngleX": -30.0,
+        "ParamAngleY": 30.0,
+        "ParamAngleZ": 20.0,
+        "ParamHairFront": 0.5,
+        "ParamHairSide": -0.5,
+        "ParamHairBack": 0.5
+      },
+      "changed_pixels_over_8": 39560
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 6f8129c59d0e696fe55d7cf655dffc821fb620c7 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/preview/case_12.png",
+    "copy": "selected/07_unaccepted_XY_experiment/head_angles_12_MouthOpenY1_2026-09-26.png",
+    "sha256": "92d829c7ae293626e5549ea118652a50aa5b1ec301fe35d915fcebbe7bfa534a",
+    "bytes": 192355,
+    "group": "07_unaccepted_XY_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/README.md; preview/verification.json cases[12]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_angles/README.md; preview/verification.json cases[12]; render_preview.py enumerate(cases)",
+    "acceptance_state": "last_full_head_XY_experiment_not_accepted",
+    "condition": {
+      "label": "Mouth 1.0",
+      "requested": {
+        "ParamMouthOpenY": 1
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 1.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 2109
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 084db8552124ffa0979a14c8a42c4ce7b194dd07 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/preview/case_13.png",
+    "copy": "selected/07_unaccepted_XY_experiment/head_angles_13_AngleZm30_2026-09-26.png",
+    "sha256": "0232701d4d4d7ccc425fdaabf6c519e5e1770d7fd05e6db4b208badb42c985ef",
+    "bytes": 193345,
+    "group": "07_unaccepted_XY_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/README.md; preview/verification.json cases[13]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_angles/README.md; preview/verification.json cases[13]; render_preview.py enumerate(cases)",
+    "acceptance_state": "last_full_head_XY_experiment_not_accepted",
+    "condition": {
+      "label": "Tilt -",
+      "requested": {
+        "ParamAngleZ": -30
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": -30.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 46188
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 37d68dba53c37d37320a235d2b072241d2219641 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/preview/case_14.png",
+    "copy": "selected/07_unaccepted_XY_experiment/head_angles_14_AngleZ30_2026-09-26.png",
+    "sha256": "17755b79c68c9698cf1c3014d7643a19c75d953d92bf2cec2627a724d7c4f00b",
+    "bytes": 192953,
+    "group": "07_unaccepted_XY_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/README.md; preview/verification.json cases[14]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_angles/README.md; preview/verification.json cases[14]; render_preview.py enumerate(cases)",
+    "acceptance_state": "last_full_head_XY_experiment_not_accepted",
+    "condition": {
+      "label": "Tilt +",
+      "requested": {
+        "ParamAngleZ": 30
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 30.0,
+        "ParamHairFront": 0.0,
+        "ParamHairSide": 0.0,
+        "ParamHairBack": 0.0
+      },
+      "changed_pixels_over_8": 46194
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 a44e7d5a870065f0c28446269452270b03965b03 0",
+    "git_status": "A ",
+    "original_retained": true
+  },
+  {
+    "original": "model/head_angles/preview/case_15.png",
+    "copy": "selected/07_unaccepted_XY_experiment/head_angles_15_HairFront1_HairSidem1_HairBack1_2026-09-26.png",
+    "sha256": "08a4da4dcfb6e232716b03d4cd83a717463f2ebd85d7308d0129347d23fb451b",
+    "bytes": 191098,
+    "group": "07_unaccepted_XY_experiment",
+    "test_date": "2026-09-26",
+    "date_basis": "model/head_angles/README.md; preview/verification.json cases[15]; render_preview.py enumerate(cases)",
+    "evidence": "model/head_angles/README.md; preview/verification.json cases[15]; render_preview.py enumerate(cases)",
+    "acceptance_state": "last_full_head_XY_experiment_not_accepted",
+    "condition": {
+      "label": "Hair extremes",
+      "requested": {
+        "ParamHairFront": 1,
+        "ParamHairSide": -1,
+        "ParamHairBack": 1
+      },
+      "actual": {
+        "ParamEyeLOpen": 1.0,
+        "ParamEyeROpen": 1.0,
+        "ParamMouthOpenY": 0.0,
+        "ParamAngleX": 0.0,
+        "ParamAngleY": 0.0,
+        "ParamAngleZ": 0.0,
+        "ParamHairFront": 1.0,
+        "ParamHairSide": -1.0,
+        "ParamHairBack": 1.0
+      },
+      "changed_pixels_over_8": 11275
+    },
+    "role": "final_test_output",
+    "git_index_entry": "100644 9c69513a6dd66405c6a1b275e5fbf7675d6b5911 0",
+    "git_status": "A ",
+    "original_retained": true
+  }
+]

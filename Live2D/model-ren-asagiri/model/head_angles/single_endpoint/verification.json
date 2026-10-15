@@ -1,0 +1,99 @@
+{
+  "checked_at": "2026-09-26T13:16:40.736591+09:00",
+  "scope": "Face-underfill remesh at X=-30/Y=-30. Eyes, mouth, ears and hair endpoint placement remains on hold.",
+  "status": "samples_ready_with_disclosed_raster_differences",
+  "checks": {
+    "baseline_cmo3_unchanged": true,
+    "rejected_cmo3_unchanged": true,
+    "reference_art_unchanged": true,
+    "saved_candidate_matches_regression": true,
+    "full_moc_matches_regression_and_pose_samples": true,
+    "face_moc_matches_contour_and_pose_samples": true,
+    "texture_atlas_unchanged": true,
+    "pre_refinement_backup_unchanged": true,
+    "reference_psd_readback": true,
+    "edited_endpoint_body_unchanged": true,
+    "actual_drawable_count_preserved": true,
+    "visible_contour_median_and_max_improved": true
+  },
+  "artifact_and_source_checks_pass": true,
+  "strict_18_case_display_regression_pass": false,
+  "strict_regression_note": "False retained: remeshing changes rasterization and nonlinear parent-deformer interpolation. Do not report all prior states as pixel-identical.",
+  "front_face_boundary_max_distance_render_px": 1,
+  "front_boundary_render_size": [
+    2000,
+    3000
+  ],
+  "face_pose_cases_checked": 32,
+  "all_face_rasters_single_silhouette_alpha16": false,
+  "all_face_rasters_single_silhouette_alpha64": true,
+  "low_alpha_fringe_note": "At alpha>=16, up to 3 endpoint rows have tiny detached edge pixels at cheek/chin. None at alpha>=64 in the 32 tested states. Residual edge roughness remains.",
+  "contour_distance_full_canvas_px": {
+    "before": {
+      "count": 191,
+      "min": 0.362,
+      "p50": 7.748,
+      "p90": 27.46,
+      "max": 36.522,
+      "mean": 11.389
+    },
+    "after": {
+      "count": 191,
+      "min": 0.362,
+      "p50": 2.834,
+      "p90": 5.443,
+      "max": 6.905,
+      "mean": 3.116
+    }
+  },
+  "ui_observation": "Saved in Cubism 5.3.04 FREE at X=0/Y=0, real parts visible, reference folders hidden. Face-only and full SDK5.0 runtimes exported; export settings saved. This revision was not closed/reopened.",
+  "geometry_limit": "Wrapper has no vertex/index buffer API; no claim of a numerical triangle inversion audit.",
+  "artistic_status": "awaiting_Boss_contour_review_before_next_parts",
+  "remaining": [
+    "Review cheek/chin contour and residual translucent fringe",
+    "Keep eye/hair/ear/mouth alignment on hold until contour acceptance",
+    "Opposite endpoint and physics/full-assembly acceptance are outside this revision"
+  ],
+  "artifacts": {
+    "Ren_face_endpoint.cmo3": {
+      "bytes": 12503070,
+      "sha256": "f6d57737c12a22765bf22f2f352376f037854d5d97831e3d71332294fe27f360"
+    },
+    "runtime\\Ren_face_endpoint.moc3": {
+      "bytes": 121408,
+      "sha256": "50c1332b7c9d404836e3f115c3a90557c64dc9c1591aa52931ce8a66092861e3"
+    },
+    "face_runtime\\Ren_face_endpoint.moc3": {
+      "bytes": 40064,
+      "sha256": "c9bbb6c84fd8575535182f80bfa7145e00129d244822bcfe503bc3f23b8bf527"
+    },
+    "dense_contour_check\\cheek_jaw_comparison_ja.png": {
+      "bytes": 407526,
+      "sha256": "8043dfda470df2ed11b7353864a57b0b8b853e0a666e8c68b812ea724ae3b495"
+    },
+    "dense_contour_check\\dense_contour_before_after_4up.png": {
+      "bytes": 271329,
+      "sha256": "a455200dbd7088949313469b81da546d2fd3ede10c70fa07bc08ce6e3af9d491"
+    },
+    "dense_contour_check\\face_intermediate_poses_ja.png": {
+      "bytes": 206363,
+      "sha256": "074f5892c6bf9c45dc30ec6cc0bd2a52ac75dae784eb17f1bba16ce891141f4d"
+    },
+    "dense_contour_check\\face_jaw_opening_ja.png": {
+      "bytes": 191393,
+      "sha256": "af114e4afc3a3262227d3d0f895137f600786beb562c7214dd1b177f317b510a"
+    },
+    "dense_contour_check\\front_mouth_preservation_ja.png": {
+      "bytes": 638341,
+      "sha256": "bc7b4c0795763cf03a03c19b417ef2be29f88004968dad7b17128985da528a86"
+    },
+    "dense_contour_check\\other_pose_remesh_differences_ja.png": {
+      "bytes": 121279,
+      "sha256": "87039750cbe97c332a8359d73cbef6a98b3398d14d6ea96925cf33081baa8cd9"
+    },
+    "dense_contour_check\\dense_contour_reference_4000x6000.psd": {
+      "bytes": 3384392,
+      "sha256": "d6fcd1491f870a763651064dcaa7786caf8da22f78fa0f86a71960207faede8e"
+    }
+  }
+}

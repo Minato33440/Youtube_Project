@@ -1,0 +1,729 @@
+{
+  "status": "pass",
+  "scope": "Reference provenance and actual exported-runtime before/after checks. Cubism mesh edits were made separately through its GUI. This is not aesthetic acceptance or a triangle-topology audit.",
+  "source_registration": {
+    "rough_outline_to_original": {
+      "scale": 1.0,
+      "translation_px": [
+        57,
+        1
+      ],
+      "visible_rgba_residual": "exact; 338253/338253 visible-union pixels equal"
+    },
+    "original_to_canvas": {
+      "scale": 1.2904500571168767,
+      "translation_px": [
+        1404.826424299698,
+        161.11685212010656
+      ],
+      "operation": "uniform scale and translation only; retain original tilt"
+    },
+    "rough_outline_to_canvas": {
+      "scale": 1.2904500571168767,
+      "translation_px": [
+        1478.38207755536,
+        162.40730217722344
+      ],
+      "raster_layer_position_rounded_px": [
+        1478,
+        162
+      ]
+    }
+  },
+  "classification": {
+    "face_visible_observed": "Cyan path follows the supplied dark face outline from the left ear-root area through the chin to the right side. It is the precision face-underfill target.",
+    "scalp_hair_hidden_inferred": "Amber dashed path follows the Boss-supplied intended upper head shape, but remains an approximation for face-underfill because finished hair hides it.",
+    "ear_outer_observed_separate": "Magenta paths trace ear outer silhouettes for orientation only. They are not part of the face-underfill target and are excluded from distance metrics."
+  },
+  "checks": {
+    "source_hashes": true,
+    "rough_is_exact_visible_rgba_crop_at_original_xy_57_1": true,
+    "outline_bottom_15px_transparent": true,
+    "ag_psd_rgba_readback": true,
+    "independent_psd_tools_canvas_and_layer_order": true,
+    "runtime_is_actual_before_after": true,
+    "runtime_and_pose_hashes_current": true,
+    "frontal_display_preserved": true,
+    "runtime_direct_real_model_no_warp": {
+      "baseline_model3_json": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\archive\\before_whole_head_outline_20260926\\face_runtime\\Ren_face_endpoint.model3.json",
+      "current_model3_json": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\face_runtime\\Ren_face_endpoint.model3.json",
+      "temporary_fixture": false,
+      "physics_update_called": false,
+      "render_warp_applied": false
+    }
+  },
+  "psd_readback": {
+    "canvas": [
+      4000,
+      6000
+    ],
+    "layer_count": 5,
+    "layer_names": [
+      "GUIDE__FACE_UNDERFILL_OBSERVED__CYAN__HIDE_BEFORE_EXPORT",
+      "GUIDE__SCALP_HAIR_HIDDEN_INFERRED__AMBER_DASHED__HIDE_BEFORE_EXPORT",
+      "GUIDE__EAR_OUTER_SEPARATE__MAGENTA__DO_NOT_TRACE_AS_FACE",
+      "REFERENCE__BOSS_OUTLINE_REGISTERED__85PCT__HIDE_BEFORE_EXPORT",
+      "REFERENCE__ROUGH_EXACT_CROP__25PCT__HIDE_BEFORE_EXPORT"
+    ],
+    "sha256": "510392d83c4e98f4b462a3c2b2be548002de87cdfe2068446335cb7e865173fe"
+  },
+  "baseline_diagnostic_distance_canvas_px": {
+    "face_visible_observed": {
+      "count": 344,
+      "min": 0.212,
+      "p50": 4.457,
+      "p90": 14.333,
+      "max": 23.622,
+      "mean": 5.991
+    },
+    "scalp_hair_hidden_inferred": {
+      "count": 275,
+      "min": 0.248,
+      "p50": 32.775,
+      "p90": 92.52,
+      "max": 98.555,
+      "mean": 43.877
+    },
+    "face_equal_arc_bins": {
+      "left_cheek": {
+        "sample_range_1_based": [
+          1,
+          69
+        ],
+        "distance_canvas_px": {
+          "count": 69,
+          "min": 0.516,
+          "p50": 9.227,
+          "p90": 18.925,
+          "max": 23.622,
+          "mean": 10.214
+        }
+      },
+      "left_jaw": {
+        "sample_range_1_based": [
+          70,
+          138
+        ],
+        "distance_canvas_px": {
+          "count": 69,
+          "min": 0.212,
+          "p50": 2.275,
+          "p90": 4.191,
+          "max": 4.953,
+          "mean": 2.485
+        }
+      },
+      "chin": {
+        "sample_range_1_based": [
+          139,
+          206
+        ],
+        "distance_canvas_px": {
+          "count": 68,
+          "min": 0.724,
+          "p50": 3.883,
+          "p90": 6.352,
+          "max": 7.807,
+          "mean": 3.755
+        }
+      },
+      "right_jaw": {
+        "sample_range_1_based": [
+          207,
+          275
+        ],
+        "distance_canvas_px": {
+          "count": 69,
+          "min": 0.242,
+          "p50": 1.439,
+          "p90": 17.186,
+          "max": 20.589,
+          "mean": 4.854
+        }
+      },
+      "right_cheek": {
+        "sample_range_1_based": [
+          276,
+          344
+        ],
+        "distance_canvas_px": {
+          "count": 69,
+          "min": 5.018,
+          "p50": 8.038,
+          "p90": 12.636,
+          "max": 16.017,
+          "mean": 8.618
+        }
+      }
+    },
+    "scalp_equal_arc_bins": {
+      "right_side": {
+        "sample_range_1_based": [
+          1,
+          69
+        ],
+        "distance_canvas_px": {
+          "count": 69,
+          "min": 8.892,
+          "p50": 20.271,
+          "p90": 45.228,
+          "max": 53.303,
+          "mean": 24.034
+        }
+      },
+      "upper_right": {
+        "sample_range_1_based": [
+          70,
+          138
+        ],
+        "distance_canvas_px": {
+          "count": 69,
+          "min": 54.646,
+          "p50": 89.193,
+          "p90": 98.03,
+          "max": 98.555,
+          "mean": 84.788
+        }
+      },
+      "upper_left": {
+        "sample_range_1_based": [
+          139,
+          206
+        ],
+        "distance_canvas_px": {
+          "count": 68,
+          "min": 0.248,
+          "p50": 39.965,
+          "p90": 78.64,
+          "max": 86.472,
+          "mean": 40.731
+        }
+      },
+      "left_side": {
+        "sample_range_1_based": [
+          207,
+          275
+        ],
+        "distance_canvas_px": {
+          "count": 69,
+          "min": 7.325,
+          "p50": 28.02,
+          "p90": 34.289,
+          "max": 35.172,
+          "mean": 25.909
+        }
+      }
+    }
+  },
+  "current_diagnostic_distance_canvas_px": {
+    "face_visible_observed": {
+      "count": 344,
+      "min": 0.081,
+      "p50": 2.635,
+      "p90": 7.279,
+      "max": 9.92,
+      "mean": 3.337
+    },
+    "scalp_hair_hidden_inferred": {
+      "count": 275,
+      "min": 0.409,
+      "p50": 6.76,
+      "p90": 14.276,
+      "max": 16.856,
+      "mean": 7.173
+    },
+    "face_equal_arc_bins": {
+      "left_cheek": {
+        "sample_range_1_based": [
+          1,
+          69
+        ],
+        "distance_canvas_px": {
+          "count": 69,
+          "min": 0.147,
+          "p50": 2.074,
+          "p90": 7.177,
+          "max": 9.92,
+          "mean": 2.953
+        }
+      },
+      "left_jaw": {
+        "sample_range_1_based": [
+          70,
+          138
+        ],
+        "distance_canvas_px": {
+          "count": 69,
+          "min": 0.212,
+          "p50": 2.275,
+          "p90": 4.191,
+          "max": 4.953,
+          "mean": 2.485
+        }
+      },
+      "chin": {
+        "sample_range_1_based": [
+          139,
+          206
+        ],
+        "distance_canvas_px": {
+          "count": 68,
+          "min": 0.724,
+          "p50": 3.883,
+          "p90": 6.352,
+          "max": 7.807,
+          "mean": 3.755
+        }
+      },
+      "right_jaw": {
+        "sample_range_1_based": [
+          207,
+          275
+        ],
+        "distance_canvas_px": {
+          "count": 69,
+          "min": 0.242,
+          "p50": 1.388,
+          "p90": 4.758,
+          "max": 6.625,
+          "mean": 1.975
+        }
+      },
+      "right_cheek": {
+        "sample_range_1_based": [
+          276,
+          344
+        ],
+        "distance_canvas_px": {
+          "count": 69,
+          "min": 0.081,
+          "p50": 6.492,
+          "p90": 8.25,
+          "max": 8.949,
+          "mean": 5.525
+        }
+      }
+    },
+    "scalp_equal_arc_bins": {
+      "right_side": {
+        "sample_range_1_based": [
+          1,
+          69
+        ],
+        "distance_canvas_px": {
+          "count": 69,
+          "min": 0.73,
+          "p50": 6.221,
+          "p90": 14.433,
+          "max": 16.856,
+          "mean": 7.2
+        }
+      },
+      "upper_right": {
+        "sample_range_1_based": [
+          70,
+          138
+        ],
+        "distance_canvas_px": {
+          "count": 69,
+          "min": 2.557,
+          "p50": 8.026,
+          "p90": 14.933,
+          "max": 16.755,
+          "mean": 9.065
+        }
+      },
+      "upper_left": {
+        "sample_range_1_based": [
+          139,
+          206
+        ],
+        "distance_canvas_px": {
+          "count": 68,
+          "min": 3.214,
+          "p50": 6.518,
+          "p90": 15.347,
+          "max": 16.808,
+          "mean": 8.286
+        }
+      },
+      "left_side": {
+        "sample_range_1_based": [
+          207,
+          275
+        ],
+        "distance_canvas_px": {
+          "count": 69,
+          "min": 0.409,
+          "p50": 3.141,
+          "p90": 7.93,
+          "max": 8.947,
+          "mean": 4.157
+        }
+      }
+    }
+  },
+  "pose_report": {
+    "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\whole_head_pose_check\\whole_head_pose_checks.json",
+    "sha256": "b1189395311b9f3e146814dd4c540952c59baa59ca2efa5121dc1af8ec7aa083",
+    "face_cases": 32
+  },
+  "remaining_edge_flags": [
+    {
+      "params": {
+        "ParamAngleX": -30,
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0
+      },
+      "alpha16": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 7,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 74943
+      },
+      "alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 74357
+      }
+    },
+    {
+      "params": {
+        "ParamAngleX": -30,
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0.35
+      },
+      "alpha16": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 4,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 75373
+      },
+      "alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 74781
+      }
+    },
+    {
+      "params": {
+        "ParamAngleX": -30,
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0.7
+      },
+      "alpha16": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 6,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 75803
+      },
+      "alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 75219
+      }
+    },
+    {
+      "params": {
+        "ParamAngleX": -30,
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 1
+      },
+      "alpha16": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 5,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 76186
+      },
+      "alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 75578
+      }
+    },
+    {
+      "params": {
+        "ParamAngleX": -15,
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0
+      },
+      "alpha16": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 86486
+      },
+      "alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 1,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 85910
+      }
+    },
+    {
+      "params": {
+        "ParamAngleX": -15,
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0.35
+      },
+      "alpha16": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 86993
+      },
+      "alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 1,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 86414
+      }
+    },
+    {
+      "params": {
+        "ParamAngleX": -15,
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0.7
+      },
+      "alpha16": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 87501
+      },
+      "alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 1,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 86914
+      }
+    },
+    {
+      "params": {
+        "ParamAngleX": -15,
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 1
+      },
+      "alpha16": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 87930
+      },
+      "alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 1,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 87347
+      }
+    },
+    {
+      "params": {
+        "ParamAngleX": -30,
+        "ParamAngleY": -15,
+        "ParamMouthOpenY": 0
+      },
+      "alpha16": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 1,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 81364
+      },
+      "alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 80777
+      }
+    },
+    {
+      "params": {
+        "ParamAngleX": -30,
+        "ParamAngleY": -15,
+        "ParamMouthOpenY": 0.35
+      },
+      "alpha16": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 1,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 81844
+      },
+      "alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 81262
+      }
+    },
+    {
+      "params": {
+        "ParamAngleX": -30,
+        "ParamAngleY": -15,
+        "ParamMouthOpenY": 0.7
+      },
+      "alpha16": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 1,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 82326
+      },
+      "alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 81738
+      }
+    },
+    {
+      "params": {
+        "ParamAngleX": -30,
+        "ParamAngleY": -15,
+        "ParamMouthOpenY": 1
+      },
+      "alpha16": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 1,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 82748
+      },
+      "alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 82152
+      }
+    }
+  ],
+  "artifact_hashes": {
+    "baseline_bareface_2000x3000.png": {
+      "bytes": 65020,
+      "sha256": "8738def83057ce8b9c3e6412588d9f6d0fa6b869fb834c17a6f0242b72a31729"
+    },
+    "build_whole_head_guide.py": {
+      "bytes": 15768,
+      "sha256": "640ade7214bef7f805f666286ab70130141c755a42307d6317f5be5cd5511a32"
+    },
+    "build_whole_head_reference_psd.js": {
+      "bytes": 5088,
+      "sha256": "1bae7728beccf9516a7b42d32d05864b994d571e333a202615a084c1fe039d8c"
+    },
+    "current_bareface_2000x3000.png": {
+      "bytes": 64658,
+      "sha256": "63296441038b68ef46da0c6040321f2096412701c59c49af623e8555fb1b544c"
+    },
+    "current_bareface_2000x3000_rgba.png": {
+      "bytes": 72195,
+      "sha256": "cc8b19abcca1334bd2cea023cdfe7b308a7fe1b84b41e8dd7c6202213323a9e7"
+    },
+    "current_vs_whole_head_guide_overlay_2000x3000.png": {
+      "bytes": 60302,
+      "sha256": "dd4c6f698046737b952d9f9371d8c0433255d80332a430e4b9004a89aad3033c"
+    },
+    "finalize_whole_head_validation.py": {
+      "bytes": 10490,
+      "sha256": "b03a35c76008fd22c4114fdf4e5f7f5f85d518326b578ae42306f3c28dcab1e9"
+    },
+    "guide_ear_outer_magenta.png": {
+      "bytes": 2965,
+      "sha256": "3db9a527c81f8e574d3c097dd7c7162cfe6819dc4b831b4ea64eea029bdf6da1"
+    },
+    "guide_face_observed_cyan.png": {
+      "bytes": 4219,
+      "sha256": "d0f12b8182f24c47564ea5d23da9934a3a07da3b5a18840e207a8c28463b5c60"
+    },
+    "guide_provenance.json": {
+      "bytes": 1246,
+      "sha256": "14add248b6bf1edee2f405607a0e23d6deb4a9af9d79dfeb1575679d3c10d134"
+    },
+    "guide_scalp_inferred_amber_dashed.png": {
+      "bytes": 5182,
+      "sha256": "c03bcc16e97e3d6cd29a0331f7eb87cb1ff5f47244e93b188470179bcc45a837"
+    },
+    "README.md": {
+      "bytes": 3068,
+      "sha256": "2f39a39ba58ef02b38885195ea005296c5674ca514ea875140fc359aba04ad11"
+    },
+    "reference_outline_registered.png": {
+      "bytes": 69763,
+      "sha256": "d9b5e8082f2c4ea069e623dbb28e18dee35483418bf36c222197ae5d0a3912e9"
+    },
+    "reference_rough_registered.png": {
+      "bytes": 716711,
+      "sha256": "e6df4ca3150c1cb624b12fce38b8e54598a686f97adc284ac9dc3ec24a7a1940"
+    },
+    "register_source.py": {
+      "bytes": 7109,
+      "sha256": "b1593b44ccfabdb014a9db813462d961316417c12e4af8b4889bf3fae10f02ad"
+    },
+    "render_whole_head_runtime_comparison.py": {
+      "bytes": 13432,
+      "sha256": "9e7623eb200931df753aca721c1d690d9a44e6e6f96d772cca9b364d1c84d88d"
+    },
+    "source_registration_exploration.json": {
+      "bytes": 13625,
+      "sha256": "130f2ce00fc065be2bf9e52639e850729e4847487792640146e35e8681350826"
+    },
+    "whole_head_contour_target.json": {
+      "bytes": 193088,
+      "sha256": "1db52a18978f6a7d55db701d9e6fdbb57f1d624f975912f4de9ef25370e19d50"
+    },
+    "whole_head_outline_guide_4000x6000.png": {
+      "bytes": 138384,
+      "sha256": "59bac619e816aaa61d20d5276e53fc5b0d2ff07cb05cfad2ebce8f8d3911ac3c"
+    },
+    "whole_head_outline_source_audit.png": {
+      "bytes": 51256,
+      "sha256": "61ea3821e04c2a625aef1c83274d7f040836514937a744e76f90af4377311c71"
+    },
+    "whole_head_reference_4000x6000.psd": {
+      "bytes": 2867504,
+      "sha256": "510392d83c4e98f4b462a3c2b2be548002de87cdfe2068446335cb7e865173fe"
+    },
+    "whole_head_reference_psd_manifest.json": {
+      "bytes": 4520,
+      "sha256": "4bc86bb2103dbbaa3006fe1adef0025a9cb1ada947399f2888bdf862c56caddf"
+    },
+    "whole_head_reference_psd_readback.json": {
+      "bytes": 1571,
+      "sha256": "4d3ec654736bdb01287c5d430a6d33eb43a959a9ff5d481a5e8e05e276b425f2"
+    },
+    "whole_head_runtime_guide_4up.png": {
+      "bytes": 149739,
+      "sha256": "7eb5967e541f1d2878c9be19d3e3c30ec0e4c8e6b3805de28bd924e19056e55c"
+    },
+    "whole_head_runtime_measurement.json": {
+      "bytes": 10051,
+      "sha256": "efa94ec42104e6239a6764cfe4cc02991b49277f65bbedb0a59650005d18f1e7"
+    }
+  },
+  "problems": [],
+  "acceptance_boundary": "Real before/after export is verified. Cheek kinks and small translucent edge fragments remain. Alpha64 has a one-row split at X=-15/Y=-30; alpha16 has up to seven split rows at the endpoint. Scalp under hair is inferred. Boss contour acceptance remains pending; do not advance eyes/hair/ears/mouth placement yet."
+}

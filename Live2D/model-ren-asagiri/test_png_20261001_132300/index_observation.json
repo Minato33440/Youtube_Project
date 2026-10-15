@@ -1,0 +1,17 @@
+{
+  "checked_utc": "2026-10-01T04:28:47.639362+00:00",
+  "index_sha256_now": "dc27048fedbfe430119554cdae71dc98e70c195ae7947d862420f1489faeb07f",
+  "index_sha256_before": "59690fce0efbf40ce9f4e38029e0f4bf704aaeeafb591d99b49115139b6e9166",
+  "candidate_paths_compared": 344,
+  "indexed_candidates": 96,
+  "changed_candidate_index_entries": [],
+  "staged_file_count": 490,
+  "git_mutations_issued": false,
+  "cause": "Unknown; do not attribute to a specific process or restore index",
+  "AD_paths": [
+    "Live2D/model-ren-asagiri/art/expression_rig/parts/eyelash_closed_L.png",
+    "Live2D/model-ren-asagiri/art/expression_rig/parts/eyelash_closed_R.png"
+  ],
+  "AD_source_absent_in_task_start_snapshot": true,
+  "scope_limit": "Start snapshot did not include every index entry; byte invariance failed"
+}

@@ -1,0 +1,618 @@
+{
+  "purpose": "Read-only source registration from Rough coordinates to original Looking_down (2) coordinates.",
+  "inputs": {
+    "original": {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (2).png",
+      "sha256": "9467b49181bfcd98ca7fcef67c8f8d2072b09d7cc56cc36e862c66e43d2c44dc",
+      "mode_after_load": "RGBA",
+      "dimensions_px": [
+        958,
+        1004
+      ],
+      "alpha_min_max": [
+        0,
+        255
+      ],
+      "alpha_bbox_gt_0": [
+        4,
+        1,
+        953,
+        1004
+      ],
+      "transparent_pixel_count": 426889,
+      "opaque_pixel_count": 534943,
+      "top_left_rgba": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "bottom_right_rgba": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "rough": {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (2)-Rough.png",
+      "sha256": "f20432ba2a9f3bff4036e245358ceaa966c03d5c44b5ec8819d24b22763f7bf6",
+      "mode_after_load": "RGBA",
+      "dimensions_px": [
+        672,
+        769
+      ],
+      "alpha_min_max": [
+        0,
+        255
+      ],
+      "alpha_bbox_gt_0": [
+        6,
+        0,
+        672,
+        769
+      ],
+      "transparent_pixel_count": 178515,
+      "opaque_pixel_count": 338253,
+      "top_left_rgba": [
+        255,
+        255,
+        255,
+        0
+      ],
+      "bottom_right_rgba": [
+        246,
+        245,
+        250,
+        255
+      ]
+    },
+    "outline": {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (2)-outline.png",
+      "sha256": "f83c4ca58f81b609a3da54aecc6ccd1926eabb2da616ed594c20f148bfcac322",
+      "mode_after_load": "RGBA",
+      "dimensions_px": [
+        672,
+        784
+      ],
+      "alpha_min_max": [
+        0,
+        255
+      ],
+      "alpha_bbox_gt_0": [
+        120,
+        193,
+        594,
+        729
+      ],
+      "transparent_pixel_count": 345462,
+      "opaque_pixel_count": 176993,
+      "top_left_rgba": [
+        255,
+        255,
+        255,
+        0
+      ],
+      "bottom_right_rgba": [
+        255,
+        255,
+        255,
+        0
+      ]
+    }
+  },
+  "model": "original_xy = rough_xy * uniform_scale + translation_xy; no rotation or shear",
+  "best_fft_edge_registration": {
+    "scale": 0.9994,
+    "translation_px": [
+      57,
+      1
+    ],
+    "fft_edge_score": 0.7755082845687866,
+    "resized_dimensions_px": [
+      672,
+      769
+    ]
+  },
+  "selected_exact_crop_registration": {
+    "scale": 1.0,
+    "translation_px": [
+      57,
+      1
+    ],
+    "model": "original_xy = rough_xy + (57, 1)",
+    "reason": "The FFT peak is stable at this integer translation throughout the no-resize scale plateau, and it is the best local visible-pixel residual. The supplied Rough and outline share the same top-left coordinate system; the outline's last 15 rows are transparent padding.",
+    "pixel_residual": {
+      "translation_px": [
+        57,
+        1
+      ],
+      "overlap_dimensions_px": [
+        672,
+        769
+      ],
+      "visible_union_pixel_count": 338253,
+      "premultiplied_rgba_mean_abs_difference": 0.0,
+      "premultiplied_rgba_p95_abs_difference": 0.0,
+      "premultiplied_rgba_max_abs_difference": 0,
+      "exact_visible_rgba_pixel_fraction": 1.0
+    }
+  },
+  "local_integer_translation_residuals_top_10": [
+    {
+      "translation_px": [
+        57,
+        1
+      ],
+      "overlap_dimensions_px": [
+        672,
+        769
+      ],
+      "visible_union_pixel_count": 338253,
+      "premultiplied_rgba_mean_abs_difference": 0.0,
+      "premultiplied_rgba_p95_abs_difference": 0.0,
+      "premultiplied_rgba_max_abs_difference": 0,
+      "exact_visible_rgba_pixel_fraction": 1.0
+    },
+    {
+      "translation_px": [
+        57,
+        2
+      ],
+      "overlap_dimensions_px": [
+        672,
+        769
+      ],
+      "visible_union_pixel_count": 339467,
+      "premultiplied_rgba_mean_abs_difference": 7.549129,
+      "premultiplied_rgba_p95_abs_difference": 27.0,
+      "premultiplied_rgba_max_abs_difference": 257,
+      "exact_visible_rgba_pixel_fraction": 0.346325
+    },
+    {
+      "translation_px": [
+        57,
+        0
+      ],
+      "overlap_dimensions_px": [
+        672,
+        769
+      ],
+      "visible_union_pixel_count": 338951,
+      "premultiplied_rgba_mean_abs_difference": 7.556187,
+      "premultiplied_rgba_p95_abs_difference": 27.0,
+      "premultiplied_rgba_max_abs_difference": 257,
+      "exact_visible_rgba_pixel_fraction": 0.346233
+    },
+    {
+      "translation_px": [
+        58,
+        1
+      ],
+      "overlap_dimensions_px": [
+        672,
+        769
+      ],
+      "visible_union_pixel_count": 339253,
+      "premultiplied_rgba_mean_abs_difference": 10.206372,
+      "premultiplied_rgba_p95_abs_difference": 51.0,
+      "premultiplied_rgba_max_abs_difference": 257,
+      "exact_visible_rgba_pixel_fraction": 0.298992
+    },
+    {
+      "translation_px": [
+        56,
+        1
+      ],
+      "overlap_dimensions_px": [
+        672,
+        769
+      ],
+      "visible_union_pixel_count": 339245,
+      "premultiplied_rgba_mean_abs_difference": 10.206577,
+      "premultiplied_rgba_p95_abs_difference": 51.0,
+      "premultiplied_rgba_max_abs_difference": 257,
+      "exact_visible_rgba_pixel_fraction": 0.29899
+    },
+    {
+      "translation_px": [
+        58,
+        2
+      ],
+      "overlap_dimensions_px": [
+        672,
+        769
+      ],
+      "visible_union_pixel_count": 339854,
+      "premultiplied_rgba_mean_abs_difference": 10.588769,
+      "premultiplied_rgba_p95_abs_difference": 53.0,
+      "premultiplied_rgba_max_abs_difference": 257,
+      "exact_visible_rgba_pixel_fraction": 0.249828
+    },
+    {
+      "translation_px": [
+        56,
+        0
+      ],
+      "overlap_dimensions_px": [
+        672,
+        769
+      ],
+      "visible_union_pixel_count": 339329,
+      "premultiplied_rgba_mean_abs_difference": 10.597481,
+      "premultiplied_rgba_p95_abs_difference": 53.0,
+      "premultiplied_rgba_max_abs_difference": 257,
+      "exact_visible_rgba_pixel_fraction": 0.249734
+    },
+    {
+      "translation_px": [
+        57,
+        3
+      ],
+      "overlap_dimensions_px": [
+        672,
+        769
+      ],
+      "visible_union_pixel_count": 340652,
+      "premultiplied_rgba_mean_abs_difference": 10.673015,
+      "premultiplied_rgba_p95_abs_difference": 56.0,
+      "premultiplied_rgba_max_abs_difference": 257,
+      "exact_visible_rgba_pixel_fraction": 0.245685
+    },
+    {
+      "translation_px": [
+        57,
+        -1
+      ],
+      "overlap_dimensions_px": [
+        672,
+        768
+      ],
+      "visible_union_pixel_count": 339636,
+      "premultiplied_rgba_mean_abs_difference": 10.699832,
+      "premultiplied_rgba_p95_abs_difference": 56.0,
+      "premultiplied_rgba_max_abs_difference": 257,
+      "exact_visible_rgba_pixel_fraction": 0.245436
+    },
+    {
+      "translation_px": [
+        56,
+        2
+      ],
+      "overlap_dimensions_px": [
+        672,
+        769
+      ],
+      "visible_union_pixel_count": 339838,
+      "premultiplied_rgba_mean_abs_difference": 10.752678,
+      "premultiplied_rgba_p95_abs_difference": 56.0,
+      "premultiplied_rgba_max_abs_difference": 257,
+      "exact_visible_rgba_pixel_fraction": 0.247727
+    }
+  ],
+  "coarse_top_10": [
+    {
+      "scale": 1.0,
+      "translation_px": [
+        57,
+        1
+      ],
+      "fft_edge_score": 0.7755082845687866
+    },
+    {
+      "scale": 1.002,
+      "translation_px": [
+        57,
+        0
+      ],
+      "fft_edge_score": 0.5995115041732788
+    },
+    {
+      "scale": 0.998,
+      "translation_px": [
+        57,
+        2
+      ],
+      "fft_edge_score": 0.597740888595581
+    },
+    {
+      "scale": 1.004,
+      "translation_px": [
+        55,
+        -1
+      ],
+      "fft_edge_score": 0.5170929431915283
+    },
+    {
+      "scale": 0.996,
+      "translation_px": [
+        59,
+        3
+      ],
+      "fft_edge_score": 0.5149052143096924
+    },
+    {
+      "scale": 1.006,
+      "translation_px": [
+        55,
+        -3
+      ],
+      "fft_edge_score": 0.4610148072242737
+    },
+    {
+      "scale": 0.994,
+      "translation_px": [
+        59,
+        5
+      ],
+      "fft_edge_score": 0.45969220995903015
+    },
+    {
+      "scale": 1.008,
+      "translation_px": [
+        54,
+        -4
+      ],
+      "fft_edge_score": 0.4271799325942993
+    },
+    {
+      "scale": 0.992,
+      "translation_px": [
+        60,
+        6
+      ],
+      "fft_edge_score": 0.42397838830947876
+    },
+    {
+      "scale": 1.01,
+      "translation_px": [
+        53,
+        -6
+      ],
+      "fft_edge_score": 0.36606502532958984
+    }
+  ],
+  "fine_top_20": [
+    {
+      "scale": 0.9994,
+      "translation_px": [
+        57,
+        1
+      ],
+      "fft_edge_score": 0.7755082845687866,
+      "resized_dimensions_px": [
+        672,
+        769
+      ]
+    },
+    {
+      "scale": 0.9995,
+      "translation_px": [
+        57,
+        1
+      ],
+      "fft_edge_score": 0.7755082845687866,
+      "resized_dimensions_px": [
+        672,
+        769
+      ]
+    },
+    {
+      "scale": 0.9996,
+      "translation_px": [
+        57,
+        1
+      ],
+      "fft_edge_score": 0.7755082845687866,
+      "resized_dimensions_px": [
+        672,
+        769
+      ]
+    },
+    {
+      "scale": 0.9997,
+      "translation_px": [
+        57,
+        1
+      ],
+      "fft_edge_score": 0.7755082845687866,
+      "resized_dimensions_px": [
+        672,
+        769
+      ]
+    },
+    {
+      "scale": 0.9998,
+      "translation_px": [
+        57,
+        1
+      ],
+      "fft_edge_score": 0.7755082845687866,
+      "resized_dimensions_px": [
+        672,
+        769
+      ]
+    },
+    {
+      "scale": 0.9999,
+      "translation_px": [
+        57,
+        1
+      ],
+      "fft_edge_score": 0.7755082845687866,
+      "resized_dimensions_px": [
+        672,
+        769
+      ]
+    },
+    {
+      "scale": 1.0,
+      "translation_px": [
+        57,
+        1
+      ],
+      "fft_edge_score": 0.7755082845687866,
+      "resized_dimensions_px": [
+        672,
+        769
+      ]
+    },
+    {
+      "scale": 1.0001,
+      "translation_px": [
+        57,
+        1
+      ],
+      "fft_edge_score": 0.7755082845687866,
+      "resized_dimensions_px": [
+        672,
+        769
+      ]
+    },
+    {
+      "scale": 1.0002,
+      "translation_px": [
+        57,
+        1
+      ],
+      "fft_edge_score": 0.7755082845687866,
+      "resized_dimensions_px": [
+        672,
+        769
+      ]
+    },
+    {
+      "scale": 1.0003,
+      "translation_px": [
+        57,
+        1
+      ],
+      "fft_edge_score": 0.7755082845687866,
+      "resized_dimensions_px": [
+        672,
+        769
+      ]
+    },
+    {
+      "scale": 1.0004,
+      "translation_px": [
+        57,
+        1
+      ],
+      "fft_edge_score": 0.7755082845687866,
+      "resized_dimensions_px": [
+        672,
+        769
+      ]
+    },
+    {
+      "scale": 1.0005,
+      "translation_px": [
+        57,
+        1
+      ],
+      "fft_edge_score": 0.7755082845687866,
+      "resized_dimensions_px": [
+        672,
+        769
+      ]
+    },
+    {
+      "scale": 1.0006,
+      "translation_px": [
+        57,
+        1
+      ],
+      "fft_edge_score": 0.7755082845687866,
+      "resized_dimensions_px": [
+        672,
+        769
+      ]
+    },
+    {
+      "scale": 1.0007,
+      "translation_px": [
+        57,
+        0
+      ],
+      "fft_edge_score": 0.714673638343811,
+      "resized_dimensions_px": [
+        672,
+        770
+      ]
+    },
+    {
+      "scale": 0.9993,
+      "translation_px": [
+        57,
+        2
+      ],
+      "fft_edge_score": 0.7134407758712769,
+      "resized_dimensions_px": [
+        672,
+        768
+      ]
+    },
+    {
+      "scale": 1.0008,
+      "translation_px": [
+        56,
+        0
+      ],
+      "fft_edge_score": 0.6317634582519531,
+      "resized_dimensions_px": [
+        673,
+        770
+      ]
+    },
+    {
+      "scale": 1.0009,
+      "translation_px": [
+        56,
+        0
+      ],
+      "fft_edge_score": 0.6317634582519531,
+      "resized_dimensions_px": [
+        673,
+        770
+      ]
+    },
+    {
+      "scale": 1.001,
+      "translation_px": [
+        56,
+        0
+      ],
+      "fft_edge_score": 0.6317634582519531,
+      "resized_dimensions_px": [
+        673,
+        770
+      ]
+    },
+    {
+      "scale": 1.0011,
+      "translation_px": [
+        56,
+        0
+      ],
+      "fft_edge_score": 0.6317634582519531,
+      "resized_dimensions_px": [
+        673,
+        770
+      ]
+    },
+    {
+      "scale": 1.0012,
+      "translation_px": [
+        56,
+        0
+      ],
+      "fft_edge_score": 0.6317634582519531,
+      "resized_dimensions_px": [
+        673,
+        770
+      ]
+    }
+  ],
+  "note": "FFT edge correlation is an estimator. Final guide generation should record a pixel-domain residual and selected transform explicitly."
+}

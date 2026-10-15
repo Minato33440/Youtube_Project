@@ -1,0 +1,31 @@
+# Target Objective
+Focus exclusively on "Phase 1: XY 4 Corners Implementation & Interpolation Audit (Z=0)". Do not apply Z-axis rotation yet. Ensure that the transformation from the center (0,0) to the extreme 4 corners is anatomically correct and perfectly preserves "Ren's identity".
+
+# Workflow Instructions for Computer-Use
+
+## Step 1: Baseline Verification (0,0)
+1. Set PARAM_ANGLE_X = 0, PARAM_ANGLE_Y = 0, PARAM_ANGLE_Z = 0.
+2. Capture a screenshot of the canvas and cross-reference it with the provided original character art to lock down Ren's absolute features (eye shape, iris highlight position, specific bang overlaps).
+
+## Step 2: Extreme 4 Corners Audit (四隅の端点チェック)
+Navigate the parameter sliders to the following 4 extreme coordinates. At each point, perform a visual scan and report anomalies:
+
+1. Top-Left (X: -30, Y: +30) - [Looking Up & Left]
+2. Top-Right (X: +30, Y: +30) - [Looking Up & Right]
+3. Bottom-Left (X: -30, Y: -30) - [Looking Down & Left]
+4. Bottom-Right (X: +30, Y: -30) - [Looking Down & Right]
+
+*Critical Checkpoints for 4 Corners:*
+- Far-side Eye Compression: Check if the horizontal scale of the far eye is compressed naturally according to the face curve. Ensure the eyelid line doesn't crease or distort jaggedly.
+- Jawline Deformation: When looking down (Y-30), verify that the chin doesn't become overly cartoonish or blunted, maintaining the soft jawline of an 18-year-old literary boy.
+- Hair Strand Alignment: Check if the independent ahoge and side hair clumps follow the head's volume naturally without drifting or revealing the underlying bald scalp mesh.
+
+## Step 3: Interpolation Path & Diagonal Trajectory Audit (中間地点・軌道のチェック)
+Do not just look at the end points. Slowly move the slider diagonally from (0,0) towards each corner (e.g., intermediate points like X: +15, Y: +15).
+- Check for "Linear Pop" Errors: Ensure the parts glide along a natural spherical arc trajectory, not a harsh linear shortcut.
+- If the blending of forms looks unnatural at the midpoint, manually add an intermediate keyframe or adjust the Deformer handles to smooth the transition.
+
+## Step 4: Fix & Synthesis Loop
+1. If the corner distortion is severe, use Cubism’s "Synthesize Corners (四隅のフォーム生成)" tool as a starting foundation.
+2. After synthesis, micro-adjust the specific ArtMesh keyforms (especially the eyes, brows, and facial contour) to eliminate any volumetric collapse or "off-model" expressions.
+3. Report the completion of Phase 1 once all 4 corners and their diagonal paths can be traversed smoothly without visual glitching.

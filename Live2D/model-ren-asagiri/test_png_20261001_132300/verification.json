@@ -1,0 +1,12 @@
+{
+  "all_original_files_preserved_or_manifest_moved": true,
+  "bad_paths": [],
+  "git_index_unchanged": false,
+  "index_sha256": "59690fce0efbf40ce9f4e38029e0f4bf704aaeeafb591d99b49115139b6e9166",
+  "copies_equal": true,
+  "moves_valid": true,
+  "original_files_checked": 1664,
+  "moved_count": 0,
+  "moved_bytes": 0,
+  "protected": "All accessible original model project files excluding dependency libraries/cache; includes original 48 artwork, all CMO3/PSD/runtime and prior collection/reports"
+}

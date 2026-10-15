@@ -1,0 +1,37 @@
+{
+  "method": "Manual eye landmarks, rotation and uniform scale only. Approximate guide, not automatic face fitting.",
+  "reference_eye_centres": [
+    [
+      295.9,
+      527.3
+    ],
+    [
+      487.3,
+      507.3
+    ]
+  ],
+  "target_eye_centres": [
+    [
+      145.8,
+      248.8
+    ],
+    [
+      220.3,
+      248.4
+    ]
+  ],
+  "reference_points_aligned": {
+    "mouth": [
+      187.57986210494371,
+      302.618219655689
+    ],
+    "chin": [
+      187.41415203775134,
+      331.77906499872006
+    ],
+    "nose": [
+      177.4237669965621,
+      275.54704984290095
+    ]
+  }
+}

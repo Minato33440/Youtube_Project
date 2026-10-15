@@ -1,0 +1,346 @@
+{
+  "status": "before_after_measurement_complete",
+  "scope": "Face-runtime-only direct-SDK render at ParamAngleX=-30, ParamAngleY=-30. No hair, eyes, ears, mouth, physics update, temporary model fixture, or post-render model warp.",
+  "acceptance": "diagnostic_only; Boss visual acceptance remains required",
+  "direct_model_loading": {
+    "baseline_model3_json": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\archive\\before_whole_head_outline_20260926\\face_runtime\\Ren_face_endpoint.model3.json",
+    "current_model3_json": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\face_runtime\\Ren_face_endpoint.model3.json",
+    "temporary_fixture": false,
+    "physics_update_called": false,
+    "render_warp_applied": false
+  },
+  "models": {
+    "baseline_moc3_sha256": "c9bbb6c84fd8575535182f80bfa7145e00129d244822bcfe503bc3f23b8bf527",
+    "current_moc3_sha256": "f0f090c96065d8e1f3bedc2323f7bf61e8ef6fcd9903492219c007fa9edeeb3b",
+    "hashes_equal": false,
+    "render_delta": {
+      "max_channel_difference": 255,
+      "pixels_with_any_rgba_difference": 19001
+    }
+  },
+  "target": {
+    "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\whole_head_outline_check\\whole_head_contour_target.json",
+    "sha256": "1db52a18978f6a7d55db701d9e6fdbb57f1d624f975912f4de9ef25370e19d50",
+    "outline_sha256": "f83c4ca58f81b609a3da54aecc6ccd1926eabb2da616ed594c20f148bfcac322",
+    "classification": {
+      "face_visible_observed": "Cyan path follows the supplied dark face outline from the left ear-root area through the chin to the right side. It is the precision face-underfill target.",
+      "scalp_hair_hidden_inferred": "Amber dashed path follows the Boss-supplied intended upper head shape, but remains an approximation for face-underfill because finished hair hides it.",
+      "ear_outer_observed_separate": "Magenta paths trace ear outer silhouettes for orientation only. They are not part of the face-underfill target and are excluded from distance metrics."
+    }
+  },
+  "distance_canvas_px": {
+    "baseline": {
+      "face_visible_observed": {
+        "count": 344,
+        "min": 0.212,
+        "p50": 4.457,
+        "p90": 14.333,
+        "max": 23.622,
+        "mean": 5.991
+      },
+      "scalp_hair_hidden_inferred": {
+        "count": 275,
+        "min": 0.248,
+        "p50": 32.775,
+        "p90": 92.52,
+        "max": 98.555,
+        "mean": 43.877
+      },
+      "face_equal_arc_bins": {
+        "left_cheek": {
+          "sample_range_1_based": [
+            1,
+            69
+          ],
+          "distance_canvas_px": {
+            "count": 69,
+            "min": 0.516,
+            "p50": 9.227,
+            "p90": 18.925,
+            "max": 23.622,
+            "mean": 10.214
+          }
+        },
+        "left_jaw": {
+          "sample_range_1_based": [
+            70,
+            138
+          ],
+          "distance_canvas_px": {
+            "count": 69,
+            "min": 0.212,
+            "p50": 2.275,
+            "p90": 4.191,
+            "max": 4.953,
+            "mean": 2.485
+          }
+        },
+        "chin": {
+          "sample_range_1_based": [
+            139,
+            206
+          ],
+          "distance_canvas_px": {
+            "count": 68,
+            "min": 0.724,
+            "p50": 3.883,
+            "p90": 6.352,
+            "max": 7.807,
+            "mean": 3.755
+          }
+        },
+        "right_jaw": {
+          "sample_range_1_based": [
+            207,
+            275
+          ],
+          "distance_canvas_px": {
+            "count": 69,
+            "min": 0.242,
+            "p50": 1.439,
+            "p90": 17.186,
+            "max": 20.589,
+            "mean": 4.854
+          }
+        },
+        "right_cheek": {
+          "sample_range_1_based": [
+            276,
+            344
+          ],
+          "distance_canvas_px": {
+            "count": 69,
+            "min": 5.018,
+            "p50": 8.038,
+            "p90": 12.636,
+            "max": 16.017,
+            "mean": 8.618
+          }
+        }
+      },
+      "scalp_equal_arc_bins": {
+        "right_side": {
+          "sample_range_1_based": [
+            1,
+            69
+          ],
+          "distance_canvas_px": {
+            "count": 69,
+            "min": 8.892,
+            "p50": 20.271,
+            "p90": 45.228,
+            "max": 53.303,
+            "mean": 24.034
+          }
+        },
+        "upper_right": {
+          "sample_range_1_based": [
+            70,
+            138
+          ],
+          "distance_canvas_px": {
+            "count": 69,
+            "min": 54.646,
+            "p50": 89.193,
+            "p90": 98.03,
+            "max": 98.555,
+            "mean": 84.788
+          }
+        },
+        "upper_left": {
+          "sample_range_1_based": [
+            139,
+            206
+          ],
+          "distance_canvas_px": {
+            "count": 68,
+            "min": 0.248,
+            "p50": 39.965,
+            "p90": 78.64,
+            "max": 86.472,
+            "mean": 40.731
+          }
+        },
+        "left_side": {
+          "sample_range_1_based": [
+            207,
+            275
+          ],
+          "distance_canvas_px": {
+            "count": 69,
+            "min": 7.325,
+            "p50": 28.02,
+            "p90": 34.289,
+            "max": 35.172,
+            "mean": 25.909
+          }
+        }
+      }
+    },
+    "current": {
+      "face_visible_observed": {
+        "count": 344,
+        "min": 0.081,
+        "p50": 2.635,
+        "p90": 7.279,
+        "max": 9.92,
+        "mean": 3.337
+      },
+      "scalp_hair_hidden_inferred": {
+        "count": 275,
+        "min": 0.409,
+        "p50": 6.76,
+        "p90": 14.276,
+        "max": 16.856,
+        "mean": 7.173
+      },
+      "face_equal_arc_bins": {
+        "left_cheek": {
+          "sample_range_1_based": [
+            1,
+            69
+          ],
+          "distance_canvas_px": {
+            "count": 69,
+            "min": 0.147,
+            "p50": 2.074,
+            "p90": 7.177,
+            "max": 9.92,
+            "mean": 2.953
+          }
+        },
+        "left_jaw": {
+          "sample_range_1_based": [
+            70,
+            138
+          ],
+          "distance_canvas_px": {
+            "count": 69,
+            "min": 0.212,
+            "p50": 2.275,
+            "p90": 4.191,
+            "max": 4.953,
+            "mean": 2.485
+          }
+        },
+        "chin": {
+          "sample_range_1_based": [
+            139,
+            206
+          ],
+          "distance_canvas_px": {
+            "count": 68,
+            "min": 0.724,
+            "p50": 3.883,
+            "p90": 6.352,
+            "max": 7.807,
+            "mean": 3.755
+          }
+        },
+        "right_jaw": {
+          "sample_range_1_based": [
+            207,
+            275
+          ],
+          "distance_canvas_px": {
+            "count": 69,
+            "min": 0.242,
+            "p50": 1.388,
+            "p90": 4.758,
+            "max": 6.625,
+            "mean": 1.975
+          }
+        },
+        "right_cheek": {
+          "sample_range_1_based": [
+            276,
+            344
+          ],
+          "distance_canvas_px": {
+            "count": 69,
+            "min": 0.081,
+            "p50": 6.492,
+            "p90": 8.25,
+            "max": 8.949,
+            "mean": 5.525
+          }
+        }
+      },
+      "scalp_equal_arc_bins": {
+        "right_side": {
+          "sample_range_1_based": [
+            1,
+            69
+          ],
+          "distance_canvas_px": {
+            "count": 69,
+            "min": 0.73,
+            "p50": 6.221,
+            "p90": 14.433,
+            "max": 16.856,
+            "mean": 7.2
+          }
+        },
+        "upper_right": {
+          "sample_range_1_based": [
+            70,
+            138
+          ],
+          "distance_canvas_px": {
+            "count": 69,
+            "min": 2.557,
+            "p50": 8.026,
+            "p90": 14.933,
+            "max": 16.755,
+            "mean": 9.065
+          }
+        },
+        "upper_left": {
+          "sample_range_1_based": [
+            139,
+            206
+          ],
+          "distance_canvas_px": {
+            "count": 68,
+            "min": 3.214,
+            "p50": 6.518,
+            "p90": 15.347,
+            "max": 16.808,
+            "mean": 8.286
+          }
+        },
+        "left_side": {
+          "sample_range_1_based": [
+            207,
+            275
+          ],
+          "distance_canvas_px": {
+            "count": 69,
+            "min": 0.409,
+            "p50": 3.141,
+            "p90": 7.93,
+            "max": 8.947,
+            "mean": 4.157
+          }
+        }
+      }
+    }
+  },
+  "sample_counts": {
+    "face_visible_observed": 344,
+    "scalp_hair_hidden_inferred": 275
+  },
+  "artifacts": {
+    "four_up": "whole_head_runtime_guide_4up.png",
+    "overlay": "current_vs_whole_head_guide_overlay_2000x3000.png",
+    "baseline": "baseline_bareface_2000x3000.png",
+    "current": "current_bareface_2000x3000.png",
+    "current_rgba": "current_bareface_2000x3000_rgba.png"
+  },
+  "interpretation_limits": [
+    "The scalp target is intentionally inferred under hair and must be reviewed as a shape/coverage guide rather than a visible-pixel truth.",
+    "Ear outer contours are excluded from face-underfill distance metrics.",
+    "Nearest alpha-edge distances cannot prove mesh topology, triangle orientation, or continuous-motion quality.",
+    "When baseline and current moc3 hashes are equal, this is a before-only diagnostic and no after improvement is claimed."
+  ]
+}

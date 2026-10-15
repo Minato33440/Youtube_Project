@@ -1,0 +1,1251 @@
+{
+  "checked_at": "2026-09-26T16:59:40.826310+09:00",
+  "render_size": [
+    2000,
+    3000
+  ],
+  "physics_evaluated": false,
+  "source_or_raster_warp": false,
+  "provenance": {
+    "face": {
+      "model3": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\face_runtime\\Ren_face_endpoint.model3.json",
+      "moc3_sha256": "f0f090c96065d8e1f3bedc2323f7bf61e8ef6fcd9903492219c007fa9edeeb3b"
+    },
+    "old_face": {
+      "model3": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\archive\\before_whole_head_outline_20260926\\face_runtime\\Ren_face_endpoint.model3.json",
+      "moc3_sha256": "c9bbb6c84fd8575535182f80bfa7145e00129d244822bcfe503bc3f23b8bf527"
+    },
+    "full": {
+      "model3": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\runtime\\Ren_face_endpoint.model3.json",
+      "moc3_sha256": "30afa31da02fcc0d3733d4fa710b3a30bc7c4bad7589257c9f1649b806834601"
+    },
+    "baseline": {
+      "model3": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\model\\head_angles\\single_endpoint\\archive\\before_whole_head_outline_20260926\\runtime\\Ren_face_endpoint.model3.json",
+      "moc3_sha256": "50c1332b7c9d404836e3f115c3a90557c64dc9c1591aa52931ce8a66092861e3"
+    }
+  },
+  "face_pose_cases": [
+    {
+      "label": "正面",
+      "params": {
+        "ParamAngleX": 0,
+        "ParamAngleY": 0,
+        "ParamMouthOpenY": 0
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 98415
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 97924
+      }
+    },
+    {
+      "label": "正面",
+      "params": {
+        "ParamAngleX": 0,
+        "ParamAngleY": 0,
+        "ParamMouthOpenY": 0.35
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 99047
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 98560
+      }
+    },
+    {
+      "label": "正面",
+      "params": {
+        "ParamAngleX": 0,
+        "ParamAngleY": 0,
+        "ParamMouthOpenY": 0.7
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 99672
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 99176
+      }
+    },
+    {
+      "label": "正面",
+      "params": {
+        "ParamAngleX": 0,
+        "ParamAngleY": 0,
+        "ParamMouthOpenY": 1
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 100214
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 99717
+      }
+    },
+    {
+      "label": "中間 1",
+      "params": {
+        "ParamAngleX": -7.5,
+        "ParamAngleY": -7.5,
+        "ParamMouthOpenY": 0
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 94939
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 94415
+      }
+    },
+    {
+      "label": "中間 1",
+      "params": {
+        "ParamAngleX": -7.5,
+        "ParamAngleY": -7.5,
+        "ParamMouthOpenY": 0.35
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 95539
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 95016
+      }
+    },
+    {
+      "label": "中間 1",
+      "params": {
+        "ParamAngleX": -7.5,
+        "ParamAngleY": -7.5,
+        "ParamMouthOpenY": 0.7
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 96117
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 95601
+      }
+    },
+    {
+      "label": "中間 1",
+      "params": {
+        "ParamAngleX": -7.5,
+        "ParamAngleY": -7.5,
+        "ParamMouthOpenY": 1
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 96630
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 96106
+      }
+    },
+    {
+      "label": "中間 2",
+      "params": {
+        "ParamAngleX": -15,
+        "ParamAngleY": -15,
+        "ParamMouthOpenY": 0
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 89822
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 89232
+      }
+    },
+    {
+      "label": "中間 2",
+      "params": {
+        "ParamAngleX": -15,
+        "ParamAngleY": -15,
+        "ParamMouthOpenY": 0.35
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 90370
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 89772
+      }
+    },
+    {
+      "label": "中間 2",
+      "params": {
+        "ParamAngleX": -15,
+        "ParamAngleY": -15,
+        "ParamMouthOpenY": 0.7
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 90908
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 90310
+      }
+    },
+    {
+      "label": "中間 2",
+      "params": {
+        "ParamAngleX": -15,
+        "ParamAngleY": -15,
+        "ParamMouthOpenY": 1
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 91357
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 90778
+      }
+    },
+    {
+      "label": "中間 3",
+      "params": {
+        "ParamAngleX": -22.5,
+        "ParamAngleY": -22.5,
+        "ParamMouthOpenY": 0
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 83058
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 82484
+      }
+    },
+    {
+      "label": "中間 3",
+      "params": {
+        "ParamAngleX": -22.5,
+        "ParamAngleY": -22.5,
+        "ParamMouthOpenY": 0.35
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 83539
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 82982
+      }
+    },
+    {
+      "label": "中間 3",
+      "params": {
+        "ParamAngleX": -22.5,
+        "ParamAngleY": -22.5,
+        "ParamMouthOpenY": 0.7
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 84038
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 83468
+      }
+    },
+    {
+      "label": "中間 3",
+      "params": {
+        "ParamAngleX": -22.5,
+        "ParamAngleY": -22.5,
+        "ParamMouthOpenY": 1
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 84450
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 83888
+      }
+    },
+    {
+      "label": "終点",
+      "params": {
+        "ParamAngleX": -30,
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 7,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 74943
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 74357
+      }
+    },
+    {
+      "label": "終点",
+      "params": {
+        "ParamAngleX": -30,
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0.35
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 4,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 75373
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 74781
+      }
+    },
+    {
+      "label": "終点",
+      "params": {
+        "ParamAngleX": -30,
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0.7
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 6,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 75803
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 75219
+      }
+    },
+    {
+      "label": "終点",
+      "params": {
+        "ParamAngleX": -30,
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 1
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 5,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 76186
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 75578
+      }
+    },
+    {
+      "label": "中間 X-15 / Y-30",
+      "params": {
+        "ParamAngleX": -15,
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 86486
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 1,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 85910
+      }
+    },
+    {
+      "label": "中間 X-15 / Y-30",
+      "params": {
+        "ParamAngleX": -15,
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0.35
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 86993
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 1,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 86414
+      }
+    },
+    {
+      "label": "中間 X-15 / Y-30",
+      "params": {
+        "ParamAngleX": -15,
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0.7
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 87501
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 1,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 86914
+      }
+    },
+    {
+      "label": "中間 X-15 / Y-30",
+      "params": {
+        "ParamAngleX": -15,
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 1
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 87930
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 1,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 87347
+      }
+    },
+    {
+      "label": "中間 X-30 / Y-15",
+      "params": {
+        "ParamAngleX": -30,
+        "ParamAngleY": -15,
+        "ParamMouthOpenY": 0
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 1,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 81364
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 80777
+      }
+    },
+    {
+      "label": "中間 X-30 / Y-15",
+      "params": {
+        "ParamAngleX": -30,
+        "ParamAngleY": -15,
+        "ParamMouthOpenY": 0.35
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 1,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 81844
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 81262
+      }
+    },
+    {
+      "label": "中間 X-30 / Y-15",
+      "params": {
+        "ParamAngleX": -30,
+        "ParamAngleY": -15,
+        "ParamMouthOpenY": 0.7
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 1,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 82326
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 81738
+      }
+    },
+    {
+      "label": "中間 X-30 / Y-15",
+      "params": {
+        "ParamAngleX": -30,
+        "ParamAngleY": -15,
+        "ParamMouthOpenY": 1
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 2,
+        "rows_with_multiple_runs": 1,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 82748
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 82152
+      }
+    },
+    {
+      "label": "正面の頷き",
+      "params": {
+        "ParamAngleX": 0,
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 98721
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 98194
+      }
+    },
+    {
+      "label": "正面の頷き",
+      "params": {
+        "ParamAngleX": 0,
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0.35
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 99309
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 98775
+      }
+    },
+    {
+      "label": "正面の頷き",
+      "params": {
+        "ParamAngleX": 0,
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0.7
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 99896
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 99370
+      }
+    },
+    {
+      "label": "正面の頷き",
+      "params": {
+        "ParamAngleX": 0,
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 1
+      },
+      "raster": {
+        "alpha_threshold": 16,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 100397
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 99884
+      }
+    }
+  ],
+  "front_face_preservation": [
+    {
+      "params": {
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "boundary_delta": {
+        "metric": "symmetric Chebyshev distance at 2000x3000; original-canvas pixels are x2",
+        "directions": [
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          },
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          }
+        ]
+      }
+    },
+    {
+      "params": {
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0.7
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "boundary_delta": {
+        "metric": "symmetric Chebyshev distance at 2000x3000; original-canvas pixels are x2",
+        "directions": [
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          },
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          }
+        ]
+      }
+    },
+    {
+      "params": {
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 1
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "boundary_delta": {
+        "metric": "symmetric Chebyshev distance at 2000x3000; original-canvas pixels are x2",
+        "directions": [
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          },
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          }
+        ]
+      }
+    },
+    {
+      "params": {
+        "ParamAngleY": -15,
+        "ParamMouthOpenY": 0
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "boundary_delta": {
+        "metric": "symmetric Chebyshev distance at 2000x3000; original-canvas pixels are x2",
+        "directions": [
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          },
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          }
+        ]
+      }
+    },
+    {
+      "params": {
+        "ParamAngleY": -15,
+        "ParamMouthOpenY": 0.7
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "boundary_delta": {
+        "metric": "symmetric Chebyshev distance at 2000x3000; original-canvas pixels are x2",
+        "directions": [
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          },
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          }
+        ]
+      }
+    },
+    {
+      "params": {
+        "ParamAngleY": -15,
+        "ParamMouthOpenY": 1
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "boundary_delta": {
+        "metric": "symmetric Chebyshev distance at 2000x3000; original-canvas pixels are x2",
+        "directions": [
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          },
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          }
+        ]
+      }
+    },
+    {
+      "params": {
+        "ParamAngleY": 0,
+        "ParamMouthOpenY": 0
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "boundary_delta": {
+        "metric": "symmetric Chebyshev distance at 2000x3000; original-canvas pixels are x2",
+        "directions": [
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          },
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          }
+        ]
+      }
+    },
+    {
+      "params": {
+        "ParamAngleY": 0,
+        "ParamMouthOpenY": 0.7
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "boundary_delta": {
+        "metric": "symmetric Chebyshev distance at 2000x3000; original-canvas pixels are x2",
+        "directions": [
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          },
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          }
+        ]
+      }
+    },
+    {
+      "params": {
+        "ParamAngleY": 0,
+        "ParamMouthOpenY": 1
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "boundary_delta": {
+        "metric": "symmetric Chebyshev distance at 2000x3000; original-canvas pixels are x2",
+        "directions": [
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          },
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          }
+        ]
+      }
+    },
+    {
+      "params": {
+        "ParamAngleY": 15,
+        "ParamMouthOpenY": 0
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "boundary_delta": {
+        "metric": "symmetric Chebyshev distance at 2000x3000; original-canvas pixels are x2",
+        "directions": [
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          },
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          }
+        ]
+      }
+    },
+    {
+      "params": {
+        "ParamAngleY": 15,
+        "ParamMouthOpenY": 0.7
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "boundary_delta": {
+        "metric": "symmetric Chebyshev distance at 2000x3000; original-canvas pixels are x2",
+        "directions": [
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          },
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          }
+        ]
+      }
+    },
+    {
+      "params": {
+        "ParamAngleY": 15,
+        "ParamMouthOpenY": 1
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "boundary_delta": {
+        "metric": "symmetric Chebyshev distance at 2000x3000; original-canvas pixels are x2",
+        "directions": [
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          },
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          }
+        ]
+      }
+    },
+    {
+      "params": {
+        "ParamAngleY": 30,
+        "ParamMouthOpenY": 0
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "boundary_delta": {
+        "metric": "symmetric Chebyshev distance at 2000x3000; original-canvas pixels are x2",
+        "directions": [
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          },
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          }
+        ]
+      }
+    },
+    {
+      "params": {
+        "ParamAngleY": 30,
+        "ParamMouthOpenY": 0.7
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "boundary_delta": {
+        "metric": "symmetric Chebyshev distance at 2000x3000; original-canvas pixels are x2",
+        "directions": [
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          },
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          }
+        ]
+      }
+    },
+    {
+      "params": {
+        "ParamAngleY": 30,
+        "ParamMouthOpenY": 1
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "boundary_delta": {
+        "metric": "symmetric Chebyshev distance at 2000x3000; original-canvas pixels are x2",
+        "directions": [
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          },
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          }
+        ]
+      }
+    }
+  ],
+  "full_front_preservation": [
+    {
+      "params": {
+        "ParamAngleY": 0,
+        "ParamMouthOpenY": 0
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "changed_bbox": null
+    },
+    {
+      "params": {
+        "ParamAngleY": 0,
+        "ParamMouthOpenY": 0.35
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "changed_bbox": null
+    },
+    {
+      "params": {
+        "ParamAngleY": 0,
+        "ParamMouthOpenY": 0.7
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "changed_bbox": null
+    },
+    {
+      "params": {
+        "ParamAngleY": 0,
+        "ParamMouthOpenY": 1
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "changed_bbox": null
+    },
+    {
+      "params": {
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "changed_bbox": null
+    },
+    {
+      "params": {
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0.35
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "changed_bbox": null
+    },
+    {
+      "params": {
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0.7
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "changed_bbox": null
+    },
+    {
+      "params": {
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 1
+      },
+      "display_max": 0,
+      "display_pixels_over_2": 0,
+      "changed_bbox": null
+    }
+  ],
+  "other_unedited_pose_diagnostics": [
+    {
+      "label": "反対側の終点",
+      "params": {
+        "ParamAngleX": 30,
+        "ParamAngleY": -30
+      },
+      "boundary_delta": {
+        "metric": "symmetric Chebyshev distance at 2000x3000; original-canvas pixels are x2",
+        "directions": [
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          },
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          }
+        ]
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 87349
+      }
+    },
+    {
+      "label": "同側・頷きなし",
+      "params": {
+        "ParamAngleX": -30,
+        "ParamAngleY": 0
+      },
+      "boundary_delta": {
+        "metric": "symmetric Chebyshev distance at 2000x3000; original-canvas pixels are x2",
+        "directions": [
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          },
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          }
+        ]
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 87447
+      }
+    },
+    {
+      "label": "同側・上向き",
+      "params": {
+        "ParamAngleX": -30,
+        "ParamAngleY": 30
+      },
+      "boundary_delta": {
+        "metric": "symmetric Chebyshev distance at 2000x3000; original-canvas pixels are x2",
+        "directions": [
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          },
+          {
+            "max_render_px": 0,
+            "unmatched_beyond_16px": 0,
+            "p90_render_px": 0.0
+          }
+        ]
+      },
+      "raster_alpha64": {
+        "alpha_threshold": 64,
+        "max_runs_per_row": 1,
+        "rows_with_multiple_runs": 0,
+        "empty_rows_inside_bbox": 0,
+        "opaque_pixels": 85956
+      }
+    }
+  ],
+  "face_drawables": [
+    "face_underfill"
+  ],
+  "all_face_rasters_single_filled_silhouette": false,
+  "all_face_rasters_single_filled_silhouette_alpha64": false,
+  "front_face_max_boundary_distance_render_px": 0,
+  "geometry_limit": "Wrapper has no vertex/index buffer API; no claim of a numerical triangle inversion audit.",
+  "visual_acceptance": "Needs human inspection of sheets; numerical raster checks are not aesthetic acceptance."
+}

@@ -1,0 +1,9 @@
+Live2D/README.md
+Live2D/model-ren-asagiri/AGENTS.md
+Live2D/model-ren-asagiri/README.md
+Live2D/model-ren-asagiri/art/head/README.md
+Live2D/model-ren-asagiri/art/psd_front/README.md
+Live2D/model-ren-asagiri/model/basic_expression/README.md
+Live2D/model-ren-asagiri/model/head_neck_hair/README.md
+Live2D/model-ren-asagiri/model/head_neck_hair/Ren_front.cmo3
+Live2D/model-ren-asagiri/model/head_neck_hair/test_report.md

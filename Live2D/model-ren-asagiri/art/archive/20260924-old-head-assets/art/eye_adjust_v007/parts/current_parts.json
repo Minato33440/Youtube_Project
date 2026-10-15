@@ -1,0 +1,31 @@
+{
+  "status": "canonical_current_face_parts",
+  "sourceOfTruth": "Individual PNG files in this directory, as explicitly designated by Boss; folder version numbers do not indicate priority.",
+  "roles": {
+    "face_base": "face_underfill.png",
+    "brow_L": "brow_L.png",
+    "brow_R": "brow_R.png",
+    "upper_lash_L": "ALT_eyelash_upper_L.png",
+    "upper_lash_R": "ALT_eyelash_upper_R.png",
+    "iris_L": "ALT_iris_L_blue.png",
+    "iris_R": "ALT_iris_R_brown.png",
+    "eye_white_L": "FILL_eye_white_L.png",
+    "eye_white_R": "FILL_eye_white_R.png",
+    "lower_eyelid_L": "lower_eyelid_left.png",
+    "lower_eyelid_R": "lower_eyelid_right.png",
+    "orbital_line_L": "upper_crease_L.png",
+    "orbital_line_R": "upper_crease_R.png",
+    "mouth_closed": "mouth_closed.png"
+  },
+  "placementReference": {
+    "png": "facial_feature.png",
+    "psd": "facial_feature.psd",
+    "note": "Reference for positions and transforms, not guaranteed to contain the latest individual pixels. Replace outdated embedded base. As of 2026-09-24 both corrected lower eyelids are 132x41 and need no reflection or resizing; R=(202,671), L=(511,669) on the 850x1134 sample canvas."
+  },
+  "excludeFromInput": [
+    "backup/",
+    "archive/"
+  ],
+  "previousVersions": "backup/YYYYMMDD-HHMMSS/",
+  "policy": "README.md"
+}

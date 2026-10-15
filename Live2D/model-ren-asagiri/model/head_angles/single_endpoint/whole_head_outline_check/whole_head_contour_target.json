@@ -1,0 +1,10696 @@
+{
+  "purpose": "Whole-head face-underfill target for the single X=-30/Y=-30 endpoint. Ear outlines are kept separate and excluded from face-underfill distances.",
+  "inputs": {
+    "original": {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (2).png",
+      "sha256": "9467b49181bfcd98ca7fcef67c8f8d2072b09d7cc56cc36e862c66e43d2c44dc",
+      "dimensions_px": [
+        958,
+        1004
+      ]
+    },
+    "rough": {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (2)-Rough.png",
+      "sha256": "f20432ba2a9f3bff4036e245358ceaa966c03d5c44b5ec8819d24b22763f7bf6",
+      "dimensions_px": [
+        672,
+        769
+      ]
+    },
+    "outline": {
+      "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (2)-outline.png",
+      "sha256": "f83c4ca58f81b609a3da54aecc6ccd1926eabb2da616ed594c20f148bfcac322",
+      "dimensions_px": [
+        672,
+        784
+      ]
+    }
+  },
+  "registration": {
+    "rough_outline_to_original": {
+      "scale": 1.0,
+      "translation_px": [
+        57,
+        1
+      ],
+      "visible_rgba_residual": "exact; 338253/338253 visible-union pixels equal"
+    },
+    "original_to_canvas": {
+      "scale": 1.2904500571168767,
+      "translation_px": [
+        1404.826424299698,
+        161.11685212010656
+      ],
+      "operation": "uniform scale and translation only; retain original tilt"
+    },
+    "rough_outline_to_canvas": {
+      "scale": 1.2904500571168767,
+      "translation_px": [
+        1478.38207755536,
+        162.40730217722344
+      ],
+      "raster_layer_position_rounded_px": [
+        1478,
+        162
+      ]
+    }
+  },
+  "classification": {
+    "face_visible_observed": "Cyan path follows the supplied dark face outline from the left ear-root area through the chin to the right side. It is the precision face-underfill target.",
+    "scalp_hair_hidden_inferred": "Amber dashed path follows the Boss-supplied intended upper head shape, but remains an approximation for face-underfill because finished hair hides it.",
+    "ear_outer_observed_separate": "Magenta paths trace ear outer silhouettes for orientation only. They are not part of the face-underfill target and are excluded from distance metrics."
+  },
+  "controls": {
+    "face_visible": [
+      {
+        "outline_rough_px": [
+          149,
+          500
+        ],
+        "original_px": [
+          206.0,
+          501.0
+        ],
+        "canvas_px": [
+          1670.659,
+          807.632
+        ]
+      },
+      {
+        "outline_rough_px": [
+          155,
+          510
+        ],
+        "original_px": [
+          212.0,
+          511.0
+        ],
+        "canvas_px": [
+          1678.402,
+          820.537
+        ]
+      },
+      {
+        "outline_rough_px": [
+          161,
+          520
+        ],
+        "original_px": [
+          218.0,
+          521.0
+        ],
+        "canvas_px": [
+          1686.145,
+          833.441
+        ]
+      },
+      {
+        "outline_rough_px": [
+          166,
+          530
+        ],
+        "original_px": [
+          223.0,
+          531.0
+        ],
+        "canvas_px": [
+          1692.597,
+          846.346
+        ]
+      },
+      {
+        "outline_rough_px": [
+          172,
+          540
+        ],
+        "original_px": [
+          229.0,
+          541.0
+        ],
+        "canvas_px": [
+          1700.339,
+          859.25
+        ]
+      },
+      {
+        "outline_rough_px": [
+          177,
+          550
+        ],
+        "original_px": [
+          234.0,
+          551.0
+        ],
+        "canvas_px": [
+          1706.792,
+          872.155
+        ]
+      },
+      {
+        "outline_rough_px": [
+          183,
+          560
+        ],
+        "original_px": [
+          240.0,
+          561.0
+        ],
+        "canvas_px": [
+          1714.534,
+          885.059
+        ]
+      },
+      {
+        "outline_rough_px": [
+          188,
+          570
+        ],
+        "original_px": [
+          245.0,
+          571.0
+        ],
+        "canvas_px": [
+          1720.987,
+          897.964
+        ]
+      },
+      {
+        "outline_rough_px": [
+          194,
+          580
+        ],
+        "original_px": [
+          251.0,
+          581.0
+        ],
+        "canvas_px": [
+          1728.729,
+          910.868
+        ]
+      },
+      {
+        "outline_rough_px": [
+          199,
+          590
+        ],
+        "original_px": [
+          256.0,
+          591.0
+        ],
+        "canvas_px": [
+          1735.182,
+          923.773
+        ]
+      },
+      {
+        "outline_rough_px": [
+          205,
+          600
+        ],
+        "original_px": [
+          262.0,
+          601.0
+        ],
+        "canvas_px": [
+          1742.924,
+          936.677
+        ]
+      },
+      {
+        "outline_rough_px": [
+          211,
+          610
+        ],
+        "original_px": [
+          268.0,
+          611.0
+        ],
+        "canvas_px": [
+          1750.667,
+          949.582
+        ]
+      },
+      {
+        "outline_rough_px": [
+          217,
+          620
+        ],
+        "original_px": [
+          274.0,
+          621.0
+        ],
+        "canvas_px": [
+          1758.41,
+          962.486
+        ]
+      },
+      {
+        "outline_rough_px": [
+          223,
+          630
+        ],
+        "original_px": [
+          280.0,
+          631.0
+        ],
+        "canvas_px": [
+          1766.152,
+          975.391
+        ]
+      },
+      {
+        "outline_rough_px": [
+          231,
+          640
+        ],
+        "original_px": [
+          288.0,
+          641.0
+        ],
+        "canvas_px": [
+          1776.476,
+          988.295
+        ]
+      },
+      {
+        "outline_rough_px": [
+          240,
+          650
+        ],
+        "original_px": [
+          297.0,
+          651.0
+        ],
+        "canvas_px": [
+          1788.09,
+          1001.2
+        ]
+      },
+      {
+        "outline_rough_px": [
+          251,
+          660
+        ],
+        "original_px": [
+          308.0,
+          661.0
+        ],
+        "canvas_px": [
+          1802.285,
+          1014.104
+        ]
+      },
+      {
+        "outline_rough_px": [
+          267,
+          670
+        ],
+        "original_px": [
+          324.0,
+          671.0
+        ],
+        "canvas_px": [
+          1822.932,
+          1027.009
+        ]
+      },
+      {
+        "outline_rough_px": [
+          282,
+          680
+        ],
+        "original_px": [
+          339.0,
+          681.0
+        ],
+        "canvas_px": [
+          1842.289,
+          1039.913
+        ]
+      },
+      {
+        "outline_rough_px": [
+          297,
+          690
+        ],
+        "original_px": [
+          354.0,
+          691.0
+        ],
+        "canvas_px": [
+          1861.646,
+          1052.818
+        ]
+      },
+      {
+        "outline_rough_px": [
+          313,
+          700
+        ],
+        "original_px": [
+          370.0,
+          701.0
+        ],
+        "canvas_px": [
+          1882.293,
+          1065.722
+        ]
+      },
+      {
+        "outline_rough_px": [
+          329,
+          710
+        ],
+        "original_px": [
+          386.0,
+          711.0
+        ],
+        "canvas_px": [
+          1902.94,
+          1078.627
+        ]
+      },
+      {
+        "outline_rough_px": [
+          348,
+          720
+        ],
+        "original_px": [
+          405.0,
+          721.0
+        ],
+        "canvas_px": [
+          1927.459,
+          1091.531
+        ]
+      },
+      {
+        "outline_rough_px": [
+          365,
+          728
+        ],
+        "original_px": [
+          422.0,
+          729.0
+        ],
+        "canvas_px": [
+          1949.396,
+          1101.855
+        ]
+      },
+      {
+        "outline_rough_px": [
+          386,
+          720
+        ],
+        "original_px": [
+          443.0,
+          721.0
+        ],
+        "canvas_px": [
+          1976.496,
+          1091.531
+        ]
+      },
+      {
+        "outline_rough_px": [
+          398,
+          710
+        ],
+        "original_px": [
+          455.0,
+          711.0
+        ],
+        "canvas_px": [
+          1991.981,
+          1078.627
+        ]
+      },
+      {
+        "outline_rough_px": [
+          411,
+          700
+        ],
+        "original_px": [
+          468.0,
+          701.0
+        ],
+        "canvas_px": [
+          2008.757,
+          1065.722
+        ]
+      },
+      {
+        "outline_rough_px": [
+          424,
+          690
+        ],
+        "original_px": [
+          481.0,
+          691.0
+        ],
+        "canvas_px": [
+          2025.533,
+          1052.818
+        ]
+      },
+      {
+        "outline_rough_px": [
+          436,
+          680
+        ],
+        "original_px": [
+          493.0,
+          681.0
+        ],
+        "canvas_px": [
+          2041.018,
+          1039.913
+        ]
+      },
+      {
+        "outline_rough_px": [
+          447,
+          670
+        ],
+        "original_px": [
+          504.0,
+          671.0
+        ],
+        "canvas_px": [
+          2055.213,
+          1027.009
+        ]
+      },
+      {
+        "outline_rough_px": [
+          458,
+          660
+        ],
+        "original_px": [
+          515.0,
+          661.0
+        ],
+        "canvas_px": [
+          2069.408,
+          1014.104
+        ]
+      },
+      {
+        "outline_rough_px": [
+          469,
+          650
+        ],
+        "original_px": [
+          526.0,
+          651.0
+        ],
+        "canvas_px": [
+          2083.603,
+          1001.2
+        ]
+      },
+      {
+        "outline_rough_px": [
+          478,
+          640
+        ],
+        "original_px": [
+          535.0,
+          641.0
+        ],
+        "canvas_px": [
+          2095.217,
+          988.295
+        ]
+      },
+      {
+        "outline_rough_px": [
+          487,
+          630
+        ],
+        "original_px": [
+          544.0,
+          631.0
+        ],
+        "canvas_px": [
+          2106.831,
+          975.391
+        ]
+      },
+      {
+        "outline_rough_px": [
+          493,
+          620
+        ],
+        "original_px": [
+          550.0,
+          621.0
+        ],
+        "canvas_px": [
+          2114.574,
+          962.486
+        ]
+      },
+      {
+        "outline_rough_px": [
+          499,
+          610
+        ],
+        "original_px": [
+          556.0,
+          611.0
+        ],
+        "canvas_px": [
+          2122.317,
+          949.582
+        ]
+      },
+      {
+        "outline_rough_px": [
+          505,
+          600
+        ],
+        "original_px": [
+          562.0,
+          601.0
+        ],
+        "canvas_px": [
+          2130.059,
+          936.677
+        ]
+      },
+      {
+        "outline_rough_px": [
+          509,
+          590
+        ],
+        "original_px": [
+          566.0,
+          591.0
+        ],
+        "canvas_px": [
+          2135.221,
+          923.773
+        ]
+      },
+      {
+        "outline_rough_px": [
+          513,
+          580
+        ],
+        "original_px": [
+          570.0,
+          581.0
+        ],
+        "canvas_px": [
+          2140.383,
+          910.868
+        ]
+      },
+      {
+        "outline_rough_px": [
+          517,
+          570
+        ],
+        "original_px": [
+          574.0,
+          571.0
+        ],
+        "canvas_px": [
+          2145.545,
+          897.964
+        ]
+      },
+      {
+        "outline_rough_px": [
+          521,
+          560
+        ],
+        "original_px": [
+          578.0,
+          561.0
+        ],
+        "canvas_px": [
+          2150.707,
+          885.059
+        ]
+      },
+      {
+        "outline_rough_px": [
+          524,
+          550
+        ],
+        "original_px": [
+          581.0,
+          551.0
+        ],
+        "canvas_px": [
+          2154.578,
+          872.155
+        ]
+      },
+      {
+        "outline_rough_px": [
+          527,
+          540
+        ],
+        "original_px": [
+          584.0,
+          541.0
+        ],
+        "canvas_px": [
+          2158.449,
+          859.25
+        ]
+      },
+      {
+        "outline_rough_px": [
+          532,
+          530
+        ],
+        "original_px": [
+          589.0,
+          531.0
+        ],
+        "canvas_px": [
+          2164.902,
+          846.346
+        ]
+      },
+      {
+        "outline_rough_px": [
+          533,
+          520
+        ],
+        "original_px": [
+          590.0,
+          521.0
+        ],
+        "canvas_px": [
+          2166.192,
+          833.441
+        ]
+      },
+      {
+        "outline_rough_px": [
+          537,
+          510
+        ],
+        "original_px": [
+          594.0,
+          511.0
+        ],
+        "canvas_px": [
+          2171.354,
+          820.537
+        ]
+      },
+      {
+        "outline_rough_px": [
+          540,
+          500
+        ],
+        "original_px": [
+          597.0,
+          501.0
+        ],
+        "canvas_px": [
+          2175.225,
+          807.632
+        ]
+      },
+      {
+        "outline_rough_px": [
+          542,
+          490
+        ],
+        "original_px": [
+          599.0,
+          491.0
+        ],
+        "canvas_px": [
+          2177.806,
+          794.728
+        ]
+      },
+      {
+        "outline_rough_px": [
+          545,
+          480
+        ],
+        "original_px": [
+          602.0,
+          481.0
+        ],
+        "canvas_px": [
+          2181.677,
+          781.823
+        ]
+      },
+      {
+        "outline_rough_px": [
+          547,
+          470
+        ],
+        "original_px": [
+          604.0,
+          471.0
+        ],
+        "canvas_px": [
+          2184.258,
+          768.919
+        ]
+      },
+      {
+        "outline_rough_px": [
+          550,
+          460
+        ],
+        "original_px": [
+          607.0,
+          461.0
+        ],
+        "canvas_px": [
+          2188.13,
+          756.014
+        ]
+      },
+      {
+        "outline_rough_px": [
+          553,
+          450
+        ],
+        "original_px": [
+          610.0,
+          451.0
+        ],
+        "canvas_px": [
+          2192.001,
+          743.11
+        ]
+      },
+      {
+        "outline_rough_px": [
+          554,
+          440
+        ],
+        "original_px": [
+          611.0,
+          441.0
+        ],
+        "canvas_px": [
+          2193.291,
+          730.205
+        ]
+      }
+    ],
+    "scalp_inferred_right_to_left": [
+      {
+        "outline_rough_px": [
+          554,
+          440
+        ],
+        "original_px": [
+          611.0,
+          441.0
+        ],
+        "canvas_px": [
+          2193.291,
+          730.205
+        ]
+      },
+      {
+        "outline_rough_px": [
+          556,
+          420
+        ],
+        "original_px": [
+          613.0,
+          421.0
+        ],
+        "canvas_px": [
+          2195.872,
+          704.396
+        ]
+      },
+      {
+        "outline_rough_px": [
+          558,
+          400
+        ],
+        "original_px": [
+          615.0,
+          401.0
+        ],
+        "canvas_px": [
+          2198.453,
+          678.587
+        ]
+      },
+      {
+        "outline_rough_px": [
+          558,
+          380
+        ],
+        "original_px": [
+          615.0,
+          381.0
+        ],
+        "canvas_px": [
+          2198.453,
+          652.778
+        ]
+      },
+      {
+        "outline_rough_px": [
+          556,
+          360
+        ],
+        "original_px": [
+          613.0,
+          361.0
+        ],
+        "canvas_px": [
+          2195.872,
+          626.969
+        ]
+      },
+      {
+        "outline_rough_px": [
+          553,
+          340
+        ],
+        "original_px": [
+          610.0,
+          341.0
+        ],
+        "canvas_px": [
+          2192.001,
+          601.16
+        ]
+      },
+      {
+        "outline_rough_px": [
+          549,
+          325
+        ],
+        "original_px": [
+          606.0,
+          326.0
+        ],
+        "canvas_px": [
+          2186.839,
+          581.804
+        ]
+      },
+      {
+        "outline_rough_px": [
+          545,
+          315
+        ],
+        "original_px": [
+          602.0,
+          316.0
+        ],
+        "canvas_px": [
+          2181.677,
+          568.899
+        ]
+      },
+      {
+        "outline_rough_px": [
+          541,
+          305
+        ],
+        "original_px": [
+          598.0,
+          306.0
+        ],
+        "canvas_px": [
+          2176.516,
+          555.995
+        ]
+      },
+      {
+        "outline_rough_px": [
+          537,
+          295
+        ],
+        "original_px": [
+          594.0,
+          296.0
+        ],
+        "canvas_px": [
+          2171.354,
+          543.09
+        ]
+      },
+      {
+        "outline_rough_px": [
+          531,
+          285
+        ],
+        "original_px": [
+          588.0,
+          286.0
+        ],
+        "canvas_px": [
+          2163.611,
+          530.186
+        ]
+      },
+      {
+        "outline_rough_px": [
+          524,
+          275
+        ],
+        "original_px": [
+          581.0,
+          276.0
+        ],
+        "canvas_px": [
+          2154.578,
+          517.281
+        ]
+      },
+      {
+        "outline_rough_px": [
+          517,
+          265
+        ],
+        "original_px": [
+          574.0,
+          266.0
+        ],
+        "canvas_px": [
+          2145.545,
+          504.377
+        ]
+      },
+      {
+        "outline_rough_px": [
+          508,
+          255
+        ],
+        "original_px": [
+          565.0,
+          256.0
+        ],
+        "canvas_px": [
+          2133.931,
+          491.472
+        ]
+      },
+      {
+        "outline_rough_px": [
+          498,
+          245
+        ],
+        "original_px": [
+          555.0,
+          246.0
+        ],
+        "canvas_px": [
+          2121.026,
+          478.568
+        ]
+      },
+      {
+        "outline_rough_px": [
+          487,
+          235
+        ],
+        "original_px": [
+          544.0,
+          236.0
+        ],
+        "canvas_px": [
+          2106.831,
+          465.663
+        ]
+      },
+      {
+        "outline_rough_px": [
+          475,
+          225
+        ],
+        "original_px": [
+          532.0,
+          226.0
+        ],
+        "canvas_px": [
+          2091.346,
+          452.759
+        ]
+      },
+      {
+        "outline_rough_px": [
+          459,
+          215
+        ],
+        "original_px": [
+          516.0,
+          216.0
+        ],
+        "canvas_px": [
+          2070.699,
+          439.854
+        ]
+      },
+      {
+        "outline_rough_px": [
+          439,
+          207
+        ],
+        "original_px": [
+          496.0,
+          208.0
+        ],
+        "canvas_px": [
+          2044.89,
+          429.53
+        ]
+      },
+      {
+        "outline_rough_px": [
+          420,
+          201
+        ],
+        "original_px": [
+          477.0,
+          202.0
+        ],
+        "canvas_px": [
+          2020.371,
+          421.788
+        ]
+      },
+      {
+        "outline_rough_px": [
+          403,
+          197
+        ],
+        "original_px": [
+          460.0,
+          198.0
+        ],
+        "canvas_px": [
+          1998.433,
+          416.626
+        ]
+      },
+      {
+        "outline_rough_px": [
+          382,
+          194
+        ],
+        "original_px": [
+          439.0,
+          195.0
+        ],
+        "canvas_px": [
+          1971.334,
+          412.755
+        ]
+      },
+      {
+        "outline_rough_px": [
+          360,
+          193
+        ],
+        "original_px": [
+          417.0,
+          194.0
+        ],
+        "canvas_px": [
+          1942.944,
+          411.464
+        ]
+      },
+      {
+        "outline_rough_px": [
+          338,
+          193
+        ],
+        "original_px": [
+          395.0,
+          194.0
+        ],
+        "canvas_px": [
+          1914.554,
+          411.464
+        ]
+      },
+      {
+        "outline_rough_px": [
+          317,
+          194
+        ],
+        "original_px": [
+          374.0,
+          195.0
+        ],
+        "canvas_px": [
+          1887.455,
+          412.755
+        ]
+      },
+      {
+        "outline_rough_px": [
+          297,
+          198
+        ],
+        "original_px": [
+          354.0,
+          199.0
+        ],
+        "canvas_px": [
+          1861.646,
+          417.916
+        ]
+      },
+      {
+        "outline_rough_px": [
+          280,
+          202
+        ],
+        "original_px": [
+          337.0,
+          203.0
+        ],
+        "canvas_px": [
+          1839.708,
+          423.078
+        ]
+      },
+      {
+        "outline_rough_px": [
+          264,
+          207
+        ],
+        "original_px": [
+          321.0,
+          208.0
+        ],
+        "canvas_px": [
+          1819.061,
+          429.53
+        ]
+      },
+      {
+        "outline_rough_px": [
+          248,
+          213
+        ],
+        "original_px": [
+          305.0,
+          214.0
+        ],
+        "canvas_px": [
+          1798.414,
+          437.273
+        ]
+      },
+      {
+        "outline_rough_px": [
+          233,
+          220
+        ],
+        "original_px": [
+          290.0,
+          221.0
+        ],
+        "canvas_px": [
+          1779.057,
+          446.306
+        ]
+      },
+      {
+        "outline_rough_px": [
+          219,
+          228
+        ],
+        "original_px": [
+          276.0,
+          229.0
+        ],
+        "canvas_px": [
+          1760.991,
+          456.63
+        ]
+      },
+      {
+        "outline_rough_px": [
+          207,
+          237
+        ],
+        "original_px": [
+          264.0,
+          238.0
+        ],
+        "canvas_px": [
+          1745.505,
+          468.244
+        ]
+      },
+      {
+        "outline_rough_px": [
+          194,
+          247
+        ],
+        "original_px": [
+          251.0,
+          248.0
+        ],
+        "canvas_px": [
+          1728.729,
+          481.148
+        ]
+      },
+      {
+        "outline_rough_px": [
+          181,
+          259
+        ],
+        "original_px": [
+          238.0,
+          260.0
+        ],
+        "canvas_px": [
+          1711.954,
+          496.634
+        ]
+      },
+      {
+        "outline_rough_px": [
+          170,
+          272
+        ],
+        "original_px": [
+          227.0,
+          273.0
+        ],
+        "canvas_px": [
+          1697.759,
+          513.41
+        ]
+      },
+      {
+        "outline_rough_px": [
+          159,
+          286
+        ],
+        "original_px": [
+          216.0,
+          287.0
+        ],
+        "canvas_px": [
+          1683.564,
+          531.476
+        ]
+      },
+      {
+        "outline_rough_px": [
+          150,
+          301
+        ],
+        "original_px": [
+          207.0,
+          302.0
+        ],
+        "canvas_px": [
+          1671.95,
+          550.833
+        ]
+      },
+      {
+        "outline_rough_px": [
+          142,
+          317
+        ],
+        "original_px": [
+          199.0,
+          318.0
+        ],
+        "canvas_px": [
+          1661.626,
+          571.48
+        ]
+      },
+      {
+        "outline_rough_px": [
+          135,
+          333
+        ],
+        "original_px": [
+          192.0,
+          334.0
+        ],
+        "canvas_px": [
+          1652.593,
+          592.127
+        ]
+      },
+      {
+        "outline_rough_px": [
+          130,
+          349
+        ],
+        "original_px": [
+          187.0,
+          350.0
+        ],
+        "canvas_px": [
+          1646.141,
+          612.774
+        ]
+      },
+      {
+        "outline_rough_px": [
+          126,
+          365
+        ],
+        "original_px": [
+          183.0,
+          366.0
+        ],
+        "canvas_px": [
+          1640.979,
+          633.422
+        ]
+      },
+      {
+        "outline_rough_px": [
+          122,
+          382
+        ],
+        "original_px": [
+          179.0,
+          383.0
+        ],
+        "canvas_px": [
+          1635.817,
+          655.359
+        ]
+      },
+      {
+        "outline_rough_px": [
+          120,
+          400
+        ],
+        "original_px": [
+          177.0,
+          401.0
+        ],
+        "canvas_px": [
+          1633.236,
+          678.587
+        ]
+      },
+      {
+        "outline_rough_px": [
+          122,
+          420
+        ],
+        "original_px": [
+          179.0,
+          421.0
+        ],
+        "canvas_px": [
+          1635.817,
+          704.396
+        ]
+      },
+      {
+        "outline_rough_px": [
+          127,
+          440
+        ],
+        "original_px": [
+          184.0,
+          441.0
+        ],
+        "canvas_px": [
+          1642.269,
+          730.205
+        ]
+      },
+      {
+        "outline_rough_px": [
+          130,
+          450
+        ],
+        "original_px": [
+          187.0,
+          451.0
+        ],
+        "canvas_px": [
+          1646.141,
+          743.11
+        ]
+      },
+      {
+        "outline_rough_px": [
+          136,
+          470
+        ],
+        "original_px": [
+          193.0,
+          471.0
+        ],
+        "canvas_px": [
+          1653.883,
+          768.919
+        ]
+      },
+      {
+        "outline_rough_px": [
+          142,
+          490
+        ],
+        "original_px": [
+          199.0,
+          491.0
+        ],
+        "canvas_px": [
+          1661.626,
+          794.728
+        ]
+      },
+      {
+        "outline_rough_px": [
+          149,
+          500
+        ],
+        "original_px": [
+          206.0,
+          501.0
+        ],
+        "canvas_px": [
+          1670.659,
+          807.632
+        ]
+      }
+    ],
+    "ear_left_outer": [
+      {
+        "outline_rough_px": [
+          144,
+          490
+        ],
+        "original_px": [
+          201.0,
+          491.0
+        ],
+        "canvas_px": [
+          1664.207,
+          794.728
+        ]
+      },
+      {
+        "outline_rough_px": [
+          140,
+          500
+        ],
+        "original_px": [
+          197.0,
+          501.0
+        ],
+        "canvas_px": [
+          1659.045,
+          807.632
+        ]
+      },
+      {
+        "outline_rough_px": [
+          137,
+          510
+        ],
+        "original_px": [
+          194.0,
+          511.0
+        ],
+        "canvas_px": [
+          1655.174,
+          820.537
+        ]
+      },
+      {
+        "outline_rough_px": [
+          134,
+          520
+        ],
+        "original_px": [
+          191.0,
+          521.0
+        ],
+        "canvas_px": [
+          1651.302,
+          833.441
+        ]
+      },
+      {
+        "outline_rough_px": [
+          134,
+          530
+        ],
+        "original_px": [
+          191.0,
+          531.0
+        ],
+        "canvas_px": [
+          1651.302,
+          846.346
+        ]
+      },
+      {
+        "outline_rough_px": [
+          139,
+          540
+        ],
+        "original_px": [
+          196.0,
+          541.0
+        ],
+        "canvas_px": [
+          1657.755,
+          859.25
+        ]
+      },
+      {
+        "outline_rough_px": [
+          144,
+          550
+        ],
+        "original_px": [
+          201.0,
+          551.0
+        ],
+        "canvas_px": [
+          1664.207,
+          872.155
+        ]
+      },
+      {
+        "outline_rough_px": [
+          149,
+          560
+        ],
+        "original_px": [
+          206.0,
+          561.0
+        ],
+        "canvas_px": [
+          1670.659,
+          885.059
+        ]
+      },
+      {
+        "outline_rough_px": [
+          158,
+          570
+        ],
+        "original_px": [
+          215.0,
+          571.0
+        ],
+        "canvas_px": [
+          1682.273,
+          897.964
+        ]
+      },
+      {
+        "outline_rough_px": [
+          169,
+          580
+        ],
+        "original_px": [
+          226.0,
+          581.0
+        ],
+        "canvas_px": [
+          1696.468,
+          910.868
+        ]
+      },
+      {
+        "outline_rough_px": [
+          181,
+          590
+        ],
+        "original_px": [
+          238.0,
+          591.0
+        ],
+        "canvas_px": [
+          1711.954,
+          923.773
+        ]
+      },
+      {
+        "outline_rough_px": [
+          194,
+          600
+        ],
+        "original_px": [
+          251.0,
+          601.0
+        ],
+        "canvas_px": [
+          1728.729,
+          936.677
+        ]
+      },
+      {
+        "outline_rough_px": [
+          205,
+          605
+        ],
+        "original_px": [
+          262.0,
+          606.0
+        ],
+        "canvas_px": [
+          1742.924,
+          943.13
+        ]
+      }
+    ],
+    "ear_right_outer": [
+      {
+        "outline_rough_px": [
+          558,
+          440
+        ],
+        "original_px": [
+          615.0,
+          441.0
+        ],
+        "canvas_px": [
+          2198.453,
+          730.205
+        ]
+      },
+      {
+        "outline_rough_px": [
+          570,
+          450
+        ],
+        "original_px": [
+          627.0,
+          451.0
+        ],
+        "canvas_px": [
+          2213.939,
+          743.11
+        ]
+      },
+      {
+        "outline_rough_px": [
+          579,
+          460
+        ],
+        "original_px": [
+          636.0,
+          461.0
+        ],
+        "canvas_px": [
+          2225.553,
+          756.014
+        ]
+      },
+      {
+        "outline_rough_px": [
+          586,
+          470
+        ],
+        "original_px": [
+          643.0,
+          471.0
+        ],
+        "canvas_px": [
+          2234.586,
+          768.919
+        ]
+      },
+      {
+        "outline_rough_px": [
+          592,
+          480
+        ],
+        "original_px": [
+          649.0,
+          481.0
+        ],
+        "canvas_px": [
+          2242.329,
+          781.823
+        ]
+      },
+      {
+        "outline_rough_px": [
+          591,
+          490
+        ],
+        "original_px": [
+          648.0,
+          491.0
+        ],
+        "canvas_px": [
+          2241.038,
+          794.728
+        ]
+      },
+      {
+        "outline_rough_px": [
+          586,
+          500
+        ],
+        "original_px": [
+          643.0,
+          501.0
+        ],
+        "canvas_px": [
+          2234.586,
+          807.632
+        ]
+      },
+      {
+        "outline_rough_px": [
+          581,
+          510
+        ],
+        "original_px": [
+          638.0,
+          511.0
+        ],
+        "canvas_px": [
+          2228.134,
+          820.537
+        ]
+      },
+      {
+        "outline_rough_px": [
+          574,
+          520
+        ],
+        "original_px": [
+          631.0,
+          521.0
+        ],
+        "canvas_px": [
+          2219.1,
+          833.441
+        ]
+      },
+      {
+        "outline_rough_px": [
+          563,
+          530
+        ],
+        "original_px": [
+          620.0,
+          531.0
+        ],
+        "canvas_px": [
+          2204.905,
+          846.346
+        ]
+      },
+      {
+        "outline_rough_px": [
+          555,
+          540
+        ],
+        "original_px": [
+          612.0,
+          541.0
+        ],
+        "canvas_px": [
+          2194.582,
+          859.25
+        ]
+      },
+      {
+        "outline_rough_px": [
+          547,
+          550
+        ],
+        "original_px": [
+          604.0,
+          551.0
+        ],
+        "canvas_px": [
+          2184.258,
+          872.155
+        ]
+      },
+      {
+        "outline_rough_px": [
+          533,
+          560
+        ],
+        "original_px": [
+          590.0,
+          561.0
+        ],
+        "canvas_px": [
+          2166.192,
+          885.059
+        ]
+      },
+      {
+        "outline_rough_px": [
+          521,
+          565
+        ],
+        "original_px": [
+          578.0,
+          566.0
+        ],
+        "canvas_px": [
+          2150.707,
+          891.512
+        ]
+      }
+    ]
+  },
+  "evaluation_samples": {
+    "face_visible_2px_spacing": [
+      {
+        "outline_rough_px": [
+          149.0,
+          500.0
+        ],
+        "original_px": [
+          206.0,
+          501.0
+        ],
+        "canvas_px": [
+          1670.659,
+          807.632
+        ]
+      },
+      {
+        "outline_rough_px": [
+          150.029,
+          501.715
+        ],
+        "original_px": [
+          207.029,
+          502.715
+        ],
+        "canvas_px": [
+          1671.987,
+          809.845
+        ]
+      },
+      {
+        "outline_rough_px": [
+          151.058,
+          503.43
+        ],
+        "original_px": [
+          208.058,
+          504.43
+        ],
+        "canvas_px": [
+          1673.315,
+          812.059
+        ]
+      },
+      {
+        "outline_rough_px": [
+          152.087,
+          505.145
+        ],
+        "original_px": [
+          209.087,
+          506.145
+        ],
+        "canvas_px": [
+          1674.643,
+          814.272
+        ]
+      },
+      {
+        "outline_rough_px": [
+          153.116,
+          506.86
+        ],
+        "original_px": [
+          210.116,
+          507.86
+        ],
+        "canvas_px": [
+          1675.971,
+          816.485
+        ]
+      },
+      {
+        "outline_rough_px": [
+          154.145,
+          508.575
+        ],
+        "original_px": [
+          211.145,
+          509.575
+        ],
+        "canvas_px": [
+          1677.299,
+          818.698
+        ]
+      },
+      {
+        "outline_rough_px": [
+          155.174,
+          510.29
+        ],
+        "original_px": [
+          212.174,
+          511.29
+        ],
+        "canvas_px": [
+          1678.626,
+          820.911
+        ]
+      },
+      {
+        "outline_rough_px": [
+          156.203,
+          512.005
+        ],
+        "original_px": [
+          213.203,
+          513.005
+        ],
+        "canvas_px": [
+          1679.954,
+          823.124
+        ]
+      },
+      {
+        "outline_rough_px": [
+          157.232,
+          513.72
+        ],
+        "original_px": [
+          214.232,
+          514.72
+        ],
+        "canvas_px": [
+          1681.282,
+          825.337
+        ]
+      },
+      {
+        "outline_rough_px": [
+          158.261,
+          515.435
+        ],
+        "original_px": [
+          215.261,
+          516.435
+        ],
+        "canvas_px": [
+          1682.61,
+          827.55
+        ]
+      },
+      {
+        "outline_rough_px": [
+          159.29,
+          517.15
+        ],
+        "original_px": [
+          216.29,
+          518.15
+        ],
+        "canvas_px": [
+          1683.938,
+          829.764
+        ]
+      },
+      {
+        "outline_rough_px": [
+          160.319,
+          518.865
+        ],
+        "original_px": [
+          217.319,
+          519.865
+        ],
+        "canvas_px": [
+          1685.266,
+          831.977
+        ]
+      },
+      {
+        "outline_rough_px": [
+          161.302,
+          520.605
+        ],
+        "original_px": [
+          218.302,
+          521.605
+        ],
+        "canvas_px": [
+          1686.534,
+          834.222
+        ]
+      },
+      {
+        "outline_rough_px": [
+          162.197,
+          522.394
+        ],
+        "original_px": [
+          219.197,
+          523.394
+        ],
+        "canvas_px": [
+          1687.689,
+          836.531
+        ]
+      },
+      {
+        "outline_rough_px": [
+          163.091,
+          524.183
+        ],
+        "original_px": [
+          220.091,
+          525.183
+        ],
+        "canvas_px": [
+          1688.843,
+          838.839
+        ]
+      },
+      {
+        "outline_rough_px": [
+          163.986,
+          525.971
+        ],
+        "original_px": [
+          220.986,
+          526.971
+        ],
+        "canvas_px": [
+          1689.998,
+          841.147
+        ]
+      },
+      {
+        "outline_rough_px": [
+          164.88,
+          527.76
+        ],
+        "original_px": [
+          221.88,
+          528.76
+        ],
+        "canvas_px": [
+          1691.151,
+          843.455
+        ]
+      },
+      {
+        "outline_rough_px": [
+          165.775,
+          529.549
+        ],
+        "original_px": [
+          222.775,
+          530.549
+        ],
+        "canvas_px": [
+          1692.306,
+          845.764
+        ]
+      },
+      {
+        "outline_rough_px": [
+          166.77,
+          531.283
+        ],
+        "original_px": [
+          223.77,
+          532.283
+        ],
+        "canvas_px": [
+          1693.59,
+          848.001
+        ]
+      },
+      {
+        "outline_rough_px": [
+          167.799,
+          532.998
+        ],
+        "original_px": [
+          224.799,
+          533.998
+        ],
+        "canvas_px": [
+          1694.918,
+          850.215
+        ]
+      },
+      {
+        "outline_rough_px": [
+          168.828,
+          534.713
+        ],
+        "original_px": [
+          225.828,
+          535.713
+        ],
+        "canvas_px": [
+          1696.246,
+          852.428
+        ]
+      },
+      {
+        "outline_rough_px": [
+          169.857,
+          536.428
+        ],
+        "original_px": [
+          226.857,
+          537.428
+        ],
+        "canvas_px": [
+          1697.574,
+          854.641
+        ]
+      },
+      {
+        "outline_rough_px": [
+          170.886,
+          538.143
+        ],
+        "original_px": [
+          227.886,
+          539.143
+        ],
+        "canvas_px": [
+          1698.902,
+          856.854
+        ]
+      },
+      {
+        "outline_rough_px": [
+          171.915,
+          539.858
+        ],
+        "original_px": [
+          228.915,
+          540.858
+        ],
+        "canvas_px": [
+          1700.23,
+          859.067
+        ]
+      },
+      {
+        "outline_rough_px": [
+          172.82,
+          541.64
+        ],
+        "original_px": [
+          229.82,
+          542.64
+        ],
+        "canvas_px": [
+          1701.398,
+          861.367
+        ]
+      },
+      {
+        "outline_rough_px": [
+          173.715,
+          543.429
+        ],
+        "original_px": [
+          230.715,
+          544.429
+        ],
+        "canvas_px": [
+          1702.553,
+          863.675
+        ]
+      },
+      {
+        "outline_rough_px": [
+          174.609,
+          545.218
+        ],
+        "original_px": [
+          231.609,
+          546.218
+        ],
+        "canvas_px": [
+          1703.706,
+          865.984
+        ]
+      },
+      {
+        "outline_rough_px": [
+          175.503,
+          547.007
+        ],
+        "original_px": [
+          232.503,
+          548.007
+        ],
+        "canvas_px": [
+          1704.86,
+          868.293
+        ]
+      },
+      {
+        "outline_rough_px": [
+          176.398,
+          548.796
+        ],
+        "original_px": [
+          233.398,
+          549.796
+        ],
+        "canvas_px": [
+          1706.015,
+          870.601
+        ]
+      },
+      {
+        "outline_rough_px": [
+          177.336,
+          550.56
+        ],
+        "original_px": [
+          234.336,
+          551.56
+        ],
+        "canvas_px": [
+          1707.225,
+          872.877
+        ]
+      },
+      {
+        "outline_rough_px": [
+          178.365,
+          552.275
+        ],
+        "original_px": [
+          235.365,
+          553.275
+        ],
+        "canvas_px": [
+          1708.553,
+          875.091
+        ]
+      },
+      {
+        "outline_rough_px": [
+          179.394,
+          553.99
+        ],
+        "original_px": [
+          236.394,
+          554.99
+        ],
+        "canvas_px": [
+          1709.881,
+          877.304
+        ]
+      },
+      {
+        "outline_rough_px": [
+          180.423,
+          555.705
+        ],
+        "original_px": [
+          237.423,
+          556.705
+        ],
+        "canvas_px": [
+          1711.209,
+          879.517
+        ]
+      },
+      {
+        "outline_rough_px": [
+          181.452,
+          557.42
+        ],
+        "original_px": [
+          238.452,
+          558.42
+        ],
+        "canvas_px": [
+          1712.537,
+          881.73
+        ]
+      },
+      {
+        "outline_rough_px": [
+          182.481,
+          559.135
+        ],
+        "original_px": [
+          239.481,
+          560.135
+        ],
+        "canvas_px": [
+          1713.865,
+          883.943
+        ]
+      },
+      {
+        "outline_rough_px": [
+          183.444,
+          560.887
+        ],
+        "original_px": [
+          240.444,
+          561.887
+        ],
+        "canvas_px": [
+          1715.107,
+          886.204
+        ]
+      },
+      {
+        "outline_rough_px": [
+          184.338,
+          562.676
+        ],
+        "original_px": [
+          241.338,
+          563.676
+        ],
+        "canvas_px": [
+          1716.261,
+          888.513
+        ]
+      },
+      {
+        "outline_rough_px": [
+          185.232,
+          564.465
+        ],
+        "original_px": [
+          242.232,
+          565.465
+        ],
+        "canvas_px": [
+          1717.415,
+          890.821
+        ]
+      },
+      {
+        "outline_rough_px": [
+          186.127,
+          566.254
+        ],
+        "original_px": [
+          243.127,
+          567.254
+        ],
+        "canvas_px": [
+          1718.57,
+          893.13
+        ]
+      },
+      {
+        "outline_rough_px": [
+          187.021,
+          568.042
+        ],
+        "original_px": [
+          244.021,
+          569.042
+        ],
+        "canvas_px": [
+          1719.723,
+          895.437
+        ]
+      },
+      {
+        "outline_rough_px": [
+          187.916,
+          569.831
+        ],
+        "original_px": [
+          244.916,
+          570.831
+        ],
+        "canvas_px": [
+          1720.878,
+          897.746
+        ]
+      },
+      {
+        "outline_rough_px": [
+          188.932,
+          571.553
+        ],
+        "original_px": [
+          245.932,
+          572.553
+        ],
+        "canvas_px": [
+          1722.189,
+          899.968
+        ]
+      },
+      {
+        "outline_rough_px": [
+          189.961,
+          573.268
+        ],
+        "original_px": [
+          246.961,
+          574.268
+        ],
+        "canvas_px": [
+          1723.517,
+          902.181
+        ]
+      },
+      {
+        "outline_rough_px": [
+          190.99,
+          574.983
+        ],
+        "original_px": [
+          247.99,
+          575.983
+        ],
+        "canvas_px": [
+          1724.845,
+          904.394
+        ]
+      },
+      {
+        "outline_rough_px": [
+          192.019,
+          576.698
+        ],
+        "original_px": [
+          249.019,
+          577.698
+        ],
+        "canvas_px": [
+          1726.173,
+          906.607
+        ]
+      },
+      {
+        "outline_rough_px": [
+          193.048,
+          578.413
+        ],
+        "original_px": [
+          250.048,
+          579.413
+        ],
+        "canvas_px": [
+          1727.501,
+          908.82
+        ]
+      },
+      {
+        "outline_rough_px": [
+          194.067,
+          580.134
+        ],
+        "original_px": [
+          251.067,
+          581.134
+        ],
+        "canvas_px": [
+          1728.816,
+          911.041
+        ]
+      },
+      {
+        "outline_rough_px": [
+          194.961,
+          581.923
+        ],
+        "original_px": [
+          251.961,
+          582.923
+        ],
+        "canvas_px": [
+          1729.97,
+          913.35
+        ]
+      },
+      {
+        "outline_rough_px": [
+          195.856,
+          583.711
+        ],
+        "original_px": [
+          252.856,
+          584.711
+        ],
+        "canvas_px": [
+          1731.124,
+          915.657
+        ]
+      },
+      {
+        "outline_rough_px": [
+          196.75,
+          585.5
+        ],
+        "original_px": [
+          253.75,
+          586.5
+        ],
+        "canvas_px": [
+          1732.278,
+          917.966
+        ]
+      },
+      {
+        "outline_rough_px": [
+          197.645,
+          587.289
+        ],
+        "original_px": [
+          254.645,
+          588.289
+        ],
+        "canvas_px": [
+          1733.433,
+          920.274
+        ]
+      },
+      {
+        "outline_rough_px": [
+          198.539,
+          589.078
+        ],
+        "original_px": [
+          255.539,
+          590.078
+        ],
+        "canvas_px": [
+          1734.587,
+          922.583
+        ]
+      },
+      {
+        "outline_rough_px": [
+          199.499,
+          590.831
+        ],
+        "original_px": [
+          256.499,
+          591.831
+        ],
+        "canvas_px": [
+          1735.826,
+          924.845
+        ]
+      },
+      {
+        "outline_rough_px": [
+          200.528,
+          592.546
+        ],
+        "original_px": [
+          257.528,
+          593.546
+        ],
+        "canvas_px": [
+          1737.153,
+          927.058
+        ]
+      },
+      {
+        "outline_rough_px": [
+          201.557,
+          594.261
+        ],
+        "original_px": [
+          258.557,
+          595.261
+        ],
+        "canvas_px": [
+          1738.481,
+          929.271
+        ]
+      },
+      {
+        "outline_rough_px": [
+          202.586,
+          595.976
+        ],
+        "original_px": [
+          259.586,
+          596.976
+        ],
+        "canvas_px": [
+          1739.809,
+          931.485
+        ]
+      },
+      {
+        "outline_rough_px": [
+          203.615,
+          597.691
+        ],
+        "original_px": [
+          260.615,
+          598.691
+        ],
+        "canvas_px": [
+          1741.137,
+          933.698
+        ]
+      },
+      {
+        "outline_rough_px": [
+          204.644,
+          599.406
+        ],
+        "original_px": [
+          261.644,
+          600.406
+        ],
+        "canvas_px": [
+          1742.465,
+          935.911
+        ]
+      },
+      {
+        "outline_rough_px": [
+          205.673,
+          601.121
+        ],
+        "original_px": [
+          262.673,
+          602.121
+        ],
+        "canvas_px": [
+          1743.793,
+          938.124
+        ]
+      },
+      {
+        "outline_rough_px": [
+          206.702,
+          602.836
+        ],
+        "original_px": [
+          263.702,
+          603.836
+        ],
+        "canvas_px": [
+          1745.121,
+          940.337
+        ]
+      },
+      {
+        "outline_rough_px": [
+          207.731,
+          604.551
+        ],
+        "original_px": [
+          264.731,
+          605.551
+        ],
+        "canvas_px": [
+          1746.449,
+          942.55
+        ]
+      },
+      {
+        "outline_rough_px": [
+          208.76,
+          606.266
+        ],
+        "original_px": [
+          265.76,
+          607.266
+        ],
+        "canvas_px": [
+          1747.776,
+          944.763
+        ]
+      },
+      {
+        "outline_rough_px": [
+          209.789,
+          607.981
+        ],
+        "original_px": [
+          266.789,
+          608.981
+        ],
+        "canvas_px": [
+          1749.104,
+          946.976
+        ]
+      },
+      {
+        "outline_rough_px": [
+          210.818,
+          609.696
+        ],
+        "original_px": [
+          267.818,
+          610.696
+        ],
+        "canvas_px": [
+          1750.432,
+          949.19
+        ]
+      },
+      {
+        "outline_rough_px": [
+          211.847,
+          611.411
+        ],
+        "original_px": [
+          268.847,
+          612.411
+        ],
+        "canvas_px": [
+          1751.76,
+          951.403
+        ]
+      },
+      {
+        "outline_rough_px": [
+          212.875,
+          613.126
+        ],
+        "original_px": [
+          269.875,
+          614.126
+        ],
+        "canvas_px": [
+          1753.087,
+          953.616
+        ]
+      },
+      {
+        "outline_rough_px": [
+          213.904,
+          614.841
+        ],
+        "original_px": [
+          270.904,
+          615.841
+        ],
+        "canvas_px": [
+          1754.415,
+          955.829
+        ]
+      },
+      {
+        "outline_rough_px": [
+          214.933,
+          616.556
+        ],
+        "original_px": [
+          271.933,
+          617.556
+        ],
+        "canvas_px": [
+          1755.742,
+          958.042
+        ]
+      },
+      {
+        "outline_rough_px": [
+          215.962,
+          618.271
+        ],
+        "original_px": [
+          272.962,
+          619.271
+        ],
+        "canvas_px": [
+          1757.07,
+          960.255
+        ]
+      },
+      {
+        "outline_rough_px": [
+          216.991,
+          619.986
+        ],
+        "original_px": [
+          273.991,
+          620.986
+        ],
+        "canvas_px": [
+          1758.398,
+          962.468
+        ]
+      },
+      {
+        "outline_rough_px": [
+          218.02,
+          621.701
+        ],
+        "original_px": [
+          275.02,
+          622.701
+        ],
+        "canvas_px": [
+          1759.726,
+          964.681
+        ]
+      },
+      {
+        "outline_rough_px": [
+          219.049,
+          623.416
+        ],
+        "original_px": [
+          276.049,
+          624.416
+        ],
+        "canvas_px": [
+          1761.054,
+          966.895
+        ]
+      },
+      {
+        "outline_rough_px": [
+          220.078,
+          625.131
+        ],
+        "original_px": [
+          277.078,
+          626.131
+        ],
+        "canvas_px": [
+          1762.382,
+          969.108
+        ]
+      },
+      {
+        "outline_rough_px": [
+          221.107,
+          626.846
+        ],
+        "original_px": [
+          278.107,
+          627.846
+        ],
+        "canvas_px": [
+          1763.71,
+          971.321
+        ]
+      },
+      {
+        "outline_rough_px": [
+          222.136,
+          628.561
+        ],
+        "original_px": [
+          279.136,
+          629.561
+        ],
+        "canvas_px": [
+          1765.037,
+          973.534
+        ]
+      },
+      {
+        "outline_rough_px": [
+          223.201,
+          630.251
+        ],
+        "original_px": [
+          280.201,
+          631.251
+        ],
+        "canvas_px": [
+          1766.412,
+          975.715
+        ]
+      },
+      {
+        "outline_rough_px": [
+          224.45,
+          631.813
+        ],
+        "original_px": [
+          281.45,
+          632.813
+        ],
+        "canvas_px": [
+          1768.024,
+          977.73
+        ]
+      },
+      {
+        "outline_rough_px": [
+          225.7,
+          633.375
+        ],
+        "original_px": [
+          282.7,
+          634.375
+        ],
+        "canvas_px": [
+          1769.637,
+          979.746
+        ]
+      },
+      {
+        "outline_rough_px": [
+          226.949,
+          634.936
+        ],
+        "original_px": [
+          283.949,
+          635.936
+        ],
+        "canvas_px": [
+          1771.248,
+          981.76
+        ]
+      },
+      {
+        "outline_rough_px": [
+          228.198,
+          636.498
+        ],
+        "original_px": [
+          285.198,
+          637.498
+        ],
+        "canvas_px": [
+          1772.86,
+          983.776
+        ]
+      },
+      {
+        "outline_rough_px": [
+          229.448,
+          638.06
+        ],
+        "original_px": [
+          286.448,
+          639.06
+        ],
+        "canvas_px": [
+          1774.473,
+          985.792
+        ]
+      },
+      {
+        "outline_rough_px": [
+          230.697,
+          639.621
+        ],
+        "original_px": [
+          287.697,
+          640.621
+        ],
+        "canvas_px": [
+          1776.085,
+          987.806
+        ]
+      },
+      {
+        "outline_rough_px": [
+          232.014,
+          641.126
+        ],
+        "original_px": [
+          289.014,
+          642.126
+        ],
+        "canvas_px": [
+          1777.785,
+          989.748
+        ]
+      },
+      {
+        "outline_rough_px": [
+          233.352,
+          642.613
+        ],
+        "original_px": [
+          290.352,
+          643.613
+        ],
+        "canvas_px": [
+          1779.511,
+          991.667
+        ]
+      },
+      {
+        "outline_rough_px": [
+          234.69,
+          644.099
+        ],
+        "original_px": [
+          291.69,
+          645.099
+        ],
+        "canvas_px": [
+          1781.238,
+          993.585
+        ]
+      },
+      {
+        "outline_rough_px": [
+          236.027,
+          645.586
+        ],
+        "original_px": [
+          293.027,
+          646.586
+        ],
+        "canvas_px": [
+          1782.963,
+          995.504
+        ]
+      },
+      {
+        "outline_rough_px": [
+          237.365,
+          647.073
+        ],
+        "original_px": [
+          294.365,
+          648.073
+        ],
+        "canvas_px": [
+          1784.69,
+          997.423
+        ]
+      },
+      {
+        "outline_rough_px": [
+          238.703,
+          648.559
+        ],
+        "original_px": [
+          295.703,
+          649.559
+        ],
+        "canvas_px": [
+          1786.416,
+          999.34
+        ]
+      },
+      {
+        "outline_rough_px": [
+          240.046,
+          650.041
+        ],
+        "original_px": [
+          297.046,
+          651.041
+        ],
+        "canvas_px": [
+          1788.149,
+          1001.253
+        ]
+      },
+      {
+        "outline_rough_px": [
+          241.525,
+          651.387
+        ],
+        "original_px": [
+          298.525,
+          652.387
+        ],
+        "canvas_px": [
+          1790.058,
+          1002.99
+        ]
+      },
+      {
+        "outline_rough_px": [
+          243.005,
+          652.732
+        ],
+        "original_px": [
+          300.005,
+          653.732
+        ],
+        "canvas_px": [
+          1791.968,
+          1004.725
+        ]
+      },
+      {
+        "outline_rough_px": [
+          244.485,
+          654.077
+        ],
+        "original_px": [
+          301.485,
+          655.077
+        ],
+        "canvas_px": [
+          1793.878,
+          1006.461
+        ]
+      },
+      {
+        "outline_rough_px": [
+          245.965,
+          655.423
+        ],
+        "original_px": [
+          302.965,
+          656.423
+        ],
+        "canvas_px": [
+          1795.788,
+          1008.198
+        ]
+      },
+      {
+        "outline_rough_px": [
+          247.445,
+          656.768
+        ],
+        "original_px": [
+          304.445,
+          657.768
+        ],
+        "canvas_px": [
+          1797.697,
+          1009.934
+        ]
+      },
+      {
+        "outline_rough_px": [
+          248.925,
+          658.114
+        ],
+        "original_px": [
+          305.925,
+          659.114
+        ],
+        "canvas_px": [
+          1799.607,
+          1011.671
+        ]
+      },
+      {
+        "outline_rough_px": [
+          250.405,
+          659.459
+        ],
+        "original_px": [
+          307.405,
+          660.459
+        ],
+        "canvas_px": [
+          1801.517,
+          1013.406
+        ]
+      },
+      {
+        "outline_rough_px": [
+          252.014,
+          660.634
+        ],
+        "original_px": [
+          309.014,
+          661.634
+        ],
+        "canvas_px": [
+          1803.594,
+          1014.922
+        ]
+      },
+      {
+        "outline_rough_px": [
+          253.71,
+          661.694
+        ],
+        "original_px": [
+          310.71,
+          662.694
+        ],
+        "canvas_px": [
+          1805.782,
+          1016.29
+        ]
+      },
+      {
+        "outline_rough_px": [
+          255.406,
+          662.754
+        ],
+        "original_px": [
+          312.406,
+          663.754
+        ],
+        "canvas_px": [
+          1807.971,
+          1017.658
+        ]
+      },
+      {
+        "outline_rough_px": [
+          257.102,
+          663.814
+        ],
+        "original_px": [
+          314.102,
+          664.814
+        ],
+        "canvas_px": [
+          1810.159,
+          1019.026
+        ]
+      },
+      {
+        "outline_rough_px": [
+          258.798,
+          664.874
+        ],
+        "original_px": [
+          315.798,
+          665.874
+        ],
+        "canvas_px": [
+          1812.348,
+          1020.394
+        ]
+      },
+      {
+        "outline_rough_px": [
+          260.494,
+          665.934
+        ],
+        "original_px": [
+          317.494,
+          666.934
+        ],
+        "canvas_px": [
+          1814.537,
+          1021.762
+        ]
+      },
+      {
+        "outline_rough_px": [
+          262.19,
+          666.994
+        ],
+        "original_px": [
+          319.19,
+          667.994
+        ],
+        "canvas_px": [
+          1816.725,
+          1023.13
+        ]
+      },
+      {
+        "outline_rough_px": [
+          263.886,
+          668.054
+        ],
+        "original_px": [
+          320.886,
+          669.054
+        ],
+        "canvas_px": [
+          1818.914,
+          1024.498
+        ]
+      },
+      {
+        "outline_rough_px": [
+          265.582,
+          669.114
+        ],
+        "original_px": [
+          322.582,
+          670.114
+        ],
+        "canvas_px": [
+          1821.102,
+          1025.866
+        ]
+      },
+      {
+        "outline_rough_px": [
+          267.273,
+          670.182
+        ],
+        "original_px": [
+          324.273,
+          671.182
+        ],
+        "canvas_px": [
+          1823.285,
+          1027.244
+        ]
+      },
+      {
+        "outline_rough_px": [
+          268.937,
+          671.291
+        ],
+        "original_px": [
+          325.937,
+          672.291
+        ],
+        "canvas_px": [
+          1825.432,
+          1028.675
+        ]
+      },
+      {
+        "outline_rough_px": [
+          270.601,
+          672.401
+        ],
+        "original_px": [
+          327.601,
+          673.401
+        ],
+        "canvas_px": [
+          1827.579,
+          1030.107
+        ]
+      },
+      {
+        "outline_rough_px": [
+          272.265,
+          673.51
+        ],
+        "original_px": [
+          329.265,
+          674.51
+        ],
+        "canvas_px": [
+          1829.726,
+          1031.538
+        ]
+      },
+      {
+        "outline_rough_px": [
+          273.929,
+          674.619
+        ],
+        "original_px": [
+          330.929,
+          675.619
+        ],
+        "canvas_px": [
+          1831.874,
+          1032.969
+        ]
+      },
+      {
+        "outline_rough_px": [
+          275.593,
+          675.729
+        ],
+        "original_px": [
+          332.593,
+          676.729
+        ],
+        "canvas_px": [
+          1834.021,
+          1034.402
+        ]
+      },
+      {
+        "outline_rough_px": [
+          277.257,
+          676.838
+        ],
+        "original_px": [
+          334.257,
+          677.838
+        ],
+        "canvas_px": [
+          1836.168,
+          1035.833
+        ]
+      },
+      {
+        "outline_rough_px": [
+          278.921,
+          677.948
+        ],
+        "original_px": [
+          335.921,
+          678.948
+        ],
+        "canvas_px": [
+          1838.316,
+          1037.265
+        ]
+      },
+      {
+        "outline_rough_px": [
+          280.585,
+          679.057
+        ],
+        "original_px": [
+          337.585,
+          680.057
+        ],
+        "canvas_px": [
+          1840.463,
+          1038.696
+        ]
+      },
+      {
+        "outline_rough_px": [
+          282.249,
+          680.166
+        ],
+        "original_px": [
+          339.249,
+          681.166
+        ],
+        "canvas_px": [
+          1842.61,
+          1040.128
+        ]
+      },
+      {
+        "outline_rough_px": [
+          283.914,
+          681.276
+        ],
+        "original_px": [
+          340.914,
+          682.276
+        ],
+        "canvas_px": [
+          1844.759,
+          1041.56
+        ]
+      },
+      {
+        "outline_rough_px": [
+          285.578,
+          682.385
+        ],
+        "original_px": [
+          342.578,
+          683.385
+        ],
+        "canvas_px": [
+          1846.906,
+          1042.991
+        ]
+      },
+      {
+        "outline_rough_px": [
+          287.242,
+          683.495
+        ],
+        "original_px": [
+          344.242,
+          684.495
+        ],
+        "canvas_px": [
+          1849.054,
+          1044.423
+        ]
+      },
+      {
+        "outline_rough_px": [
+          288.906,
+          684.604
+        ],
+        "original_px": [
+          345.906,
+          685.604
+        ],
+        "canvas_px": [
+          1851.201,
+          1045.855
+        ]
+      },
+      {
+        "outline_rough_px": [
+          290.57,
+          685.713
+        ],
+        "original_px": [
+          347.57,
+          686.713
+        ],
+        "canvas_px": [
+          1853.348,
+          1047.286
+        ]
+      },
+      {
+        "outline_rough_px": [
+          292.234,
+          686.823
+        ],
+        "original_px": [
+          349.234,
+          687.823
+        ],
+        "canvas_px": [
+          1855.495,
+          1048.718
+        ]
+      },
+      {
+        "outline_rough_px": [
+          293.898,
+          687.932
+        ],
+        "original_px": [
+          350.898,
+          688.932
+        ],
+        "canvas_px": [
+          1857.643,
+          1050.149
+        ]
+      },
+      {
+        "outline_rough_px": [
+          295.562,
+          689.042
+        ],
+        "original_px": [
+          352.562,
+          690.042
+        ],
+        "canvas_px": [
+          1859.79,
+          1051.582
+        ]
+      },
+      {
+        "outline_rough_px": [
+          297.231,
+          690.144
+        ],
+        "original_px": [
+          354.231,
+          691.144
+        ],
+        "canvas_px": [
+          1861.944,
+          1053.004
+        ]
+      },
+      {
+        "outline_rough_px": [
+          298.927,
+          691.204
+        ],
+        "original_px": [
+          355.927,
+          692.204
+        ],
+        "canvas_px": [
+          1864.132,
+          1054.372
+        ]
+      },
+      {
+        "outline_rough_px": [
+          300.623,
+          692.264
+        ],
+        "original_px": [
+          357.623,
+          693.264
+        ],
+        "canvas_px": [
+          1866.321,
+          1055.739
+        ]
+      },
+      {
+        "outline_rough_px": [
+          302.319,
+          693.324
+        ],
+        "original_px": [
+          359.319,
+          694.324
+        ],
+        "canvas_px": [
+          1868.51,
+          1057.107
+        ]
+      },
+      {
+        "outline_rough_px": [
+          304.015,
+          694.384
+        ],
+        "original_px": [
+          361.015,
+          695.384
+        ],
+        "canvas_px": [
+          1870.698,
+          1058.475
+        ]
+      },
+      {
+        "outline_rough_px": [
+          305.711,
+          695.444
+        ],
+        "original_px": [
+          362.711,
+          696.444
+        ],
+        "canvas_px": [
+          1872.887,
+          1059.843
+        ]
+      },
+      {
+        "outline_rough_px": [
+          307.407,
+          696.504
+        ],
+        "original_px": [
+          364.407,
+          697.504
+        ],
+        "canvas_px": [
+          1875.075,
+          1061.211
+        ]
+      },
+      {
+        "outline_rough_px": [
+          309.103,
+          697.564
+        ],
+        "original_px": [
+          366.103,
+          698.564
+        ],
+        "canvas_px": [
+          1877.264,
+          1062.579
+        ]
+      },
+      {
+        "outline_rough_px": [
+          310.799,
+          698.624
+        ],
+        "original_px": [
+          367.799,
+          699.624
+        ],
+        "canvas_px": [
+          1879.453,
+          1063.947
+        ]
+      },
+      {
+        "outline_rough_px": [
+          312.495,
+          699.684
+        ],
+        "original_px": [
+          369.495,
+          700.684
+        ],
+        "canvas_px": [
+          1881.641,
+          1065.315
+        ]
+      },
+      {
+        "outline_rough_px": [
+          314.191,
+          700.744
+        ],
+        "original_px": [
+          371.191,
+          701.744
+        ],
+        "canvas_px": [
+          1883.83,
+          1066.682
+        ]
+      },
+      {
+        "outline_rough_px": [
+          315.887,
+          701.804
+        ],
+        "original_px": [
+          372.887,
+          702.804
+        ],
+        "canvas_px": [
+          1886.018,
+          1068.05
+        ]
+      },
+      {
+        "outline_rough_px": [
+          317.583,
+          702.864
+        ],
+        "original_px": [
+          374.583,
+          703.864
+        ],
+        "canvas_px": [
+          1888.207,
+          1069.418
+        ]
+      },
+      {
+        "outline_rough_px": [
+          319.279,
+          703.924
+        ],
+        "original_px": [
+          376.279,
+          704.924
+        ],
+        "canvas_px": [
+          1890.396,
+          1070.786
+        ]
+      },
+      {
+        "outline_rough_px": [
+          320.975,
+          704.984
+        ],
+        "original_px": [
+          377.975,
+          705.984
+        ],
+        "canvas_px": [
+          1892.584,
+          1072.154
+        ]
+      },
+      {
+        "outline_rough_px": [
+          322.671,
+          706.044
+        ],
+        "original_px": [
+          379.671,
+          707.044
+        ],
+        "canvas_px": [
+          1894.773,
+          1073.522
+        ]
+      },
+      {
+        "outline_rough_px": [
+          324.367,
+          707.104
+        ],
+        "original_px": [
+          381.367,
+          708.104
+        ],
+        "canvas_px": [
+          1896.961,
+          1074.89
+        ]
+      },
+      {
+        "outline_rough_px": [
+          326.063,
+          708.164
+        ],
+        "original_px": [
+          383.063,
+          709.164
+        ],
+        "canvas_px": [
+          1899.15,
+          1076.258
+        ]
+      },
+      {
+        "outline_rough_px": [
+          327.759,
+          709.224
+        ],
+        "original_px": [
+          384.759,
+          710.224
+        ],
+        "canvas_px": [
+          1901.339,
+          1077.625
+        ]
+      },
+      {
+        "outline_rough_px": [
+          329.474,
+          710.25
+        ],
+        "original_px": [
+          386.474,
+          711.25
+        ],
+        "canvas_px": [
+          1903.552,
+          1078.949
+        ]
+      },
+      {
+        "outline_rough_px": [
+          331.244,
+          711.181
+        ],
+        "original_px": [
+          388.244,
+          712.181
+        ],
+        "canvas_px": [
+          1905.836,
+          1080.151
+        ]
+      },
+      {
+        "outline_rough_px": [
+          333.014,
+          712.113
+        ],
+        "original_px": [
+          390.014,
+          713.113
+        ],
+        "canvas_px": [
+          1908.12,
+          1081.354
+        ]
+      },
+      {
+        "outline_rough_px": [
+          334.784,
+          713.044
+        ],
+        "original_px": [
+          391.784,
+          714.044
+        ],
+        "canvas_px": [
+          1910.404,
+          1082.555
+        ]
+      },
+      {
+        "outline_rough_px": [
+          336.554,
+          713.976
+        ],
+        "original_px": [
+          393.554,
+          714.976
+        ],
+        "canvas_px": [
+          1912.688,
+          1083.758
+        ]
+      },
+      {
+        "outline_rough_px": [
+          338.324,
+          714.907
+        ],
+        "original_px": [
+          395.324,
+          715.907
+        ],
+        "canvas_px": [
+          1914.972,
+          1084.959
+        ]
+      },
+      {
+        "outline_rough_px": [
+          340.093,
+          715.839
+        ],
+        "original_px": [
+          397.093,
+          716.839
+        ],
+        "canvas_px": [
+          1917.255,
+          1086.162
+        ]
+      },
+      {
+        "outline_rough_px": [
+          341.863,
+          716.77
+        ],
+        "original_px": [
+          398.863,
+          717.77
+        ],
+        "canvas_px": [
+          1919.539,
+          1087.363
+        ]
+      },
+      {
+        "outline_rough_px": [
+          343.633,
+          717.702
+        ],
+        "original_px": [
+          400.633,
+          718.702
+        ],
+        "canvas_px": [
+          1921.823,
+          1088.566
+        ]
+      },
+      {
+        "outline_rough_px": [
+          345.403,
+          718.633
+        ],
+        "original_px": [
+          402.403,
+          719.633
+        ],
+        "canvas_px": [
+          1924.107,
+          1089.767
+        ]
+      },
+      {
+        "outline_rough_px": [
+          347.173,
+          719.565
+        ],
+        "original_px": [
+          404.173,
+          720.565
+        ],
+        "canvas_px": [
+          1926.391,
+          1090.97
+        ]
+      },
+      {
+        "outline_rough_px": [
+          348.964,
+          720.454
+        ],
+        "original_px": [
+          405.964,
+          721.454
+        ],
+        "canvas_px": [
+          1928.703,
+          1092.117
+        ]
+      },
+      {
+        "outline_rough_px": [
+          350.774,
+          721.305
+        ],
+        "original_px": [
+          407.774,
+          722.305
+        ],
+        "canvas_px": [
+          1931.038,
+          1093.215
+        ]
+      },
+      {
+        "outline_rough_px": [
+          352.583,
+          722.157
+        ],
+        "original_px": [
+          409.583,
+          723.157
+        ],
+        "canvas_px": [
+          1933.373,
+          1094.315
+        ]
+      },
+      {
+        "outline_rough_px": [
+          354.393,
+          723.008
+        ],
+        "original_px": [
+          411.393,
+          724.008
+        ],
+        "canvas_px": [
+          1935.709,
+          1095.413
+        ]
+      },
+      {
+        "outline_rough_px": [
+          356.202,
+          723.86
+        ],
+        "original_px": [
+          413.202,
+          724.86
+        ],
+        "canvas_px": [
+          1938.043,
+          1096.512
+        ]
+      },
+      {
+        "outline_rough_px": [
+          358.012,
+          724.712
+        ],
+        "original_px": [
+          415.012,
+          725.712
+        ],
+        "canvas_px": [
+          1940.379,
+          1097.612
+        ]
+      },
+      {
+        "outline_rough_px": [
+          359.822,
+          725.563
+        ],
+        "original_px": [
+          416.822,
+          726.563
+        ],
+        "canvas_px": [
+          1942.714,
+          1098.71
+        ]
+      },
+      {
+        "outline_rough_px": [
+          361.631,
+          726.415
+        ],
+        "original_px": [
+          418.631,
+          727.415
+        ],
+        "canvas_px": [
+          1945.049,
+          1099.81
+        ]
+      },
+      {
+        "outline_rough_px": [
+          363.441,
+          727.266
+        ],
+        "original_px": [
+          420.441,
+          728.266
+        ],
+        "canvas_px": [
+          1947.385,
+          1100.908
+        ]
+      },
+      {
+        "outline_rough_px": [
+          365.259,
+          727.901
+        ],
+        "original_px": [
+          422.259,
+          728.901
+        ],
+        "canvas_px": [
+          1949.731,
+          1101.727
+        ]
+      },
+      {
+        "outline_rough_px": [
+          367.128,
+          727.189
+        ],
+        "original_px": [
+          424.128,
+          728.189
+        ],
+        "canvas_px": [
+          1952.142,
+          1100.808
+        ]
+      },
+      {
+        "outline_rough_px": [
+          368.997,
+          726.477
+        ],
+        "original_px": [
+          425.997,
+          727.477
+        ],
+        "canvas_px": [
+          1954.554,
+          1099.89
+        ]
+      },
+      {
+        "outline_rough_px": [
+          370.866,
+          725.765
+        ],
+        "original_px": [
+          427.866,
+          726.765
+        ],
+        "canvas_px": [
+          1956.966,
+          1098.971
+        ]
+      },
+      {
+        "outline_rough_px": [
+          372.735,
+          725.053
+        ],
+        "original_px": [
+          429.735,
+          726.053
+        ],
+        "canvas_px": [
+          1959.378,
+          1098.052
+        ]
+      },
+      {
+        "outline_rough_px": [
+          374.604,
+          724.341
+        ],
+        "original_px": [
+          431.604,
+          725.341
+        ],
+        "canvas_px": [
+          1961.79,
+          1097.133
+        ]
+      },
+      {
+        "outline_rough_px": [
+          376.473,
+          723.629
+        ],
+        "original_px": [
+          433.473,
+          724.629
+        ],
+        "canvas_px": [
+          1964.202,
+          1096.214
+        ]
+      },
+      {
+        "outline_rough_px": [
+          378.342,
+          722.917
+        ],
+        "original_px": [
+          435.342,
+          723.917
+        ],
+        "canvas_px": [
+          1966.614,
+          1095.296
+        ]
+      },
+      {
+        "outline_rough_px": [
+          380.211,
+          722.205
+        ],
+        "original_px": [
+          437.211,
+          723.205
+        ],
+        "canvas_px": [
+          1969.025,
+          1094.377
+        ]
+      },
+      {
+        "outline_rough_px": [
+          382.08,
+          721.493
+        ],
+        "original_px": [
+          439.08,
+          722.493
+        ],
+        "canvas_px": [
+          1971.437,
+          1093.458
+        ]
+      },
+      {
+        "outline_rough_px": [
+          383.949,
+          720.781
+        ],
+        "original_px": [
+          440.949,
+          721.781
+        ],
+        "canvas_px": [
+          1973.849,
+          1092.539
+        ]
+      },
+      {
+        "outline_rough_px": [
+          385.818,
+          720.07
+        ],
+        "original_px": [
+          442.818,
+          721.07
+        ],
+        "canvas_px": [
+          1976.261,
+          1091.622
+        ]
+      },
+      {
+        "outline_rough_px": [
+          387.386,
+          718.845
+        ],
+        "original_px": [
+          444.386,
+          719.845
+        ],
+        "canvas_px": [
+          1978.284,
+          1090.041
+        ]
+      },
+      {
+        "outline_rough_px": [
+          388.923,
+          717.564
+        ],
+        "original_px": [
+          445.923,
+          718.564
+        ],
+        "canvas_px": [
+          1980.268,
+          1088.388
+        ]
+      },
+      {
+        "outline_rough_px": [
+          390.459,
+          716.284
+        ],
+        "original_px": [
+          447.459,
+          717.284
+        ],
+        "canvas_px": [
+          1982.25,
+          1086.736
+        ]
+      },
+      {
+        "outline_rough_px": [
+          391.996,
+          715.004
+        ],
+        "original_px": [
+          448.996,
+          716.004
+        ],
+        "canvas_px": [
+          1984.233,
+          1085.084
+        ]
+      },
+      {
+        "outline_rough_px": [
+          393.532,
+          713.723
+        ],
+        "original_px": [
+          450.532,
+          714.723
+        ],
+        "canvas_px": [
+          1986.215,
+          1083.431
+        ]
+      },
+      {
+        "outline_rough_px": [
+          395.069,
+          712.443
+        ],
+        "original_px": [
+          452.069,
+          713.443
+        ],
+        "canvas_px": [
+          1988.199,
+          1081.779
+        ]
+      },
+      {
+        "outline_rough_px": [
+          396.605,
+          711.162
+        ],
+        "original_px": [
+          453.605,
+          712.162
+        ],
+        "canvas_px": [
+          1990.181,
+          1080.126
+        ]
+      },
+      {
+        "outline_rough_px": [
+          398.146,
+          709.888
+        ],
+        "original_px": [
+          455.146,
+          710.888
+        ],
+        "canvas_px": [
+          1992.17,
+          1078.482
+        ]
+      },
+      {
+        "outline_rough_px": [
+          399.731,
+          708.668
+        ],
+        "original_px": [
+          456.731,
+          709.668
+        ],
+        "canvas_px": [
+          1994.215,
+          1076.908
+        ]
+      },
+      {
+        "outline_rough_px": [
+          401.317,
+          707.449
+        ],
+        "original_px": [
+          458.317,
+          708.449
+        ],
+        "canvas_px": [
+          1996.262,
+          1075.335
+        ]
+      },
+      {
+        "outline_rough_px": [
+          402.902,
+          706.229
+        ],
+        "original_px": [
+          459.902,
+          707.229
+        ],
+        "canvas_px": [
+          1998.307,
+          1073.761
+        ]
+      },
+      {
+        "outline_rough_px": [
+          404.487,
+          705.01
+        ],
+        "original_px": [
+          461.487,
+          706.01
+        ],
+        "canvas_px": [
+          2000.352,
+          1072.187
+        ]
+      },
+      {
+        "outline_rough_px": [
+          406.072,
+          703.791
+        ],
+        "original_px": [
+          463.072,
+          704.791
+        ],
+        "canvas_px": [
+          2002.398,
+          1070.614
+        ]
+      },
+      {
+        "outline_rough_px": [
+          407.658,
+          702.571
+        ],
+        "original_px": [
+          464.658,
+          703.571
+        ],
+        "canvas_px": [
+          2004.444,
+          1069.04
+        ]
+      },
+      {
+        "outline_rough_px": [
+          409.243,
+          701.352
+        ],
+        "original_px": [
+          466.243,
+          702.352
+        ],
+        "canvas_px": [
+          2006.49,
+          1067.467
+        ]
+      },
+      {
+        "outline_rough_px": [
+          410.828,
+          700.132
+        ],
+        "original_px": [
+          467.828,
+          701.132
+        ],
+        "canvas_px": [
+          2008.535,
+          1065.893
+        ]
+      },
+      {
+        "outline_rough_px": [
+          412.413,
+          698.913
+        ],
+        "original_px": [
+          469.413,
+          699.913
+        ],
+        "canvas_px": [
+          2010.58,
+          1064.32
+        ]
+      },
+      {
+        "outline_rough_px": [
+          413.999,
+          697.693
+        ],
+        "original_px": [
+          470.999,
+          698.693
+        ],
+        "canvas_px": [
+          2012.627,
+          1062.745
+        ]
+      },
+      {
+        "outline_rough_px": [
+          415.584,
+          696.474
+        ],
+        "original_px": [
+          472.584,
+          697.474
+        ],
+        "canvas_px": [
+          2014.672,
+          1061.172
+        ]
+      },
+      {
+        "outline_rough_px": [
+          417.169,
+          695.255
+        ],
+        "original_px": [
+          474.169,
+          696.255
+        ],
+        "canvas_px": [
+          2016.718,
+          1059.599
+        ]
+      },
+      {
+        "outline_rough_px": [
+          418.754,
+          694.035
+        ],
+        "original_px": [
+          475.754,
+          695.035
+        ],
+        "canvas_px": [
+          2018.763,
+          1058.025
+        ]
+      },
+      {
+        "outline_rough_px": [
+          420.34,
+          692.816
+        ],
+        "original_px": [
+          477.34,
+          693.816
+        ],
+        "canvas_px": [
+          2020.81,
+          1056.452
+        ]
+      },
+      {
+        "outline_rough_px": [
+          421.925,
+          691.596
+        ],
+        "original_px": [
+          478.925,
+          692.596
+        ],
+        "canvas_px": [
+          2022.855,
+          1054.877
+        ]
+      },
+      {
+        "outline_rough_px": [
+          423.51,
+          690.377
+        ],
+        "original_px": [
+          480.51,
+          691.377
+        ],
+        "canvas_px": [
+          2024.901,
+          1053.304
+        ]
+      },
+      {
+        "outline_rough_px": [
+          425.062,
+          689.115
+        ],
+        "original_px": [
+          482.062,
+          690.115
+        ],
+        "canvas_px": [
+          2026.903,
+          1051.676
+        ]
+      },
+      {
+        "outline_rough_px": [
+          426.598,
+          687.835
+        ],
+        "original_px": [
+          483.598,
+          688.835
+        ],
+        "canvas_px": [
+          2028.885,
+          1050.024
+        ]
+      },
+      {
+        "outline_rough_px": [
+          428.134,
+          686.555
+        ],
+        "original_px": [
+          485.134,
+          687.555
+        ],
+        "canvas_px": [
+          2030.868,
+          1048.372
+        ]
+      },
+      {
+        "outline_rough_px": [
+          429.671,
+          685.274
+        ],
+        "original_px": [
+          486.671,
+          686.274
+        ],
+        "canvas_px": [
+          2032.851,
+          1046.719
+        ]
+      },
+      {
+        "outline_rough_px": [
+          431.207,
+          683.994
+        ],
+        "original_px": [
+          488.207,
+          684.994
+        ],
+        "canvas_px": [
+          2034.833,
+          1045.067
+        ]
+      },
+      {
+        "outline_rough_px": [
+          432.744,
+          682.714
+        ],
+        "original_px": [
+          489.744,
+          683.714
+        ],
+        "canvas_px": [
+          2036.817,
+          1043.416
+        ]
+      },
+      {
+        "outline_rough_px": [
+          434.28,
+          681.433
+        ],
+        "original_px": [
+          491.28,
+          682.433
+        ],
+        "canvas_px": [
+          2038.799,
+          1041.763
+        ]
+      },
+      {
+        "outline_rough_px": [
+          435.817,
+          680.153
+        ],
+        "original_px": [
+          492.817,
+          681.153
+        ],
+        "canvas_px": [
+          2040.782,
+          1040.111
+        ]
+      },
+      {
+        "outline_rough_px": [
+          437.303,
+          678.815
+        ],
+        "original_px": [
+          494.303,
+          679.815
+        ],
+        "canvas_px": [
+          2042.7,
+          1038.384
+        ]
+      },
+      {
+        "outline_rough_px": [
+          438.783,
+          677.47
+        ],
+        "original_px": [
+          495.783,
+          678.47
+        ],
+        "canvas_px": [
+          2044.61,
+          1036.649
+        ]
+      },
+      {
+        "outline_rough_px": [
+          440.263,
+          676.125
+        ],
+        "original_px": [
+          497.263,
+          677.125
+        ],
+        "canvas_px": [
+          2046.519,
+          1034.913
+        ]
+      },
+      {
+        "outline_rough_px": [
+          441.743,
+          674.779
+        ],
+        "original_px": [
+          498.743,
+          675.779
+        ],
+        "canvas_px": [
+          2048.429,
+          1033.176
+        ]
+      },
+      {
+        "outline_rough_px": [
+          443.223,
+          673.434
+        ],
+        "original_px": [
+          500.223,
+          674.434
+        ],
+        "canvas_px": [
+          2050.339,
+          1031.44
+        ]
+      },
+      {
+        "outline_rough_px": [
+          444.703,
+          672.088
+        ],
+        "original_px": [
+          501.703,
+          673.088
+        ],
+        "canvas_px": [
+          2052.249,
+          1029.703
+        ]
+      },
+      {
+        "outline_rough_px": [
+          446.183,
+          670.743
+        ],
+        "original_px": [
+          503.183,
+          671.743
+        ],
+        "canvas_px": [
+          2054.159,
+          1027.968
+        ]
+      },
+      {
+        "outline_rough_px": [
+          447.662,
+          669.398
+        ],
+        "original_px": [
+          504.662,
+          670.398
+        ],
+        "canvas_px": [
+          2056.068,
+          1026.232
+        ]
+      },
+      {
+        "outline_rough_px": [
+          449.142,
+          668.052
+        ],
+        "original_px": [
+          506.142,
+          669.052
+        ],
+        "canvas_px": [
+          2057.977,
+          1024.495
+        ]
+      },
+      {
+        "outline_rough_px": [
+          450.622,
+          666.707
+        ],
+        "original_px": [
+          507.622,
+          667.707
+        ],
+        "canvas_px": [
+          2059.887,
+          1022.759
+        ]
+      },
+      {
+        "outline_rough_px": [
+          452.102,
+          665.362
+        ],
+        "original_px": [
+          509.102,
+          666.362
+        ],
+        "canvas_px": [
+          2061.797,
+          1021.024
+        ]
+      },
+      {
+        "outline_rough_px": [
+          453.582,
+          664.016
+        ],
+        "original_px": [
+          510.582,
+          665.016
+        ],
+        "canvas_px": [
+          2063.707,
+          1019.287
+        ]
+      },
+      {
+        "outline_rough_px": [
+          455.062,
+          662.671
+        ],
+        "original_px": [
+          512.062,
+          663.671
+        ],
+        "canvas_px": [
+          2065.617,
+          1017.551
+        ]
+      },
+      {
+        "outline_rough_px": [
+          456.542,
+          661.326
+        ],
+        "original_px": [
+          513.542,
+          662.326
+        ],
+        "canvas_px": [
+          2067.527,
+          1015.815
+        ]
+      },
+      {
+        "outline_rough_px": [
+          458.022,
+          659.98
+        ],
+        "original_px": [
+          515.022,
+          660.98
+        ],
+        "canvas_px": [
+          2069.437,
+          1014.079
+        ]
+      },
+      {
+        "outline_rough_px": [
+          459.501,
+          658.635
+        ],
+        "original_px": [
+          516.501,
+          659.635
+        ],
+        "canvas_px": [
+          2071.345,
+          1012.343
+        ]
+      },
+      {
+        "outline_rough_px": [
+          460.981,
+          657.29
+        ],
+        "original_px": [
+          517.981,
+          658.29
+        ],
+        "canvas_px": [
+          2073.255,
+          1010.607
+        ]
+      },
+      {
+        "outline_rough_px": [
+          462.461,
+          655.944
+        ],
+        "original_px": [
+          519.461,
+          656.944
+        ],
+        "canvas_px": [
+          2075.165,
+          1008.87
+        ]
+      },
+      {
+        "outline_rough_px": [
+          463.941,
+          654.599
+        ],
+        "original_px": [
+          520.941,
+          655.599
+        ],
+        "canvas_px": [
+          2077.075,
+          1007.135
+        ]
+      },
+      {
+        "outline_rough_px": [
+          465.421,
+          653.254
+        ],
+        "original_px": [
+          522.421,
+          654.254
+        ],
+        "canvas_px": [
+          2078.985,
+          1005.399
+        ]
+      },
+      {
+        "outline_rough_px": [
+          466.901,
+          651.908
+        ],
+        "original_px": [
+          523.901,
+          652.908
+        ],
+        "canvas_px": [
+          2080.894,
+          1003.662
+        ]
+      },
+      {
+        "outline_rough_px": [
+          468.381,
+          650.563
+        ],
+        "original_px": [
+          525.381,
+          651.563
+        ],
+        "canvas_px": [
+          2082.804,
+          1001.926
+        ]
+      },
+      {
+        "outline_rough_px": [
+          469.778,
+          649.135
+        ],
+        "original_px": [
+          526.778,
+          650.135
+        ],
+        "canvas_px": [
+          2084.607,
+          1000.084
+        ]
+      },
+      {
+        "outline_rough_px": [
+          471.116,
+          647.649
+        ],
+        "original_px": [
+          528.116,
+          648.649
+        ],
+        "canvas_px": [
+          2086.334,
+          998.166
+        ]
+      },
+      {
+        "outline_rough_px": [
+          472.454,
+          646.162
+        ],
+        "original_px": [
+          529.454,
+          647.162
+        ],
+        "canvas_px": [
+          2088.06,
+          996.247
+        ]
+      },
+      {
+        "outline_rough_px": [
+          473.792,
+          644.676
+        ],
+        "original_px": [
+          530.792,
+          645.676
+        ],
+        "canvas_px": [
+          2089.787,
+          994.329
+        ]
+      },
+      {
+        "outline_rough_px": [
+          475.13,
+          643.189
+        ],
+        "original_px": [
+          532.13,
+          644.189
+        ],
+        "canvas_px": [
+          2091.514,
+          992.411
+        ]
+      },
+      {
+        "outline_rough_px": [
+          476.468,
+          641.703
+        ],
+        "original_px": [
+          533.468,
+          642.703
+        ],
+        "canvas_px": [
+          2093.24,
+          990.493
+        ]
+      },
+      {
+        "outline_rough_px": [
+          477.806,
+          640.216
+        ],
+        "original_px": [
+          534.806,
+          641.216
+        ],
+        "canvas_px": [
+          2094.967,
+          988.574
+        ]
+      },
+      {
+        "outline_rough_px": [
+          479.144,
+          638.729
+        ],
+        "original_px": [
+          536.144,
+          639.729
+        ],
+        "canvas_px": [
+          2096.693,
+          986.655
+        ]
+      },
+      {
+        "outline_rough_px": [
+          480.482,
+          637.243
+        ],
+        "original_px": [
+          537.482,
+          638.243
+        ],
+        "canvas_px": [
+          2098.42,
+          984.738
+        ]
+      },
+      {
+        "outline_rough_px": [
+          481.819,
+          635.756
+        ],
+        "original_px": [
+          538.819,
+          636.756
+        ],
+        "canvas_px": [
+          2100.145,
+          982.819
+        ]
+      },
+      {
+        "outline_rough_px": [
+          483.157,
+          634.27
+        ],
+        "original_px": [
+          540.157,
+          635.27
+        ],
+        "canvas_px": [
+          2101.872,
+          980.901
+        ]
+      },
+      {
+        "outline_rough_px": [
+          484.495,
+          632.783
+        ],
+        "original_px": [
+          541.495,
+          633.783
+        ],
+        "canvas_px": [
+          2103.599,
+          978.982
+        ]
+      },
+      {
+        "outline_rough_px": [
+          485.833,
+          631.296
+        ],
+        "original_px": [
+          542.833,
+          632.296
+        ],
+        "canvas_px": [
+          2105.325,
+          977.063
+        ]
+      },
+      {
+        "outline_rough_px": [
+          487.132,
+          629.781
+        ],
+        "original_px": [
+          544.132,
+          630.781
+        ],
+        "canvas_px": [
+          2107.002,
+          975.108
+        ]
+      },
+      {
+        "outline_rough_px": [
+          488.161,
+          628.066
+        ],
+        "original_px": [
+          545.161,
+          629.066
+        ],
+        "canvas_px": [
+          2108.329,
+          972.895
+        ]
+      },
+      {
+        "outline_rough_px": [
+          489.19,
+          626.351
+        ],
+        "original_px": [
+          546.19,
+          627.351
+        ],
+        "canvas_px": [
+          2109.657,
+          970.682
+        ]
+      },
+      {
+        "outline_rough_px": [
+          490.219,
+          624.636
+        ],
+        "original_px": [
+          547.219,
+          625.636
+        ],
+        "canvas_px": [
+          2110.985,
+          968.469
+        ]
+      },
+      {
+        "outline_rough_px": [
+          491.248,
+          622.921
+        ],
+        "original_px": [
+          548.248,
+          623.921
+        ],
+        "canvas_px": [
+          2112.313,
+          966.256
+        ]
+      },
+      {
+        "outline_rough_px": [
+          492.277,
+          621.206
+        ],
+        "original_px": [
+          549.277,
+          622.206
+        ],
+        "canvas_px": [
+          2113.641,
+          964.043
+        ]
+      },
+      {
+        "outline_rough_px": [
+          493.306,
+          619.491
+        ],
+        "original_px": [
+          550.306,
+          620.491
+        ],
+        "canvas_px": [
+          2114.969,
+          961.829
+        ]
+      },
+      {
+        "outline_rough_px": [
+          494.335,
+          617.776
+        ],
+        "original_px": [
+          551.335,
+          618.776
+        ],
+        "canvas_px": [
+          2116.297,
+          959.616
+        ]
+      },
+      {
+        "outline_rough_px": [
+          495.364,
+          616.061
+        ],
+        "original_px": [
+          552.364,
+          617.061
+        ],
+        "canvas_px": [
+          2117.625,
+          957.403
+        ]
+      },
+      {
+        "outline_rough_px": [
+          496.393,
+          614.346
+        ],
+        "original_px": [
+          553.393,
+          615.346
+        ],
+        "canvas_px": [
+          2118.952,
+          955.19
+        ]
+      },
+      {
+        "outline_rough_px": [
+          497.422,
+          612.631
+        ],
+        "original_px": [
+          554.422,
+          613.631
+        ],
+        "canvas_px": [
+          2120.28,
+          952.977
+        ]
+      },
+      {
+        "outline_rough_px": [
+          498.451,
+          610.916
+        ],
+        "original_px": [
+          555.451,
+          611.916
+        ],
+        "canvas_px": [
+          2121.608,
+          950.764
+        ]
+      },
+      {
+        "outline_rough_px": [
+          499.48,
+          609.201
+        ],
+        "original_px": [
+          556.48,
+          610.201
+        ],
+        "canvas_px": [
+          2122.936,
+          948.551
+        ]
+      },
+      {
+        "outline_rough_px": [
+          500.509,
+          607.486
+        ],
+        "original_px": [
+          557.509,
+          608.486
+        ],
+        "canvas_px": [
+          2124.264,
+          946.338
+        ]
+      },
+      {
+        "outline_rough_px": [
+          501.538,
+          605.771
+        ],
+        "original_px": [
+          558.538,
+          606.771
+        ],
+        "canvas_px": [
+          2125.592,
+          944.125
+        ]
+      },
+      {
+        "outline_rough_px": [
+          502.567,
+          604.056
+        ],
+        "original_px": [
+          559.567,
+          605.056
+        ],
+        "canvas_px": [
+          2126.92,
+          941.911
+        ]
+      },
+      {
+        "outline_rough_px": [
+          503.596,
+          602.341
+        ],
+        "original_px": [
+          560.596,
+          603.341
+        ],
+        "canvas_px": [
+          2128.248,
+          939.698
+        ]
+      },
+      {
+        "outline_rough_px": [
+          504.624,
+          600.626
+        ],
+        "original_px": [
+          561.624,
+          601.626
+        ],
+        "canvas_px": [
+          2129.574,
+          937.485
+        ]
+      },
+      {
+        "outline_rough_px": [
+          505.472,
+          598.821
+        ],
+        "original_px": [
+          562.472,
+          599.821
+        ],
+        "canvas_px": [
+          2130.668,
+          935.156
+        ]
+      },
+      {
+        "outline_rough_px": [
+          506.215,
+          596.964
+        ],
+        "original_px": [
+          563.215,
+          597.964
+        ],
+        "canvas_px": [
+          2131.627,
+          932.76
+        ]
+      },
+      {
+        "outline_rough_px": [
+          506.957,
+          595.107
+        ],
+        "original_px": [
+          563.957,
+          596.107
+        ],
+        "canvas_px": [
+          2132.585,
+          930.363
+        ]
+      },
+      {
+        "outline_rough_px": [
+          507.7,
+          593.25
+        ],
+        "original_px": [
+          564.7,
+          594.25
+        ],
+        "canvas_px": [
+          2133.544,
+          927.967
+        ]
+      },
+      {
+        "outline_rough_px": [
+          508.443,
+          591.393
+        ],
+        "original_px": [
+          565.443,
+          592.393
+        ],
+        "canvas_px": [
+          2134.502,
+          925.57
+        ]
+      },
+      {
+        "outline_rough_px": [
+          509.186,
+          589.536
+        ],
+        "original_px": [
+          566.186,
+          590.536
+        ],
+        "canvas_px": [
+          2135.461,
+          923.174
+        ]
+      },
+      {
+        "outline_rough_px": [
+          509.928,
+          587.679
+        ],
+        "original_px": [
+          566.928,
+          588.679
+        ],
+        "canvas_px": [
+          2136.419,
+          920.778
+        ]
+      },
+      {
+        "outline_rough_px": [
+          510.671,
+          585.822
+        ],
+        "original_px": [
+          567.671,
+          586.822
+        ],
+        "canvas_px": [
+          2137.377,
+          918.381
+        ]
+      },
+      {
+        "outline_rough_px": [
+          511.414,
+          583.965
+        ],
+        "original_px": [
+          568.414,
+          584.965
+        ],
+        "canvas_px": [
+          2138.336,
+          915.985
+        ]
+      },
+      {
+        "outline_rough_px": [
+          512.157,
+          582.108
+        ],
+        "original_px": [
+          569.157,
+          583.108
+        ],
+        "canvas_px": [
+          2139.295,
+          913.589
+        ]
+      },
+      {
+        "outline_rough_px": [
+          512.9,
+          580.251
+        ],
+        "original_px": [
+          569.9,
+          581.251
+        ],
+        "canvas_px": [
+          2140.254,
+          911.192
+        ]
+      },
+      {
+        "outline_rough_px": [
+          513.642,
+          578.394
+        ],
+        "original_px": [
+          570.642,
+          579.394
+        ],
+        "canvas_px": [
+          2141.211,
+          908.796
+        ]
+      },
+      {
+        "outline_rough_px": [
+          514.385,
+          576.537
+        ],
+        "original_px": [
+          571.385,
+          577.537
+        ],
+        "canvas_px": [
+          2142.17,
+          906.4
+        ]
+      },
+      {
+        "outline_rough_px": [
+          515.128,
+          574.68
+        ],
+        "original_px": [
+          572.128,
+          575.68
+        ],
+        "canvas_px": [
+          2143.129,
+          904.003
+        ]
+      },
+      {
+        "outline_rough_px": [
+          515.871,
+          572.823
+        ],
+        "original_px": [
+          572.871,
+          573.823
+        ],
+        "canvas_px": [
+          2144.088,
+          901.607
+        ]
+      },
+      {
+        "outline_rough_px": [
+          516.613,
+          570.966
+        ],
+        "original_px": [
+          573.613,
+          571.966
+        ],
+        "canvas_px": [
+          2145.045,
+          899.21
+        ]
+      },
+      {
+        "outline_rough_px": [
+          517.356,
+          569.109
+        ],
+        "original_px": [
+          574.356,
+          570.109
+        ],
+        "canvas_px": [
+          2146.004,
+          896.814
+        ]
+      },
+      {
+        "outline_rough_px": [
+          518.099,
+          567.252
+        ],
+        "original_px": [
+          575.099,
+          568.252
+        ],
+        "canvas_px": [
+          2146.963,
+          894.418
+        ]
+      },
+      {
+        "outline_rough_px": [
+          518.842,
+          565.396
+        ],
+        "original_px": [
+          575.842,
+          566.396
+        ],
+        "canvas_px": [
+          2147.922,
+          892.023
+        ]
+      },
+      {
+        "outline_rough_px": [
+          519.585,
+          563.539
+        ],
+        "original_px": [
+          576.585,
+          564.539
+        ],
+        "canvas_px": [
+          2148.881,
+          889.626
+        ]
+      },
+      {
+        "outline_rough_px": [
+          520.327,
+          561.682
+        ],
+        "original_px": [
+          577.327,
+          562.682
+        ],
+        "canvas_px": [
+          2149.838,
+          887.23
+        ]
+      },
+      {
+        "outline_rough_px": [
+          521.054,
+          559.819
+        ],
+        "original_px": [
+          578.054,
+          560.819
+        ],
+        "canvas_px": [
+          2150.776,
+          884.826
+        ]
+      },
+      {
+        "outline_rough_px": [
+          521.629,
+          557.903
+        ],
+        "original_px": [
+          578.629,
+          558.903
+        ],
+        "canvas_px": [
+          2151.518,
+          882.353
+        ]
+      },
+      {
+        "outline_rough_px": [
+          522.204,
+          555.988
+        ],
+        "original_px": [
+          579.204,
+          556.988
+        ],
+        "canvas_px": [
+          2152.26,
+          879.882
+        ]
+      },
+      {
+        "outline_rough_px": [
+          522.778,
+          554.072
+        ],
+        "original_px": [
+          579.778,
+          555.072
+        ],
+        "canvas_px": [
+          2153.001,
+          877.41
+        ]
+      },
+      {
+        "outline_rough_px": [
+          523.353,
+          552.157
+        ],
+        "original_px": [
+          580.353,
+          553.157
+        ],
+        "canvas_px": [
+          2153.743,
+          874.938
+        ]
+      },
+      {
+        "outline_rough_px": [
+          523.928,
+          550.241
+        ],
+        "original_px": [
+          580.928,
+          551.241
+        ],
+        "canvas_px": [
+          2154.485,
+          872.466
+        ]
+      },
+      {
+        "outline_rough_px": [
+          524.502,
+          548.325
+        ],
+        "original_px": [
+          581.502,
+          549.325
+        ],
+        "canvas_px": [
+          2155.226,
+          869.993
+        ]
+      },
+      {
+        "outline_rough_px": [
+          525.077,
+          546.41
+        ],
+        "original_px": [
+          582.077,
+          547.41
+        ],
+        "canvas_px": [
+          2155.968,
+          867.522
+        ]
+      },
+      {
+        "outline_rough_px": [
+          525.652,
+          544.494
+        ],
+        "original_px": [
+          582.652,
+          545.494
+        ],
+        "canvas_px": [
+          2156.71,
+          865.05
+        ]
+      },
+      {
+        "outline_rough_px": [
+          526.227,
+          542.578
+        ],
+        "original_px": [
+          583.227,
+          543.578
+        ],
+        "canvas_px": [
+          2157.452,
+          862.577
+        ]
+      },
+      {
+        "outline_rough_px": [
+          526.801,
+          540.663
+        ],
+        "original_px": [
+          583.801,
+          541.663
+        ],
+        "canvas_px": [
+          2158.192,
+          860.106
+        ]
+      },
+      {
+        "outline_rough_px": [
+          527.585,
+          538.83
+        ],
+        "original_px": [
+          584.585,
+          539.83
+        ],
+        "canvas_px": [
+          2159.204,
+          857.741
+        ]
+      },
+      {
+        "outline_rough_px": [
+          528.479,
+          537.041
+        ],
+        "original_px": [
+          585.479,
+          538.041
+        ],
+        "canvas_px": [
+          2160.358,
+          855.432
+        ]
+      },
+      {
+        "outline_rough_px": [
+          529.374,
+          535.252
+        ],
+        "original_px": [
+          586.374,
+          536.252
+        ],
+        "canvas_px": [
+          2161.513,
+          853.123
+        ]
+      },
+      {
+        "outline_rough_px": [
+          530.268,
+          533.463
+        ],
+        "original_px": [
+          587.268,
+          534.463
+        ],
+        "canvas_px": [
+          2162.666,
+          850.815
+        ]
+      },
+      {
+        "outline_rough_px": [
+          531.163,
+          531.674
+        ],
+        "original_px": [
+          588.163,
+          532.674
+        ],
+        "canvas_px": [
+          2163.821,
+          848.506
+        ]
+      },
+      {
+        "outline_rough_px": [
+          532.013,
+          529.873
+        ],
+        "original_px": [
+          589.013,
+          530.873
+        ],
+        "canvas_px": [
+          2164.918,
+          846.182
+        ]
+      },
+      {
+        "outline_rough_px": [
+          532.212,
+          527.883
+        ],
+        "original_px": [
+          589.212,
+          528.883
+        ],
+        "canvas_px": [
+          2165.175,
+          843.614
+        ]
+      },
+      {
+        "outline_rough_px": [
+          532.411,
+          525.893
+        ],
+        "original_px": [
+          589.411,
+          526.893
+        ],
+        "canvas_px": [
+          2165.432,
+          841.046
+        ]
+      },
+      {
+        "outline_rough_px": [
+          532.61,
+          523.903
+        ],
+        "original_px": [
+          589.61,
+          524.903
+        ],
+        "canvas_px": [
+          2165.689,
+          838.478
+        ]
+      },
+      {
+        "outline_rough_px": [
+          532.809,
+          521.912
+        ],
+        "original_px": [
+          589.809,
+          522.912
+        ],
+        "canvas_px": [
+          2165.945,
+          835.909
+        ]
+      },
+      {
+        "outline_rough_px": [
+          533.029,
+          519.928
+        ],
+        "original_px": [
+          590.029,
+          520.928
+        ],
+        "canvas_px": [
+          2166.229,
+          833.348
+        ]
+      },
+      {
+        "outline_rough_px": [
+          533.772,
+          518.071
+        ],
+        "original_px": [
+          590.772,
+          519.071
+        ],
+        "canvas_px": [
+          2167.188,
+          830.952
+        ]
+      },
+      {
+        "outline_rough_px": [
+          534.515,
+          516.214
+        ],
+        "original_px": [
+          591.515,
+          517.214
+        ],
+        "canvas_px": [
+          2168.147,
+          828.556
+        ]
+      },
+      {
+        "outline_rough_px": [
+          535.257,
+          514.357
+        ],
+        "original_px": [
+          592.257,
+          515.357
+        ],
+        "canvas_px": [
+          2169.105,
+          826.159
+        ]
+      },
+      {
+        "outline_rough_px": [
+          536.0,
+          512.5
+        ],
+        "original_px": [
+          593.0,
+          513.5
+        ],
+        "canvas_px": [
+          2170.063,
+          823.763
+        ]
+      },
+      {
+        "outline_rough_px": [
+          536.743,
+          510.643
+        ],
+        "original_px": [
+          593.743,
+          511.643
+        ],
+        "canvas_px": [
+          2171.022,
+          821.367
+        ]
+      },
+      {
+        "outline_rough_px": [
+          537.376,
+          508.747
+        ],
+        "original_px": [
+          594.376,
+          509.747
+        ],
+        "canvas_px": [
+          2171.839,
+          818.92
+        ]
+      },
+      {
+        "outline_rough_px": [
+          537.95,
+          506.832
+        ],
+        "original_px": [
+          594.95,
+          507.832
+        ],
+        "canvas_px": [
+          2172.58,
+          816.449
+        ]
+      },
+      {
+        "outline_rough_px": [
+          538.525,
+          504.916
+        ],
+        "original_px": [
+          595.525,
+          505.916
+        ],
+        "canvas_px": [
+          2173.322,
+          813.976
+        ]
+      },
+      {
+        "outline_rough_px": [
+          539.1,
+          503.001
+        ],
+        "original_px": [
+          596.1,
+          504.001
+        ],
+        "canvas_px": [
+          2174.064,
+          811.505
+        ]
+      },
+      {
+        "outline_rough_px": [
+          539.675,
+          501.085
+        ],
+        "original_px": [
+          596.675,
+          502.085
+        ],
+        "canvas_px": [
+          2174.806,
+          809.032
+        ]
+      },
+      {
+        "outline_rough_px": [
+          540.17,
+          499.149
+        ],
+        "original_px": [
+          597.17,
+          500.149
+        ],
+        "canvas_px": [
+          2175.444,
+          806.534
+        ]
+      },
+      {
+        "outline_rough_px": [
+          540.562,
+          497.188
+        ],
+        "original_px": [
+          597.562,
+          498.188
+        ],
+        "canvas_px": [
+          2175.95,
+          804.004
+        ]
+      },
+      {
+        "outline_rough_px": [
+          540.955,
+          495.227
+        ],
+        "original_px": [
+          597.955,
+          496.227
+        ],
+        "canvas_px": [
+          2176.457,
+          801.473
+        ]
+      },
+      {
+        "outline_rough_px": [
+          541.347,
+          493.266
+        ],
+        "original_px": [
+          598.347,
+          494.266
+        ],
+        "canvas_px": [
+          2176.963,
+          798.942
+        ]
+      },
+      {
+        "outline_rough_px": [
+          541.739,
+          491.305
+        ],
+        "original_px": [
+          598.739,
+          492.305
+        ],
+        "canvas_px": [
+          2177.469,
+          796.412
+        ]
+      },
+      {
+        "outline_rough_px": [
+          542.192,
+          489.359
+        ],
+        "original_px": [
+          599.192,
+          490.359
+        ],
+        "canvas_px": [
+          2178.054,
+          793.901
+        ]
+      },
+      {
+        "outline_rough_px": [
+          542.767,
+          487.443
+        ],
+        "original_px": [
+          599.767,
+          488.443
+        ],
+        "canvas_px": [
+          2178.796,
+          791.428
+        ]
+      },
+      {
+        "outline_rough_px": [
+          543.342,
+          485.528
+        ],
+        "original_px": [
+          600.342,
+          486.528
+        ],
+        "canvas_px": [
+          2179.538,
+          788.957
+        ]
+      },
+      {
+        "outline_rough_px": [
+          543.916,
+          483.612
+        ],
+        "original_px": [
+          600.916,
+          484.612
+        ],
+        "canvas_px": [
+          2180.279,
+          786.484
+        ]
+      },
+      {
+        "outline_rough_px": [
+          544.491,
+          481.696
+        ],
+        "original_px": [
+          601.491,
+          482.696
+        ],
+        "canvas_px": [
+          2181.021,
+          784.012
+        ]
+      },
+      {
+        "outline_rough_px": [
+          545.045,
+          479.775
+        ],
+        "original_px": [
+          602.045,
+          480.775
+        ],
+        "canvas_px": [
+          2181.735,
+          781.533
+        ]
+      },
+      {
+        "outline_rough_px": [
+          545.437,
+          477.814
+        ],
+        "original_px": [
+          602.437,
+          478.814
+        ],
+        "canvas_px": [
+          2182.241,
+          779.002
+        ]
+      },
+      {
+        "outline_rough_px": [
+          545.829,
+          475.853
+        ],
+        "original_px": [
+          602.829,
+          476.853
+        ],
+        "canvas_px": [
+          2182.747,
+          776.472
+        ]
+      },
+      {
+        "outline_rough_px": [
+          546.222,
+          473.892
+        ],
+        "original_px": [
+          603.222,
+          474.892
+        ],
+        "canvas_px": [
+          2183.254,
+          773.941
+        ]
+      },
+      {
+        "outline_rough_px": [
+          546.614,
+          471.931
+        ],
+        "original_px": [
+          603.614,
+          472.931
+        ],
+        "canvas_px": [
+          2183.76,
+          771.411
+        ]
+      },
+      {
+        "outline_rough_px": [
+          547.009,
+          469.97
+        ],
+        "original_px": [
+          604.009,
+          470.97
+        ],
+        "canvas_px": [
+          2184.27,
+          768.88
+        ]
+      },
+      {
+        "outline_rough_px": [
+          547.584,
+          468.055
+        ],
+        "original_px": [
+          604.584,
+          469.055
+        ],
+        "canvas_px": [
+          2185.012,
+          766.409
+        ]
+      },
+      {
+        "outline_rough_px": [
+          548.158,
+          466.139
+        ],
+        "original_px": [
+          605.158,
+          467.139
+        ],
+        "canvas_px": [
+          2185.753,
+          763.936
+        ]
+      },
+      {
+        "outline_rough_px": [
+          548.733,
+          464.223
+        ],
+        "original_px": [
+          605.733,
+          465.223
+        ],
+        "canvas_px": [
+          2186.495,
+          761.464
+        ]
+      },
+      {
+        "outline_rough_px": [
+          549.308,
+          462.308
+        ],
+        "original_px": [
+          606.308,
+          463.308
+        ],
+        "canvas_px": [
+          2187.237,
+          758.993
+        ]
+      },
+      {
+        "outline_rough_px": [
+          549.882,
+          460.392
+        ],
+        "original_px": [
+          606.882,
+          461.392
+        ],
+        "canvas_px": [
+          2187.977,
+          756.52
+        ]
+      },
+      {
+        "outline_rough_px": [
+          550.457,
+          458.476
+        ],
+        "original_px": [
+          607.457,
+          459.476
+        ],
+        "canvas_px": [
+          2188.719,
+          754.048
+        ]
+      },
+      {
+        "outline_rough_px": [
+          551.032,
+          456.561
+        ],
+        "original_px": [
+          608.032,
+          457.561
+        ],
+        "canvas_px": [
+          2189.461,
+          751.576
+        ]
+      },
+      {
+        "outline_rough_px": [
+          551.606,
+          454.645
+        ],
+        "original_px": [
+          608.606,
+          455.645
+        ],
+        "canvas_px": [
+          2190.202,
+          749.104
+        ]
+      },
+      {
+        "outline_rough_px": [
+          552.181,
+          452.729
+        ],
+        "original_px": [
+          609.181,
+          453.729
+        ],
+        "canvas_px": [
+          2190.944,
+          746.631
+        ]
+      },
+      {
+        "outline_rough_px": [
+          552.756,
+          450.814
+        ],
+        "original_px": [
+          609.756,
+          451.814
+        ],
+        "canvas_px": [
+          2191.686,
+          744.16
+        ]
+      },
+      {
+        "outline_rough_px": [
+          553.114,
+          448.855
+        ],
+        "original_px": [
+          610.114,
+          449.855
+        ],
+        "canvas_px": [
+          2192.148,
+          741.632
+        ]
+      },
+      {
+        "outline_rough_px": [
+          553.313,
+          446.865
+        ],
+        "original_px": [
+          610.313,
+          447.865
+        ],
+        "canvas_px": [
+          2192.405,
+          739.064
+        ]
+      },
+      {
+        "outline_rough_px": [
+          553.512,
+          444.875
+        ],
+        "original_px": [
+          610.512,
+          445.875
+        ],
+        "canvas_px": [
+          2192.662,
+          736.496
+        ]
+      },
+      {
+        "outline_rough_px": [
+          553.711,
+          442.885
+        ],
+        "original_px": [
+          610.711,
+          443.885
+        ],
+        "canvas_px": [
+          2192.918,
+          733.928
+        ]
+      },
+      {
+        "outline_rough_px": [
+          553.91,
+          440.895
+        ],
+        "original_px": [
+          610.91,
+          441.895
+        ],
+        "canvas_px": [
+          2193.175,
+          731.36
+        ]
+      },
+      {
+        "outline_rough_px": [
+          554.0,
+          440.0
+        ],
+        "original_px": [
+          611.0,
+          441.0
+        ],
+        "canvas_px": [
+          2193.291,
+          730.205
+        ]
+      }
+    ],
+    "scalp_inferred_3px_spacing": [
+      {
+        "outline_rough_px": [
+          554.0,
+          440.0
+        ],
+        "original_px": [
+          611.0,
+          441.0
+        ],
+        "canvas_px": [
+          2193.291,
+          730.205
+        ]
+      },
+      {
+        "outline_rough_px": [
+          554.299,
+          437.015
+        ],
+        "original_px": [
+          611.299,
+          438.015
+        ],
+        "canvas_px": [
+          2193.677,
+          726.353
+        ]
+      },
+      {
+        "outline_rough_px": [
+          554.597,
+          434.03
+        ],
+        "original_px": [
+          611.597,
+          435.03
+        ],
+        "canvas_px": [
+          2194.062,
+          722.501
+        ]
+      },
+      {
+        "outline_rough_px": [
+          554.896,
+          431.045
+        ],
+        "original_px": [
+          611.896,
+          432.045
+        ],
+        "canvas_px": [
+          2194.448,
+          718.649
+        ]
+      },
+      {
+        "outline_rough_px": [
+          555.194,
+          428.06
+        ],
+        "original_px": [
+          612.194,
+          429.06
+        ],
+        "canvas_px": [
+          2194.832,
+          714.797
+        ]
+      },
+      {
+        "outline_rough_px": [
+          555.493,
+          425.074
+        ],
+        "original_px": [
+          612.493,
+          426.074
+        ],
+        "canvas_px": [
+          2195.218,
+          710.944
+        ]
+      },
+      {
+        "outline_rough_px": [
+          555.791,
+          422.089
+        ],
+        "original_px": [
+          612.791,
+          423.089
+        ],
+        "canvas_px": [
+          2195.603,
+          707.092
+        ]
+      },
+      {
+        "outline_rough_px": [
+          556.09,
+          419.104
+        ],
+        "original_px": [
+          613.09,
+          420.104
+        ],
+        "canvas_px": [
+          2195.988,
+          703.24
+        ]
+      },
+      {
+        "outline_rough_px": [
+          556.388,
+          416.119
+        ],
+        "original_px": [
+          613.388,
+          417.119
+        ],
+        "canvas_px": [
+          2196.373,
+          699.388
+        ]
+      },
+      {
+        "outline_rough_px": [
+          556.687,
+          413.134
+        ],
+        "original_px": [
+          613.687,
+          414.134
+        ],
+        "canvas_px": [
+          2196.759,
+          695.536
+        ]
+      },
+      {
+        "outline_rough_px": [
+          556.985,
+          410.149
+        ],
+        "original_px": [
+          613.985,
+          411.149
+        ],
+        "canvas_px": [
+          2197.143,
+          691.684
+        ]
+      },
+      {
+        "outline_rough_px": [
+          557.284,
+          407.164
+        ],
+        "original_px": [
+          614.284,
+          408.164
+        ],
+        "canvas_px": [
+          2197.529,
+          687.832
+        ]
+      },
+      {
+        "outline_rough_px": [
+          557.582,
+          404.179
+        ],
+        "original_px": [
+          614.582,
+          405.179
+        ],
+        "canvas_px": [
+          2197.914,
+          683.98
+        ]
+      },
+      {
+        "outline_rough_px": [
+          557.881,
+          401.194
+        ],
+        "original_px": [
+          614.881,
+          402.194
+        ],
+        "canvas_px": [
+          2198.3,
+          680.128
+        ]
+      },
+      {
+        "outline_rough_px": [
+          558.0,
+          398.2
+        ],
+        "original_px": [
+          615.0,
+          399.2
+        ],
+        "canvas_px": [
+          2198.453,
+          676.265
+        ]
+      },
+      {
+        "outline_rough_px": [
+          558.0,
+          395.2
+        ],
+        "original_px": [
+          615.0,
+          396.2
+        ],
+        "canvas_px": [
+          2198.453,
+          672.393
+        ]
+      },
+      {
+        "outline_rough_px": [
+          558.0,
+          392.2
+        ],
+        "original_px": [
+          615.0,
+          393.2
+        ],
+        "canvas_px": [
+          2198.453,
+          668.522
+        ]
+      },
+      {
+        "outline_rough_px": [
+          558.0,
+          389.2
+        ],
+        "original_px": [
+          615.0,
+          390.2
+        ],
+        "canvas_px": [
+          2198.453,
+          664.65
+        ]
+      },
+      {
+        "outline_rough_px": [
+          558.0,
+          386.2
+        ],
+        "original_px": [
+          615.0,
+          387.2
+        ],
+        "canvas_px": [
+          2198.453,
+          660.779
+        ]
+      },
+      {
+        "outline_rough_px": [
+          558.0,
+          383.2
+        ],
+        "original_px": [
+          615.0,
+          384.2
+        ],
+        "canvas_px": [
+          2198.453,
+          656.908
+        ]
+      },
+      {
+        "outline_rough_px": [
+          558.0,
+          380.2
+        ],
+        "original_px": [
+          615.0,
+          381.2
+        ],
+        "canvas_px": [
+          2198.453,
+          653.036
+        ]
+      },
+      {
+        "outline_rough_px": [
+          557.721,
+          377.213
+        ],
+        "original_px": [
+          614.721,
+          378.213
+        ],
+        "canvas_px": [
+          2198.093,
+          649.182
+        ]
+      },
+      {
+        "outline_rough_px": [
+          557.423,
+          374.228
+        ],
+        "original_px": [
+          614.423,
+          375.228
+        ],
+        "canvas_px": [
+          2197.709,
+          645.33
+        ]
+      },
+      {
+        "outline_rough_px": [
+          557.124,
+          371.243
+        ],
+        "original_px": [
+          614.124,
+          372.243
+        ],
+        "canvas_px": [
+          2197.323,
+          641.478
+        ]
+      },
+      {
+        "outline_rough_px": [
+          556.826,
+          368.258
+        ],
+        "original_px": [
+          613.826,
+          369.258
+        ],
+        "canvas_px": [
+          2196.938,
+          637.626
+        ]
+      },
+      {
+        "outline_rough_px": [
+          556.527,
+          365.273
+        ],
+        "original_px": [
+          613.527,
+          366.273
+        ],
+        "canvas_px": [
+          2196.552,
+          633.774
+        ]
+      },
+      {
+        "outline_rough_px": [
+          556.229,
+          362.288
+        ],
+        "original_px": [
+          613.229,
+          363.288
+        ],
+        "canvas_px": [
+          2196.168,
+          629.922
+        ]
+      },
+      {
+        "outline_rough_px": [
+          555.896,
+          359.307
+        ],
+        "original_px": [
+          612.896,
+          360.307
+        ],
+        "canvas_px": [
+          2195.738,
+          626.075
+        ]
+      },
+      {
+        "outline_rough_px": [
+          555.451,
+          356.34
+        ],
+        "original_px": [
+          612.451,
+          357.34
+        ],
+        "canvas_px": [
+          2195.164,
+          622.246
+        ]
+      },
+      {
+        "outline_rough_px": [
+          555.006,
+          353.373
+        ],
+        "original_px": [
+          612.006,
+          354.373
+        ],
+        "canvas_px": [
+          2194.59,
+          618.418
+        ]
+      },
+      {
+        "outline_rough_px": [
+          554.561,
+          350.407
+        ],
+        "original_px": [
+          611.561,
+          351.407
+        ],
+        "canvas_px": [
+          2194.015,
+          614.59
+        ]
+      },
+      {
+        "outline_rough_px": [
+          554.116,
+          347.44
+        ],
+        "original_px": [
+          611.116,
+          348.44
+        ],
+        "canvas_px": [
+          2193.441,
+          610.761
+        ]
+      },
+      {
+        "outline_rough_px": [
+          553.671,
+          344.473
+        ],
+        "original_px": [
+          610.671,
+          345.473
+        ],
+        "canvas_px": [
+          2192.867,
+          606.933
+        ]
+      },
+      {
+        "outline_rough_px": [
+          553.226,
+          341.506
+        ],
+        "original_px": [
+          610.226,
+          342.506
+        ],
+        "canvas_px": [
+          2192.293,
+          603.104
+        ]
+      },
+      {
+        "outline_rough_px": [
+          552.619,
+          338.573
+        ],
+        "original_px": [
+          609.619,
+          339.573
+        ],
+        "canvas_px": [
+          2191.509,
+          599.319
+        ]
+      },
+      {
+        "outline_rough_px": [
+          551.846,
+          335.674
+        ],
+        "original_px": [
+          608.846,
+          336.674
+        ],
+        "canvas_px": [
+          2190.512,
+          595.578
+        ]
+      },
+      {
+        "outline_rough_px": [
+          551.073,
+          332.775
+        ],
+        "original_px": [
+          608.073,
+          333.775
+        ],
+        "canvas_px": [
+          2189.514,
+          591.837
+        ]
+      },
+      {
+        "outline_rough_px": [
+          550.3,
+          329.877
+        ],
+        "original_px": [
+          607.3,
+          330.877
+        ],
+        "canvas_px": [
+          2188.517,
+          588.097
+        ]
+      },
+      {
+        "outline_rough_px": [
+          549.527,
+          326.978
+        ],
+        "original_px": [
+          606.527,
+          327.978
+        ],
+        "canvas_px": [
+          2187.519,
+          584.356
+        ]
+      },
+      {
+        "outline_rough_px": [
+          548.646,
+          324.115
+        ],
+        "original_px": [
+          605.646,
+          325.115
+        ],
+        "canvas_px": [
+          2186.382,
+          580.662
+        ]
+      },
+      {
+        "outline_rough_px": [
+          547.532,
+          321.33
+        ],
+        "original_px": [
+          604.532,
+          322.33
+        ],
+        "canvas_px": [
+          2184.945,
+          577.068
+        ]
+      },
+      {
+        "outline_rough_px": [
+          546.418,
+          318.544
+        ],
+        "original_px": [
+          603.418,
+          319.544
+        ],
+        "canvas_px": [
+          2183.507,
+          573.472
+        ]
+      },
+      {
+        "outline_rough_px": [
+          545.304,
+          315.759
+        ],
+        "original_px": [
+          602.304,
+          316.759
+        ],
+        "canvas_px": [
+          2182.07,
+          569.879
+        ]
+      },
+      {
+        "outline_rough_px": [
+          544.189,
+          312.974
+        ],
+        "original_px": [
+          601.189,
+          313.974
+        ],
+        "canvas_px": [
+          2180.631,
+          566.285
+        ]
+      },
+      {
+        "outline_rough_px": [
+          543.075,
+          310.188
+        ],
+        "original_px": [
+          600.075,
+          311.188
+        ],
+        "canvas_px": [
+          2179.193,
+          562.689
+        ]
+      },
+      {
+        "outline_rough_px": [
+          541.961,
+          307.403
+        ],
+        "original_px": [
+          598.961,
+          308.403
+        ],
+        "canvas_px": [
+          2177.756,
+          559.096
+        ]
+      },
+      {
+        "outline_rough_px": [
+          540.847,
+          304.617
+        ],
+        "original_px": [
+          597.847,
+          305.617
+        ],
+        "canvas_px": [
+          2176.318,
+          555.5
+        ]
+      },
+      {
+        "outline_rough_px": [
+          539.733,
+          301.832
+        ],
+        "original_px": [
+          596.733,
+          302.832
+        ],
+        "canvas_px": [
+          2174.881,
+          551.906
+        ]
+      },
+      {
+        "outline_rough_px": [
+          538.619,
+          299.046
+        ],
+        "original_px": [
+          595.619,
+          300.046
+        ],
+        "canvas_px": [
+          2173.443,
+          548.311
+        ]
+      },
+      {
+        "outline_rough_px": [
+          537.504,
+          296.261
+        ],
+        "original_px": [
+          594.504,
+          297.261
+        ],
+        "canvas_px": [
+          2172.004,
+          544.717
+        ]
+      },
+      {
+        "outline_rough_px": [
+          536.155,
+          293.592
+        ],
+        "original_px": [
+          593.155,
+          294.592
+        ],
+        "canvas_px": [
+          2170.263,
+          541.273
+        ]
+      },
+      {
+        "outline_rough_px": [
+          534.612,
+          291.02
+        ],
+        "original_px": [
+          591.612,
+          292.02
+        ],
+        "canvas_px": [
+          2168.272,
+          537.954
+        ]
+      },
+      {
+        "outline_rough_px": [
+          533.068,
+          288.447
+        ],
+        "original_px": [
+          590.068,
+          289.447
+        ],
+        "canvas_px": [
+          2166.28,
+          534.634
+        ]
+      },
+      {
+        "outline_rough_px": [
+          531.525,
+          285.875
+        ],
+        "original_px": [
+          588.525,
+          286.875
+        ],
+        "canvas_px": [
+          2164.289,
+          531.315
+        ]
+      },
+      {
+        "outline_rough_px": [
+          529.865,
+          283.378
+        ],
+        "original_px": [
+          586.865,
+          284.378
+        ],
+        "canvas_px": [
+          2162.146,
+          528.092
+        ]
+      },
+      {
+        "outline_rough_px": [
+          528.144,
+          280.92
+        ],
+        "original_px": [
+          585.144,
+          281.92
+        ],
+        "canvas_px": [
+          2159.926,
+          524.921
+        ]
+      },
+      {
+        "outline_rough_px": [
+          526.424,
+          278.463
+        ],
+        "original_px": [
+          583.424,
+          279.463
+        ],
+        "canvas_px": [
+          2157.706,
+          521.75
+        ]
+      },
+      {
+        "outline_rough_px": [
+          524.703,
+          276.005
+        ],
+        "original_px": [
+          581.703,
+          277.005
+        ],
+        "canvas_px": [
+          2155.485,
+          518.578
+        ]
+      },
+      {
+        "outline_rough_px": [
+          522.983,
+          273.547
+        ],
+        "original_px": [
+          579.983,
+          274.547
+        ],
+        "canvas_px": [
+          2153.266,
+          515.406
+        ]
+      },
+      {
+        "outline_rough_px": [
+          521.263,
+          271.089
+        ],
+        "original_px": [
+          578.263,
+          272.089
+        ],
+        "canvas_px": [
+          2151.046,
+          512.234
+        ]
+      },
+      {
+        "outline_rough_px": [
+          519.542,
+          268.632
+        ],
+        "original_px": [
+          576.542,
+          269.632
+        ],
+        "canvas_px": [
+          2148.825,
+          509.063
+        ]
+      },
+      {
+        "outline_rough_px": [
+          517.822,
+          266.174
+        ],
+        "original_px": [
+          574.822,
+          267.174
+        ],
+        "canvas_px": [
+          2146.606,
+          505.892
+        ]
+      },
+      {
+        "outline_rough_px": [
+          515.952,
+          263.835
+        ],
+        "original_px": [
+          572.952,
+          264.835
+        ],
+        "canvas_px": [
+          2144.192,
+          502.873
+        ]
+      },
+      {
+        "outline_rough_px": [
+          513.945,
+          261.606
+        ],
+        "original_px": [
+          570.945,
+          262.606
+        ],
+        "canvas_px": [
+          2141.602,
+          499.997
+        ]
+      },
+      {
+        "outline_rough_px": [
+          511.938,
+          259.376
+        ],
+        "original_px": [
+          568.938,
+          260.376
+        ],
+        "canvas_px": [
+          2139.012,
+          497.119
+        ]
+      },
+      {
+        "outline_rough_px": [
+          509.931,
+          257.146
+        ],
+        "original_px": [
+          566.931,
+          258.146
+        ],
+        "canvas_px": [
+          2136.423,
+          494.241
+        ]
+      },
+      {
+        "outline_rough_px": [
+          507.92,
+          254.92
+        ],
+        "original_px": [
+          564.92,
+          255.92
+        ],
+        "canvas_px": [
+          2133.827,
+          491.369
+        ]
+      },
+      {
+        "outline_rough_px": [
+          505.799,
+          252.799
+        ],
+        "original_px": [
+          562.799,
+          253.799
+        ],
+        "canvas_px": [
+          2131.09,
+          488.632
+        ]
+      },
+      {
+        "outline_rough_px": [
+          503.677,
+          250.677
+        ],
+        "original_px": [
+          560.677,
+          251.677
+        ],
+        "canvas_px": [
+          2128.352,
+          485.893
+        ]
+      },
+      {
+        "outline_rough_px": [
+          501.556,
+          248.556
+        ],
+        "original_px": [
+          558.556,
+          249.556
+        ],
+        "canvas_px": [
+          2125.615,
+          483.156
+        ]
+      },
+      {
+        "outline_rough_px": [
+          499.435,
+          246.435
+        ],
+        "original_px": [
+          556.435,
+          247.435
+        ],
+        "canvas_px": [
+          2122.878,
+          480.419
+        ]
+      },
+      {
+        "outline_rough_px": [
+          497.281,
+          244.347
+        ],
+        "original_px": [
+          554.281,
+          245.347
+        ],
+        "canvas_px": [
+          2120.098,
+          477.725
+        ]
+      },
+      {
+        "outline_rough_px": [
+          495.062,
+          242.329
+        ],
+        "original_px": [
+          552.062,
+          243.329
+        ],
+        "canvas_px": [
+          2117.235,
+          475.121
+        ]
+      },
+      {
+        "outline_rough_px": [
+          492.842,
+          240.311
+        ],
+        "original_px": [
+          549.842,
+          241.311
+        ],
+        "canvas_px": [
+          2114.37,
+          472.517
+        ]
+      },
+      {
+        "outline_rough_px": [
+          490.622,
+          238.293
+        ],
+        "original_px": [
+          547.622,
+          239.293
+        ],
+        "canvas_px": [
+          2111.505,
+          469.913
+        ]
+      },
+      {
+        "outline_rough_px": [
+          488.402,
+          236.275
+        ],
+        "original_px": [
+          545.402,
+          237.275
+        ],
+        "canvas_px": [
+          2108.64,
+          467.308
+        ]
+      },
+      {
+        "outline_rough_px": [
+          486.151,
+          234.293
+        ],
+        "original_px": [
+          543.151,
+          235.293
+        ],
+        "canvas_px": [
+          2105.736,
+          464.751
+        ]
+      },
+      {
+        "outline_rough_px": [
+          483.846,
+          232.372
+        ],
+        "original_px": [
+          540.846,
+          233.372
+        ],
+        "canvas_px": [
+          2102.761,
+          462.272
+        ]
+      },
+      {
+        "outline_rough_px": [
+          481.542,
+          230.451
+        ],
+        "original_px": [
+          538.542,
+          231.451
+        ],
+        "canvas_px": [
+          2099.788,
+          459.793
+        ]
+      },
+      {
+        "outline_rough_px": [
+          479.237,
+          228.531
+        ],
+        "original_px": [
+          536.237,
+          229.531
+        ],
+        "canvas_px": [
+          2096.813,
+          457.315
+        ]
+      },
+      {
+        "outline_rough_px": [
+          476.932,
+          226.61
+        ],
+        "original_px": [
+          533.932,
+          227.61
+        ],
+        "canvas_px": [
+          2093.839,
+          454.836
+        ]
+      },
+      {
+        "outline_rough_px": [
+          474.589,
+          224.743
+        ],
+        "original_px": [
+          531.589,
+          225.743
+        ],
+        "canvas_px": [
+          2090.815,
+          452.427
+        ]
+      },
+      {
+        "outline_rough_px": [
+          472.045,
+          223.153
+        ],
+        "original_px": [
+          529.045,
+          224.153
+        ],
+        "canvas_px": [
+          2087.533,
+          450.375
+        ]
+      },
+      {
+        "outline_rough_px": [
+          469.501,
+          221.563
+        ],
+        "original_px": [
+          526.501,
+          222.563
+        ],
+        "canvas_px": [
+          2084.25,
+          448.323
+        ]
+      },
+      {
+        "outline_rough_px": [
+          466.957,
+          219.973
+        ],
+        "original_px": [
+          523.957,
+          220.973
+        ],
+        "canvas_px": [
+          2080.967,
+          446.271
+        ]
+      },
+      {
+        "outline_rough_px": [
+          464.413,
+          218.383
+        ],
+        "original_px": [
+          521.413,
+          219.383
+        ],
+        "canvas_px": [
+          2077.684,
+          444.22
+        ]
+      },
+      {
+        "outline_rough_px": [
+          461.869,
+          216.793
+        ],
+        "original_px": [
+          518.869,
+          217.793
+        ],
+        "canvas_px": [
+          2074.401,
+          442.168
+        ]
+      },
+      {
+        "outline_rough_px": [
+          459.325,
+          215.203
+        ],
+        "original_px": [
+          516.325,
+          216.203
+        ],
+        "canvas_px": [
+          2071.118,
+          440.116
+        ]
+      },
+      {
+        "outline_rough_px": [
+          456.571,
+          214.028
+        ],
+        "original_px": [
+          513.571,
+          215.028
+        ],
+        "canvas_px": [
+          2067.564,
+          438.6
+        ]
+      },
+      {
+        "outline_rough_px": [
+          453.785,
+          212.914
+        ],
+        "original_px": [
+          510.785,
+          213.914
+        ],
+        "canvas_px": [
+          2063.969,
+          437.162
+        ]
+      },
+      {
+        "outline_rough_px": [
+          451.0,
+          211.8
+        ],
+        "original_px": [
+          508.0,
+          212.8
+        ],
+        "canvas_px": [
+          2060.375,
+          435.725
+        ]
+      },
+      {
+        "outline_rough_px": [
+          448.214,
+          210.686
+        ],
+        "original_px": [
+          505.214,
+          211.686
+        ],
+        "canvas_px": [
+          2056.78,
+          434.287
+        ]
+      },
+      {
+        "outline_rough_px": [
+          445.429,
+          209.572
+        ],
+        "original_px": [
+          502.429,
+          210.572
+        ],
+        "canvas_px": [
+          2053.186,
+          432.85
+        ]
+      },
+      {
+        "outline_rough_px": [
+          442.643,
+          208.457
+        ],
+        "original_px": [
+          499.643,
+          209.457
+        ],
+        "canvas_px": [
+          2049.591,
+          431.411
+        ]
+      },
+      {
+        "outline_rough_px": [
+          439.858,
+          207.343
+        ],
+        "original_px": [
+          496.858,
+          208.343
+        ],
+        "canvas_px": [
+          2045.997,
+          429.973
+        ]
+      },
+      {
+        "outline_rough_px": [
+          437.02,
+          206.375
+        ],
+        "original_px": [
+          494.02,
+          207.375
+        ],
+        "canvas_px": [
+          2042.335,
+          428.724
+        ]
+      },
+      {
+        "outline_rough_px": [
+          434.16,
+          205.471
+        ],
+        "original_px": [
+          491.16,
+          206.471
+        ],
+        "canvas_px": [
+          2038.644,
+          427.557
+        ]
+      },
+      {
+        "outline_rough_px": [
+          431.299,
+          204.568
+        ],
+        "original_px": [
+          488.299,
+          205.568
+        ],
+        "canvas_px": [
+          2034.952,
+          426.392
+        ]
+      },
+      {
+        "outline_rough_px": [
+          428.438,
+          203.665
+        ],
+        "original_px": [
+          485.438,
+          204.665
+        ],
+        "canvas_px": [
+          2031.26,
+          425.227
+        ]
+      },
+      {
+        "outline_rough_px": [
+          425.577,
+          202.761
+        ],
+        "original_px": [
+          482.577,
+          203.761
+        ],
+        "canvas_px": [
+          2027.568,
+          424.06
+        ]
+      },
+      {
+        "outline_rough_px": [
+          422.717,
+          201.858
+        ],
+        "original_px": [
+          479.717,
+          202.858
+        ],
+        "canvas_px": [
+          2023.877,
+          422.895
+        ]
+      },
+      {
+        "outline_rough_px": [
+          419.853,
+          200.965
+        ],
+        "original_px": [
+          476.853,
+          201.965
+        ],
+        "canvas_px": [
+          2020.181,
+          421.743
+        ]
+      },
+      {
+        "outline_rough_px": [
+          416.933,
+          200.278
+        ],
+        "original_px": [
+          473.933,
+          201.278
+        ],
+        "canvas_px": [
+          2016.413,
+          420.856
+        ]
+      },
+      {
+        "outline_rough_px": [
+          414.013,
+          199.591
+        ],
+        "original_px": [
+          471.013,
+          200.591
+        ],
+        "canvas_px": [
+          2012.645,
+          419.97
+        ]
+      },
+      {
+        "outline_rough_px": [
+          411.092,
+          198.904
+        ],
+        "original_px": [
+          468.092,
+          199.904
+        ],
+        "canvas_px": [
+          2008.876,
+          419.083
+        ]
+      },
+      {
+        "outline_rough_px": [
+          408.172,
+          198.217
+        ],
+        "original_px": [
+          465.172,
+          199.217
+        ],
+        "canvas_px": [
+          2005.108,
+          418.196
+        ]
+      },
+      {
+        "outline_rough_px": [
+          405.252,
+          197.53
+        ],
+        "original_px": [
+          462.252,
+          198.53
+        ],
+        "canvas_px": [
+          2001.34,
+          417.31
+        ]
+      },
+      {
+        "outline_rough_px": [
+          402.32,
+          196.903
+        ],
+        "original_px": [
+          459.32,
+          197.903
+        ],
+        "canvas_px": [
+          1997.556,
+          416.501
+        ]
+      },
+      {
+        "outline_rough_px": [
+          399.35,
+          196.479
+        ],
+        "original_px": [
+          456.35,
+          197.479
+        ],
+        "canvas_px": [
+          1993.723,
+          415.954
+        ]
+      },
+      {
+        "outline_rough_px": [
+          396.38,
+          196.054
+        ],
+        "original_px": [
+          453.38,
+          197.054
+        ],
+        "canvas_px": [
+          1989.891,
+          415.405
+        ]
+      },
+      {
+        "outline_rough_px": [
+          393.411,
+          195.63
+        ],
+        "original_px": [
+          450.411,
+          196.63
+        ],
+        "canvas_px": [
+          1986.059,
+          414.858
+        ]
+      },
+      {
+        "outline_rough_px": [
+          390.441,
+          195.206
+        ],
+        "original_px": [
+          447.441,
+          196.206
+        ],
+        "canvas_px": [
+          1982.227,
+          414.311
+        ]
+      },
+      {
+        "outline_rough_px": [
+          387.471,
+          194.782
+        ],
+        "original_px": [
+          444.471,
+          195.782
+        ],
+        "canvas_px": [
+          1978.394,
+          413.764
+        ]
+      },
+      {
+        "outline_rough_px": [
+          384.501,
+          194.357
+        ],
+        "original_px": [
+          441.501,
+          195.357
+        ],
+        "canvas_px": [
+          1974.561,
+          413.215
+        ]
+      },
+      {
+        "outline_rough_px": [
+          381.527,
+          193.978
+        ],
+        "original_px": [
+          438.527,
+          194.978
+        ],
+        "canvas_px": [
+          1970.724,
+          412.726
+        ]
+      },
+      {
+        "outline_rough_px": [
+          378.53,
+          193.842
+        ],
+        "original_px": [
+          435.53,
+          194.842
+        ],
+        "canvas_px": [
+          1966.856,
+          412.551
+        ]
+      },
+      {
+        "outline_rough_px": [
+          375.533,
+          193.706
+        ],
+        "original_px": [
+          432.533,
+          194.706
+        ],
+        "canvas_px": [
+          1962.989,
+          412.375
+        ]
+      },
+      {
+        "outline_rough_px": [
+          372.536,
+          193.57
+        ],
+        "original_px": [
+          429.536,
+          194.57
+        ],
+        "canvas_px": [
+          1959.121,
+          412.2
+        ]
+      },
+      {
+        "outline_rough_px": [
+          369.539,
+          193.434
+        ],
+        "original_px": [
+          426.539,
+          194.434
+        ],
+        "canvas_px": [
+          1955.254,
+          412.024
+        ]
+      },
+      {
+        "outline_rough_px": [
+          366.542,
+          193.297
+        ],
+        "original_px": [
+          423.542,
+          194.297
+        ],
+        "canvas_px": [
+          1951.386,
+          411.847
+        ]
+      },
+      {
+        "outline_rough_px": [
+          363.545,
+          193.161
+        ],
+        "original_px": [
+          420.545,
+          194.161
+        ],
+        "canvas_px": [
+          1947.519,
+          411.672
+        ]
+      },
+      {
+        "outline_rough_px": [
+          360.549,
+          193.025
+        ],
+        "original_px": [
+          417.549,
+          194.025
+        ],
+        "canvas_px": [
+          1943.653,
+          411.496
+        ]
+      },
+      {
+        "outline_rough_px": [
+          357.549,
+          193.0
+        ],
+        "original_px": [
+          414.549,
+          194.0
+        ],
+        "canvas_px": [
+          1939.781,
+          411.464
+        ]
+      },
+      {
+        "outline_rough_px": [
+          354.549,
+          193.0
+        ],
+        "original_px": [
+          411.549,
+          194.0
+        ],
+        "canvas_px": [
+          1935.91,
+          411.464
+        ]
+      },
+      {
+        "outline_rough_px": [
+          351.549,
+          193.0
+        ],
+        "original_px": [
+          408.549,
+          194.0
+        ],
+        "canvas_px": [
+          1932.039,
+          411.464
+        ]
+      },
+      {
+        "outline_rough_px": [
+          348.549,
+          193.0
+        ],
+        "original_px": [
+          405.549,
+          194.0
+        ],
+        "canvas_px": [
+          1928.167,
+          411.464
+        ]
+      },
+      {
+        "outline_rough_px": [
+          345.549,
+          193.0
+        ],
+        "original_px": [
+          402.549,
+          194.0
+        ],
+        "canvas_px": [
+          1924.296,
+          411.464
+        ]
+      },
+      {
+        "outline_rough_px": [
+          342.549,
+          193.0
+        ],
+        "original_px": [
+          399.549,
+          194.0
+        ],
+        "canvas_px": [
+          1920.424,
+          411.464
+        ]
+      },
+      {
+        "outline_rough_px": [
+          339.549,
+          193.0
+        ],
+        "original_px": [
+          396.549,
+          194.0
+        ],
+        "canvas_px": [
+          1916.553,
+          411.464
+        ]
+      },
+      {
+        "outline_rough_px": [
+          336.551,
+          193.069
+        ],
+        "original_px": [
+          393.551,
+          194.069
+        ],
+        "canvas_px": [
+          1912.684,
+          411.553
+        ]
+      },
+      {
+        "outline_rough_px": [
+          333.554,
+          193.212
+        ],
+        "original_px": [
+          390.554,
+          194.212
+        ],
+        "canvas_px": [
+          1908.817,
+          411.738
+        ]
+      },
+      {
+        "outline_rough_px": [
+          330.558,
+          193.354
+        ],
+        "original_px": [
+          387.558,
+          194.354
+        ],
+        "canvas_px": [
+          1904.951,
+          411.921
+        ]
+      },
+      {
+        "outline_rough_px": [
+          327.561,
+          193.497
+        ],
+        "original_px": [
+          384.561,
+          194.497
+        ],
+        "canvas_px": [
+          1901.083,
+          412.106
+        ]
+      },
+      {
+        "outline_rough_px": [
+          324.564,
+          193.64
+        ],
+        "original_px": [
+          381.564,
+          194.64
+        ],
+        "canvas_px": [
+          1897.216,
+          412.29
+        ]
+      },
+      {
+        "outline_rough_px": [
+          321.568,
+          193.782
+        ],
+        "original_px": [
+          378.568,
+          194.782
+        ],
+        "canvas_px": [
+          1893.35,
+          412.473
+        ]
+      },
+      {
+        "outline_rough_px": [
+          318.571,
+          193.925
+        ],
+        "original_px": [
+          375.571,
+          194.925
+        ],
+        "canvas_px": [
+          1889.482,
+          412.658
+        ]
+      },
+      {
+        "outline_rough_px": [
+          315.601,
+          194.28
+        ],
+        "original_px": [
+          372.601,
+          195.28
+        ],
+        "canvas_px": [
+          1885.649,
+          413.116
+        ]
+      },
+      {
+        "outline_rough_px": [
+          312.659,
+          194.868
+        ],
+        "original_px": [
+          369.659,
+          195.868
+        ],
+        "canvas_px": [
+          1881.853,
+          413.875
+        ]
+      },
+      {
+        "outline_rough_px": [
+          309.717,
+          195.457
+        ],
+        "original_px": [
+          366.717,
+          196.457
+        ],
+        "canvas_px": [
+          1878.056,
+          414.635
+        ]
+      },
+      {
+        "outline_rough_px": [
+          306.775,
+          196.045
+        ],
+        "original_px": [
+          363.775,
+          197.045
+        ],
+        "canvas_px": [
+          1874.26,
+          415.394
+        ]
+      },
+      {
+        "outline_rough_px": [
+          303.834,
+          196.633
+        ],
+        "original_px": [
+          360.834,
+          197.633
+        ],
+        "canvas_px": [
+          1870.465,
+          416.152
+        ]
+      },
+      {
+        "outline_rough_px": [
+          300.892,
+          197.222
+        ],
+        "original_px": [
+          357.892,
+          198.222
+        ],
+        "canvas_px": [
+          1866.668,
+          416.912
+        ]
+      },
+      {
+        "outline_rough_px": [
+          297.95,
+          197.81
+        ],
+        "original_px": [
+          354.95,
+          198.81
+        ],
+        "canvas_px": [
+          1862.872,
+          417.671
+        ]
+      },
+      {
+        "outline_rough_px": [
+          295.023,
+          198.465
+        ],
+        "original_px": [
+          352.023,
+          199.465
+        ],
+        "canvas_px": [
+          1859.095,
+          418.516
+        ]
+      },
+      {
+        "outline_rough_px": [
+          292.103,
+          199.152
+        ],
+        "original_px": [
+          349.103,
+          200.152
+        ],
+        "canvas_px": [
+          1855.326,
+          419.403
+        ]
+      },
+      {
+        "outline_rough_px": [
+          289.183,
+          199.839
+        ],
+        "original_px": [
+          346.183,
+          200.839
+        ],
+        "canvas_px": [
+          1851.558,
+          420.29
+        ]
+      },
+      {
+        "outline_rough_px": [
+          286.262,
+          200.527
+        ],
+        "original_px": [
+          343.262,
+          201.527
+        ],
+        "canvas_px": [
+          1847.789,
+          421.177
+        ]
+      },
+      {
+        "outline_rough_px": [
+          283.342,
+          201.214
+        ],
+        "original_px": [
+          340.342,
+          202.214
+        ],
+        "canvas_px": [
+          1844.021,
+          422.064
+        ]
+      },
+      {
+        "outline_rough_px": [
+          280.422,
+          201.901
+        ],
+        "original_px": [
+          337.422,
+          202.901
+        ],
+        "canvas_px": [
+          1840.253,
+          422.95
+        ]
+      },
+      {
+        "outline_rough_px": [
+          277.55,
+          202.766
+        ],
+        "original_px": [
+          334.55,
+          203.766
+        ],
+        "canvas_px": [
+          1836.546,
+          424.067
+        ]
+      },
+      {
+        "outline_rough_px": [
+          274.687,
+          203.66
+        ],
+        "original_px": [
+          331.687,
+          204.66
+        ],
+        "canvas_px": [
+          1832.852,
+          425.22
+        ]
+      },
+      {
+        "outline_rough_px": [
+          271.823,
+          204.555
+        ],
+        "original_px": [
+          328.823,
+          205.555
+        ],
+        "canvas_px": [
+          1829.156,
+          426.375
+        ]
+      },
+      {
+        "outline_rough_px": [
+          268.96,
+          205.45
+        ],
+        "original_px": [
+          325.96,
+          206.45
+        ],
+        "canvas_px": [
+          1825.462,
+          427.53
+        ]
+      },
+      {
+        "outline_rough_px": [
+          266.096,
+          206.345
+        ],
+        "original_px": [
+          323.096,
+          207.345
+        ],
+        "canvas_px": [
+          1821.766,
+          428.685
+        ]
+      },
+      {
+        "outline_rough_px": [
+          263.248,
+          207.282
+        ],
+        "original_px": [
+          320.248,
+          208.282
+        ],
+        "canvas_px": [
+          1818.09,
+          429.894
+        ]
+      },
+      {
+        "outline_rough_px": [
+          260.439,
+          208.336
+        ],
+        "original_px": [
+          317.439,
+          209.336
+        ],
+        "canvas_px": [
+          1814.466,
+          431.255
+        ]
+      },
+      {
+        "outline_rough_px": [
+          257.63,
+          209.389
+        ],
+        "original_px": [
+          314.63,
+          210.389
+        ],
+        "canvas_px": [
+          1810.841,
+          432.613
+        ]
+      },
+      {
+        "outline_rough_px": [
+          254.821,
+          210.442
+        ],
+        "original_px": [
+          311.821,
+          211.442
+        ],
+        "canvas_px": [
+          1807.216,
+          433.972
+        ]
+      },
+      {
+        "outline_rough_px": [
+          252.012,
+          211.496
+        ],
+        "original_px": [
+          309.012,
+          212.496
+        ],
+        "canvas_px": [
+          1803.591,
+          435.332
+        ]
+      },
+      {
+        "outline_rough_px": [
+          249.203,
+          212.549
+        ],
+        "original_px": [
+          306.203,
+          213.549
+        ],
+        "canvas_px": [
+          1799.966,
+          436.691
+        ]
+      },
+      {
+        "outline_rough_px": [
+          246.445,
+          213.726
+        ],
+        "original_px": [
+          303.445,
+          214.726
+        ],
+        "canvas_px": [
+          1796.407,
+          438.21
+        ]
+      },
+      {
+        "outline_rough_px": [
+          243.727,
+          214.994
+        ],
+        "original_px": [
+          300.727,
+          215.994
+        ],
+        "canvas_px": [
+          1792.9,
+          439.846
+        ]
+      },
+      {
+        "outline_rough_px": [
+          241.008,
+          216.263
+        ],
+        "original_px": [
+          298.008,
+          217.263
+        ],
+        "canvas_px": [
+          1789.391,
+          441.484
+        ]
+      },
+      {
+        "outline_rough_px": [
+          238.29,
+          217.531
+        ],
+        "original_px": [
+          295.29,
+          218.531
+        ],
+        "canvas_px": [
+          1785.883,
+          443.12
+        ]
+      },
+      {
+        "outline_rough_px": [
+          235.571,
+          218.8
+        ],
+        "original_px": [
+          292.571,
+          219.8
+        ],
+        "canvas_px": [
+          1782.375,
+          444.758
+        ]
+      },
+      {
+        "outline_rough_px": [
+          232.859,
+          220.081
+        ],
+        "original_px": [
+          289.859,
+          221.081
+        ],
+        "canvas_px": [
+          1778.875,
+          446.411
+        ]
+      },
+      {
+        "outline_rough_px": [
+          230.254,
+          221.569
+        ],
+        "original_px": [
+          287.254,
+          222.569
+        ],
+        "canvas_px": [
+          1775.513,
+          448.331
+        ]
+      },
+      {
+        "outline_rough_px": [
+          227.649,
+          223.058
+        ],
+        "original_px": [
+          284.649,
+          224.058
+        ],
+        "canvas_px": [
+          1772.152,
+          450.253
+        ]
+      },
+      {
+        "outline_rough_px": [
+          225.045,
+          224.546
+        ],
+        "original_px": [
+          282.045,
+          225.546
+        ],
+        "canvas_px": [
+          1768.791,
+          452.173
+        ]
+      },
+      {
+        "outline_rough_px": [
+          222.44,
+          226.034
+        ],
+        "original_px": [
+          279.44,
+          227.034
+        ],
+        "canvas_px": [
+          1765.43,
+          454.093
+        ]
+      },
+      {
+        "outline_rough_px": [
+          219.835,
+          227.523
+        ],
+        "original_px": [
+          276.835,
+          228.523
+        ],
+        "canvas_px": [
+          1762.068,
+          456.014
+        ]
+      },
+      {
+        "outline_rough_px": [
+          217.369,
+          229.223
+        ],
+        "original_px": [
+          274.369,
+          230.223
+        ],
+        "canvas_px": [
+          1758.886,
+          458.208
+        ]
+      },
+      {
+        "outline_rough_px": [
+          214.969,
+          231.023
+        ],
+        "original_px": [
+          271.969,
+          232.023
+        ],
+        "canvas_px": [
+          1755.789,
+          460.531
+        ]
+      },
+      {
+        "outline_rough_px": [
+          212.569,
+          232.823
+        ],
+        "original_px": [
+          269.569,
+          233.823
+        ],
+        "canvas_px": [
+          1752.692,
+          462.854
+        ]
+      },
+      {
+        "outline_rough_px": [
+          210.169,
+          234.623
+        ],
+        "original_px": [
+          267.169,
+          235.623
+        ],
+        "canvas_px": [
+          1749.595,
+          465.177
+        ]
+      },
+      {
+        "outline_rough_px": [
+          207.769,
+          236.423
+        ],
+        "original_px": [
+          264.769,
+          237.423
+        ],
+        "canvas_px": [
+          1746.498,
+          467.499
+        ]
+      },
+      {
+        "outline_rough_px": [
+          205.384,
+          238.243
+        ],
+        "original_px": [
+          262.384,
+          239.243
+        ],
+        "canvas_px": [
+          1743.42,
+          469.848
+        ]
+      },
+      {
+        "outline_rough_px": [
+          203.007,
+          240.072
+        ],
+        "original_px": [
+          260.007,
+          241.072
+        ],
+        "canvas_px": [
+          1740.352,
+          472.208
+        ]
+      },
+      {
+        "outline_rough_px": [
+          200.629,
+          241.901
+        ],
+        "original_px": [
+          257.629,
+          242.901
+        ],
+        "canvas_px": [
+          1737.284,
+          474.568
+        ]
+      },
+      {
+        "outline_rough_px": [
+          198.251,
+          243.73
+        ],
+        "original_px": [
+          255.251,
+          244.73
+        ],
+        "canvas_px": [
+          1734.215,
+          476.929
+        ]
+      },
+      {
+        "outline_rough_px": [
+          195.873,
+          245.559
+        ],
+        "original_px": [
+          252.873,
+          246.559
+        ],
+        "canvas_px": [
+          1731.146,
+          479.289
+        ]
+      },
+      {
+        "outline_rough_px": [
+          193.532,
+          247.432
+        ],
+        "original_px": [
+          250.532,
+          248.432
+        ],
+        "canvas_px": [
+          1728.125,
+          481.706
+        ]
+      },
+      {
+        "outline_rough_px": [
+          191.328,
+          249.467
+        ],
+        "original_px": [
+          248.328,
+          250.467
+        ],
+        "canvas_px": [
+          1725.281,
+          484.332
+        ]
+      },
+      {
+        "outline_rough_px": [
+          189.123,
+          251.502
+        ],
+        "original_px": [
+          246.123,
+          252.502
+        ],
+        "canvas_px": [
+          1722.436,
+          486.958
+        ]
+      },
+      {
+        "outline_rough_px": [
+          186.919,
+          253.537
+        ],
+        "original_px": [
+          243.919,
+          254.537
+        ],
+        "canvas_px": [
+          1719.592,
+          489.584
+        ]
+      },
+      {
+        "outline_rough_px": [
+          184.714,
+          255.571
+        ],
+        "original_px": [
+          241.714,
+          256.571
+        ],
+        "canvas_px": [
+          1716.746,
+          492.209
+        ]
+      },
+      {
+        "outline_rough_px": [
+          182.51,
+          257.606
+        ],
+        "original_px": [
+          239.51,
+          258.606
+        ],
+        "canvas_px": [
+          1713.902,
+          494.835
+        ]
+      },
+      {
+        "outline_rough_px": [
+          180.389,
+          259.722
+        ],
+        "original_px": [
+          237.389,
+          260.722
+        ],
+        "canvas_px": [
+          1711.165,
+          497.566
+        ]
+      },
+      {
+        "outline_rough_px": [
+          178.452,
+          262.012
+        ],
+        "original_px": [
+          235.452,
+          263.012
+        ],
+        "canvas_px": [
+          1708.665,
+          500.521
+        ]
+      },
+      {
+        "outline_rough_px": [
+          176.514,
+          264.302
+        ],
+        "original_px": [
+          233.514,
+          265.302
+        ],
+        "canvas_px": [
+          1706.165,
+          503.476
+        ]
+      },
+      {
+        "outline_rough_px": [
+          174.576,
+          266.592
+        ],
+        "original_px": [
+          231.576,
+          267.592
+        ],
+        "canvas_px": [
+          1703.664,
+          506.431
+        ]
+      },
+      {
+        "outline_rough_px": [
+          172.638,
+          268.882
+        ],
+        "original_px": [
+          229.638,
+          269.882
+        ],
+        "canvas_px": [
+          1701.163,
+          509.386
+        ]
+      },
+      {
+        "outline_rough_px": [
+          170.7,
+          271.172
+        ],
+        "original_px": [
+          227.7,
+          272.172
+        ],
+        "canvas_px": [
+          1698.662,
+          512.341
+        ]
+      },
+      {
+        "outline_rough_px": [
+          168.816,
+          273.506
+        ],
+        "original_px": [
+          225.816,
+          274.506
+        ],
+        "canvas_px": [
+          1696.231,
+          515.353
+        ]
+      },
+      {
+        "outline_rough_px": [
+          166.963,
+          275.865
+        ],
+        "original_px": [
+          223.963,
+          276.865
+        ],
+        "canvas_px": [
+          1693.839,
+          518.397
+        ]
+      },
+      {
+        "outline_rough_px": [
+          165.109,
+          278.224
+        ],
+        "original_px": [
+          222.109,
+          279.224
+        ],
+        "canvas_px": [
+          1691.447,
+          521.441
+        ]
+      },
+      {
+        "outline_rough_px": [
+          163.256,
+          280.583
+        ],
+        "original_px": [
+          220.256,
+          281.583
+        ],
+        "canvas_px": [
+          1689.056,
+          524.486
+        ]
+      },
+      {
+        "outline_rough_px": [
+          161.403,
+          282.942
+        ],
+        "original_px": [
+          218.403,
+          283.942
+        ],
+        "canvas_px": [
+          1686.665,
+          527.53
+        ]
+      },
+      {
+        "outline_rough_px": [
+          159.549,
+          285.301
+        ],
+        "original_px": [
+          216.549,
+          286.301
+        ],
+        "canvas_px": [
+          1684.272,
+          530.574
+        ]
+      },
+      {
+        "outline_rough_px": [
+          157.914,
+          287.81
+        ],
+        "original_px": [
+          214.914,
+          288.81
+        ],
+        "canvas_px": [
+          1682.162,
+          533.812
+        ]
+      },
+      {
+        "outline_rough_px": [
+          156.37,
+          290.383
+        ],
+        "original_px": [
+          213.37,
+          291.383
+        ],
+        "canvas_px": [
+          1680.17,
+          537.132
+        ]
+      },
+      {
+        "outline_rough_px": [
+          154.827,
+          292.955
+        ],
+        "original_px": [
+          211.827,
+          293.955
+        ],
+        "canvas_px": [
+          1678.179,
+          540.451
+        ]
+      },
+      {
+        "outline_rough_px": [
+          153.283,
+          295.528
+        ],
+        "original_px": [
+          210.283,
+          296.528
+        ],
+        "canvas_px": [
+          1676.186,
+          543.771
+        ]
+      },
+      {
+        "outline_rough_px": [
+          151.74,
+          298.1
+        ],
+        "original_px": [
+          208.74,
+          299.1
+        ],
+        "canvas_px": [
+          1674.195,
+          547.09
+        ]
+      },
+      {
+        "outline_rough_px": [
+          150.196,
+          300.673
+        ],
+        "original_px": [
+          207.196,
+          301.673
+        ],
+        "canvas_px": [
+          1672.203,
+          550.411
+        ]
+      },
+      {
+        "outline_rough_px": [
+          148.829,
+          303.342
+        ],
+        "original_px": [
+          205.829,
+          304.342
+        ],
+        "canvas_px": [
+          1670.438,
+          553.855
+        ]
+      },
+      {
+        "outline_rough_px": [
+          147.487,
+          306.025
+        ],
+        "original_px": [
+          204.487,
+          307.025
+        ],
+        "canvas_px": [
+          1668.707,
+          557.317
+        ]
+      },
+      {
+        "outline_rough_px": [
+          146.146,
+          308.709
+        ],
+        "original_px": [
+          203.146,
+          309.709
+        ],
+        "canvas_px": [
+          1666.976,
+          560.781
+        ]
+      },
+      {
+        "outline_rough_px": [
+          144.804,
+          311.392
+        ],
+        "original_px": [
+          201.804,
+          312.392
+        ],
+        "canvas_px": [
+          1665.244,
+          564.243
+        ]
+      },
+      {
+        "outline_rough_px": [
+          143.462,
+          314.075
+        ],
+        "original_px": [
+          200.462,
+          315.075
+        ],
+        "canvas_px": [
+          1663.513,
+          567.705
+        ]
+      },
+      {
+        "outline_rough_px": [
+          142.121,
+          316.758
+        ],
+        "original_px": [
+          199.121,
+          317.758
+        ],
+        "canvas_px": [
+          1661.782,
+          571.168
+        ]
+      },
+      {
+        "outline_rough_px": [
+          140.906,
+          319.501
+        ],
+        "original_px": [
+          197.906,
+          320.501
+        ],
+        "canvas_px": [
+          1660.214,
+          574.707
+        ]
+      },
+      {
+        "outline_rough_px": [
+          139.703,
+          322.249
+        ],
+        "original_px": [
+          196.703,
+          323.249
+        ],
+        "canvas_px": [
+          1658.662,
+          578.254
+        ]
+      },
+      {
+        "outline_rough_px": [
+          138.501,
+          324.998
+        ],
+        "original_px": [
+          195.501,
+          325.998
+        ],
+        "canvas_px": [
+          1657.111,
+          581.801
+        ]
+      },
+      {
+        "outline_rough_px": [
+          137.298,
+          327.746
+        ],
+        "original_px": [
+          194.298,
+          328.746
+        ],
+        "canvas_px": [
+          1655.558,
+          585.347
+        ]
+      },
+      {
+        "outline_rough_px": [
+          136.096,
+          330.495
+        ],
+        "original_px": [
+          193.096,
+          331.495
+        ],
+        "canvas_px": [
+          1654.007,
+          588.895
+        ]
+      },
+      {
+        "outline_rough_px": [
+          134.921,
+          333.254
+        ],
+        "original_px": [
+          191.921,
+          334.254
+        ],
+        "canvas_px": [
+          1652.491,
+          592.455
+        ]
+      },
+      {
+        "outline_rough_px": [
+          134.026,
+          336.117
+        ],
+        "original_px": [
+          191.026,
+          337.117
+        ],
+        "canvas_px": [
+          1651.336,
+          596.15
+        ]
+      },
+      {
+        "outline_rough_px": [
+          133.131,
+          338.98
+        ],
+        "original_px": [
+          190.131,
+          339.98
+        ],
+        "canvas_px": [
+          1650.181,
+          599.844
+        ]
+      },
+      {
+        "outline_rough_px": [
+          132.236,
+          341.844
+        ],
+        "original_px": [
+          189.236,
+          342.844
+        ],
+        "canvas_px": [
+          1649.026,
+          603.54
+        ]
+      },
+      {
+        "outline_rough_px": [
+          131.341,
+          344.707
+        ],
+        "original_px": [
+          188.341,
+          345.707
+        ],
+        "canvas_px": [
+          1647.871,
+          607.234
+        ]
+      },
+      {
+        "outline_rough_px": [
+          130.447,
+          347.571
+        ],
+        "original_px": [
+          187.447,
+          348.571
+        ],
+        "canvas_px": [
+          1646.717,
+          610.93
+        ]
+      },
+      {
+        "outline_rough_px": [
+          129.636,
+          350.458
+        ],
+        "original_px": [
+          186.636,
+          351.458
+        ],
+        "canvas_px": [
+          1645.671,
+          614.656
+        ]
+      },
+      {
+        "outline_rough_px": [
+          128.908,
+          353.368
+        ],
+        "original_px": [
+          185.908,
+          354.368
+        ],
+        "canvas_px": [
+          1644.731,
+          618.411
+        ]
+      },
+      {
+        "outline_rough_px": [
+          128.18,
+          356.279
+        ],
+        "original_px": [
+          185.18,
+          357.279
+        ],
+        "canvas_px": [
+          1643.792,
+          622.168
+        ]
+      },
+      {
+        "outline_rough_px": [
+          127.453,
+          359.189
+        ],
+        "original_px": [
+          184.453,
+          360.189
+        ],
+        "canvas_px": [
+          1642.854,
+          625.923
+        ]
+      },
+      {
+        "outline_rough_px": [
+          126.725,
+          362.099
+        ],
+        "original_px": [
+          183.725,
+          363.099
+        ],
+        "canvas_px": [
+          1641.914,
+          629.678
+        ]
+      },
+      {
+        "outline_rough_px": [
+          125.998,
+          365.01
+        ],
+        "original_px": [
+          182.998,
+          366.01
+        ],
+        "canvas_px": [
+          1640.976,
+          633.434
+        ]
+      },
+      {
+        "outline_rough_px": [
+          125.311,
+          367.93
+        ],
+        "original_px": [
+          182.311,
+          368.93
+        ],
+        "canvas_px": [
+          1640.09,
+          637.203
+        ]
+      },
+      {
+        "outline_rough_px": [
+          124.623,
+          370.85
+        ],
+        "original_px": [
+          181.623,
+          371.85
+        ],
+        "canvas_px": [
+          1639.202,
+          640.971
+        ]
+      },
+      {
+        "outline_rough_px": [
+          123.936,
+          373.771
+        ],
+        "original_px": [
+          180.936,
+          374.771
+        ],
+        "canvas_px": [
+          1638.315,
+          644.74
+        ]
+      },
+      {
+        "outline_rough_px": [
+          123.249,
+          376.691
+        ],
+        "original_px": [
+          180.249,
+          377.691
+        ],
+        "canvas_px": [
+          1637.429,
+          648.508
+        ]
+      },
+      {
+        "outline_rough_px": [
+          122.562,
+          379.611
+        ],
+        "original_px": [
+          179.562,
+          380.611
+        ],
+        "canvas_px": [
+          1636.542,
+          652.276
+        ]
+      },
+      {
+        "outline_rough_px": [
+          121.94,
+          382.543
+        ],
+        "original_px": [
+          178.94,
+          383.543
+        ],
+        "canvas_px": [
+          1635.74,
+          656.06
+        ]
+      },
+      {
+        "outline_rough_px": [
+          121.608,
+          385.524
+        ],
+        "original_px": [
+          178.608,
+          386.524
+        ],
+        "canvas_px": [
+          1635.311,
+          659.907
+        ]
+      },
+      {
+        "outline_rough_px": [
+          121.277,
+          388.506
+        ],
+        "original_px": [
+          178.277,
+          389.506
+        ],
+        "canvas_px": [
+          1634.884,
+          663.755
+        ]
+      },
+      {
+        "outline_rough_px": [
+          120.946,
+          391.488
+        ],
+        "original_px": [
+          177.946,
+          392.488
+        ],
+        "canvas_px": [
+          1634.457,
+          667.603
+        ]
+      },
+      {
+        "outline_rough_px": [
+          120.615,
+          394.469
+        ],
+        "original_px": [
+          177.615,
+          395.469
+        ],
+        "canvas_px": [
+          1634.03,
+          671.45
+        ]
+      },
+      {
+        "outline_rough_px": [
+          120.283,
+          397.451
+        ],
+        "original_px": [
+          177.283,
+          398.451
+        ],
+        "canvas_px": [
+          1633.601,
+          675.298
+        ]
+      },
+      {
+        "outline_rough_px": [
+          120.043,
+          400.433
+        ],
+        "original_px": [
+          177.043,
+          401.433
+        ],
+        "canvas_px": [
+          1633.292,
+          679.146
+        ]
+      },
+      {
+        "outline_rough_px": [
+          120.342,
+          403.418
+        ],
+        "original_px": [
+          177.342,
+          404.418
+        ],
+        "canvas_px": [
+          1633.677,
+          682.998
+        ]
+      },
+      {
+        "outline_rough_px": [
+          120.64,
+          406.403
+        ],
+        "original_px": [
+          177.64,
+          407.403
+        ],
+        "canvas_px": [
+          1634.062,
+          686.85
+        ]
+      },
+      {
+        "outline_rough_px": [
+          120.939,
+          409.388
+        ],
+        "original_px": [
+          177.939,
+          410.388
+        ],
+        "canvas_px": [
+          1634.448,
+          690.702
+        ]
+      },
+      {
+        "outline_rough_px": [
+          121.237,
+          412.373
+        ],
+        "original_px": [
+          178.237,
+          413.373
+        ],
+        "canvas_px": [
+          1634.832,
+          694.554
+        ]
+      },
+      {
+        "outline_rough_px": [
+          121.536,
+          415.359
+        ],
+        "original_px": [
+          178.536,
+          416.359
+        ],
+        "canvas_px": [
+          1635.218,
+          698.407
+        ]
+      },
+      {
+        "outline_rough_px": [
+          121.834,
+          418.344
+        ],
+        "original_px": [
+          178.834,
+          419.344
+        ],
+        "canvas_px": [
+          1635.603,
+          702.259
+        ]
+      },
+      {
+        "outline_rough_px": [
+          122.324,
+          421.296
+        ],
+        "original_px": [
+          179.324,
+          422.296
+        ],
+        "canvas_px": [
+          1636.235,
+          706.069
+        ]
+      },
+      {
+        "outline_rough_px": [
+          123.051,
+          424.206
+        ],
+        "original_px": [
+          180.051,
+          425.206
+        ],
+        "canvas_px": [
+          1637.173,
+          709.824
+        ]
+      },
+      {
+        "outline_rough_px": [
+          123.779,
+          427.116
+        ],
+        "original_px": [
+          180.779,
+          428.116
+        ],
+        "canvas_px": [
+          1638.113,
+          713.579
+        ]
+      },
+      {
+        "outline_rough_px": [
+          124.507,
+          430.027
+        ],
+        "original_px": [
+          181.507,
+          431.027
+        ],
+        "canvas_px": [
+          1639.052,
+          717.336
+        ]
+      },
+      {
+        "outline_rough_px": [
+          125.234,
+          432.937
+        ],
+        "original_px": [
+          182.234,
+          433.937
+        ],
+        "canvas_px": [
+          1639.99,
+          721.091
+        ]
+      },
+      {
+        "outline_rough_px": [
+          125.962,
+          435.848
+        ],
+        "original_px": [
+          182.962,
+          436.848
+        ],
+        "canvas_px": [
+          1640.93,
+          724.847
+        ]
+      },
+      {
+        "outline_rough_px": [
+          126.69,
+          438.758
+        ],
+        "original_px": [
+          183.69,
+          439.758
+        ],
+        "canvas_px": [
+          1641.869,
+          728.603
+        ]
+      },
+      {
+        "outline_rough_px": [
+          127.494,
+          441.647
+        ],
+        "original_px": [
+          184.494,
+          442.647
+        ],
+        "canvas_px": [
+          1642.907,
+          732.331
+        ]
+      },
+      {
+        "outline_rough_px": [
+          128.356,
+          444.521
+        ],
+        "original_px": [
+          185.356,
+          445.521
+        ],
+        "canvas_px": [
+          1644.019,
+          736.039
+        ]
+      },
+      {
+        "outline_rough_px": [
+          129.218,
+          447.394
+        ],
+        "original_px": [
+          186.218,
+          448.394
+        ],
+        "canvas_px": [
+          1645.131,
+          739.747
+        ]
+      },
+      {
+        "outline_rough_px": [
+          130.08,
+          450.268
+        ],
+        "original_px": [
+          187.08,
+          451.268
+        ],
+        "canvas_px": [
+          1646.244,
+          743.456
+        ]
+      },
+      {
+        "outline_rough_px": [
+          130.942,
+          453.141
+        ],
+        "original_px": [
+          187.942,
+          454.141
+        ],
+        "canvas_px": [
+          1647.356,
+          747.163
+        ]
+      },
+      {
+        "outline_rough_px": [
+          131.804,
+          456.015
+        ],
+        "original_px": [
+          188.804,
+          457.015
+        ],
+        "canvas_px": [
+          1648.469,
+          750.872
+        ]
+      },
+      {
+        "outline_rough_px": [
+          132.666,
+          458.888
+        ],
+        "original_px": [
+          189.666,
+          459.888
+        ],
+        "canvas_px": [
+          1649.581,
+          754.579
+        ]
+      },
+      {
+        "outline_rough_px": [
+          133.529,
+          461.762
+        ],
+        "original_px": [
+          190.529,
+          462.762
+        ],
+        "canvas_px": [
+          1650.695,
+          758.288
+        ]
+      },
+      {
+        "outline_rough_px": [
+          134.391,
+          464.635
+        ],
+        "original_px": [
+          191.391,
+          465.635
+        ],
+        "canvas_px": [
+          1651.807,
+          761.996
+        ]
+      },
+      {
+        "outline_rough_px": [
+          135.253,
+          467.509
+        ],
+        "original_px": [
+          192.253,
+          468.509
+        ],
+        "canvas_px": [
+          1652.919,
+          765.704
+        ]
+      },
+      {
+        "outline_rough_px": [
+          136.115,
+          470.382
+        ],
+        "original_px": [
+          193.115,
+          471.382
+        ],
+        "canvas_px": [
+          1654.032,
+          769.412
+        ]
+      },
+      {
+        "outline_rough_px": [
+          136.977,
+          473.256
+        ],
+        "original_px": [
+          193.977,
+          474.256
+        ],
+        "canvas_px": [
+          1655.144,
+          773.121
+        ]
+      },
+      {
+        "outline_rough_px": [
+          137.839,
+          476.129
+        ],
+        "original_px": [
+          194.839,
+          477.129
+        ],
+        "canvas_px": [
+          1656.256,
+          776.828
+        ]
+      },
+      {
+        "outline_rough_px": [
+          138.701,
+          479.003
+        ],
+        "original_px": [
+          195.701,
+          480.003
+        ],
+        "canvas_px": [
+          1657.369,
+          780.537
+        ]
+      },
+      {
+        "outline_rough_px": [
+          139.563,
+          481.876
+        ],
+        "original_px": [
+          196.563,
+          482.876
+        ],
+        "canvas_px": [
+          1658.481,
+          784.244
+        ]
+      },
+      {
+        "outline_rough_px": [
+          140.425,
+          484.75
+        ],
+        "original_px": [
+          197.425,
+          485.75
+        ],
+        "canvas_px": [
+          1659.594,
+          787.953
+        ]
+      },
+      {
+        "outline_rough_px": [
+          141.287,
+          487.623
+        ],
+        "original_px": [
+          198.287,
+          488.623
+        ],
+        "canvas_px": [
+          1660.706,
+          791.66
+        ]
+      },
+      {
+        "outline_rough_px": [
+          142.297,
+          490.425
+        ],
+        "original_px": [
+          199.297,
+          491.425
+        ],
+        "canvas_px": [
+          1662.009,
+          795.276
+        ]
+      },
+      {
+        "outline_rough_px": [
+          144.018,
+          492.882
+        ],
+        "original_px": [
+          201.018,
+          493.882
+        ],
+        "canvas_px": [
+          1664.23,
+          798.447
+        ]
+      },
+      {
+        "outline_rough_px": [
+          145.738,
+          495.34
+        ],
+        "original_px": [
+          202.738,
+          496.34
+        ],
+        "canvas_px": [
+          1666.45,
+          801.619
+        ]
+      },
+      {
+        "outline_rough_px": [
+          147.458,
+          497.798
+        ],
+        "original_px": [
+          204.458,
+          498.798
+        ],
+        "canvas_px": [
+          1668.669,
+          804.791
+        ]
+      },
+      {
+        "outline_rough_px": [
+          149.0,
+          500.0
+        ],
+        "original_px": [
+          206.0,
+          501.0
+        ],
+        "canvas_px": [
+          1670.659,
+          807.632
+        ]
+      }
+    ]
+  },
+  "key_coordinates": {
+    "scalp_top": {
+      "outline_rough_px": [
+        338,
+        193
+      ],
+      "original_px": [
+        395.0,
+        194.0
+      ],
+      "canvas_px": [
+        1914.554,
+        411.464
+      ]
+    },
+    "face_left_start": {
+      "outline_rough_px": [
+        149,
+        500
+      ],
+      "original_px": [
+        206.0,
+        501.0
+      ],
+      "canvas_px": [
+        1670.659,
+        807.632
+      ]
+    },
+    "chin_tip": {
+      "outline_rough_px": [
+        365,
+        728
+      ],
+      "original_px": [
+        422.0,
+        729.0
+      ],
+      "canvas_px": [
+        1949.396,
+        1101.855
+      ]
+    },
+    "face_right_start": {
+      "outline_rough_px": [
+        540,
+        500
+      ],
+      "original_px": [
+        597.0,
+        501.0
+      ],
+      "canvas_px": [
+        2175.225,
+        807.632
+      ]
+    },
+    "left_ear_outermost": {
+      "outline_rough_px": [
+        134,
+        520
+      ],
+      "original_px": [
+        191.0,
+        521.0
+      ],
+      "canvas_px": [
+        1651.302,
+        833.441
+      ]
+    },
+    "right_ear_outermost": {
+      "outline_rough_px": [
+        593,
+        485
+      ],
+      "original_px": [
+        650.0,
+        486.0
+      ],
+      "canvas_px": [
+        2243.619,
+        788.276
+      ]
+    }
+  },
+  "psd_layer_assets": {
+    "rough": {
+      "path": "reference_rough_registered.png",
+      "left": 1478,
+      "top": 162,
+      "dimensions_px": [
+        867,
+        992
+      ]
+    },
+    "outline": {
+      "path": "reference_outline_registered.png",
+      "left": 1478,
+      "top": 162,
+      "dimensions_px": [
+        867,
+        1012
+      ]
+    },
+    "face_guide": {
+      "name": "guide_face_observed_cyan",
+      "path": "guide_face_observed_cyan.png",
+      "left": 1646,
+      "top": 706,
+      "dimensions_px": [
+        573,
+        421
+      ]
+    },
+    "scalp_guide": {
+      "name": "guide_scalp_inferred_amber_dashed",
+      "path": "guide_scalp_inferred_amber_dashed.png",
+      "left": 1609,
+      "top": 387,
+      "dimensions_px": [
+        615,
+        446
+      ]
+    },
+    "ear_guide": {
+      "name": "guide_ear_outer_magenta",
+      "path": "guide_ear_outer_magenta.png",
+      "left": 1627,
+      "top": 706,
+      "dimensions_px": [
+        641,
+        263
+      ]
+    }
+  },
+  "artifacts": {
+    "full_canvas_guide": "whole_head_outline_guide_4000x6000.png",
+    "source_audit": "whole_head_outline_source_audit.png"
+  },
+  "limitations": [
+    "The upper scalp is intentionally an inferred hidden face-underfill boundary even though it follows the supplied outline.",
+    "Ear outer paths are orientation references only; the face-underfill mesh must not be expanded to the ear silhouette.",
+    "This guide does not establish acceptance of a Cubism model. Use direct runtime renders and review the model alpha edge without post-render warping."
+  ]
+}

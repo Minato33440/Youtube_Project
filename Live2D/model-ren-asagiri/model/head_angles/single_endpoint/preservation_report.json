@@ -1,0 +1,291 @@
+{
+  "scope": "Static regression against before_tilted_reference_20260926; not artistic acceptance or motion validation",
+  "before_drawables": [
+    "hair_ahoge",
+    "hair_front_C",
+    "hair_front_L",
+    "hair_front_R",
+    "hair_side_L",
+    "hair_side_R",
+    "brow_L",
+    "upper_crease_L",
+    "lower_eyelid_left",
+    "ALT_eyelash_upper_L",
+    "ALT_iris_L_blue",
+    "FILL_eye_white_L",
+    "brow_R",
+    "upper_crease_R",
+    "lower_eyelid_right",
+    "ALT_eyelash_upper_R",
+    "ALT_iris_R_brown",
+    "FILL_eye_white_R",
+    "mouth_closed",
+    "face_underfill",
+    "ear_L",
+    "ear_R",
+    "hair_back",
+    "collar_L",
+    "collar_R",
+    "belt",
+    "sleeve_L",
+    "sleeve_R",
+    "shirt_torso",
+    "ArtMesh",
+    "shirt_inside",
+    "upper_arm_L",
+    "upper_arm_R",
+    "forearm_L",
+    "forearm_R",
+    "hand_L",
+    "hand_R",
+    "trousers_L",
+    "trousers_R",
+    "shoe_L",
+    "shoe_R",
+    "mouth_rim_lower",
+    "mouth_rim_upper",
+    "mouth_tongue",
+    "mouth_teeth_upper",
+    "mouth_cavity",
+    "eyelash_closed_R",
+    "eyelash_closed_L"
+  ],
+  "after_drawables": [
+    "hair_ahoge",
+    "hair_front_C",
+    "hair_front_L",
+    "hair_front_R",
+    "hair_side_L",
+    "hair_side_R",
+    "brow_L",
+    "upper_crease_L",
+    "lower_eyelid_left",
+    "ALT_eyelash_upper_L",
+    "ALT_iris_L_blue",
+    "FILL_eye_white_L",
+    "brow_R",
+    "upper_crease_R",
+    "lower_eyelid_right",
+    "ALT_eyelash_upper_R",
+    "ALT_iris_R_brown",
+    "FILL_eye_white_R",
+    "mouth_closed",
+    "face_underfill",
+    "ear_L",
+    "ear_R",
+    "hair_back",
+    "collar_L",
+    "collar_R",
+    "belt",
+    "sleeve_L",
+    "sleeve_R",
+    "shirt_torso",
+    "ArtMesh",
+    "shirt_inside",
+    "upper_arm_L",
+    "upper_arm_R",
+    "forearm_L",
+    "forearm_R",
+    "hand_L",
+    "hand_R",
+    "trousers_L",
+    "trousers_R",
+    "shoe_L",
+    "shoe_R",
+    "mouth_rim_lower",
+    "mouth_rim_upper",
+    "mouth_tongue",
+    "mouth_teeth_upper",
+    "mouth_cavity",
+    "eyelash_closed_R",
+    "eyelash_closed_L"
+  ],
+  "cases": [
+    {
+      "name": "front_y-30_rest",
+      "params": {
+        "ParamAngleY": -30
+      },
+      "raw_max": 22,
+      "display_max": 22,
+      "display_pixels_over_2": 103
+    },
+    {
+      "name": "front_y-30_blink",
+      "params": {
+        "ParamAngleY": -30,
+        "ParamEyeLOpen": 0,
+        "ParamEyeROpen": 0
+      },
+      "raw_max": 22,
+      "display_max": 22,
+      "display_pixels_over_2": 103
+    },
+    {
+      "name": "front_y-30_speech",
+      "params": {
+        "ParamAngleY": -30,
+        "ParamMouthOpenY": 0.7
+      },
+      "raw_max": 47,
+      "display_max": 47,
+      "display_pixels_over_2": 154
+    },
+    {
+      "name": "front_y-15_rest",
+      "params": {
+        "ParamAngleY": -15
+      },
+      "raw_max": 13,
+      "display_max": 13,
+      "display_pixels_over_2": 52
+    },
+    {
+      "name": "front_y-15_blink",
+      "params": {
+        "ParamAngleY": -15,
+        "ParamEyeLOpen": 0,
+        "ParamEyeROpen": 0
+      },
+      "raw_max": 13,
+      "display_max": 13,
+      "display_pixels_over_2": 52
+    },
+    {
+      "name": "front_y-15_speech",
+      "params": {
+        "ParamAngleY": -15,
+        "ParamMouthOpenY": 0.7
+      },
+      "raw_max": 34,
+      "display_max": 34,
+      "display_pixels_over_2": 113
+    },
+    {
+      "name": "front_y0_rest",
+      "params": {
+        "ParamAngleY": 0
+      },
+      "raw_max": 2,
+      "display_max": 2,
+      "display_pixels_over_2": 0
+    },
+    {
+      "name": "front_y0_blink",
+      "params": {
+        "ParamAngleY": 0,
+        "ParamEyeLOpen": 0,
+        "ParamEyeROpen": 0
+      },
+      "raw_max": 2,
+      "display_max": 2,
+      "display_pixels_over_2": 0
+    },
+    {
+      "name": "front_y0_speech",
+      "params": {
+        "ParamAngleY": 0,
+        "ParamMouthOpenY": 0.7
+      },
+      "raw_max": 21,
+      "display_max": 21,
+      "display_pixels_over_2": 81
+    },
+    {
+      "name": "front_y15_rest",
+      "params": {
+        "ParamAngleY": 15
+      },
+      "raw_max": 6,
+      "display_max": 6,
+      "display_pixels_over_2": 17
+    },
+    {
+      "name": "front_y15_blink",
+      "params": {
+        "ParamAngleY": 15,
+        "ParamEyeLOpen": 0,
+        "ParamEyeROpen": 0
+      },
+      "raw_max": 6,
+      "display_max": 6,
+      "display_pixels_over_2": 17
+    },
+    {
+      "name": "front_y15_speech",
+      "params": {
+        "ParamAngleY": 15,
+        "ParamMouthOpenY": 0.7
+      },
+      "raw_max": 14,
+      "display_max": 14,
+      "display_pixels_over_2": 89
+    },
+    {
+      "name": "front_y30_rest",
+      "params": {
+        "ParamAngleY": 30
+      },
+      "raw_max": 12,
+      "display_max": 12,
+      "display_pixels_over_2": 62
+    },
+    {
+      "name": "front_y30_blink",
+      "params": {
+        "ParamAngleY": 30,
+        "ParamEyeLOpen": 0,
+        "ParamEyeROpen": 0
+      },
+      "raw_max": 12,
+      "display_max": 12,
+      "display_pixels_over_2": 62
+    },
+    {
+      "name": "front_y30_speech",
+      "params": {
+        "ParamAngleY": 30,
+        "ParamMouthOpenY": 0.7
+      },
+      "raw_max": 11,
+      "display_max": 11,
+      "display_pixels_over_2": 109
+    },
+    {
+      "name": "opposite_endpoint",
+      "params": {
+        "ParamAngleX": 30,
+        "ParamAngleY": -30
+      },
+      "raw_max": 193,
+      "display_max": 118,
+      "display_pixels_over_2": 537
+    },
+    {
+      "name": "left_no_nod",
+      "params": {
+        "ParamAngleX": -30
+      },
+      "raw_max": 129,
+      "display_max": 120,
+      "display_pixels_over_2": 522
+    },
+    {
+      "name": "left_up",
+      "params": {
+        "ParamAngleX": -30,
+        "ParamAngleY": 30
+      },
+      "raw_max": 122,
+      "display_max": 119,
+      "display_pixels_over_2": 559
+    }
+  ],
+  "edited_endpoint": {
+    "raw_changed_pixels": 3348,
+    "body_below_y600_max": 0
+  },
+  "all_unedited_display_cases_pass": false,
+  "model_sha256": "f6d57737c12a22765bf22f2f352376f037854d5d97831e3d71332294fe27f360",
+  "moc_sha256": "50c1332b7c9d404836e3f115c3a90557c64dc9c1591aa52931ce8a66092861e3"
+}

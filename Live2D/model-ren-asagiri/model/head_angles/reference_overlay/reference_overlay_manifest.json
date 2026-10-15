@@ -1,0 +1,234 @@
+{
+  "purpose": "Non-destructive PSD reference overlay for oblique-nod mesh adjustment. Hide before export/import as non-export reference.",
+  "source": {
+    "path": "C:\\Python\\REX_AI\\Youtube_Project\\Live2D\\model-ren-asagiri\\art\\Looking_down\\Looking_down (2).png",
+    "sha256": "9467b49181bfcd98ca7fcef67c8f8d2072b09d7cc56cc36e862c66e43d2c44dc",
+    "dimensions": [
+      958,
+      1004
+    ],
+    "operation": "uniform scale and translation only; no rotation, shear, warp, repaint, or source modification"
+  },
+  "canvas": {
+    "dimensions": [
+      4000,
+      6000
+    ],
+    "model_crop": {
+      "left": 390,
+      "top": 0,
+      "width": 420,
+      "height": 570
+    },
+    "model_scale": 0.3
+  },
+  "alignment": {
+    "method": "match pupil distance and midpoint while retaining the original source roll/slope",
+    "source_pupil_centres": [
+      [
+        295.9,
+        527.3
+      ],
+      [
+        487.3,
+        507.3
+      ]
+    ],
+    "current_case_01_pupil_centres": [
+      [
+        145.8,
+        248.8
+      ],
+      [
+        220.3,
+        248.4
+      ]
+    ],
+    "source_pupil_distance": 192.4420951870978,
+    "current_pupil_distance": 74.50107381776454,
+    "display_scale": 0.387135017135063,
+    "display_offset": [
+      31.44792728990933,
+      48.33505563603197
+    ],
+    "full_canvas_scale": 1.2904500571168767,
+    "full_canvas_offset": [
+      1404.826424299698,
+      161.11685212010656
+    ],
+    "raster_layer_position": {
+      "reference_left": [
+        1405,
+        161
+      ],
+      "reference_right_mirrored_about_x_2000": [
+        1359,
+        161
+      ]
+    },
+    "raster_layer_dimensions": [
+      1236,
+      1296
+    ],
+    "slope_note": "The source pupils remain approximately 7.74 display px lower on the left after alignment; this is intentional and preserves the original tilted reference."
+  },
+  "layers": [
+    {
+      "name": "reference_left",
+      "path": "reference_left_scaled.png",
+      "left": 1405,
+      "top": 161,
+      "opacity": 0.45,
+      "role": "unrotated original-colored reference; hide/non-export"
+    },
+    {
+      "name": "reference_right__MIRRORED_GEOMETRY_GUIDE_NOT_FINAL_ART",
+      "path": "reference_right_mirrored_geometry_guide_scaled.png",
+      "left": 1359,
+      "top": 161,
+      "opacity": 0.45,
+      "role": "mirror across full-canvas x=2000 for geometry only; not final colored artwork; hide/non-export"
+    }
+  ],
+  "landmarks": {
+    "pupil_left": {
+      "source_px": [
+        295.9,
+        527.3
+      ],
+      "aligned_display_px": [
+        146,
+        252.47
+      ],
+      "full_canvas_px": [
+        1786.67,
+        841.57
+      ]
+    },
+    "pupil_right": {
+      "source_px": [
+        487.3,
+        507.3
+      ],
+      "aligned_display_px": [
+        220.1,
+        244.73
+      ],
+      "full_canvas_px": [
+        2033.66,
+        815.76
+      ]
+    },
+    "nose_tip": {
+      "source_px": [
+        385,
+        589
+      ],
+      "aligned_display_px": [
+        180.49,
+        276.36
+      ],
+      "full_canvas_px": [
+        1901.65,
+        921.19
+      ]
+    },
+    "mouth_center": {
+      "source_px": [
+        413,
+        657
+      ],
+      "aligned_display_px": [
+        191.33,
+        302.68
+      ],
+      "full_canvas_px": [
+        1937.78,
+        1008.94
+      ]
+    },
+    "chin_tip": {
+      "source_px": [
+        424,
+        728
+      ],
+      "aligned_display_px": [
+        195.59,
+        330.17
+      ],
+      "full_canvas_px": [
+        1951.98,
+        1100.56
+      ]
+    },
+    "ear_left_visible": {
+      "source_px": [
+        144,
+        500
+      ],
+      "aligned_display_px": [
+        87.2,
+        241.9
+      ],
+      "full_canvas_px": [
+        1590.65,
+        806.34
+      ]
+    },
+    "ear_right_visible": {
+      "source_px": [
+        646,
+        507
+      ],
+      "aligned_display_px": [
+        281.54,
+        244.61
+      ],
+      "full_canvas_px": [
+        2238.46,
+        815.38
+      ]
+    },
+    "cheek_left_silhouette": {
+      "source_px": [
+        251,
+        618
+      ],
+      "aligned_display_px": [
+        128.62,
+        287.58
+      ],
+      "full_canvas_px": [
+        1728.73,
+        958.61
+      ]
+    },
+    "cheek_right_silhouette": {
+      "source_px": [
+        574,
+        613
+      ],
+      "aligned_display_px": [
+        253.66,
+        285.65
+      ],
+      "full_canvas_px": [
+        2145.54,
+        952.16
+      ]
+    }
+  },
+  "limitations": [
+    "Landmarks other than the supplied pupil centres are visual approximations for mesh guidance.",
+    "The model preview and the supplied illustration differ in proportions and art construction; this guide is not a pixel-match target.",
+    "The mirrored layer is a geometry aid only and must not be used as final colored art."
+  ],
+  "artifact_sha256": {
+    "psd": "382233bd1bd48cbe09ac2324ff7a4833333cf03c7b9fca0f90a5d17ffc44baaa",
+    "reference_left_scaled_png": "6000c693170c01c97d0d9ab77172b51da6435ecf28f53abfd5738086f028b8db",
+    "reference_right_mirrored_scaled_png": "f60f2fd92586b56baaf6d0e6e143fdf72f892ecafd0960b6632e6fc6529301a4",
+    "reference_left_fullcanvas_png": "5396624b26bd9773c5b6f755dd4971c6359240d2ec0b4b01492650a020f4f99c",
+    "reference_right_mirrored_fullcanvas_png": "456c0bc195abb9be9ee22a9c77644fc5b68c62eac02394f9751ad3d7269cf42d",
+    "case_01_reference_crop_comparison_png": "17633deab497a9b2b583be984c024bb1731c931f8a51d97ebefcdb51fb330148"
+  }
+}

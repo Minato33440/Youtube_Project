@@ -1,0 +1,1649 @@
+{
+  "status": "fail",
+  "checks": {
+    "front_nod_63_cases": false,
+    "body_range": true,
+    "other_unedited_poses": true
+  },
+  "front_nod_63_cases": [
+    {
+      "X": 0,
+      "Y": -30,
+      "expression": "Rest",
+      "max_channel_difference": 1,
+      "pixels_over_8": 0,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -30,
+      "expression": "Speech",
+      "max_channel_difference": 1,
+      "pixels_over_8": 0,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -30,
+      "expression": "Blink",
+      "max_channel_difference": 1,
+      "pixels_over_8": 0,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -27,
+      "expression": "Rest",
+      "max_channel_difference": 14,
+      "pixels_over_8": 1,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -27,
+      "expression": "Speech",
+      "max_channel_difference": 14,
+      "pixels_over_8": 1,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -27,
+      "expression": "Blink",
+      "max_channel_difference": 14,
+      "pixels_over_8": 1,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -24,
+      "expression": "Rest",
+      "max_channel_difference": 17,
+      "pixels_over_8": 2,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -24,
+      "expression": "Speech",
+      "max_channel_difference": 17,
+      "pixels_over_8": 2,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -24,
+      "expression": "Blink",
+      "max_channel_difference": 17,
+      "pixels_over_8": 2,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -21,
+      "expression": "Rest",
+      "max_channel_difference": 2,
+      "pixels_over_8": 0,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -21,
+      "expression": "Speech",
+      "max_channel_difference": 2,
+      "pixels_over_8": 0,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -21,
+      "expression": "Blink",
+      "max_channel_difference": 2,
+      "pixels_over_8": 0,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -18,
+      "expression": "Rest",
+      "max_channel_difference": 13,
+      "pixels_over_8": 1,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -18,
+      "expression": "Speech",
+      "max_channel_difference": 13,
+      "pixels_over_8": 1,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -18,
+      "expression": "Blink",
+      "max_channel_difference": 13,
+      "pixels_over_8": 1,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -15,
+      "expression": "Rest",
+      "max_channel_difference": 127,
+      "pixels_over_8": 4,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -15,
+      "expression": "Speech",
+      "max_channel_difference": 127,
+      "pixels_over_8": 4,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -15,
+      "expression": "Blink",
+      "max_channel_difference": 127,
+      "pixels_over_8": 4,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -12,
+      "expression": "Rest",
+      "max_channel_difference": 3,
+      "pixels_over_8": 0,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -12,
+      "expression": "Speech",
+      "max_channel_difference": 3,
+      "pixels_over_8": 0,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -12,
+      "expression": "Blink",
+      "max_channel_difference": 3,
+      "pixels_over_8": 0,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -9,
+      "expression": "Rest",
+      "max_channel_difference": 10,
+      "pixels_over_8": 1,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -9,
+      "expression": "Speech",
+      "max_channel_difference": 10,
+      "pixels_over_8": 1,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -9,
+      "expression": "Blink",
+      "max_channel_difference": 10,
+      "pixels_over_8": 1,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -6,
+      "expression": "Rest",
+      "max_channel_difference": 32,
+      "pixels_over_8": 2,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -6,
+      "expression": "Speech",
+      "max_channel_difference": 32,
+      "pixels_over_8": 2,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -6,
+      "expression": "Blink",
+      "max_channel_difference": 32,
+      "pixels_over_8": 2,
+      "raw_rgba_max_channel_difference": 3,
+      "white_composite_max_rgb_difference": 3,
+      "white_composite_pixels_over_2": 1,
+      "review_gray_composite_max_rgb_difference": 3,
+      "review_gray_composite_pixels_over_2": 1
+    },
+    {
+      "X": 0,
+      "Y": -3,
+      "expression": "Rest",
+      "max_channel_difference": 6,
+      "pixels_over_8": 0,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -3,
+      "expression": "Speech",
+      "max_channel_difference": 6,
+      "pixels_over_8": 0,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": -3,
+      "expression": "Blink",
+      "max_channel_difference": 6,
+      "pixels_over_8": 0,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "expression": "Rest",
+      "max_channel_difference": 13,
+      "pixels_over_8": 4,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "expression": "Speech",
+      "max_channel_difference": 13,
+      "pixels_over_8": 4,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "expression": "Blink",
+      "max_channel_difference": 13,
+      "pixels_over_8": 4,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 3,
+      "expression": "Rest",
+      "max_channel_difference": 9,
+      "pixels_over_8": 1,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 3,
+      "expression": "Speech",
+      "max_channel_difference": 9,
+      "pixels_over_8": 1,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 3,
+      "expression": "Blink",
+      "max_channel_difference": 9,
+      "pixels_over_8": 1,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 6,
+      "expression": "Rest",
+      "max_channel_difference": 85,
+      "pixels_over_8": 4,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 6,
+      "expression": "Speech",
+      "max_channel_difference": 85,
+      "pixels_over_8": 4,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 6,
+      "expression": "Blink",
+      "max_channel_difference": 85,
+      "pixels_over_8": 4,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 9,
+      "expression": "Rest",
+      "max_channel_difference": 2,
+      "pixels_over_8": 0,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 9,
+      "expression": "Speech",
+      "max_channel_difference": 2,
+      "pixels_over_8": 0,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 9,
+      "expression": "Blink",
+      "max_channel_difference": 2,
+      "pixels_over_8": 0,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 12,
+      "expression": "Rest",
+      "max_channel_difference": 10,
+      "pixels_over_8": 1,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 12,
+      "expression": "Speech",
+      "max_channel_difference": 10,
+      "pixels_over_8": 1,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 12,
+      "expression": "Blink",
+      "max_channel_difference": 10,
+      "pixels_over_8": 1,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 15,
+      "expression": "Rest",
+      "max_channel_difference": 11,
+      "pixels_over_8": 1,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 15,
+      "expression": "Speech",
+      "max_channel_difference": 11,
+      "pixels_over_8": 1,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 15,
+      "expression": "Blink",
+      "max_channel_difference": 11,
+      "pixels_over_8": 1,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 18,
+      "expression": "Rest",
+      "max_channel_difference": 2,
+      "pixels_over_8": 0,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 18,
+      "expression": "Speech",
+      "max_channel_difference": 2,
+      "pixels_over_8": 0,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 18,
+      "expression": "Blink",
+      "max_channel_difference": 2,
+      "pixels_over_8": 0,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 21,
+      "expression": "Rest",
+      "max_channel_difference": 127,
+      "pixels_over_8": 2,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 21,
+      "expression": "Speech",
+      "max_channel_difference": 127,
+      "pixels_over_8": 2,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 21,
+      "expression": "Blink",
+      "max_channel_difference": 127,
+      "pixels_over_8": 2,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 24,
+      "expression": "Rest",
+      "max_channel_difference": 25,
+      "pixels_over_8": 2,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 24,
+      "expression": "Speech",
+      "max_channel_difference": 25,
+      "pixels_over_8": 2,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 24,
+      "expression": "Blink",
+      "max_channel_difference": 25,
+      "pixels_over_8": 2,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 27,
+      "expression": "Rest",
+      "max_channel_difference": 29,
+      "pixels_over_8": 3,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 27,
+      "expression": "Speech",
+      "max_channel_difference": 29,
+      "pixels_over_8": 3,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 27,
+      "expression": "Blink",
+      "max_channel_difference": 29,
+      "pixels_over_8": 3,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 30,
+      "expression": "Rest",
+      "max_channel_difference": 9,
+      "pixels_over_8": 1,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 30,
+      "expression": "Speech",
+      "max_channel_difference": 9,
+      "pixels_over_8": 1,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "X": 0,
+      "Y": 30,
+      "expression": "Blink",
+      "max_channel_difference": 9,
+      "pixels_over_8": 1,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    }
+  ],
+  "body_range": [
+    {
+      "X": 0,
+      "Y": -30,
+      "expression": "Rest",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -30,
+      "expression": "Speech",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -30,
+      "expression": "Blink",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -27,
+      "expression": "Rest",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -27,
+      "expression": "Speech",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -27,
+      "expression": "Blink",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -24,
+      "expression": "Rest",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -24,
+      "expression": "Speech",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -24,
+      "expression": "Blink",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -21,
+      "expression": "Rest",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -21,
+      "expression": "Speech",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -21,
+      "expression": "Blink",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -18,
+      "expression": "Rest",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -18,
+      "expression": "Speech",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -18,
+      "expression": "Blink",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -15,
+      "expression": "Rest",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -15,
+      "expression": "Speech",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -15,
+      "expression": "Blink",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -12,
+      "expression": "Rest",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -12,
+      "expression": "Speech",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -12,
+      "expression": "Blink",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -9,
+      "expression": "Rest",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -9,
+      "expression": "Speech",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -9,
+      "expression": "Blink",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -6,
+      "expression": "Rest",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -6,
+      "expression": "Speech",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -6,
+      "expression": "Blink",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -3,
+      "expression": "Rest",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -3,
+      "expression": "Speech",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": -3,
+      "expression": "Blink",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "expression": "Rest",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "expression": "Speech",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "expression": "Blink",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 3,
+      "expression": "Rest",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 3,
+      "expression": "Speech",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 3,
+      "expression": "Blink",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 6,
+      "expression": "Rest",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 6,
+      "expression": "Speech",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 6,
+      "expression": "Blink",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 9,
+      "expression": "Rest",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 9,
+      "expression": "Speech",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 9,
+      "expression": "Blink",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 12,
+      "expression": "Rest",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 12,
+      "expression": "Speech",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 12,
+      "expression": "Blink",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 15,
+      "expression": "Rest",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 15,
+      "expression": "Speech",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 15,
+      "expression": "Blink",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 18,
+      "expression": "Rest",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 18,
+      "expression": "Speech",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 18,
+      "expression": "Blink",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 21,
+      "expression": "Rest",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 21,
+      "expression": "Speech",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 21,
+      "expression": "Blink",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 24,
+      "expression": "Rest",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 24,
+      "expression": "Speech",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 24,
+      "expression": "Blink",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 27,
+      "expression": "Rest",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 27,
+      "expression": "Speech",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 27,
+      "expression": "Blink",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 30,
+      "expression": "Rest",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 30,
+      "expression": "Speech",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    },
+    {
+      "X": 0,
+      "Y": 30,
+      "expression": "Blink",
+      "bounds_case_crop": {
+        "left": 75,
+        "top": 465,
+        "right": 345,
+        "bottom": 560
+      },
+      "max_channel_difference": 0,
+      "pixels_over_1": 0
+    }
+  ],
+  "other_unedited_poses": [
+    {
+      "name": "Neutral",
+      "max_channel_difference": 13,
+      "pixels_over_8": 4,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "name": "Blink",
+      "max_channel_difference": 13,
+      "pixels_over_8": 4,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "name": "Mouth",
+      "max_channel_difference": 13,
+      "pixels_over_8": 4,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "name": "Tilt -",
+      "max_channel_difference": 255,
+      "pixels_over_8": 7,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "name": "Tilt +",
+      "max_channel_difference": 51,
+      "pixels_over_8": 7,
+      "raw_rgba_max_channel_difference": 2,
+      "white_composite_max_rgb_difference": 2,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 2,
+      "review_gray_composite_pixels_over_2": 0
+    },
+    {
+      "name": "Hair extremes",
+      "max_channel_difference": 23,
+      "pixels_over_8": 2,
+      "raw_rgba_max_channel_difference": 1,
+      "white_composite_max_rgb_difference": 1,
+      "white_composite_pixels_over_2": 0,
+      "review_gray_composite_max_rgb_difference": 1,
+      "review_gray_composite_pixels_over_2": 0
+    }
+  ]
+}
